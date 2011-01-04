@@ -1,0 +1,1 @@
+for /f %%a IN ('dir /b *.json') do curl -X POST http://localhost:8080/docs -T %%a

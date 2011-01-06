@@ -1,0 +1,45 @@
+--- !map:Specialities 
+childhealth: !map:Speciality 
+  ? !str:CSV::Cell CHILD HEALTH
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D00001
+      term: !str:CSV::Cell Child_Health
+
+  ? !str:CSV::Cell AGE GROUPS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D00005
+      term: !str:CSV::Cell sneezy_in_mesh
+
+  ? !str:CSV::Cell ETHICS AND LAW
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D00002
+      term: !str:CSV::Cell Ethics
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D00003
+      term: !str:CSV::Cell Law
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D00004
+      term: !str:CSV::Cell Fiscal
+
+womenshealth: !map:Speciality 
+  ? !str:CSV::Cell contraception
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D999
+      term: !str:CSV::Cell contraception1
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell ccx
+      term: !str:CSV::Cell contraception2
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell ccy
+      term: !str:CSV::Cell contraception3
+
+  ? !str:CSV::Cell j
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D888
+      term: !str:CSV::Cell ab
+

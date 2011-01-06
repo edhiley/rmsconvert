@@ -3,45 +3,86 @@ require 'xmlsimple'
 require 'sanitize'
 require 'json'
 require 'find'
+require 'csv'
+require 'prettyprint'
+require 'yaml'
 
-task :default do
+require 'lib/specialities'
+
+@mappings
+@specialism_mapping
+@topics
+@paths
+
+task :generate_mappings do
   
-  to_infopath = ENV['infopath']
+  puts "generating mappings..."
+  
+  @mappings = Specialities.new
+
+  mapping_data = "mapping_data"
+  
+  Find.find(mapping_data) do |path|
+        
+    if !FileTest.directory?(path)
+      
+      specialism_name = path.split("/")[1].gsub(".csv","")
+      
+      specialism = @mappings.add(specialism_name)
+      
+      CSV.foreach(path) do |row|
+        
+        # is not the head row and is not exluded from processing
+        if row[0] != "TOPIC" and row[3] != "1"
+          specialism.add(row[0], row[1], row[2])
+        end
+        
+      end
+      
+      puts "processed #{specialism_name}, #{@mappings.length} mapped topics"
+      
+    end
+    
+  end
+   
+  File.open("mappings.yaml", "w") { |file| YAML.dump(@mappings, file) }
+  puts "processed mappings written to mappings.yaml"
+  
+end
+
+task :default => [:generate_mappings] do
   
   Find.find(ENV["folder"]) do |path|
     
       if !FileTest.directory?(path) && path.include?("ok_httpUrl")
-        file = path.slice(0,path.index('_')).gsub(ENV["folder"] + '/', '')
+        file = path.slice(0,path.index('_')).gsub(ENV["folder"] + '/', '').downcase
         output_folder = File.join('processed', file)
-        output_folder = File.join('infopath', output_folder) if to_infopath
         
+        @specialism_mapping = @mappings[file]
+        
+        
+         
         if File.exists? output_folder
           FileUtils.rm_rf output_folder
         end
+        
         puts "Processing #{output_folder}"
+        puts "#{@specialism_mapping.count} mappings found"
         FileUtils.mkdir_p output_folder
         
         data = XmlSimple.xml_in(path)
-        
-        if to_infopath
-          data['document'].each{|doc|
-            File.open(File.join(output_folder, "#{doc['id']}.xml"), 'w') { |f|
-              document = create_document(doc)
-              f.write(create_infopath(document))
-            }
-          }
-        else  
-          documents = Array.new
-          data['document'].each{ |doc| 
-            #File.open(File.join(output_folder, "#{doc['id']}.json"), 'w') { |f|
-            #  f.write(JSON.pretty_generate(create_document(doc)))
-            #}
-            documents << create_document(doc)
-          }
-          File.open(File.join(output_folder, "all.json"), 'w') { |f|
-            f.write(JSON.pretty_generate(documents))
-          }
-        end
+     
+        documents = Array.new
+        data['document'].each{ |doc| 
+          #File.open(File.join(output_folder, "#{doc['id']}.json"), 'w') { |f|
+          #  f.write(JSON.pretty_generate(create_document(doc)))
+          #}
+          documents << create_document(doc)
+        }
+        File.open(File.join(output_folder, "all.json"), 'w') { |f|
+          f.write(JSON.pretty_generate(documents))
+        }
+      
       end
    end
 
@@ -59,36 +100,40 @@ def create_document (doc)
     document['publicationType'] = doc['publicationType'].to_s.capitalize_each
     document['topics'] = doc['topics'].to_s.strip_cdata.strip
     document['resourceType'] = doc['resourceType'].to_s
-    #document['description'] = doc['description'].to_s
     document['description'] = Sanitize.clean(doc['body'].to_s.strip_cdata, Sanitize::Config::RELAXED)
+    
+    keywords = Sanitize.clean(doc['topics'].to_s.strip_cdata, Sanitize::Config::RELAXED)
+    
+    map_keywords keywords.split(",")
+    
+    document['topics'] = @topics
+    document['paths'] = @paths
     
     document
 end
 
-def create_infopath (document)
-  "<?mso-infoPathSolution name=\"urn:schemas-microsoft-com:office:infopath:ResourceForm:-myXSD-2010-08-09T08-39-43\" solutionVersion=\"1.0.0.68\" productVersion=\"14.0.0.0\" PIVersion=\"1.0.0.0\" href=\"http://localhost:8081/FormServerTemplates/ARMSResourceForm.xsn\"?>
-  <?mso-application progid=\"InfoPath.Document\" versionProgid=\"InfoPath.Document.3\"?>
-  <?mso-infoPath-file-attachment-present ?>
-  <my:myFields xmlns:my=\"http://schemas.microsoft.com/office/infopath/2003/myXSD/2010-08-09T08:39:43\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:pc=\"http://schemas.microsoft.com/office/infopath/2007/PartnerControls\" xmlns:ma=\"http://schemas.microsoft.com/office/2009/metadata/properties/metaAttributes\" xmlns:d=\"http://schemas.microsoft.com/office/infopath/2009/WSSList/dataFields\" xmlns:q=\"http://schemas.microsoft.com/office/infopath/2009/WSSList/queryFields\" xmlns:dfs=\"http://schemas.microsoft.com/office/infopath/2003/dataFormSolution\" xmlns:dms=\"http://schemas.microsoft.com/office/2009/documentManagement/types\" xmlns:xd=\"http://schemas.microsoft.com/office/infopath/2003\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">
-    <my:Title>#{document['title']}</my:Title>
-    <my:URL>#{document['url']}</my:URL>
-    <my:Publisher>#{document['publisher']}</my:Publisher>
-    <my:AdditionalContributors />
-    <my:GeographicalAreas />
-    <my:PublicationType>#{document['publicationType']}</my:PublicationType>
-    <my:Description>
-      <html xmlns=\"http://www.w3.org/1999/xhtml\" xml:space=\"preserve\">
-        #{document['description']}
-       </html>
-    </my:Description>
-    <my:ResourceType>#{document['resourceType']}</my:ResourceType>
-    <my:Attachment xsi:nil=\"true\" />
-    <my:HasAttachment>false</my:HasAttachment>
-    <my:Speciality>#{document['name']}</my:Speciality>
-    <my:Keywords>#{document['topics']}</my:Keywords>
-    <my:PublicationDate>#{document['publicationDate']}</my:PublicationDate>
-  </my:myFields>"
+def map_keywords(keywords)
+  @topics = []
+  @paths = []
+  
+  keywords.each{|k|
+    map = @specialism_mapping[k]
+    
+    if !map.nil? 
+      p map
+      @topics << map.each.collect{ |m| m.term }
+      @paths << map.each.collect{ |m| m.mesh_id }
+    end
+  }
+  
+  @topics.flatten!
+  @paths.flatten!
+   
+  # find matching paths, need to add lookup to real terms in ontology (using service)?
+
 end
+
+
 
 class String
   def strip_cdata

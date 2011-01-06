@@ -60,11 +60,7 @@ task :default => [:generate_mappings] do
         
         @specialism_mapping = @mappings[file]
         
-        
-         
-        if File.exists? output_folder
-          FileUtils.rm_rf output_folder
-        end
+        FileUtils.rm_rf output_folder if File.exists? output_folder
         
         puts "Processing #{output_folder}"
         puts "#{@specialism_mapping.count} mappings found"
@@ -74,9 +70,6 @@ task :default => [:generate_mappings] do
      
         documents = Array.new
         data['document'].each{ |doc| 
-          #File.open(File.join(output_folder, "#{doc['id']}.json"), 'w') { |f|
-          #  f.write(JSON.pretty_generate(create_document(doc)))
-          #}
           documents << create_document(doc)
         }
         File.open(File.join(output_folder, "all.json"), 'w') { |f|
@@ -120,7 +113,6 @@ def map_keywords(keywords)
     map = @specialism_mapping[k]
     
     if !map.nil? 
-      p map
       @topics << map.each.collect{ |m| m.term }
       @paths << map.each.collect{ |m| m.mesh_id }
     end
@@ -132,8 +124,6 @@ def map_keywords(keywords)
   # find matching paths, need to add lookup to real terms in ontology (using service)?
 
 end
-
-
 
 class String
   def strip_cdata

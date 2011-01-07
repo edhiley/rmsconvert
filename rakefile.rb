@@ -11,8 +11,8 @@ require 'lib/specialities'
 
 @mappings
 @specialism_mapping
-@topics
-@paths
+
+# option to deserialize mappings from yaml... ?
 
 task :generate_mappings do
   
@@ -39,7 +39,7 @@ task :generate_mappings do
         
       end
       
-      puts "processed #{specialism_name}, #{@mappings.length} mapped topics"
+      puts "processed #{specialism_name}, #{specialism.length} mapped topics"
       
     end
     
@@ -70,7 +70,7 @@ task :default => [:generate_mappings] do
      
         documents = Array.new
         data['document'].each{ |doc| 
-          documents << create_document(doc)
+          documents << create_document(doc, file)
         }
         File.open(File.join(output_folder, "all.json"), 'w') { |f|
           f.write(JSON.pretty_generate(documents))
@@ -81,51 +81,74 @@ task :default => [:generate_mappings] do
 
 end
 
-def create_document (doc)
+def create_document (doc, area_of_interest)
     document = Hash.new
-    document['id'] = doc['id'].to_s
-    document['name'] = doc['name'].to_s.strip_cdata.strip
-    document['rootDirectory'] = doc['rootDirectory'].to_s.strip_cdata
-    document['url'] = doc['url'].to_s.strip_cdata
-    document['title'] = doc['title'].to_s
-    document['publicationDate'] = doc['publicationDate'].to_s
-    document['publisher'] = doc['publisher'].to_s
-    document['publicationType'] = doc['publicationType'].to_s.capitalize_each
-    document['topics'] = doc['topics'].to_s.strip_cdata.strip
-    document['resourceType'] = doc['resourceType'].to_s
-    document['description'] = Sanitize.clean(doc['body'].to_s.strip_cdata, Sanitize::Config::RELAXED)
+
+    # legacy RMS fields
+    document['RMSId'] = doc['id'].to_s
+    document['RMSName'] = doc['name'].to_s.strip_cdata.strip
+    document['RMSRootDirectory'] = doc['rootDirectory'].to_s.strip_cdata
+
+    document['RelatedUrls'] = [] # seek origin
+    document['TargetCountry'] = ""
+    document['Creator'] = "RMS Import"
+    document['ResourceType'] = doc['resourceType'].to_s
+    document['Title'] = doc['title'].to_s
+    document['TitleForSorting'] = document['Title'].to_sort
+    document['Description'] = Sanitize.clean(doc['body'].to_s.strip_cdata, Sanitize::Config::RELAXED)
+    document['Url'] = doc['url'].to_s.strip_cdata
+    document['Attachment'] = ""
+    document['PublicationType'] = doc['publicationType'].to_s.capitalize_each
+    document['Audience'] = ""  # seek origin, question on Evidence Updates
+    document['PublicationDate'] = doc['publicationDate'].to_s.to_date
+    document['ReviewDate']  # seek origin
+    document['Source']  # seek origin
+    document['Publisher'] = doc['publisher'].to_s
+    document['Contributor'] = "RMS Import"
+    document['ExpiryDate'] # seek origin
     
     keywords = Sanitize.clean(doc['topics'].to_s.strip_cdata, Sanitize::Config::RELAXED)
+    document['Tags'] = map_keywords(keywords.split(","))
+    document['AreaOfInterest'] = area_of_interest
+    document['CreatedDate'] = Time.now.to_s
     
-    map_keywords keywords.split(",")
-    
-    document['topics'] = @topics
-    document['paths'] = @paths
+    # dates = /Date([number])/ - unable to process to this, (to_i) needs (1.9.x)
     
     document
 end
 
 def map_keywords(keywords)
-  @topics = []
-  @paths = []
-  
+  tags = []
+
   keywords.each{|k|
     map = @specialism_mapping[k]
     
     if !map.nil? 
-      @topics << map.each.collect{ |m| m.term }
-      @paths << map.each.collect{ |m| m.mesh_id }
+      tags << map.each.collect { |m|
+        {
+          "Id" => nil,
+          "MeshId" => m.mesh_id,
+          "Name" => m.term,
+          "Path" => nil,
+          "Score" => 1.0
+        }
+      }
     end
   }
   
-  @topics.flatten!
-  @paths.flatten!
-   
+  tags.flatten!
   # find matching paths, need to add lookup to real terms in ontology (using service)?
-
 end
 
 class String
+  def to_date
+    Date.parse(self) rescue nil
+  end
+  
+  def to_sort
+    self.gsub(/[^a-z0-9]+/i, '').downcase
+    #self.gsub(/[^\x20-\x7E]/, '').downcase
+  end
   def strip_cdata
     self.gsub('<![CDATA[','').gsub(']]>','')
   end

@@ -44,55 +44,64 @@ task :find_ontology_ids => [:generate_csv_paths] do
   
   @csv_paths.each{|path|
     @new_mappings = []
-
+    
+    
     CSV.foreach(path) do |row|
-      # is not the head row and is not exluded from processing
+      
+      # is not the head row and is not excluded from processing
       if row[0] != "SC_TERM" and row[3] != "1"
-
+        
         term = row[1]
 
         if @known_paths[term].nil?
-          url = "http://ses-test-r4.evidence.nhs.uk/ses?TBDB=disp_taxonomy&TEMPLATE=service.json&SERVICE=term&TERM=#{URI.escape(term)}"
+          url = "http://80.71.2.9/ses?TBDB=disp_taxonomy&TEMPLATE=service.json&SERVICE=term&TERM=#{URI.escape(term)}"
           puts "retrieving #{url} ..."
 
           f = open(url)
           raw_json = f.read
           data = JSON.parse(raw_json)
-
+          
           if data["terms"].nil?
             @known_paths[term] = {
               :path => [],
               :ontology_id => 0
             }
+            
+            puts "no term mapping found for #{URI.escape(term)}"
           else
             raise "More than one term returned for #{term}, there should only be one" if data["terms"].count > 1
+          
+            @known_paths[term] = process_term(data)  
           end
     
-          term_info = process_term(data)
-          @known_paths[term] = term_info
           
         end
 
+        term_info = @known_paths[term]
+
+        @new_mappings << {
+          "SC_TERM" => row[0],
+          "MESH_TERM" => row[1],
+          "MESH_ID" => row[2],
+          "IGNORE" => 0, # excluding ignored rows already
+          "PATH" => term_info[:paths],
+          "ONTOLOGY_ID" => term_info[:ontology_id]
+        }
+        
       end
 
-      term_info = @known_paths[term]
-
-      @new_mappings << {
-        "SC_TERM" => row[0],
-        "MESH_TERM" => row[1],
-        "MESH_ID" => row[2],
-        "IGNORE" => 0, # excluding ignored rows already
-        "PATH" => term_info[:paths],
-        "ONTOLOGY_ID" => term_info[:ontology_id]
+      
+    end
+    
+    
+    CSV.open("#{@mapping_data_folder}/#{File.basename(path, ".csv")}_converted.csv", "wb") do |csv|
+      @new_mappings.each{|m|
+        csv << [m["SC_TERM"], m["MESH_TERM"], m["MESH_ID"], m["IGNORE"], m["PATH"], m["ONTOLOGY_ID"]]
       }
     end
+    
   } 
   
-  CSV.open("#{@mapping_data_folder}/converted.csv", "wb") do |csv|
-    @new_mappings.each{|m|
-      csv << [m["SC_TERM"], m["MESH_TERM"], m["MESH_ID"], m["IGNORE"], m["PATH"], m["ONTOLOGY_ID"]]
-    }
-  end
     
 end
 
@@ -118,7 +127,7 @@ task :generate_mappings => [:generate_csv_paths] do
       
       # is not the head row and is not exluded from processing
       if row[0] != "TOPIC" and row[3] != "1"
-        specialism.add(row[0], row[1], row[2])
+        specialism.add(row[0], row[1], row[2], row[4], row[5])
       end
       
     end
@@ -141,19 +150,20 @@ task :default => [:generate_mappings] do
   Find.find(ENV["folder"]) do |path|
     
       if !FileTest.directory?(path) && path.include?("ok_httpUrl")
-        file = path.slice(0,path.index('_')).gsub(ENV["folder"] + '/', '').downcase
+        
+        file = File.basename(path, ".xml")
+        file = file.slice(0,file.index('_')).downcase
+        
         output_folder = File.join('processed', file)
         
-        p @mappings
-        
         @specialism_mapping = @mappings[file]
-
-        raise "No mappings found for #{file}, please create a CSV file with SC_TERM,MESH_TERM,MESH_ID,IGNORE columns" if @specialism_mapping.nil?
+        
         
         FileUtils.rm_rf output_folder if File.exists? output_folder
                 
         puts "Processing #{output_folder}"
-        puts "#{@specialism_mapping.count} mappings found"
+        puts "#{@specialism_mapping.count} mappings found" unless @specialism_mapping.nil?
+        puts "No mappings found for #{file}, please create a CSV file with SC_TERM,MESH_TERM,MESH_ID,IGNORE columns" if @specialism_mapping.nil?
         
         
         FileUtils.mkdir_p output_folder
@@ -208,7 +218,7 @@ def create_document (doc, area_of_interest)
     document['Contributor'] = "RMS Import"
     document['ExpiryDate'] = doc['expiryDate'].to_s.to_date
     
-    document['Tags'] = map_keywords(keywords.split(","))
+    document['Tags'] = map_keywords(keywords.split(",")) unless @specialism_mapping.nil?
     document['AreaOfInterest'] = area_of_interest
     document['CreatedDate'] = Time.now.to_s
     
@@ -228,10 +238,10 @@ def map_keywords(keywords)
     if !map.nil? 
       tags << map.each.collect { |m|
         {
-          "Id" => nil,
+          "Id" => m.term_id,
           "MeshId" => m.mesh_id,
           "Name" => m.term,
-          "Path" => nil,
+          "Path" => m.path,
           "Score" => 0.9
         }
       }

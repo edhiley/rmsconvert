@@ -20,7 +20,7 @@ require 'curb'
 @specialism_mapping
 @intended_audience = /Intended\saudience:<\/strong>\s*(.*?)<\/p>/
 @mapping_data_folder = "mapping_data"
-
+ 
 task :generate_csv_paths do
   
   @csv_paths = []

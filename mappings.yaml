@@ -1,0 +1,5186 @@
+--- !map:Specialities 
+cam: !map:Speciality 
+  ? !str:CSV::Cell REPETITIVE STRAIN INJURY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012090
+      term: !str:CSV::Cell Cumulative Trauma Disorders
+
+  ? !str:CSV::Cell PSYCHOPHYSIOLOGIC DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011602
+      term: !str:CSV::Cell Psychophysiologic Disorders
+
+  ? !str:CSV::Cell INSOMNIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007319
+      term: !str:CSV::Cell Sleep Initiation and Maintenance Disorders
+
+  ? !str:CSV::Cell PASSION FLOWER (PASSIFLORA ALATA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029598
+      term: !str:CSV::Cell Passiflora
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell RESPIRATORY TRACT INFECTIONS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012141
+      term: !str:CSV::Cell Respiratory Tract Infections
+
+  ? !str:CSV::Cell AIDS (ACQUIRED IMMUNODEFICIENCY SYNDROME)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000163
+      term: !str:CSV::Cell Acquired Immunodeficiency Syndrome
+
+  ? !str:CSV::Cell HORSE CHESTNUT (AESCULUS HIPPOCASTANUM)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D031319
+      term: !str:CSV::Cell Aesculus
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell COMMON COLD
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003139
+      term: !str:CSV::Cell Common Cold
+
+  ? !str:CSV::Cell ENDOMETRIOSIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004715
+      term: !str:CSV::Cell Endometriosis
+
+  ? !str:CSV::Cell HERBS H-P
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell CRANBERRY (VACCINIUM MACROCARPON)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029799
+      term: !str:CSV::Cell Vaccinium macrocarpon
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell VIRUS DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014777
+      term: !str:CSV::Cell Virus Diseases
+
+  ? !str:CSV::Cell MIGRAINE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008881
+      term: !str:CSV::Cell Migraine Disorders
+
+  ? !str:CSV::Cell AUTISTIC DISORDER
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001321
+      term: !str:CSV::Cell Autistic Disorder
+
+  ? !str:CSV::Cell SC_TERM
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell MESH_ID
+      term: !str:CSV::Cell MESH_TERM
+
+  ? !str:CSV::Cell CYSTITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003556
+      term: !str:CSV::Cell Cystitis
+
+  ? !str:CSV::Cell BIOFEEDBACK
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001676
+      term: !str:CSV::Cell Biofeedback, Psychology
+
+  ? !str:CSV::Cell BACK PAIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001416
+      term: !str:CSV::Cell Back Pain
+
+  ? !str:CSV::Cell DRUG USE DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019966
+      term: !str:CSV::Cell Substance-Related Disorders
+
+  ? !str:CSV::Cell NATUROPATHY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009324
+      term: !str:CSV::Cell Naturopathy
+
+  ? !str:CSV::Cell URINARY TRACT STONES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014545
+      term: !str:CSV::Cell Urinary Calculi
+
+  ? !str:CSV::Cell MENOPAUSAL SYMPTOMS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008593
+      term: !str:CSV::Cell Menopause
+
+  ? !str:CSV::Cell MARIJUANA (CANNABIS SATIVA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002188
+      term: !str:CSV::Cell Cannabis
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell HOMEOPATHY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006705
+      term: !str:CSV::Cell Homeopathy
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008419
+      term: !str:CSV::Cell Materia Medica
+
+  ? !str:CSV::Cell MINERALS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008903
+      term: !str:CSV::Cell Minerals
+
+  ? !str:CSV::Cell ARTHRITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001168
+      term: !str:CSV::Cell Arthritis
+
+  ? !str:CSV::Cell TEMPOROMANDIBULAR JOINT DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013705
+      term: !str:CSV::Cell Temporomandibular Joint Disorders
+
+  ? !str:CSV::Cell CHASTE TREE (VITEX AGNUS CASTUS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020950
+      term: !str:CSV::Cell Vitex
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell RELAXATION TECHNIQUES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012064
+      term: !str:CSV::Cell Relaxation Therapy
+
+  ? !str:CSV::Cell CARBOHYDRATES & CARBOHYDRATE DERIVATIVES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002241
+      term: !str:CSV::Cell Carbohydrates
+
+  ? !str:CSV::Cell VITAMIN K
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014812
+      term: !str:CSV::Cell Vitamin K
+
+  ? !str:CSV::Cell TAI CHI
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D026302
+      term: !str:CSV::Cell Tai Ji
+
+  ? !str:CSV::Cell PROSTATIC HYPERPLASIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011470
+      term: !str:CSV::Cell Prostatic Hyperplasia
+
+  ? !str:CSV::Cell PHARYNGITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010612
+      term: !str:CSV::Cell Pharyngitis
+
+  ? !str:CSV::Cell AUTOGENIC TRAINING
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001326
+      term: !str:CSV::Cell Autogenic Training
+
+  ? !str:CSV::Cell OSTEOARTHRITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010003
+      term: !str:CSV::Cell Osteoarthritis
+
+  ? !str:CSV::Cell CANCER
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009369
+      term: !str:CSV::Cell Neoplasms
+
+  ? !str:CSV::Cell EATING DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001068
+      term: !str:CSV::Cell Eating Disorders
+
+  ? !str:CSV::Cell SIBERIAN GINSENG (ELEUTHEROCOCCUS SENTICOSUS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D028001
+      term: !str:CSV::Cell Eleutherococcus
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell GINSENG (PANAX GINSENG)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005894
+      term: !str:CSV::Cell Panax
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell MILK THISTLE (SILYBUM MARIANUM)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020944
+      term: !str:CSV::Cell Milk Thistle
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell PULMONARY HEART DISEASE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011660
+      term: !str:CSV::Cell Pulmonary Heart Disease
+
+  ? !str:CSV::Cell NECK PAIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019547
+      term: !str:CSV::Cell Neck Pain
+
+  ? !str:CSV::Cell MACULAR DEGENERATION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008268
+      term: !str:CSV::Cell Macular Degeneration
+
+  ? !str:CSV::Cell CARNITINE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002331
+      term: !str:CSV::Cell Carnitine
+
+  ? !str:CSV::Cell CARPAL TUNNEL SYNDROME
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002349
+      term: !str:CSV::Cell Carpal Tunnel Syndrome
+
+  ? !str:CSV::Cell GASTROINTESTINAL DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005767
+      term: !str:CSV::Cell Gastrointestinal Diseases
+
+  ? !str:CSV::Cell AFRICAN PRUNE (PYGEUM AFRICANUM)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D031988
+      term: !str:CSV::Cell Pygeum
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell SELENIUM
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012643
+      term: !str:CSV::Cell Selenium
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000975
+      term: !str:CSV::Cell "Antioxidants "
+
+  ? !str:CSV::Cell ASTHMA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001249
+      term: !str:CSV::Cell Asthma
+
+  ? !str:CSV::Cell CYSTIC FIBROSIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003550
+      term: !str:CSV::Cell Cystic Fibrosis
+
+  ? !str:CSV::Cell ARGININE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001120
+      term: !str:CSV::Cell Arginine
+
+  ? !str:CSV::Cell EVENING PRIMROSE (OENOTHERA BIENNIS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D031665
+      term: !str:CSV::Cell Oenothera biennis
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell PANCREATITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010195
+      term: !str:CSV::Cell Pancreatitis
+
+  ? !str:CSV::Cell HIGH BLOOD PRESSURE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006973
+      term: !str:CSV::Cell Hypertension
+
+  ? !str:CSV::Cell BEREAVEMENT
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001601
+      term: !str:CSV::Cell Bereavement
+
+  ? !str:CSV::Cell MINDFULNESS-BASED STRESS REDUCTION (MBSR)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019122
+      term: !str:CSV::Cell Meditation
+
+  ? !str:CSV::Cell EYE DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005128
+      term: !str:CSV::Cell Eye Diseases
+
+  ? !str:CSV::Cell BULIMIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002032
+      term: !str:CSV::Cell Bulimia
+
+  ? !str:CSV::Cell OBESITY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009765
+      term: !str:CSV::Cell Obesity
+
+  ? !str:CSV::Cell MOTION SICKNESS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009041
+      term: !str:CSV::Cell Motion Sickness
+
+  ? !str:CSV::Cell INFLAMMATORY BOWEL DISEASE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015212
+      term: !str:CSV::Cell Inflammatory Bowel Diseases
+
+  ? !str:CSV::Cell EDUCATION/CPD
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004493
+      term: !str:CSV::Cell Education
+
+  ? !str:CSV::Cell CANCER PAIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010146
+      term: !str:CSV::Cell Pain
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009369
+      term: !str:CSV::Cell Neoplasms
+
+  ? !str:CSV::Cell ERECTILE DYSFUNCTION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007172
+      term: !str:CSV::Cell Erectile Dysfunction
+
+  ? !str:CSV::Cell ALOE (ALOE VERA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000504
+      term: !str:CSV::Cell Aloe
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell SICKLE CELL ANAEMIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000755
+      term: !str:CSV::Cell Anemia, Sickle Cell
+
+  ? !str:CSV::Cell PSORIASIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011565
+      term: !str:CSV::Cell Psoriasis
+
+  ? !str:CSV::Cell TRYPTOPHAN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014364
+      term: !str:CSV::Cell Tryptophan
+
+  ? !str:CSV::Cell WOUNDS AND INJURIES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014947
+      term: !str:CSV::Cell Wounds and Injuries
+
+  ? !str:CSV::Cell SORE THROAT
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010612
+      term: !str:CSV::Cell Pharyngitis
+
+  ? !str:CSV::Cell HEADACHE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006261
+      term: !str:CSV::Cell Headache
+
+  ? !str:CSV::Cell COGNITION DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003072
+      term: !str:CSV::Cell Cognition Disorders
+
+  ? !str:CSV::Cell ECZEMA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004485
+      term: !str:CSV::Cell Eczema
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003876
+      term: !str:CSV::Cell Dermatitis, Atopic
+
+  ? !str:CSV::Cell DEPRESSION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003863
+      term: !str:CSV::Cell Depression
+
+  ? !str:CSV::Cell THERAPEUTIC TOUCH
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019124
+      term: !str:CSV::Cell Therapeutic Touch
+
+  ? !str:CSV::Cell PNEUMONIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011014
+      term: !str:CSV::Cell Pneumonia
+
+  ? !str:CSV::Cell MYOCARDITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009205
+      term: !str:CSV::Cell Myocarditis
+
+  ? !str:CSV::Cell BORAGE (BORAGO OFFICINALIS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029683
+      term: !str:CSV::Cell Borago
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell SOY (GLYCINE MAX)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013025
+      term: !str:CSV::Cell Soybeans
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell HAWTHORN (CRATAEGUS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D027825
+      term: !str:CSV::Cell Crataegus
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell IPECACUANHA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D028503
+      term: !str:CSV::Cell Cephaelis
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell ALLERGIES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006967
+      term: !str:CSV::Cell Hypersensitivity
+
+  ? !str:CSV::Cell URINARY INCONTINENCE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014549
+      term: !str:CSV::Cell Urinary Incontinence
+
+  ? !str:CSV::Cell STROKE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020521
+      term: !str:CSV::Cell Stroke
+
+  ? !str:CSV::Cell SEIZURES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012640
+      term: !str:CSV::Cell Seizures
+
+  ? !str:CSV::Cell PREMENSTRUAL SYNDROME
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011293
+      term: !str:CSV::Cell Premenstrual Syndrome
+
+  ? !str:CSV::Cell GARLIC (ALLIUM SATIVUM)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005737
+      term: !str:CSV::Cell Garlic
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell ACUPUNCTURE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015670
+      term: !str:CSV::Cell Acupuncture Therapy
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015671
+      term: !str:CSV::Cell Electroacupuncture
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015667
+      term: !str:CSV::Cell Acupuncture Analgesia
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D055097
+      term: !str:CSV::Cell Auriculotherapy
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020831
+      term: !str:CSV::Cell Acupuncture, Ear
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D016740
+      term: !str:CSV::Cell Meridians
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015669
+      term: !str:CSV::Cell Acupuncture Points
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D026881
+      term: !str:CSV::Cell Acupuncture
+
+  ? !str:CSV::Cell AMINO ACIDS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000596
+      term: !str:CSV::Cell Amino Acids
+
+  ? !str:CSV::Cell CARDIOVASCULAR DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002318
+      term: !str:CSV::Cell Cardiovascular Diseases
+
+  ? !str:CSV::Cell MUSIC THERAPY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009147
+      term: !str:CSV::Cell Music Therapy
+
+  ? !str:CSV::Cell PREGNANCY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011247
+      term: !str:CSV::Cell Pregnancy
+
+  ? !str:CSV::Cell INDIGESTION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004415
+      term: !str:CSV::Cell Dyspepsia
+
+  ? !str:CSV::Cell FRACTURES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D050723
+      term: !str:CSV::Cell Fractures, Bone
+
+  ? !str:CSV::Cell BETA-CAROTENE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019207
+      term: !str:CSV::Cell beta Carotene
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000975
+      term: !str:CSV::Cell "Antioxidants "
+
+  ? !str:CSV::Cell SHOULDER IMPINGEMENT SYNDROME
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019534
+      term: !str:CSV::Cell Shoulder Impingement Syndrome
+
+  ? !str:CSV::Cell BUCKWHEAT
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019612
+      term: !str:CSV::Cell Fagopyrum
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell MELATONIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008550
+      term: !str:CSV::Cell Melatonin
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000975
+      term: !str:CSV::Cell "Antioxidants "
+
+  ? !str:CSV::Cell WHITE WILLOW (SALIX ALBA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D032108
+      term: !str:CSV::Cell Salix
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell SURGICAL PROCEDURES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013514
+      term: !str:CSV::Cell Surgical Procedures, Operative
+
+  ? !str:CSV::Cell SMOKING CESSATION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D016540
+      term: !str:CSV::Cell Smoking Cessation
+
+  ? !str:CSV::Cell RHINITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012220
+      term: !str:CSV::Cell Rhinitis
+
+  ? !str:CSV::Cell INTESTINAL OBSTRUCTION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007415
+      term: !str:CSV::Cell Intestinal Obstruction
+
+  ? !str:CSV::Cell PROBIOTICS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019936
+      term: !str:CSV::Cell Probiotics
+
+  ? !str:CSV::Cell VITAMINS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014815
+      term: !str:CSV::Cell Vitamins
+
+  ? !str:CSV::Cell FIBROIDS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007889
+      term: !str:CSV::Cell Leiomyoma
+
+  ? !str:CSV::Cell SEVERE ACUTE RESPIRATORY SYNDROME
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D045169
+      term: !str:CSV::Cell Severe Acute Respiratory Syndrome
+
+  ? !str:CSV::Cell SCHIZOPHRENIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012559
+      term: !str:CSV::Cell Schizophrenia
+
+  ? !str:CSV::Cell DONG QUAI (ANGELICA SINENSIS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029971
+      term: !str:CSV::Cell Angelica sinensis
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell HERBS A-C
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell GOTU KOLA (CENTELLA ASIATICA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D028041
+      term: !str:CSV::Cell Centella
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell GINGER (ZINGIBER OFFICINALE)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020939
+      term: !str:CSV::Cell Ginger
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell DYSPHAGIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003680
+      term: !str:CSV::Cell Deglutition Disorders
+
+  ? !str:CSV::Cell DIABETES MELLITUS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003920
+      term: !str:CSV::Cell Diabetes Mellitus
+
+  ? !str:CSV::Cell MALARIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008288
+      term: !str:CSV::Cell Malaria
+
+  ? !str:CSV::Cell HAY FEVER
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006255
+      term: !str:CSV::Cell Rhinitis, Allergic, Seasonal
+
+  ? !str:CSV::Cell HAEMORRHAGE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006470
+      term: !str:CSV::Cell Hemorrhage
+
+  ? !str:CSV::Cell CHITOSAN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D048271
+      term: !str:CSV::Cell Chitosan
+
+  ? !str:CSV::Cell ANXIETY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001007
+      term: !str:CSV::Cell Anxiety
+
+  ? !str:CSV::Cell NUTRITIONAL SUPPLEMENTS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019587
+      term: !str:CSV::Cell Dietary Supplements
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D018977
+      term: !str:CSV::Cell Micronutrients
+
+  ? !str:CSV::Cell ARTERIAL OCCLUSIVE DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001157
+      term: !str:CSV::Cell Arterial Occlusive Diseases
+
+  ? !str:CSV::Cell TENDINITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D052256
+      term: !str:CSV::Cell Tendinopathy
+
+  ? !str:CSV::Cell MOLLUSCUM CONTAGIOSUM
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008976
+      term: !str:CSV::Cell Molluscum Contagiosum
+
+  ? !str:CSV::Cell METABOLIC DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008659
+      term: !str:CSV::Cell Metabolic Diseases
+
+  ? !str:CSV::Cell KIDNEY DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007674
+      term: !str:CSV::Cell Kidney Diseases
+
+  ? !str:CSV::Cell MISTLETOE (VISCUM ALBUM)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D028182
+      term: !str:CSV::Cell Viscum album
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell SOY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013025
+      term: !str:CSV::Cell Soybeans
+
+  ? !str:CSV::Cell POISONING
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011041
+      term: !str:CSV::Cell Poisoning
+
+  ? !str:CSV::Cell INFLUENZA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007251
+      term: !str:CSV::Cell Influenza, Human
+
+  ? !str:CSV::Cell FLEABANE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D049919
+      term: !str:CSV::Cell Erigeron
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell BLACK CURRANT (RIBES NIGRUM)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D031965
+      term: !str:CSV::Cell Ribes
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell FOLIC ACID
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005492
+      term: !str:CSV::Cell Folic Acid
+
+  ? !str:CSV::Cell VITAMIN B 1
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013831
+      term: !str:CSV::Cell Thiamine
+
+  ? !str:CSV::Cell MYOFASCIAL PAIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009209
+      term: !str:CSV::Cell Myofascial Pain Syndromes
+
+  ? !str:CSV::Cell MYOCARDIAL INFARCTION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009203
+      term: !str:CSV::Cell Myocardial Infarction
+
+  ? !str:CSV::Cell DYSMENORRHOEA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004412
+      term: !str:CSV::Cell Dysmenorrhea
+
+  ? !str:CSV::Cell LIGHT THERAPY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010789
+      term: !str:CSV::Cell Phototherapy
+
+  ? !str:CSV::Cell CRANIOSACRAL THERAPY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008405
+      term: !str:CSV::Cell Massage
+
+  ? !str:CSV::Cell ENGLISH IVY (HEDERA HELIX)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D035981
+      term: !str:CSV::Cell Hedera
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell PELVIC PAIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D017699
+      term: !str:CSV::Cell Pelvic Pain
+
+  ? !str:CSV::Cell HEPATIC ENCEPHALOPATHY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006501
+      term: !str:CSV::Cell Hepatic Encephalopathy
+
+  ? !str:CSV::Cell STOMATITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013280
+      term: !str:CSV::Cell Stomatitis
+
+  ? !str:CSV::Cell PREMATURE INFANTS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007234
+      term: !str:CSV::Cell Infant, Premature
+
+  ? !str:CSV::Cell PRE-ECLAMPSIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011225
+      term: !str:CSV::Cell Pre-Eclampsia
+
+  ? !str:CSV::Cell FUNGAL INFECTIONS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003881
+      term: !str:CSV::Cell Dermatomycoses
+
+  ? !str:CSV::Cell ANDROGRAPHIS PANICULATA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D035685
+      term: !str:CSV::Cell Andrographis
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell REGULATION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D033161
+      term: !str:CSV::Cell "Government Regulation "
+
+  ? !str:CSV::Cell QI GONG
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001945
+      term: !str:CSV::Cell Breathing Exercises
+
+  ? !str:CSV::Cell DIETARY AND NUTRITIONAL THERAPIES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019587
+      term: !str:CSV::Cell Dietary Supplements
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005502
+      term: !str:CSV::Cell Food
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004032
+      term: !str:CSV::Cell Diet
+
+  ? !str:CSV::Cell OTHER THERAPIES OR MEDICAL SYSTEMS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000529
+      term: !str:CSV::Cell Complementary Therapies
+
+  ? !str:CSV::Cell OTITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010031
+      term: !str:CSV::Cell Otitis
+
+  ? !str:CSV::Cell MUSCULAR DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009135
+      term: !str:CSV::Cell Muscular Diseases
+
+  ? !str:CSV::Cell DIZZINESS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004244
+      term: !str:CSV::Cell Dizziness
+
+  ? !str:CSV::Cell DIETARY SODIUM CHLORIDE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D017673
+      term: !str:CSV::Cell Sodium Chloride, Dietary
+
+  ? !str:CSV::Cell SAW PALMETTO (SERENOA SERRULATA & REPENS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D028024
+      term: !str:CSV::Cell Serenoa
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell HEART FAILURE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006333
+      term: !str:CSV::Cell Heart Failure
+
+  ? !str:CSV::Cell HYPNOSIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006990
+      term: !str:CSV::Cell Hypnosis
+
+  ? !str:CSV::Cell VITAMIN B 6
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D025101
+      term: !str:CSV::Cell Vitamin B 6
+
+  ? !str:CSV::Cell KUDZU (PUERARIA LOBATA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029908
+      term: !str:CSV::Cell Pueraria
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell ATTENTION DEFICIT / HYPERACTIVITY DISORDER
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001289
+      term: !str:CSV::Cell Attention Deficit Disorder with Hyperactivity
+
+  ? !str:CSV::Cell YOGA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015013
+      term: !str:CSV::Cell Yoga
+
+  ? !str:CSV::Cell HERPES SIMPLEX VIRUS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006561
+      term: !str:CSV::Cell Herpes Simplex
+
+  ? !str:CSV::Cell BELL'S PALSY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020330
+      term: !str:CSV::Cell Bell Palsy
+
+  ? !str:CSV::Cell GLUCOSAMINE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005944
+      term: !str:CSV::Cell Glucosamine
+
+  ? !str:CSV::Cell CAM GENERAL
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000529
+      term: !str:CSV::Cell Complementary Therapies
+
+  ? !str:CSV::Cell GINKGO (GINKGO BILOBA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020441
+      term: !str:CSV::Cell Ginkgo biloba
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell FRANKINCENSE (BOSWELLIA SERRATA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029743
+      term: !str:CSV::Cell Boswellia
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell PEPPERMINT (MENTHA PIPERITA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D036142
+      term: !str:CSV::Cell Mentha piperita
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell ACUPRESSURE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019050
+      term: !str:CSV::Cell Acupressure
+
+  ? !str:CSV::Cell LAETRILE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000678
+      term: !str:CSV::Cell Amygdalin
+
+  ? !str:CSV::Cell HERBS D-G
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell MENTAL DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001523
+      term: !str:CSV::Cell Mental Disorders
+
+  ? !str:CSV::Cell LICE INFESTATIONS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010373
+      term: !str:CSV::Cell Lice Infestations
+
+  ? !str:CSV::Cell FALLS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000058
+      term: !str:CSV::Cell Accidental Falls
+
+  ? !str:CSV::Cell CREATINE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003401
+      term: !str:CSV::Cell Creatine
+
+  ? !str:CSV::Cell BITTER ORANGE (CITRUS AURANTIUM)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002957
+      term: !str:CSV::Cell Citrus
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell EPILEPSY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004827
+      term: !str:CSV::Cell Epilepsy
+
+  ? !str:CSV::Cell ECHINACEA (E. PURPUREA, E. ANGUSTIFOLIA, E. PALLIDA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020900
+      term: !str:CSV::Cell Echinacea
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell BREAST CANCER
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001943
+      term: !str:CSV::Cell Breast Neoplasms
+
+  ? !str:CSV::Cell ARTERIOSCLEROSIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001161
+      term: !str:CSV::Cell Arteriosclerosis
+
+  ? !str:CSV::Cell CHROMIUM
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002857
+      term: !str:CSV::Cell Chromium
+
+  ? !str:CSV::Cell LIPIDS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008055
+      term: !str:CSV::Cell Lipids
+
+  ? !str:CSV::Cell OTHER SUPPLEMENTS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019587
+      term: !str:CSV::Cell Dietary Supplements
+
+  ? !str:CSV::Cell OBSESSIVE-COMPULSIVE DISORDER
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009771
+      term: !str:CSV::Cell Obsessive-Compulsive Disorder
+
+  ? !str:CSV::Cell SLEEP DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012893
+      term: !str:CSV::Cell Sleep Disorders
+
+  ? !str:CSV::Cell ENURESIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004775
+      term: !str:CSV::Cell Enuresis
+
+  ? !str:CSV::Cell SPECIAL DIETS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004032
+      term: !str:CSV::Cell Diet
+
+  ? !str:CSV::Cell AYURVEDIC MEDICINE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008515
+      term: !str:CSV::Cell Medicine, Ayurvedic
+
+  ? !str:CSV::Cell XEROSTOMIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014987
+      term: !str:CSV::Cell Xerostomia
+
+  ? !str:CSV::Cell DEMENTIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003704
+      term: !str:CSV::Cell Dementia
+
+  ? !str:CSV::Cell VITAMIN B 12
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014805
+      term: !str:CSV::Cell Vitamin B 12
+
+  ? !str:CSV::Cell NECK INJURIES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019838
+      term: !str:CSV::Cell Neck Injuries
+
+  ? !str:CSV::Cell AROMATHERAPY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019341
+      term: !str:CSV::Cell Aromatherapy
+
+  ? !str:CSV::Cell CAYENNE PEPPER (CAPSICUM FRUTESCENS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002212
+      term: !str:CSV::Cell Capsicum
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell FOOD AND BEVERAGES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019602
+      term: !str:CSV::Cell Food and Beverages
+
+  ? !str:CSV::Cell LECITHIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D054709
+      term: !str:CSV::Cell Lecithins
+
+  ? !str:CSV::Cell INFERTILITY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007246
+      term: !str:CSV::Cell Infertility
+
+  ? !str:CSV::Cell FATIGUE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005221
+      term: !str:CSV::Cell Fatigue
+
+  ? !str:CSV::Cell COLIC
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003085
+      term: !str:CSV::Cell Colic
+
+  ? !str:CSV::Cell DYSKINESIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020820
+      term: !str:CSV::Cell Dyskinesias
+
+  ? !str:CSV::Cell HIGH CHOLESTEROL
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006937
+      term: !str:CSV::Cell Hypercholesterolemia
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002784
+      term: !str:CSV::Cell Cholesterol
+
+  ? !str:CSV::Cell FIBROMYALGIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005356
+      term: !str:CSV::Cell Fibromyalgia
+
+  ? !str:CSV::Cell GALLSTONES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D042882
+      term: !str:CSV::Cell Gallstones
+
+  ? !str:CSV::Cell ALCOHOL MISUSE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000437
+      term: !str:CSV::Cell Alcoholism
+
+  ? !str:CSV::Cell CORONARY HEART DISEASE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003327
+      term: !str:CSV::Cell Coronary Disease
+
+  ? !str:CSV::Cell CHRONIC FATIGUE SYNDROME
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015673
+      term: !str:CSV::Cell Fatigue Syndrome, Chronic
+
+  ? !str:CSV::Cell MEDITATION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019122
+      term: !str:CSV::Cell Meditation
+
+  ? !str:CSV::Cell TERMINAL CARE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013727
+      term: !str:CSV::Cell Terminal Care
+
+  ? !str:CSV::Cell PAIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010146
+      term: !str:CSV::Cell Pain
+
+  ? !str:CSV::Cell MULTIPLE SCLEROSIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009103
+      term: !str:CSV::Cell Multiple Sclerosis
+
+  ? !str:CSV::Cell CELANDINE (CHELIDONIUM MAJUS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D028281
+      term: !str:CSV::Cell Chelidonium
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell INOSITOL
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007294
+      term: !str:CSV::Cell Inositol
+
+  ? !str:CSV::Cell HERBAL MEDICINE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010946
+      term: !str:CSV::Cell Plants, Medicinal
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010936
+      term: !str:CSV::Cell Plant Extracts
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004365
+      term: !str:CSV::Cell Drugs, Chinese Herbal
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008419
+      term: !str:CSV::Cell Materia Medica
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008519
+      term: !str:CSV::Cell Medicine, Traditional
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029001
+      term: !str:CSV::Cell Herbal Medicine
+
+  ? !str:CSV::Cell FISH OILS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005395
+      term: !str:CSV::Cell Fish Oils
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015525
+      term: !str:CSV::Cell Fatty Acids, Omega-3
+
+  ? !str:CSV::Cell COMPLEMENTARY AND ALTERNATIVE MEDICINE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000529
+      term: !str:CSV::Cell Complementary Therapies
+
+  ? !str:CSV::Cell URINARY TRACT INFECTIONS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014552
+      term: !str:CSV::Cell Urinary Tract Infections
+
+  ? !str:CSV::Cell OSTEOPOROSIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010024
+      term: !str:CSV::Cell Osteoporosis
+
+  ? !str:CSV::Cell RESEARCH
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012106
+      term: !str:CSV::Cell Research
+
+  ? !str:CSV::Cell DEHYDROEPIANDROSTERONE (DHEA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003687
+      term: !str:CSV::Cell Dehydroepiandrosterone
+
+  ? !str:CSV::Cell BRANCHED-CHAIN AMINO ACIDS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000597
+      term: !str:CSV::Cell Amino Acids, Branched-Chain
+
+  ? !str:CSV::Cell SAME (S-ADENOSYL-L-METHIONINE)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012436
+      term: !str:CSV::Cell S-Adenosylmethionine
+
+  ? !str:CSV::Cell TEA TREE (MELALEUCA ALTERNIFOLIA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D031650
+      term: !str:CSV::Cell Melaleuca
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell VERTIGO
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014717
+      term: !str:CSV::Cell Vertigo
+
+  ? !str:CSV::Cell DEVILS CLAW (HARPAGOPHYTUM PROCUMBENS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D031684
+      term: !str:CSV::Cell Harpagophytum
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell TRADITIONAL CHINESE MEDICINE (TCM)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008516
+      term: !str:CSV::Cell Medicine, Chinese Traditional
+
+  ? !str:CSV::Cell EPHEDRA (EPHEDRA SINICA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029789
+      term: !str:CSV::Cell Ephedra
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell LABOUR
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007743
+      term: !str:CSV::Cell Labor, Obstetric
+
+  ? !str:CSV::Cell HYPERTENSION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006973
+      term: !str:CSV::Cell Hypertension
+
+  ? !str:CSV::Cell HEPATITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006505
+      term: !str:CSV::Cell Hepatitis
+
+  ? !str:CSV::Cell CONSTIPATION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003248
+      term: !str:CSV::Cell Constipation
+
+  ? !str:CSV::Cell DYSPNOEA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004417
+      term: !str:CSV::Cell Dyspnea
+
+  ? !str:CSV::Cell TENNIS ELBOW
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013716
+      term: !str:CSV::Cell Tennis Elbow
+
+  ? !str:CSV::Cell NIACIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009525
+      term: !str:CSV::Cell Niacin
+
+  ? !str:CSV::Cell NEPHROTIC SYNDROME
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009404
+      term: !str:CSV::Cell Nephrotic Syndrome
+
+  ? !str:CSV::Cell BRONCHITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001991
+      term: !str:CSV::Cell Bronchitis
+
+  ? !str:CSV::Cell TRIPTERYGIUM
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029757
+      term: !str:CSV::Cell Tripterygium
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell ZINC
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015032
+      term: !str:CSV::Cell Zinc
+
+  ? !str:CSV::Cell OMEGA-6 FATTY ACIDS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D043371
+      term: !str:CSV::Cell Fatty Acids, Omega-6
+
+  ? !str:CSV::Cell LUPUS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008180
+      term: !str:CSV::Cell Lupus Erythematosus, Systemic
+
+  ? !str:CSV::Cell GLAUCOMA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005901
+      term: !str:CSV::Cell Glaucoma
+
+  ? !str:CSV::Cell CARAWAY (CARUM CARVI)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029974
+      term: !str:CSV::Cell Carum
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell DENTAL CONDITIONS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003813
+      term: !str:CSV::Cell Dentistry
+
+  ? !str:CSV::Cell ALPHA-LIPOIC ACID
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008063
+      term: !str:CSV::Cell Thioctic Acid
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000975
+      term: !str:CSV::Cell "Antioxidants "
+
+  ? !str:CSV::Cell SEXUAL DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012735
+      term: !str:CSV::Cell Sexual Dysfunction, Physiological
+
+  ? !str:CSV::Cell NAUSEA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009325
+      term: !str:CSV::Cell Nausea
+
+  ? !str:CSV::Cell SHIATSU
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019050
+      term: !str:CSV::Cell Acupressure
+
+  ? !str:CSV::Cell ST JOHN'S WORT (HYPERICUM PERFORATUM)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020902
+      term: !str:CSV::Cell Hypericum
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell ANGINA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000787
+      term: !str:CSV::Cell Angina Pectoris
+
+  ? !str:CSV::Cell FEVERFEW (TANACETUM PARTHENIUM)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020903
+      term: !str:CSV::Cell Tanacetum parthenium
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell OSTEOPATHY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D026301
+      term: !str:CSV::Cell Manipulation, Osteopathic
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020393
+      term: !str:CSV::Cell Manipulation, Spinal
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010021
+      term: !str:CSV::Cell Osteopathic Medicine
+
+  ? !str:CSV::Cell LEUCOVORIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002955
+      term: !str:CSV::Cell Leucovorin
+
+  ? !str:CSV::Cell PERIPHERAL VASCULAR DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D016491
+      term: !str:CSV::Cell Peripheral Vascular Diseases
+
+  ? !str:CSV::Cell MEASLES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008457
+      term: !str:CSV::Cell Measles
+
+  ? !str:CSV::Cell HOT FLUSHES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019584
+      term: !str:CSV::Cell Hot Flashes
+
+  ? !str:CSV::Cell GLUTAMINE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005973
+      term: !str:CSV::Cell Glutamine
+
+  ? !str:CSV::Cell MOXIBUSTION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009071
+      term: !str:CSV::Cell Moxibustion
+
+  ? !str:CSV::Cell IRON
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007501
+      term: !str:CSV::Cell Iron
+
+  ? !str:CSV::Cell MUSCULOSKELETAL DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009140
+      term: !str:CSV::Cell Musculoskeletal Diseases
+
+  ? !str:CSV::Cell ANXIETY DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001008
+      term: !str:CSV::Cell Anxiety Disorders
+
+  ? !str:CSV::Cell LINOLEIC ACIDS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008041
+      term: !str:CSV::Cell Linoleic Acids
+
+  ? !str:CSV::Cell HERBS R-Z
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell SOMATOFORM DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013001
+      term: !str:CSV::Cell Somatoform Disorders
+
+  ? !str:CSV::Cell BLUE COHOSH (CAULOPHYLLUM THALICTROIDES)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D028145
+      term: !str:CSV::Cell Caulophyllum
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell NERVOUS SYSTEM DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009422
+      term: !str:CSV::Cell Nervous System Diseases
+
+  ? !str:CSV::Cell LYMPHOEDEMA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008209
+      term: !str:CSV::Cell Lymphedema
+
+  ? !str:CSV::Cell CONTRACEPTION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003267
+      term: !str:CSV::Cell Contraception
+
+  ? !str:CSV::Cell CHRONIC OBSTRUCTIVE PULMONARY DISEASE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029424
+      term: !str:CSV::Cell Pulmonary Disease, Chronic Obstructive
+
+  ? !str:CSV::Cell REFLEXOLOGY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008405
+      term: !str:CSV::Cell Massage
+
+  ? !str:CSV::Cell COENZYME Q
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014451
+      term: !str:CSV::Cell Ubiquinone
+
+  ? !str:CSV::Cell MENSTRUAL CYCLE DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008599
+      term: !str:CSV::Cell Menstruation Disturbances
+
+  ? !str:CSV::Cell IRRITABLE BOWEL SYNDROME
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D043183
+      term: !str:CSV::Cell Irritable Bowel Syndrome
+
+  ? !str:CSV::Cell DIETARY FIBRE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004043
+      term: !str:CSV::Cell Dietary Fiber
+
+  ? !str:CSV::Cell BUTTERBUR (PETASITES VULGARIS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D036901
+      term: !str:CSV::Cell Petasites
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell WARTS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014860
+      term: !str:CSV::Cell Warts
+
+  ? !str:CSV::Cell SKIN DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012871
+      term: !str:CSV::Cell Skin Diseases
+
+  ? !str:CSV::Cell PHOBIC DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010698
+      term: !str:CSV::Cell Phobic Disorders
+
+  ? !str:CSV::Cell LEARNING DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007859
+      term: !str:CSV::Cell Learning Disorders
+
+  ? !str:CSV::Cell AMYOTROPHIC LATERAL SCLEROSIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000690
+      term: !str:CSV::Cell Amyotrophic Lateral Sclerosis
+
+  ? !str:CSV::Cell CHIROPRACTIC
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D026882
+      term: !str:CSV::Cell Manipulation, Chiropractic
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020393
+      term: !str:CSV::Cell Manipulation, Spinal
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002684
+      term: !str:CSV::Cell Chiropractic
+
+  ? !str:CSV::Cell MASSAGE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008405
+      term: !str:CSV::Cell Massage
+
+  ? !str:CSV::Cell ENT CONDITIONS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010038
+      term: !str:CSV::Cell Otorhinolaryngologic Diseases
+
+  ? !str:CSV::Cell SHOULDER PAIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020069
+      term: !str:CSV::Cell Shoulder Pain
+
+  ? !str:CSV::Cell PINE TREE (PINUS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D028223
+      term: !str:CSV::Cell Pinus
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell RED CLOVER (TRIFOLIUM PRATENSE)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029921
+      term: !str:CSV::Cell Trifolium
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell TINNITUS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014012
+      term: !str:CSV::Cell Tinnitus
+
+  ? !str:CSV::Cell STRESS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013315
+      term: !str:CSV::Cell Stress, Psychological
+
+  ? !str:CSV::Cell PROSTATE CANCER
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011471
+      term: !str:CSV::Cell Prostatic Neoplasms
+
+  ? !str:CSV::Cell MAGNESIUM
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008274
+      term: !str:CSV::Cell Magnesium
+
+  ? !str:CSV::Cell ART THERAPY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001155
+      term: !str:CSV::Cell Art Therapy
+
+  ? !str:CSV::Cell VARICOSE VEINS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014648
+      term: !str:CSV::Cell Varicose Veins
+
+  ? !str:CSV::Cell POST-TRAUMATIC STRESS DISORDER
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013313
+      term: !str:CSV::Cell Stress Disorders, Post-Traumatic
+
+  ? !str:CSV::Cell "PARKINSON\x92S DISEASE"
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010300
+      term: !str:CSV::Cell Parkinson Disease
+
+  ? !str:CSV::Cell MALE UROGENITAL DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D052801
+      term: !str:CSV::Cell Male Urogenital Diseases
+
+  ? !str:CSV::Cell APNOEA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001049
+      term: !str:CSV::Cell Apnea
+
+  ? !str:CSV::Cell ALTITUDE SICKNESS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000532
+      term: !str:CSV::Cell Altitude Sickness
+
+  ? !str:CSV::Cell SENNA (SENNA ALEXANDRINA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029846
+      term: !str:CSV::Cell Senna Plant
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell VOMITING
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014839
+      term: !str:CSV::Cell Vomiting
+
+  ? !str:CSV::Cell SAGE (SALVIA OFFICINALIS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D027543
+      term: !str:CSV::Cell Salvia officinalis
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell CHONDROITIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002807
+      term: !str:CSV::Cell Chondroitin
+
+  ? !str:CSV::Cell ESSENTIAL FATTY ACIDS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005228
+      term: !str:CSV::Cell Fatty Acids, Essential
+
+  ? !str:CSV::Cell CALCIUM
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002119
+      term: !str:CSV::Cell Calcium Carbonate
+
+  ? !str:CSV::Cell LUNG CANCER
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008175
+      term: !str:CSV::Cell Lung Neoplasms
+
+  ? !str:CSV::Cell DIARRHOEA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003967
+      term: !str:CSV::Cell Diarrhea
+
+  ? !str:CSV::Cell GRAPE VINE (VITIS VINIFERA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D027843
+      term: !str:CSV::Cell Vitis
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell VALERIAN (VALERIANA OFFICINALIS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014632
+      term: !str:CSV::Cell Valerian
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell COLITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003092
+      term: !str:CSV::Cell Colitis
+
+  ? !str:CSV::Cell HYPOXIS ROOPERI
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D027802
+      term: !str:CSV::Cell Hypoxis
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell VISION DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014786
+      term: !str:CSV::Cell Vision Disorders
+
+  ? !str:CSV::Cell DYSPEPSIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004415
+      term: !str:CSV::Cell Dyspepsia
+
+  ? !str:CSV::Cell ARTICHOKE (CYNARA SCOLYMUS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D031943
+      term: !str:CSV::Cell Cynara scolymus
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell VITAMIN A
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014801
+      term: !str:CSV::Cell Vitamin A
+
+  ? !str:CSV::Cell VESTIBULAR DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015837
+      term: !str:CSV::Cell Vestibular Diseases
+
+  ? !str:CSV::Cell HYPERTHYROIDISM
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006980
+      term: !str:CSV::Cell Hyperthyroidism
+
+  ? !str:CSV::Cell BILBERRY (VACCINIUM MYRTILLUS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029800
+      term: !str:CSV::Cell Vaccinium myrtillus
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell SPRAINS AND STRAINS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013180
+      term: !str:CSV::Cell Sprains and Strains
+
+  ? !str:CSV::Cell HERNIATED DISC
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007405
+      term: !str:CSV::Cell Intervertebral Disk Displacement
+
+  ? !str:CSV::Cell ABDOMINAL PAIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015746
+      term: !str:CSV::Cell Abdominal Pain
+
+  ? !str:CSV::Cell RYE (SECALE CEREALE)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012434
+      term: !str:CSV::Cell Secale cereale
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell ALZHEIMER'S DISEASE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000544
+      term: !str:CSV::Cell Alzheimer Disease
+
+  ? !str:CSV::Cell POTASSIUM
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011188
+      term: !str:CSV::Cell Potassium
+
+  ? !str:CSV::Cell VITAMIN C
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001205
+      term: !str:CSV::Cell Ascorbic Acid
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000975
+      term: !str:CSV::Cell "Antioxidants "
+
+  ? !str:CSV::Cell VENOUS INSUFFICIENCY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014689
+      term: !str:CSV::Cell Venous Insufficiency
+
+  ? !str:CSV::Cell RHEUMATOID ARTHRITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001172
+      term: !str:CSV::Cell Arthritis, Rheumatoid
+
+  ? !str:CSV::Cell HIV (HUMAN IMMUNODEFICIENCY VIRUS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006678
+      term: !str:CSV::Cell HIV
+
+  ? !str:CSV::Cell KAVA (PIPER METHYSTICUM)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell " D020901 "
+      term: !str:CSV::Cell Kava
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell SPRUCE TREE (PICEA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D028222
+      term: !str:CSV::Cell Picea
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell HEALING
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008602
+      term: !str:CSV::Cell Mental Healing
+
+  ? !str:CSV::Cell VITAMIN B COMPLEX
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014803
+      term: !str:CSV::Cell Vitamin B Complex
+
+  ? !str:CSV::Cell BREATHLESSNESS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004417
+      term: !str:CSV::Cell Dyspnea
+
+  ? !str:CSV::Cell VITAMIN D
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell " D014807 "
+      term: !str:CSV::Cell Vitamin D
+
+  ? !str:CSV::Cell EVENING PRIMROSE OIL
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005228
+      term: !str:CSV::Cell Fatty Acids, Essential
+
+  ? !str:CSV::Cell PATELLOFEMORAL PAIN SYNDROME
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D046788
+      term: !str:CSV::Cell Patellofemoral Pain Syndrome
+
+  ? !str:CSV::Cell HYPERLIPIDAEMIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006949
+      term: !str:CSV::Cell Hyperlipidemias
+
+  ? !str:CSV::Cell ACNE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000152
+      term: !str:CSV::Cell Acne Vulgaris
+
+  ? !str:CSV::Cell CYSTEINE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003545
+      term: !str:CSV::Cell Cysteine
+
+  ? !str:CSV::Cell TEA (CAMELLIA SINENSIS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D028241
+      term: !str:CSV::Cell Camellia sinensis
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell DOG ROSE (ROSA CANINA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D027826
+      term: !str:CSV::Cell Rosa
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell VITAMIN E
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014810
+      term: !str:CSV::Cell Vitamin E
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000975
+      term: !str:CSV::Cell "Antioxidants "
+
+  ? !str:CSV::Cell BLACK COHOSH (CIMICIFUGA RACEMOSA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D031885
+      term: !str:CSV::Cell Cimicifuga
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell BACTERIAL INFECTIONS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001424
+      term: !str:CSV::Cell Bacterial Infections
+
+  ? !str:CSV::Cell LIVER DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008107
+      term: !str:CSV::Cell Liver Diseases
+
+  ? !str:CSV::Cell COLORECTAL CANCER
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015179
+      term: !str:CSV::Cell Colorectal Neoplasms
+
+  ? !str:CSV::Cell OMEGA-3 FATTY ACIDS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015525
+      term: !str:CSV::Cell Fatty Acids, Omega-3
+
+childhealth: !map:Speciality 
+  ? !str:CSV::Cell CHILD HEALTH
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D00001
+      term: !str:CSV::Cell Child_Health
+
+  ? !str:CSV::Cell AGE GROUPS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D00005
+      term: !str:CSV::Cell sneezy_in_mesh
+
+  ? !str:CSV::Cell ETHICS AND LAW
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D00002
+      term: !str:CSV::Cell Ethics
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D00003
+      term: !str:CSV::Cell Law
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D00004
+      term: !str:CSV::Cell Fiscal
+
+  ? !str:CSV::Cell SC_TERM
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell MESH_ID
+      term: !str:CSV::Cell MESH_TERM
+
+womenshealth: !map:Speciality 
+  ? !str:CSV::Cell BARRIER METHODS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D042121
+      term: !str:CSV::Cell Contraception, Barrier
+
+  ? !str:CSV::Cell TRICHOMONAS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014244
+      term: !str:CSV::Cell Trichomonas
+
+  ? !str:CSV::Cell TEENAGE PREGNANCY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011253
+      term: !str:CSV::Cell Pregnancy in Adolescence
+
+  ? !str:CSV::Cell CHLAMYDIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002689
+      term: !str:CSV::Cell Chlamydia
+
+  ? !str:CSV::Cell CANDIDA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002175
+      term: !str:CSV::Cell Candida
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002181
+      term: !str:CSV::Cell Candidiasis, Vulvovaginal
+
+  ? !str:CSV::Cell WOMEN'S HEALTH
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D016387
+      term: !str:CSV::Cell Women's Health
+
+  ? !str:CSV::Cell IN VITRO FERTILISATION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005307
+      term: !str:CSV::Cell Fertilization in Vitro
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020554
+      term: !str:CSV::Cell Sperm Injections, Intracytoplasmic
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004624
+      term: !str:CSV::Cell Embryo transfer
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D056826
+      term: !str:CSV::Cell Single Embryo Transfer
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015181
+      term: !str:CSV::Cell Gamete Intrafallopian Transfer
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007315
+      term: !str:CSV::Cell Insemination, Artificial
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007316
+      term: !str:CSV::Cell Insemination, Artificial, Heterologous
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007317
+      term: !str:CSV::Cell Insemination, Artificial, Homologous
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D018587
+      term: !str:CSV::Cell Oocyte Donation
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D054315
+      term: !str:CSV::Cell Oocyte Retrieval
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010062
+      term: !str:CSV::Cell Ovulation Induction
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013480
+      term: !str:CSV::Cell Superovulation
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D053625
+      term: !str:CSV::Cell Sperm Retrieval
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D017388
+      term: !str:CSV::Cell Zygote Intrafallopian Transfer
+
+  ? !str:CSV::Cell MENSTRUAL CYCLE DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008599
+      term: !str:CSV::Cell Menstruation Disturbances
+
+  ? !str:CSV::Cell GONORRHOEA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006069
+      term: !str:CSV::Cell Gonorrhea
+
+  ? !str:CSV::Cell MENORRHAGIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008595
+      term: !str:CSV::Cell Menorrhagia
+
+  ? !str:CSV::Cell TERMINATION OF PREGNANCY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000029
+      term: !str:CSV::Cell Abortion, Legal
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000028
+      term: !str:CSV::Cell Abortion, Induced
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000019
+      term: !str:CSV::Cell Abortifacient Agents
+
+  ? !str:CSV::Cell FEMALE GENITAL MUTILATION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019093
+      term: !str:CSV::Cell Circumcision, Female
+
+  ? !str:CSV::Cell UNCERTAINTIES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D035501
+      term: !str:CSV::Cell Uncertainty
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D035501
+      term: !str:CSV::Cell Uncertainty
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D035501
+      term: !str:CSV::Cell Uncertainty
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D035501
+      term: !str:CSV::Cell Uncertainty
+
+  ? !str:CSV::Cell CONTRACEPTION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003267
+      term: !str:CSV::Cell Contraception
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003270
+      term: !str:CSV::Cell Contraceptive Agents
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003271
+      term: !str:CSV::Cell Contraceptive Agents, Female
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003273
+      term: !str:CSV::Cell Contraceptive Devices
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003274
+      term: !str:CSV::Cell Contraceptive Devices, Female
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D022642
+      term: !str:CSV::Cell Vaccines, Contraceptive
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008186
+      term: !str:CSV::Cell Luteolytic Agents
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008600
+      term: !str:CSV::Cell Menstruation-Inducing Agents
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003269
+      term: !str:CSV::Cell Contraception, Immunologic
+
+  ? !str:CSV::Cell SEXUAL ASSAULT
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012742
+      term: !str:CSV::Cell Sex offenses
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011902
+      term: !str:CSV::Cell Rape
+
+  ? !str:CSV::Cell CHILDREN AND YOUNG PEOPLE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002648
+      term: !str:CSV::Cell Child
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000293
+      term: !str:CSV::Cell Adolescent
+
+  ? !str:CSV::Cell PREMENSTRUAL SYNDROME
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011293
+      term: !str:CSV::Cell Premenstrual syndrome
+
+  ? !str:CSV::Cell SPERMICIDE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013089
+      term: !str:CSV::Cell Spermatocidal Agents
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013078
+      term: !str:CSV::Cell Sperm Immobilizing Agents
+
+  ? !str:CSV::Cell NON-HORMONAL IUDS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007434
+      term: !str:CSV::Cell Intrauterine Devices
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003273
+      term: !str:CSV::Cell Contraceptive Devices
+
+  ? !str:CSV::Cell SYPHILIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013587
+      term: !str:CSV::Cell Syphilis
+
+  ? !str:CSV::Cell SEXUAL HEALTH
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012749
+      term: !str:CSV::Cell Sexually Transmitted Diseases
+
+  ? !str:CSV::Cell INFERTILITY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007246
+      term: !str:CSV::Cell Infertility
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007247
+      term: !str:CSV::Cell Infertility, Female
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007248
+      term: !str:CSV::Cell Infertility, Male
+
+  ? !str:CSV::Cell NATURAL METHODS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012252
+      term: !str:CSV::Cell Natural Family Planning Methods
+
+  ? !str:CSV::Cell LGV
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008219
+      term: !str:CSV::Cell "Lymphogranuloma Venereum "
+
+  ? !str:CSV::Cell GENITAL HERPES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006558
+      term: !str:CSV::Cell Herpes Genitalis
+
+  ? !str:CSV::Cell OVULATORY DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010049
+      term: !str:CSV::Cell Ovarian Diseases  (heading not specifically related to diseases that contribute to infertility)
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000858
+      term: !str:CSV::Cell Anovulation
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008594
+      term: !str:CSV::Cell Menopause, Premature
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010048
+      term: !str:CSV::Cell Ovarian cysts
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011085
+      term: !str:CSV::Cell Polycystic Ovary Syndrome
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D016649
+      term: !str:CSV::Cell Ovarian Failure, Premature
+
+  ? !str:CSV::Cell MALE FACTOR
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007248
+      term: !str:CSV::Cell Infertility, Male
+
+  ? !str:CSV::Cell ENDOMETRIOSIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004715
+      term: !str:CSV::Cell Endometriosis
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004715
+      term: !str:CSV::Cell Endometriosis
+
+  ? !str:CSV::Cell DYSMENORRHOEA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004412
+      term: !str:CSV::Cell Dysmenorrhea
+
+  ? !str:CSV::Cell STERILISATION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013245
+      term: !str:CSV::Cell Sterilization, Reproductive
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013246
+      term: !str:CSV::Cell Sterilization, Tubal
+
+  ? !str:CSV::Cell PROVISION OF CARE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003695
+      term: !str:CSV::Cell Delivery of Health Care
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005791
+      term: !str:CSV::Cell Patient Care
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005193
+      term: !str:CSV::Cell Family Planning Services
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003695
+      term: !str:CSV::Cell Delivery of Health Care
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005791
+      term: !str:CSV::Cell Patient Care
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003695
+      term: !str:CSV::Cell Delivery of Health Care
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005791
+      term: !str:CSV::Cell Patient Care
+
+  ? !str:CSV::Cell BACTERIAL VAGINOSIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D016585
+      term: !str:CSV::Cell Vaginosis, bacterial
+
+  ? !str:CSV::Cell AMENORRHOEA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000568
+      term: !str:CSV::Cell Amenorrhea
+
+  ? !str:CSV::Cell SEXUAL DYSFUNCTION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020018
+      term: !str:CSV::Cell Sexual Dysfunctions, Psychological
+
+  ? !str:CSV::Cell PELVIC INFLAMMATORY DISEASE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000292
+      term: !str:CSV::Cell Pelvic Inflammatory Disease
+
+  ? !str:CSV::Cell GENITAL WARTS (HPV)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003218
+      term: !str:CSV::Cell Condylomata Acuminata
+
+  ? !str:CSV::Cell DONOVANOSIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006100
+      term: !str:CSV::Cell Granuloma Inguinale
+
+  ? !str:CSV::Cell SPECIAL SITUATIONS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015897
+      term: !str:CSV::Cell Comorbidity
+
+  ? !str:CSV::Cell EMERGENCY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D044363
+      term: !str:CSV::Cell Contraception, Postcoital (entry term Emergency Contraception)
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003281
+      term: !str:CSV::Cell Contraceptives, Postcoital
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003282
+      term: !str:CSV::Cell Contraceptives, Postcoital, Hormonal
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003283
+      term: !str:CSV::Cell Contraceptives, Postcoital, Synthetic
+
+  ? !str:CSV::Cell COMBINED HORMONAL
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003276
+      term: !str:CSV::Cell Contraceptives, Oral
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003277
+      term: !str:CSV::Cell Contraceptives, Oral, Combined
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003279
+      term: !str:CSV::Cell Contraceptives, Oral, Sequential
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003278
+      term: !str:CSV::Cell Contraceptives, Oral, Hormonal
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003280
+      term: !str:CSV::Cell Contraceptives, Oral, Synthetic
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D034445
+      term: !str:CSV::Cell Ovulation inhibition
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019304
+      term: !str:CSV::Cell Ethinyl Estradiol-Norgestrel Combination
+
+  ? !str:CSV::Cell FERTILITY CONTROL
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003267
+      term: !str:CSV::Cell Contraception
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000029
+      term: !str:CSV::Cell Abortion, Legal
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000028
+      term: !str:CSV::Cell Abortion, Induced
+
+  ? !str:CSV::Cell LICHEN SCLEROSUS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D018459
+      term: !str:CSV::Cell Lichen Sclerosus et Atrophicus
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007724
+      term: !str:CSV::Cell Vulvar Lichen Sclerosus
+
+  ? !str:CSV::Cell CHANCROID
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002602
+      term: !str:CSV::Cell Chancroid
+
+  ? !str:CSV::Cell SC_TERM
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell MESH_ID
+      term: !str:CSV::Cell MESH_TERM
+
+  ? !str:CSV::Cell POLYCYSTIC OVARY SYNDROME
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011085
+      term: !str:CSV::Cell Polycystic Ovary Syndrome
+
+  ? !str:CSV::Cell PROGESTOGEN-BASED
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D034445
+      term: !str:CSV::Cell Ovulation inhibition
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003278
+      term: !str:CSV::Cell Contraceptives, Oral, Hormonal
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003279
+      term: !str:CSV::Cell Contraceptives, Oral, Sequential
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003280
+      term: !str:CSV::Cell Contraceptives, Oral, Synthetic
+
+  ? !str:CSV::Cell PSYCHOSEXUAL PROBLEMS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020018
+      term: !str:CSV::Cell Sexual Dysfunctions, Psychological
+
+  ? !str:CSV::Cell PUBLIC HEALTH
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011634
+      term: !str:CSV::Cell Public health
+
+  ? !str:CSV::Cell MOLLUSCUM CONTAGIOSUM
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008976
+      term: !str:CSV::Cell Molluscum Contagiosum
+
+  ? !str:CSV::Cell HIV
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006678
+      term: !str:CSV::Cell HIV
+
+converted: !map:Speciality 
+  ? !str:CSV::Cell REPETITIVE STRAIN INJURY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012090
+      term: !str:CSV::Cell Cumulative Trauma Disorders
+
+  ? !str:CSV::Cell PSYCHOPHYSIOLOGIC DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011602
+      term: !str:CSV::Cell Psychophysiologic Disorders
+
+  ? !str:CSV::Cell INSOMNIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007319
+      term: !str:CSV::Cell Sleep Initiation and Maintenance Disorders
+
+  ? !str:CSV::Cell PASSION FLOWER (PASSIFLORA ALATA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029598
+      term: !str:CSV::Cell Passiflora
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell RESPIRATORY TRACT INFECTIONS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012141
+      term: !str:CSV::Cell Respiratory Tract Infections
+
+  ? !str:CSV::Cell AIDS (ACQUIRED IMMUNODEFICIENCY SYNDROME)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000163
+      term: !str:CSV::Cell Acquired Immunodeficiency Syndrome
+
+  ? !str:CSV::Cell HORSE CHESTNUT (AESCULUS HIPPOCASTANUM)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D031319
+      term: !str:CSV::Cell Aesculus
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell COMMON COLD
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003139
+      term: !str:CSV::Cell Common Cold
+
+  ? !str:CSV::Cell ENDOMETRIOSIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004715
+      term: !str:CSV::Cell Endometriosis
+
+  ? !str:CSV::Cell HERBS H-P
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell CRANBERRY (VACCINIUM MACROCARPON)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029799
+      term: !str:CSV::Cell Vaccinium macrocarpon
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell VIRUS DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014777
+      term: !str:CSV::Cell Virus Diseases
+
+  ? !str:CSV::Cell MIGRAINE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008881
+      term: !str:CSV::Cell Migraine Disorders
+
+  ? !str:CSV::Cell AUTISTIC DISORDER
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001321
+      term: !str:CSV::Cell Autistic Disorder
+
+  ? !str:CSV::Cell SC_TERM
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell MESH_ID
+      term: !str:CSV::Cell MESH_TERM
+
+  ? !str:CSV::Cell CYSTITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003556
+      term: !str:CSV::Cell Cystitis
+
+  ? !str:CSV::Cell BIOFEEDBACK
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001676
+      term: !str:CSV::Cell Biofeedback, Psychology
+
+  ? !str:CSV::Cell BACK PAIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001416
+      term: !str:CSV::Cell Back Pain
+
+  ? !str:CSV::Cell DRUG USE DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019966
+      term: !str:CSV::Cell Substance-Related Disorders
+
+  ? !str:CSV::Cell NATUROPATHY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009324
+      term: !str:CSV::Cell Naturopathy
+
+  ? !str:CSV::Cell URINARY TRACT STONES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014545
+      term: !str:CSV::Cell Urinary Calculi
+
+  ? !str:CSV::Cell MENOPAUSAL SYMPTOMS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008593
+      term: !str:CSV::Cell Menopause
+
+  ? !str:CSV::Cell MARIJUANA (CANNABIS SATIVA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002188
+      term: !str:CSV::Cell Cannabis
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell HOMEOPATHY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006705
+      term: !str:CSV::Cell Homeopathy
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008419
+      term: !str:CSV::Cell Materia Medica
+
+  ? !str:CSV::Cell MINERALS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008903
+      term: !str:CSV::Cell Minerals
+
+  ? !str:CSV::Cell ARTHRITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001168
+      term: !str:CSV::Cell Arthritis
+
+  ? !str:CSV::Cell TEMPOROMANDIBULAR JOINT DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013705
+      term: !str:CSV::Cell Temporomandibular Joint Disorders
+
+  ? !str:CSV::Cell CHASTE TREE (VITEX AGNUS CASTUS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020950
+      term: !str:CSV::Cell Vitex
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell RELAXATION TECHNIQUES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012064
+      term: !str:CSV::Cell Relaxation Therapy
+
+  ? !str:CSV::Cell CARBOHYDRATES & CARBOHYDRATE DERIVATIVES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002241
+      term: !str:CSV::Cell Carbohydrates
+
+  ? !str:CSV::Cell VITAMIN K
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014812
+      term: !str:CSV::Cell Vitamin K
+
+  ? !str:CSV::Cell TAI CHI
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D026302
+      term: !str:CSV::Cell Tai Ji
+
+  ? !str:CSV::Cell PROSTATIC HYPERPLASIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011470
+      term: !str:CSV::Cell Prostatic Hyperplasia
+
+  ? !str:CSV::Cell PHARYNGITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010612
+      term: !str:CSV::Cell Pharyngitis
+
+  ? !str:CSV::Cell AUTOGENIC TRAINING
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001326
+      term: !str:CSV::Cell Autogenic Training
+
+  ? !str:CSV::Cell OSTEOARTHRITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010003
+      term: !str:CSV::Cell Osteoarthritis
+
+  ? !str:CSV::Cell CANCER
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009369
+      term: !str:CSV::Cell Neoplasms
+
+  ? !str:CSV::Cell EATING DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001068
+      term: !str:CSV::Cell Eating Disorders
+
+  ? !str:CSV::Cell SIBERIAN GINSENG (ELEUTHEROCOCCUS SENTICOSUS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D028001
+      term: !str:CSV::Cell Eleutherococcus
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell GINSENG (PANAX GINSENG)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005894
+      term: !str:CSV::Cell Panax
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell MILK THISTLE (SILYBUM MARIANUM)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020944
+      term: !str:CSV::Cell Milk Thistle
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell PULMONARY HEART DISEASE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011660
+      term: !str:CSV::Cell Pulmonary Heart Disease
+
+  ? !str:CSV::Cell NECK PAIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019547
+      term: !str:CSV::Cell Neck Pain
+
+  ? !str:CSV::Cell MACULAR DEGENERATION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008268
+      term: !str:CSV::Cell Macular Degeneration
+
+  ? !str:CSV::Cell CARNITINE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002331
+      term: !str:CSV::Cell Carnitine
+
+  ? !str:CSV::Cell CARPAL TUNNEL SYNDROME
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002349
+      term: !str:CSV::Cell Carpal Tunnel Syndrome
+
+  ? !str:CSV::Cell GASTROINTESTINAL DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005767
+      term: !str:CSV::Cell Gastrointestinal Diseases
+
+  ? !str:CSV::Cell AFRICAN PRUNE (PYGEUM AFRICANUM)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D031988
+      term: !str:CSV::Cell Pygeum
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell SELENIUM
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012643
+      term: !str:CSV::Cell Selenium
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000975
+      term: !str:CSV::Cell "Antioxidants "
+
+  ? !str:CSV::Cell ASTHMA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001249
+      term: !str:CSV::Cell Asthma
+
+  ? !str:CSV::Cell CYSTIC FIBROSIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003550
+      term: !str:CSV::Cell Cystic Fibrosis
+
+  ? !str:CSV::Cell ARGININE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001120
+      term: !str:CSV::Cell Arginine
+
+  ? !str:CSV::Cell EVENING PRIMROSE (OENOTHERA BIENNIS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D031665
+      term: !str:CSV::Cell Oenothera biennis
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell PANCREATITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010195
+      term: !str:CSV::Cell Pancreatitis
+
+  ? !str:CSV::Cell HIGH BLOOD PRESSURE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006973
+      term: !str:CSV::Cell Hypertension
+
+  ? !str:CSV::Cell BEREAVEMENT
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001601
+      term: !str:CSV::Cell Bereavement
+
+  ? !str:CSV::Cell MINDFULNESS-BASED STRESS REDUCTION (MBSR)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019122
+      term: !str:CSV::Cell Meditation
+
+  ? !str:CSV::Cell EYE DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005128
+      term: !str:CSV::Cell Eye Diseases
+
+  ? !str:CSV::Cell BULIMIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002032
+      term: !str:CSV::Cell Bulimia
+
+  ? !str:CSV::Cell OBESITY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009765
+      term: !str:CSV::Cell Obesity
+
+  ? !str:CSV::Cell MOTION SICKNESS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009041
+      term: !str:CSV::Cell Motion Sickness
+
+  ? !str:CSV::Cell INFLAMMATORY BOWEL DISEASE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015212
+      term: !str:CSV::Cell Inflammatory Bowel Diseases
+
+  ? !str:CSV::Cell EDUCATION/CPD
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004493
+      term: !str:CSV::Cell Education
+
+  ? !str:CSV::Cell CANCER PAIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010146
+      term: !str:CSV::Cell Pain
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009369
+      term: !str:CSV::Cell Neoplasms
+
+  ? !str:CSV::Cell ERECTILE DYSFUNCTION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007172
+      term: !str:CSV::Cell Erectile Dysfunction
+
+  ? !str:CSV::Cell ALOE (ALOE VERA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000504
+      term: !str:CSV::Cell Aloe
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell SICKLE CELL ANAEMIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000755
+      term: !str:CSV::Cell Anemia, Sickle Cell
+
+  ? !str:CSV::Cell PSORIASIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011565
+      term: !str:CSV::Cell Psoriasis
+
+  ? !str:CSV::Cell TRYPTOPHAN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014364
+      term: !str:CSV::Cell Tryptophan
+
+  ? !str:CSV::Cell WOUNDS AND INJURIES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014947
+      term: !str:CSV::Cell Wounds and Injuries
+
+  ? !str:CSV::Cell SORE THROAT
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010612
+      term: !str:CSV::Cell Pharyngitis
+
+  ? !str:CSV::Cell HEADACHE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006261
+      term: !str:CSV::Cell Headache
+
+  ? !str:CSV::Cell COGNITION DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003072
+      term: !str:CSV::Cell Cognition Disorders
+
+  ? !str:CSV::Cell ECZEMA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004485
+      term: !str:CSV::Cell Eczema
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003876
+      term: !str:CSV::Cell Dermatitis, Atopic
+
+  ? !str:CSV::Cell DEPRESSION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003863
+      term: !str:CSV::Cell Depression
+
+  ? !str:CSV::Cell THERAPEUTIC TOUCH
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019124
+      term: !str:CSV::Cell Therapeutic Touch
+
+  ? !str:CSV::Cell PNEUMONIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011014
+      term: !str:CSV::Cell Pneumonia
+
+  ? !str:CSV::Cell MYOCARDITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009205
+      term: !str:CSV::Cell Myocarditis
+
+  ? !str:CSV::Cell BORAGE (BORAGO OFFICINALIS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029683
+      term: !str:CSV::Cell Borago
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell SOY (GLYCINE MAX)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013025
+      term: !str:CSV::Cell Soybeans
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell HAWTHORN (CRATAEGUS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D027825
+      term: !str:CSV::Cell Crataegus
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell IPECACUANHA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D028503
+      term: !str:CSV::Cell Cephaelis
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell ALLERGIES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006967
+      term: !str:CSV::Cell Hypersensitivity
+
+  ? !str:CSV::Cell URINARY INCONTINENCE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014549
+      term: !str:CSV::Cell Urinary Incontinence
+
+  ? !str:CSV::Cell STROKE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020521
+      term: !str:CSV::Cell Stroke
+
+  ? !str:CSV::Cell SEIZURES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012640
+      term: !str:CSV::Cell Seizures
+
+  ? !str:CSV::Cell PREMENSTRUAL SYNDROME
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011293
+      term: !str:CSV::Cell Premenstrual Syndrome
+
+  ? !str:CSV::Cell GARLIC (ALLIUM SATIVUM)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005737
+      term: !str:CSV::Cell Garlic
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell ACUPUNCTURE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015670
+      term: !str:CSV::Cell Acupuncture Therapy
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015671
+      term: !str:CSV::Cell Electroacupuncture
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015667
+      term: !str:CSV::Cell Acupuncture Analgesia
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D055097
+      term: !str:CSV::Cell Auriculotherapy
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020831
+      term: !str:CSV::Cell Acupuncture, Ear
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D016740
+      term: !str:CSV::Cell Meridians
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015669
+      term: !str:CSV::Cell Acupuncture Points
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D026881
+      term: !str:CSV::Cell Acupuncture
+
+  ? !str:CSV::Cell AMINO ACIDS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000596
+      term: !str:CSV::Cell Amino Acids
+
+  ? !str:CSV::Cell CARDIOVASCULAR DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002318
+      term: !str:CSV::Cell Cardiovascular Diseases
+
+  ? !str:CSV::Cell MUSIC THERAPY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009147
+      term: !str:CSV::Cell Music Therapy
+
+  ? !str:CSV::Cell PREGNANCY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011247
+      term: !str:CSV::Cell Pregnancy
+
+  ? !str:CSV::Cell INDIGESTION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004415
+      term: !str:CSV::Cell Dyspepsia
+
+  ? !str:CSV::Cell FRACTURES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D050723
+      term: !str:CSV::Cell Fractures, Bone
+
+  ? !str:CSV::Cell BETA-CAROTENE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019207
+      term: !str:CSV::Cell beta Carotene
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000975
+      term: !str:CSV::Cell "Antioxidants "
+
+  ? !str:CSV::Cell SHOULDER IMPINGEMENT SYNDROME
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019534
+      term: !str:CSV::Cell Shoulder Impingement Syndrome
+
+  ? !str:CSV::Cell BUCKWHEAT
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019612
+      term: !str:CSV::Cell Fagopyrum
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell MELATONIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008550
+      term: !str:CSV::Cell Melatonin
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000975
+      term: !str:CSV::Cell "Antioxidants "
+
+  ? !str:CSV::Cell WHITE WILLOW (SALIX ALBA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D032108
+      term: !str:CSV::Cell Salix
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell SURGICAL PROCEDURES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013514
+      term: !str:CSV::Cell Surgical Procedures, Operative
+
+  ? !str:CSV::Cell SMOKING CESSATION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D016540
+      term: !str:CSV::Cell Smoking Cessation
+
+  ? !str:CSV::Cell RHINITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012220
+      term: !str:CSV::Cell Rhinitis
+
+  ? !str:CSV::Cell INTESTINAL OBSTRUCTION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007415
+      term: !str:CSV::Cell Intestinal Obstruction
+
+  ? !str:CSV::Cell PROBIOTICS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019936
+      term: !str:CSV::Cell Probiotics
+
+  ? !str:CSV::Cell VITAMINS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014815
+      term: !str:CSV::Cell Vitamins
+
+  ? !str:CSV::Cell FIBROIDS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007889
+      term: !str:CSV::Cell Leiomyoma
+
+  ? !str:CSV::Cell SEVERE ACUTE RESPIRATORY SYNDROME
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D045169
+      term: !str:CSV::Cell Severe Acute Respiratory Syndrome
+
+  ? !str:CSV::Cell SCHIZOPHRENIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012559
+      term: !str:CSV::Cell Schizophrenia
+
+  ? !str:CSV::Cell DONG QUAI (ANGELICA SINENSIS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029971
+      term: !str:CSV::Cell Angelica sinensis
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell HERBS A-C
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell GOTU KOLA (CENTELLA ASIATICA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D028041
+      term: !str:CSV::Cell Centella
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell GINGER (ZINGIBER OFFICINALE)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020939
+      term: !str:CSV::Cell Ginger
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell DYSPHAGIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003680
+      term: !str:CSV::Cell Deglutition Disorders
+
+  ? !str:CSV::Cell DIABETES MELLITUS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003920
+      term: !str:CSV::Cell Diabetes Mellitus
+
+  ? !str:CSV::Cell MALARIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008288
+      term: !str:CSV::Cell Malaria
+
+  ? !str:CSV::Cell HAY FEVER
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006255
+      term: !str:CSV::Cell Rhinitis, Allergic, Seasonal
+
+  ? !str:CSV::Cell HAEMORRHAGE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006470
+      term: !str:CSV::Cell Hemorrhage
+
+  ? !str:CSV::Cell CHITOSAN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D048271
+      term: !str:CSV::Cell Chitosan
+
+  ? !str:CSV::Cell ANXIETY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001007
+      term: !str:CSV::Cell Anxiety
+
+  ? !str:CSV::Cell NUTRITIONAL SUPPLEMENTS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019587
+      term: !str:CSV::Cell Dietary Supplements
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D018977
+      term: !str:CSV::Cell Micronutrients
+
+  ? !str:CSV::Cell ARTERIAL OCCLUSIVE DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001157
+      term: !str:CSV::Cell Arterial Occlusive Diseases
+
+  ? !str:CSV::Cell TENDINITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D052256
+      term: !str:CSV::Cell Tendinopathy
+
+  ? !str:CSV::Cell MOLLUSCUM CONTAGIOSUM
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008976
+      term: !str:CSV::Cell Molluscum Contagiosum
+
+  ? !str:CSV::Cell METABOLIC DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008659
+      term: !str:CSV::Cell Metabolic Diseases
+
+  ? !str:CSV::Cell KIDNEY DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007674
+      term: !str:CSV::Cell Kidney Diseases
+
+  ? !str:CSV::Cell MISTLETOE (VISCUM ALBUM)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D028182
+      term: !str:CSV::Cell Viscum album
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell SOY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013025
+      term: !str:CSV::Cell Soybeans
+
+  ? !str:CSV::Cell POISONING
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011041
+      term: !str:CSV::Cell Poisoning
+
+  ? !str:CSV::Cell INFLUENZA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007251
+      term: !str:CSV::Cell Influenza, Human
+
+  ? !str:CSV::Cell FLEABANE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D049919
+      term: !str:CSV::Cell Erigeron
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell BLACK CURRANT (RIBES NIGRUM)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D031965
+      term: !str:CSV::Cell Ribes
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell FOLIC ACID
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005492
+      term: !str:CSV::Cell Folic Acid
+
+  ? !str:CSV::Cell VITAMIN B 1
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013831
+      term: !str:CSV::Cell Thiamine
+
+  ? !str:CSV::Cell MYOFASCIAL PAIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009209
+      term: !str:CSV::Cell Myofascial Pain Syndromes
+
+  ? !str:CSV::Cell MYOCARDIAL INFARCTION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009203
+      term: !str:CSV::Cell Myocardial Infarction
+
+  ? !str:CSV::Cell DYSMENORRHOEA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004412
+      term: !str:CSV::Cell Dysmenorrhea
+
+  ? !str:CSV::Cell LIGHT THERAPY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010789
+      term: !str:CSV::Cell Phototherapy
+
+  ? !str:CSV::Cell CRANIOSACRAL THERAPY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008405
+      term: !str:CSV::Cell Massage
+
+  ? !str:CSV::Cell ENGLISH IVY (HEDERA HELIX)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D035981
+      term: !str:CSV::Cell Hedera
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell PELVIC PAIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D017699
+      term: !str:CSV::Cell Pelvic Pain
+
+  ? !str:CSV::Cell HEPATIC ENCEPHALOPATHY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006501
+      term: !str:CSV::Cell Hepatic Encephalopathy
+
+  ? !str:CSV::Cell STOMATITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013280
+      term: !str:CSV::Cell Stomatitis
+
+  ? !str:CSV::Cell PREMATURE INFANTS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007234
+      term: !str:CSV::Cell Infant, Premature
+
+  ? !str:CSV::Cell PRE-ECLAMPSIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011225
+      term: !str:CSV::Cell Pre-Eclampsia
+
+  ? !str:CSV::Cell FUNGAL INFECTIONS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003881
+      term: !str:CSV::Cell Dermatomycoses
+
+  ? !str:CSV::Cell ANDROGRAPHIS PANICULATA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D035685
+      term: !str:CSV::Cell Andrographis
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell REGULATION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D033161
+      term: !str:CSV::Cell "Government Regulation "
+
+  ? !str:CSV::Cell QI GONG
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001945
+      term: !str:CSV::Cell Breathing Exercises
+
+  ? !str:CSV::Cell DIETARY AND NUTRITIONAL THERAPIES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019587
+      term: !str:CSV::Cell Dietary Supplements
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005502
+      term: !str:CSV::Cell Food
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004032
+      term: !str:CSV::Cell Diet
+
+  ? !str:CSV::Cell OTHER THERAPIES OR MEDICAL SYSTEMS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000529
+      term: !str:CSV::Cell Complementary Therapies
+
+  ? !str:CSV::Cell OTITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010031
+      term: !str:CSV::Cell Otitis
+
+  ? !str:CSV::Cell MUSCULAR DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009135
+      term: !str:CSV::Cell Muscular Diseases
+
+  ? !str:CSV::Cell DIZZINESS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004244
+      term: !str:CSV::Cell Dizziness
+
+  ? !str:CSV::Cell DIETARY SODIUM CHLORIDE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D017673
+      term: !str:CSV::Cell Sodium Chloride, Dietary
+
+  ? !str:CSV::Cell SAW PALMETTO (SERENOA SERRULATA & REPENS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D028024
+      term: !str:CSV::Cell Serenoa
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell HEART FAILURE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006333
+      term: !str:CSV::Cell Heart Failure
+
+  ? !str:CSV::Cell HYPNOSIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006990
+      term: !str:CSV::Cell Hypnosis
+
+  ? !str:CSV::Cell VITAMIN B 6
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D025101
+      term: !str:CSV::Cell Vitamin B 6
+
+  ? !str:CSV::Cell KUDZU (PUERARIA LOBATA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029908
+      term: !str:CSV::Cell Pueraria
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell ATTENTION DEFICIT / HYPERACTIVITY DISORDER
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001289
+      term: !str:CSV::Cell Attention Deficit Disorder with Hyperactivity
+
+  ? !str:CSV::Cell YOGA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015013
+      term: !str:CSV::Cell Yoga
+
+  ? !str:CSV::Cell HERPES SIMPLEX VIRUS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006561
+      term: !str:CSV::Cell Herpes Simplex
+
+  ? !str:CSV::Cell BELL'S PALSY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020330
+      term: !str:CSV::Cell Bell Palsy
+
+  ? !str:CSV::Cell GLUCOSAMINE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005944
+      term: !str:CSV::Cell Glucosamine
+
+  ? !str:CSV::Cell CAM GENERAL
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000529
+      term: !str:CSV::Cell Complementary Therapies
+
+  ? !str:CSV::Cell GINKGO (GINKGO BILOBA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020441
+      term: !str:CSV::Cell Ginkgo biloba
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell FRANKINCENSE (BOSWELLIA SERRATA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029743
+      term: !str:CSV::Cell Boswellia
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell PEPPERMINT (MENTHA PIPERITA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D036142
+      term: !str:CSV::Cell Mentha piperita
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell ACUPRESSURE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019050
+      term: !str:CSV::Cell Acupressure
+
+  ? !str:CSV::Cell LAETRILE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000678
+      term: !str:CSV::Cell Amygdalin
+
+  ? !str:CSV::Cell HERBS D-G
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell MENTAL DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001523
+      term: !str:CSV::Cell Mental Disorders
+
+  ? !str:CSV::Cell LICE INFESTATIONS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010373
+      term: !str:CSV::Cell Lice Infestations
+
+  ? !str:CSV::Cell FALLS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000058
+      term: !str:CSV::Cell Accidental Falls
+
+  ? !str:CSV::Cell CREATINE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003401
+      term: !str:CSV::Cell Creatine
+
+  ? !str:CSV::Cell BITTER ORANGE (CITRUS AURANTIUM)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002957
+      term: !str:CSV::Cell Citrus
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell EPILEPSY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004827
+      term: !str:CSV::Cell Epilepsy
+
+  ? !str:CSV::Cell ECHINACEA (E. PURPUREA, E. ANGUSTIFOLIA, E. PALLIDA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020900
+      term: !str:CSV::Cell Echinacea
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell BREAST CANCER
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001943
+      term: !str:CSV::Cell Breast Neoplasms
+
+  ? !str:CSV::Cell ARTERIOSCLEROSIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001161
+      term: !str:CSV::Cell Arteriosclerosis
+
+  ? !str:CSV::Cell CHROMIUM
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002857
+      term: !str:CSV::Cell Chromium
+
+  ? !str:CSV::Cell LIPIDS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008055
+      term: !str:CSV::Cell Lipids
+
+  ? !str:CSV::Cell OTHER SUPPLEMENTS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019587
+      term: !str:CSV::Cell Dietary Supplements
+
+  ? !str:CSV::Cell OBSESSIVE-COMPULSIVE DISORDER
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009771
+      term: !str:CSV::Cell Obsessive-Compulsive Disorder
+
+  ? !str:CSV::Cell SLEEP DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012893
+      term: !str:CSV::Cell Sleep Disorders
+
+  ? !str:CSV::Cell ENURESIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004775
+      term: !str:CSV::Cell Enuresis
+
+  ? !str:CSV::Cell SPECIAL DIETS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004032
+      term: !str:CSV::Cell Diet
+
+  ? !str:CSV::Cell AYURVEDIC MEDICINE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008515
+      term: !str:CSV::Cell Medicine, Ayurvedic
+
+  ? !str:CSV::Cell XEROSTOMIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014987
+      term: !str:CSV::Cell Xerostomia
+
+  ? !str:CSV::Cell DEMENTIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003704
+      term: !str:CSV::Cell Dementia
+
+  ? !str:CSV::Cell VITAMIN B 12
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014805
+      term: !str:CSV::Cell Vitamin B 12
+
+  ? !str:CSV::Cell NECK INJURIES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019838
+      term: !str:CSV::Cell Neck Injuries
+
+  ? !str:CSV::Cell AROMATHERAPY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019341
+      term: !str:CSV::Cell Aromatherapy
+
+  ? !str:CSV::Cell CAYENNE PEPPER (CAPSICUM FRUTESCENS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002212
+      term: !str:CSV::Cell Capsicum
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell FOOD AND BEVERAGES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019602
+      term: !str:CSV::Cell Food and Beverages
+
+  ? !str:CSV::Cell LECITHIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D054709
+      term: !str:CSV::Cell Lecithins
+
+  ? !str:CSV::Cell INFERTILITY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007246
+      term: !str:CSV::Cell Infertility
+
+  ? !str:CSV::Cell FATIGUE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005221
+      term: !str:CSV::Cell Fatigue
+
+  ? !str:CSV::Cell COLIC
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003085
+      term: !str:CSV::Cell Colic
+
+  ? !str:CSV::Cell DYSKINESIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020820
+      term: !str:CSV::Cell Dyskinesias
+
+  ? !str:CSV::Cell HIGH CHOLESTEROL
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006937
+      term: !str:CSV::Cell Hypercholesterolemia
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002784
+      term: !str:CSV::Cell Cholesterol
+
+  ? !str:CSV::Cell FIBROMYALGIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005356
+      term: !str:CSV::Cell Fibromyalgia
+
+  ? !str:CSV::Cell GALLSTONES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D042882
+      term: !str:CSV::Cell Gallstones
+
+  ? !str:CSV::Cell ALCOHOL MISUSE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000437
+      term: !str:CSV::Cell Alcoholism
+
+  ? !str:CSV::Cell CORONARY HEART DISEASE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003327
+      term: !str:CSV::Cell Coronary Disease
+
+  ? !str:CSV::Cell CHRONIC FATIGUE SYNDROME
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015673
+      term: !str:CSV::Cell Fatigue Syndrome, Chronic
+
+  ? !str:CSV::Cell MEDITATION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019122
+      term: !str:CSV::Cell Meditation
+
+  ? !str:CSV::Cell TERMINAL CARE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013727
+      term: !str:CSV::Cell Terminal Care
+
+  ? !str:CSV::Cell PAIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010146
+      term: !str:CSV::Cell Pain
+
+  ? !str:CSV::Cell MULTIPLE SCLEROSIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009103
+      term: !str:CSV::Cell Multiple Sclerosis
+
+  ? !str:CSV::Cell CELANDINE (CHELIDONIUM MAJUS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D028281
+      term: !str:CSV::Cell Chelidonium
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell INOSITOL
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007294
+      term: !str:CSV::Cell Inositol
+
+  ? !str:CSV::Cell HERBAL MEDICINE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010946
+      term: !str:CSV::Cell Plants, Medicinal
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010936
+      term: !str:CSV::Cell Plant Extracts
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004365
+      term: !str:CSV::Cell Drugs, Chinese Herbal
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008419
+      term: !str:CSV::Cell Materia Medica
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008519
+      term: !str:CSV::Cell Medicine, Traditional
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029001
+      term: !str:CSV::Cell Herbal Medicine
+
+  ? !str:CSV::Cell FISH OILS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005395
+      term: !str:CSV::Cell Fish Oils
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015525
+      term: !str:CSV::Cell Fatty Acids, Omega-3
+
+  ? !str:CSV::Cell COMPLEMENTARY AND ALTERNATIVE MEDICINE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000529
+      term: !str:CSV::Cell Complementary Therapies
+
+  ? !str:CSV::Cell URINARY TRACT INFECTIONS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014552
+      term: !str:CSV::Cell Urinary Tract Infections
+
+  ? !str:CSV::Cell OSTEOPOROSIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010024
+      term: !str:CSV::Cell Osteoporosis
+
+  ? !str:CSV::Cell RESEARCH
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012106
+      term: !str:CSV::Cell Research
+
+  ? !str:CSV::Cell DEHYDROEPIANDROSTERONE (DHEA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003687
+      term: !str:CSV::Cell Dehydroepiandrosterone
+
+  ? !str:CSV::Cell BRANCHED-CHAIN AMINO ACIDS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000597
+      term: !str:CSV::Cell Amino Acids, Branched-Chain
+
+  ? !str:CSV::Cell SAME (S-ADENOSYL-L-METHIONINE)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012436
+      term: !str:CSV::Cell S-Adenosylmethionine
+
+  ? !str:CSV::Cell TEA TREE (MELALEUCA ALTERNIFOLIA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D031650
+      term: !str:CSV::Cell Melaleuca
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell VERTIGO
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014717
+      term: !str:CSV::Cell Vertigo
+
+  ? !str:CSV::Cell DEVILS CLAW (HARPAGOPHYTUM PROCUMBENS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D031684
+      term: !str:CSV::Cell Harpagophytum
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell TRADITIONAL CHINESE MEDICINE (TCM)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008516
+      term: !str:CSV::Cell Medicine, Chinese Traditional
+
+  ? !str:CSV::Cell EPHEDRA (EPHEDRA SINICA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029789
+      term: !str:CSV::Cell Ephedra
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell LABOUR
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007743
+      term: !str:CSV::Cell Labor, Obstetric
+
+  ? !str:CSV::Cell HYPERTENSION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006973
+      term: !str:CSV::Cell Hypertension
+
+  ? !str:CSV::Cell HEPATITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006505
+      term: !str:CSV::Cell Hepatitis
+
+  ? !str:CSV::Cell CONSTIPATION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003248
+      term: !str:CSV::Cell Constipation
+
+  ? !str:CSV::Cell DYSPNOEA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004417
+      term: !str:CSV::Cell Dyspnea
+
+  ? !str:CSV::Cell TENNIS ELBOW
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013716
+      term: !str:CSV::Cell Tennis Elbow
+
+  ? !str:CSV::Cell NIACIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009525
+      term: !str:CSV::Cell Niacin
+
+  ? !str:CSV::Cell NEPHROTIC SYNDROME
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009404
+      term: !str:CSV::Cell Nephrotic Syndrome
+
+  ? !str:CSV::Cell BRONCHITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001991
+      term: !str:CSV::Cell Bronchitis
+
+  ? !str:CSV::Cell TRIPTERYGIUM
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029757
+      term: !str:CSV::Cell Tripterygium
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell ZINC
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015032
+      term: !str:CSV::Cell Zinc
+
+  ? !str:CSV::Cell OMEGA-6 FATTY ACIDS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D043371
+      term: !str:CSV::Cell Fatty Acids, Omega-6
+
+  ? !str:CSV::Cell LUPUS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008180
+      term: !str:CSV::Cell Lupus Erythematosus, Systemic
+
+  ? !str:CSV::Cell GLAUCOMA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005901
+      term: !str:CSV::Cell Glaucoma
+
+  ? !str:CSV::Cell CARAWAY (CARUM CARVI)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029974
+      term: !str:CSV::Cell Carum
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell DENTAL CONDITIONS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003813
+      term: !str:CSV::Cell Dentistry
+
+  ? !str:CSV::Cell ALPHA-LIPOIC ACID
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008063
+      term: !str:CSV::Cell Thioctic Acid
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000975
+      term: !str:CSV::Cell "Antioxidants "
+
+  ? !str:CSV::Cell SEXUAL DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012735
+      term: !str:CSV::Cell Sexual Dysfunction, Physiological
+
+  ? !str:CSV::Cell NAUSEA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009325
+      term: !str:CSV::Cell Nausea
+
+  ? !str:CSV::Cell SHIATSU
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019050
+      term: !str:CSV::Cell Acupressure
+
+  ? !str:CSV::Cell ST JOHN'S WORT (HYPERICUM PERFORATUM)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020902
+      term: !str:CSV::Cell Hypericum
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell ANGINA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000787
+      term: !str:CSV::Cell Angina Pectoris
+
+  ? !str:CSV::Cell FEVERFEW (TANACETUM PARTHENIUM)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020903
+      term: !str:CSV::Cell Tanacetum parthenium
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell OSTEOPATHY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D026301
+      term: !str:CSV::Cell Manipulation, Osteopathic
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020393
+      term: !str:CSV::Cell Manipulation, Spinal
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010021
+      term: !str:CSV::Cell Osteopathic Medicine
+
+  ? !str:CSV::Cell LEUCOVORIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002955
+      term: !str:CSV::Cell Leucovorin
+
+  ? !str:CSV::Cell PERIPHERAL VASCULAR DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D016491
+      term: !str:CSV::Cell Peripheral Vascular Diseases
+
+  ? !str:CSV::Cell MEASLES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008457
+      term: !str:CSV::Cell Measles
+
+  ? !str:CSV::Cell HOT FLUSHES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D019584
+      term: !str:CSV::Cell Hot Flashes
+
+  ? !str:CSV::Cell GLUTAMINE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005973
+      term: !str:CSV::Cell Glutamine
+
+  ? !str:CSV::Cell MOXIBUSTION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009071
+      term: !str:CSV::Cell Moxibustion
+
+  ? !str:CSV::Cell IRON
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007501
+      term: !str:CSV::Cell Iron
+
+  ? !str:CSV::Cell MUSCULOSKELETAL DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009140
+      term: !str:CSV::Cell Musculoskeletal Diseases
+
+  ? !str:CSV::Cell ANXIETY DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001008
+      term: !str:CSV::Cell Anxiety Disorders
+
+  ? !str:CSV::Cell LINOLEIC ACIDS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008041
+      term: !str:CSV::Cell Linoleic Acids
+
+  ? !str:CSV::Cell HERBS R-Z
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell SOMATOFORM DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013001
+      term: !str:CSV::Cell Somatoform Disorders
+
+  ? !str:CSV::Cell BLUE COHOSH (CAULOPHYLLUM THALICTROIDES)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D028145
+      term: !str:CSV::Cell Caulophyllum
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell NERVOUS SYSTEM DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D009422
+      term: !str:CSV::Cell Nervous System Diseases
+
+  ? !str:CSV::Cell LYMPHOEDEMA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008209
+      term: !str:CSV::Cell Lymphedema
+
+  ? !str:CSV::Cell CONTRACEPTION
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003267
+      term: !str:CSV::Cell Contraception
+
+  ? !str:CSV::Cell CHRONIC OBSTRUCTIVE PULMONARY DISEASE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029424
+      term: !str:CSV::Cell Pulmonary Disease, Chronic Obstructive
+
+  ? !str:CSV::Cell REFLEXOLOGY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008405
+      term: !str:CSV::Cell Massage
+
+  ? !str:CSV::Cell COENZYME Q
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014451
+      term: !str:CSV::Cell Ubiquinone
+
+  ? !str:CSV::Cell MENSTRUAL CYCLE DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008599
+      term: !str:CSV::Cell Menstruation Disturbances
+
+  ? !str:CSV::Cell IRRITABLE BOWEL SYNDROME
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D043183
+      term: !str:CSV::Cell Irritable Bowel Syndrome
+
+  ? !str:CSV::Cell DIETARY FIBRE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004043
+      term: !str:CSV::Cell Dietary Fiber
+
+  ? !str:CSV::Cell BUTTERBUR (PETASITES VULGARIS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D036901
+      term: !str:CSV::Cell Petasites
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell WARTS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014860
+      term: !str:CSV::Cell Warts
+
+  ? !str:CSV::Cell SKIN DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012871
+      term: !str:CSV::Cell Skin Diseases
+
+  ? !str:CSV::Cell PHOBIC DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010698
+      term: !str:CSV::Cell Phobic Disorders
+
+  ? !str:CSV::Cell LEARNING DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007859
+      term: !str:CSV::Cell Learning Disorders
+
+  ? !str:CSV::Cell AMYOTROPHIC LATERAL SCLEROSIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000690
+      term: !str:CSV::Cell Amyotrophic Lateral Sclerosis
+
+  ? !str:CSV::Cell CHIROPRACTIC
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D026882
+      term: !str:CSV::Cell Manipulation, Chiropractic
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020393
+      term: !str:CSV::Cell Manipulation, Spinal
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002684
+      term: !str:CSV::Cell Chiropractic
+
+  ? !str:CSV::Cell MASSAGE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008405
+      term: !str:CSV::Cell Massage
+
+  ? !str:CSV::Cell ENT CONDITIONS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010038
+      term: !str:CSV::Cell Otorhinolaryngologic Diseases
+
+  ? !str:CSV::Cell SHOULDER PAIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D020069
+      term: !str:CSV::Cell Shoulder Pain
+
+  ? !str:CSV::Cell PINE TREE (PINUS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D028223
+      term: !str:CSV::Cell Pinus
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell RED CLOVER (TRIFOLIUM PRATENSE)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029921
+      term: !str:CSV::Cell Trifolium
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell TINNITUS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014012
+      term: !str:CSV::Cell Tinnitus
+
+  ? !str:CSV::Cell STRESS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013315
+      term: !str:CSV::Cell Stress, Psychological
+
+  ? !str:CSV::Cell PROSTATE CANCER
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011471
+      term: !str:CSV::Cell Prostatic Neoplasms
+
+  ? !str:CSV::Cell MAGNESIUM
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008274
+      term: !str:CSV::Cell Magnesium
+
+  ? !str:CSV::Cell ART THERAPY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001155
+      term: !str:CSV::Cell Art Therapy
+
+  ? !str:CSV::Cell VARICOSE VEINS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014648
+      term: !str:CSV::Cell Varicose Veins
+
+  ? !str:CSV::Cell POST-TRAUMATIC STRESS DISORDER
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013313
+      term: !str:CSV::Cell Stress Disorders, Post-Traumatic
+
+  ? !str:CSV::Cell "PARKINSON\x92S DISEASE"
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D010300
+      term: !str:CSV::Cell Parkinson Disease
+
+  ? !str:CSV::Cell MALE UROGENITAL DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D052801
+      term: !str:CSV::Cell Male Urogenital Diseases
+
+  ? !str:CSV::Cell APNOEA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001049
+      term: !str:CSV::Cell Apnea
+
+  ? !str:CSV::Cell ALTITUDE SICKNESS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000532
+      term: !str:CSV::Cell Altitude Sickness
+
+  ? !str:CSV::Cell SENNA (SENNA ALEXANDRINA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029846
+      term: !str:CSV::Cell Senna Plant
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell VOMITING
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014839
+      term: !str:CSV::Cell Vomiting
+
+  ? !str:CSV::Cell SAGE (SALVIA OFFICINALIS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D027543
+      term: !str:CSV::Cell Salvia officinalis
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell CHONDROITIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002807
+      term: !str:CSV::Cell Chondroitin
+
+  ? !str:CSV::Cell ESSENTIAL FATTY ACIDS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005228
+      term: !str:CSV::Cell Fatty Acids, Essential
+
+  ? !str:CSV::Cell CALCIUM
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D002119
+      term: !str:CSV::Cell Calcium Carbonate
+
+  ? !str:CSV::Cell LUNG CANCER
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008175
+      term: !str:CSV::Cell Lung Neoplasms
+
+  ? !str:CSV::Cell DIARRHOEA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003967
+      term: !str:CSV::Cell Diarrhea
+
+  ? !str:CSV::Cell GRAPE VINE (VITIS VINIFERA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D027843
+      term: !str:CSV::Cell Vitis
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell VALERIAN (VALERIANA OFFICINALIS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014632
+      term: !str:CSV::Cell Valerian
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell COLITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003092
+      term: !str:CSV::Cell Colitis
+
+  ? !str:CSV::Cell HYPOXIS ROOPERI
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D027802
+      term: !str:CSV::Cell Hypoxis
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell VISION DISORDERS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014786
+      term: !str:CSV::Cell Vision Disorders
+
+  ? !str:CSV::Cell DYSPEPSIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004415
+      term: !str:CSV::Cell Dyspepsia
+
+  ? !str:CSV::Cell ARTICHOKE (CYNARA SCOLYMUS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D031943
+      term: !str:CSV::Cell Cynara scolymus
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell VITAMIN A
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014801
+      term: !str:CSV::Cell Vitamin A
+
+  ? !str:CSV::Cell VESTIBULAR DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015837
+      term: !str:CSV::Cell Vestibular Diseases
+
+  ? !str:CSV::Cell HYPERTHYROIDISM
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006980
+      term: !str:CSV::Cell Hyperthyroidism
+
+  ? !str:CSV::Cell BILBERRY (VACCINIUM MYRTILLUS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D029800
+      term: !str:CSV::Cell Vaccinium myrtillus
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell SPRAINS AND STRAINS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D013180
+      term: !str:CSV::Cell Sprains and Strains
+
+  ? !str:CSV::Cell HERNIATED DISC
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D007405
+      term: !str:CSV::Cell Intervertebral Disk Displacement
+
+  ? !str:CSV::Cell ABDOMINAL PAIN
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015746
+      term: !str:CSV::Cell Abdominal Pain
+
+  ? !str:CSV::Cell RYE (SECALE CEREALE)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D012434
+      term: !str:CSV::Cell Secale cereale
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell ALZHEIMER'S DISEASE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000544
+      term: !str:CSV::Cell Alzheimer Disease
+
+  ? !str:CSV::Cell POTASSIUM
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D011188
+      term: !str:CSV::Cell Potassium
+
+  ? !str:CSV::Cell VITAMIN C
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001205
+      term: !str:CSV::Cell Ascorbic Acid
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000975
+      term: !str:CSV::Cell "Antioxidants "
+
+  ? !str:CSV::Cell VENOUS INSUFFICIENCY
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014689
+      term: !str:CSV::Cell Venous Insufficiency
+
+  ? !str:CSV::Cell RHEUMATOID ARTHRITIS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001172
+      term: !str:CSV::Cell Arthritis, Rheumatoid
+
+  ? !str:CSV::Cell HIV (HUMAN IMMUNODEFICIENCY VIRUS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006678
+      term: !str:CSV::Cell HIV
+
+  ? !str:CSV::Cell KAVA (PIPER METHYSTICUM)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell " D020901 "
+      term: !str:CSV::Cell Kava
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell SPRUCE TREE (PICEA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D028222
+      term: !str:CSV::Cell Picea
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell HEALING
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008602
+      term: !str:CSV::Cell Mental Healing
+
+  ? !str:CSV::Cell VITAMIN B COMPLEX
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014803
+      term: !str:CSV::Cell Vitamin B Complex
+
+  ? !str:CSV::Cell BREATHLESSNESS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D004417
+      term: !str:CSV::Cell Dyspnea
+
+  ? !str:CSV::Cell VITAMIN D
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell " D014807 "
+      term: !str:CSV::Cell Vitamin D
+
+  ? !str:CSV::Cell EVENING PRIMROSE OIL
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D005228
+      term: !str:CSV::Cell Fatty Acids, Essential
+
+  ? !str:CSV::Cell PATELLOFEMORAL PAIN SYNDROME
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D046788
+      term: !str:CSV::Cell Patellofemoral Pain Syndrome
+
+  ? !str:CSV::Cell HYPERLIPIDAEMIA
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D006949
+      term: !str:CSV::Cell Hyperlipidemias
+
+  ? !str:CSV::Cell ACNE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000152
+      term: !str:CSV::Cell Acne Vulgaris
+
+  ? !str:CSV::Cell CYSTEINE
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D003545
+      term: !str:CSV::Cell Cysteine
+
+  ? !str:CSV::Cell TEA (CAMELLIA SINENSIS)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D028241
+      term: !str:CSV::Cell Camellia sinensis
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell DOG ROSE (ROSA CANINA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D027826
+      term: !str:CSV::Cell Rosa
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell VITAMIN E
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D014810
+      term: !str:CSV::Cell Vitamin E
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D000975
+      term: !str:CSV::Cell "Antioxidants "
+
+  ? !str:CSV::Cell BLACK COHOSH (CIMICIFUGA RACEMOSA)
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D031885
+      term: !str:CSV::Cell Cimicifuga
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008517
+      term: !str:CSV::Cell Phytotherapy
+
+  ? !str:CSV::Cell BACTERIAL INFECTIONS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D001424
+      term: !str:CSV::Cell Bacterial Infections
+
+  ? !str:CSV::Cell LIVER DISEASES
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D008107
+      term: !str:CSV::Cell Liver Diseases
+
+  ? !str:CSV::Cell COLORECTAL CANCER
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015179
+      term: !str:CSV::Cell Colorectal Neoplasms
+
+  ? !str:CSV::Cell OMEGA-3 FATTY ACIDS
+  : 
+    - !ruby/object:TermMapping 
+      mesh_id: !str:CSV::Cell D015525
+      term: !str:CSV::Cell Fatty Acids, Omega-3
+

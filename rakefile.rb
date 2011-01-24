@@ -11,100 +11,121 @@ require 'open-uri'
 require 'uri'
 
 require 'lib/specialities'
+require 'lib/classify'
+
+require 'curb'
 
 @mappings
+@csv_paths
 @specialism_mapping
 @intended_audience = /Intended\saudience:<\/strong>\s*(.*?)<\/p>/
 @mapping_data_folder = "mapping_data"
 
-task :find_ontology_ids do
-
-  @known_paths = Hash.new
-  @new_mappings = []
+task :generate_csv_paths do
+  
+  @csv_paths = []
   
   Find.find(@mapping_data_folder) do |path|
- 
-    if !FileTest.directory?(path)
-      
-      CSV.foreach(path) do |row|
-        
-        # is not the head row and is not exluded from processing
-        if row[0] != "TOPIC" and row[3] != "1"
-      
-          term = row[1]
-          
-          if @known_paths[term].nil?
-            url = "http://ses-test-r4.evidence.nhs.uk/ses?TBDB=disp_taxonomy&TEMPLATE=service.xml&SERVICE=term&TERM=#{URI.escape(term)}"
-            puts "retrieving #{url} ..."
-                        
-            # data = XmlSimple.xml_in open(url) 
-            
-            data = XmlSimple.xml_in ("<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<SEMAPHORE>\r\n\t<PARAMETERS>\r\n\t\t<PARAMETER NAME='TBDB'>disp_taxonomy</PARAMETER>\r\n\t\t<PARAMETER NAME='SERVICE'>term</PARAMETER>\r\n\t\t<PARAMETER NAME='TEMPLATE'>service.xml</PARAMETER>\r\n\t\t<PARAMETER NAME='TERM'>Women&apos;s Health</PARAMETER>\r\n\t</PARAMETERS>\r\n\t<TERMS>\r\n\t\t<TERM SRC='1' INDEX='disp_taxonomy' RANK='0' PERCENTAGE='86' WEIGHT='16.6908'>\r\n\t\t\t<NAME>Women&apos;s Health</NAME>\r\n\t\t\t<ID>253550</ID>\r\n\t\t\t<DISPLAY_NAME>Women&apos;s Health</DISPLAY_NAME>\r\n\t\t\t<FREQUENCY>0</FREQUENCY>\r\n\t\t\t<PATH TYPE='Narrower Term' ABBR='NT'>\r\n\t\t\t\t<FIELD FACET0='NHS Evidence' FACET_ID0='565220' FREQ='0' ID='565220' NAME='term'>NHS Evidence</FIELD>\r\n\t\t\t\t<FIELD FACET0='NHS Evidence' FACET_ID0='565220' FREQ='0' ID='276199' NAME='term'>MeSH (purged)</FIELD>\r\n\t\t\t\t<FIELD FACET0='NHS Evidence' FACET_ID0='565220' FREQ='0' ID='219952' NAME='term'>Health Care</FIELD>\r\n\t\t\t\t<FIELD FACET0='NHS Evidence' FACET_ID0='565220' FREQ='0' ID='219055' NAME='term'>Population Characteristics</FIELD>\r\n\t\t\t\t<FIELD FACET0='NHS Evidence' FACET_ID0='565220' FREQ='0' ID='220290' NAME='term'>Health</FIELD>\r\n\t\t\t\t<FIELD FACET0='NHS Evidence' FACET_ID0='565220' FREQ='0' ID='253550' NAME='term'>Women&apos;s Health</FIELD>\r\n\t\t\t</PATH>\r\n\t\t\t<HIERARCHY TYPE='Broader Term' ABBR='BT'>\r\n\t\t\t\t<FIELD FACET0='NHS Evidence' FACET_ID0='565220' FREQ='0' ID='220290' NAME='term'>Health</FIELD>\r\n\t\t\t</HIERARCHY>\r\n\t\t\t<FACETS>\r\n\t\t\t\t<FACET NAME='NHS Evidence' ID='565220' />\r\n\t\t\t</FACETS>\r\n\t\t\t<ATTRIBUTE>\r\n\t\t\t\t<FIELD NAME='A-Z Entry'>1</FIELD>\r\n\t\t\t\t<FIELD NAME='Use for classifying content'>1</FIELD>\r\n\t\t\t\t<FIELD NAME='Significant Term'>0</FIELD>\r\n\t\t\t\t<FIELD NAME='Do not use for concept mapping'>0</FIELD>\r\n\t\t\t\t<FIELD NAME='TopicArea'>0</FIELD>\r\n\t\t\t\t<FIELD NAME='Topic'>0</FIELD>\r\n\t\t\t</ATTRIBUTE>\r\n\t\t\t<METADATA>\r\n\t\t\t\t<FIELD NAME='MeSH ID'>D016387</FIELD>\r\n\t\t\t\t<FIELD NAME='Tree Number'>N01.400.900</FIELD>\r\n\t\t\t</METADATA>\r\n\t\t\t<SYNONYMS TYPE='Use' ABBR='USE'>\r\n\t\t\t\t<SYNONYM ID='155088'>Health, Woman&apos;s</SYNONYM>\r\n\t\t\t\t<SYNONYM ID='155084'>Health, Women&apos;s</SYNONYM>\r\n\t\t\t\t<SYNONYM ID='155087'>Woman&apos;s Health</SYNONYM>\r\n\t\t\t\t<SYNONYM ID='155085'>Women Health</SYNONYM>\r\n\t\t\t\t<SYNONYM ID='155086'>Womens Health</SYNONYM>\r\n\t\t\t</SYNONYMS>\r\n\t\t</TERM>\r\n\t</TERMS>\r\n</SEMAPHORE>\r\n", {"ForceArray" => false})
-            
-            raise "More than one term returned for #{term}, there should only be one" if data["TERMS"].count > 1
-
-            data["TERMS"].each{|term|
-              
-              term.each{|t|
-                p t["RANK"]
-                p t["METADATA"]["FIELD"][0]
-                p t["HIERARCHY"]
-              }
-              
-            }
-          end
-          
-          term_info = @known_paths[term]
-          
-          @new_mappings << {
-            "SC_TERM" => row[0],
-            "MESH_TERM" => row[1],
-            "MESH_ID" => row[2],
-            "IGNORE" => 0#, # excluding ignored rows already
-            #{}"PATH" => term_info.path,
-            #{}"ONTOLOGY_ID" => term_info.ontology_id
-          }
-          
-        end
-        
-      end
-      
-      # write out new_mappings to CSV...
-
-    end
-   end
+    @csv_paths << path if !FileTest.directory?(path)
+  end
+  
+  @csv_paths
 end
 
-task :generate_mappings do
+task :classify_url => [:generate_csv_paths] do
+
+classify_url "http://www.thecochranelibrary.com/details/collection/978807/Cochrane-Influenza-Resources-evidence-from-Cochrane-Reviews.html"
+  
+end
+
+task :find_ontology_ids => [:generate_csv_paths] do
+
+  @known_paths = Hash.new
+  
+  @csv_paths.each{|path|
+    @new_mappings = []
+
+    CSV.foreach(path) do |row|
+      # is not the head row and is not exluded from processing
+      if row[0] != "SC_TERM" and row[3] != "1"
+
+        term = row[1]
+
+        if @known_paths[term].nil?
+          url = "http://ses-test-r4.evidence.nhs.uk/ses?TBDB=disp_taxonomy&TEMPLATE=service.json&SERVICE=term&TERM=#{URI.escape(term)}"
+          puts "retrieving #{url} ..."
+
+          f = open(url)
+          raw_json = f.read
+          data = JSON.parse(raw_json)
+
+          if data["terms"].nil?
+            @known_paths[term] = {
+              :path => [],
+              :ontology_id => 0
+            }
+          else
+            raise "More than one term returned for #{term}, there should only be one" if data["terms"].count > 1
+          end
+    
+          term_info = process_term(data)
+          @known_paths[term] = term_info
+          
+        end
+
+      end
+
+      term_info = @known_paths[term]
+
+      @new_mappings << {
+        "SC_TERM" => row[0],
+        "MESH_TERM" => row[1],
+        "MESH_ID" => row[2],
+        "IGNORE" => 0, # excluding ignored rows already
+        "PATH" => term_info[:paths],
+        "ONTOLOGY_ID" => term_info[:ontology_id]
+      }
+    end
+  } 
+  
+  CSV.open("#{@mapping_data_folder}/converted.csv", "wb") do |csv|
+    @new_mappings.each{|m|
+      csv << [m["SC_TERM"], m["MESH_TERM"], m["MESH_ID"], m["IGNORE"], m["PATH"], m["ONTOLOGY_ID"]]
+    }
+  end
+    
+end
+
+
+# yield like processing for csv to simplify...
+# need to try catorgorise the urls...
+# output will look like:
+# article url, mapped terms, autocat terms (relevancy...)
+
+task :generate_mappings => [:generate_csv_paths] do
   
   puts "generating mappings..."
   
   @mappings = Specialities.new
 
-  
-  
-  Find.find(@mapping_data_folder) do |path|
-        
-    if !FileTest.directory?(path)
+  @csv_paths.each{|path|
+              
+    specialism_name = path.split("/")[1].gsub(".csv","")
+    
+    specialism = @mappings.add(specialism_name)
+    
+    CSV.foreach(path) do |row|
       
-      specialism_name = path.split("/")[1].gsub(".csv","")
-      
-      specialism = @mappings.add(specialism_name)
-      
-      CSV.foreach(path) do |row|
-        
-        # is not the head row and is not exluded from processing
-        if row[0] != "TOPIC" and row[3] != "1"
-          specialism.add(row[0], row[1], row[2])
-        end
-        
+      # is not the head row and is not exluded from processing
+      if row[0] != "TOPIC" and row[3] != "1"
+        specialism.add(row[0], row[1], row[2])
       end
-      
-      puts "processed #{specialism_name}, #{specialism.length} mapped topics"
       
     end
     
-  end
+    puts "processed #{specialism_name}, #{specialism.length} mapped topics"
+    
+  }
    
   File.open("mappings.yaml", "w") { |file| YAML.dump(@mappings, file) }
   puts "processed mappings written to mappings.yaml"
@@ -219,6 +240,28 @@ def map_keywords(keywords)
   
   tags.flatten!
   # find matching paths, need to add lookup to real terms in ontology (using service)?
+end
+
+
+def process_term(data)
+  term_data = data["terms"][0]["term"]
+
+  term_paths = term_data["paths"]
+  
+  mapped_paths = []
+  
+  term_paths.each{|paths|
+    mapped_paths << "/" + paths["path"].collect{|path| path["field"]["id"] }.join('/') + "/"
+  }
+  
+  term_info = {
+    :paths => mapped_paths,
+    :ontology_id => term_data["id"]
+  }
+end
+
+def get_paths
+  
 end
 
 class String

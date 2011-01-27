@@ -1,5 +1,5 @@
-CHILD HEALTH,Child_Health,D00001,0,,0
-ETHICS AND LAW,Ethics,D00002,0,/277178/277198/276203/219939/218974/216012//277178/277198/276203/215178/216012//277178/277198/276203/215787/213444/219798/218362/216012//277178/277198/276203/215787/215793/215792/213590/219798/218362/216012//277178/277198/276203/215178/219999/216012/,216012
-ETHICS AND LAW,Law,D00003,0,/277178/286972/288462/277476/277613/,277613
-ETHICS AND LAW,Fiscal,D00004,0,,0
-AGE GROUPS,sneezy_in_mesh,D00005,0,,0
+CHILD HEALTH,Child_Health,D00001,0,0,null
+ETHICS AND LAW,Ethics,D00002,0,216012,"[""|NHS Evidence|Tags|MeSH (purged)|Health Care|Health Care Quality, Access, and Evaluation|Ethics|"",""|NHS Evidence|Tags|MeSH (purged)|Humanities|Ethics|"",""|NHS Evidence|Tags|MeSH (purged)|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Psychology, Social|Morals|Ethics|"",""|NHS Evidence|Tags|MeSH (purged)|Psychiatry and Pscychology|Behavioral Disciplines and Activities|Behavioral Sciences|Psychology|Psychology, Social|Morals|Ethics|"",""|NHS Evidence|Tags|MeSH (purged)|Humanities|Philosophy|Ethics|""]"
+ETHICS AND LAW,Law,D00003,0,277613,"[""|NHS Evidence|unused|IPSV|Public order, justice and rights|Law|""]"
+ETHICS AND LAW,Fiscal,D00004,0,0,null
+AGE GROUPS,sneezy_in_mesh,D00005,0,0,null

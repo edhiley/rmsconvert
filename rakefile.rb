@@ -188,15 +188,15 @@ def create_document (doc, area_of_interest)
     document['RMSKeywords'] = keywords
 
     document['RelatedUrls'] = [] # seek origin
-    document['TargetCountry'] = ""
-    document['Creator'] = "RMS Import"
+    document['TargetCountry'] = []
+    document['Creator'] = ["RMS Import"]
     #document['ResourceType'] = doc['resourceType'].to_s
     document['Title'] = doc['title'].to_s
     #document['TitleForSorting'] = document['Title'].to_sort
     document['Description'] = Sanitize.clean(doc['body'].to_s.strip_cdata, Sanitize::Config::RELAXED)
     document['Url'] = doc['url'].to_s.strip_cdata
     document['Attachment'] = ""
-    document['PublicationType'] = doc['publicationType'].to_s.capitalize_each
+    document['PublicationType'] = [doc['publicationType'].to_s.capitalize_each]
     
     audience = document['Description'].scan(@intended_audience)[0]
     document['Audience'] = audience[0].to_audiences rescue []
@@ -205,11 +205,11 @@ def create_document (doc, area_of_interest)
     #document['ReviewDate']  # seek origin
     document['Source']  = area_of_interest
     document['Publisher'] = doc['publisher'].to_s
-    document['Contributor'] = "RMS Import"
+    document['Contributor'] = ["RMS Import"]
     document['ExpiryDate'] = doc['expiryDate'].to_s.to_date
     
     document['Tags'] = map_keywords(keywords.split(",")) unless @specialism_mapping.nil?
-    document['AreaOfInterest'] = area_of_interest
+    document['AreaOfInterest'] = [area_of_interest]
     document['CreatedDate'] = Time.now.to_s.to_date
     
     document
@@ -263,7 +263,7 @@ class String
   end
   
   def to_date
-    Date.parse(self).strftime('%Y-%m-%dT%H:%M:%S%z') rescue "" #"that's a no-no #{self}"
+    Date.parse(self).strftime('%Y-%m-%dT%H:%M:%S%z') rescue nil #"that's a no-no #{self}"
   end
   
   def to_sort

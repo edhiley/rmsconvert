@@ -117,6 +117,32 @@ task :generate_publication_types do
 
 end
 
+task :generate_publisher_source do
+  # CURRENT_PUBLISHER,PUBLISHER,SOURCE,IGNORE
+
+  @publisher = Hash.new
+  @source = Hash.new
+
+   CSV.foreach("#{@controlled_fields_folder}/publisherandsource.csv") do |row|
+     
+    next if row[0].to_s == "CURRENT_PUBLISHER"
+    next if row[3].to_s == "IGNORE"
+   
+    key = row[0].to_s.downcase
+
+    if !row[1].nil? # map to new publisher
+      @publisher[key] = row[1]
+    end
+
+    if !row[2].nil? # map to source
+      @source[key] = row[2]
+    end
+  end
+  
+  p @source
+end
+
+
 task :generate_mappings => [:generate_csv_paths, :generate_publication_types] do
   
   puts "generating mappings..."

@@ -25,13 +25,16 @@ require 'curb'
 @specialism_mapping
 @intended_audience = /Intended\saudience:<\/strong>\s*(.*?)<\/p>/
 @mapping_data_folder = "mapping_data"
+@controlled_fields_folder = "controlled_fields"
+@publication_types
  
 task :generate_csv_paths do
   
   @csv_paths = []
   
   Find.find(@mapping_data_folder) do |path|
-    @csv_paths << path if !FileTest.directory?(path)
+    next if FileTest.directory?(path) or path.eql?("#{@mapping_data_folder}/.DS_Store")
+    @csv_paths << path if !path.start_with?(".")
   end
   
   @csv_paths
@@ -104,7 +107,17 @@ task :find_ontology_ids => [:generate_csv_paths] do
   
 end
 
-task :generate_mappings => [:generate_csv_paths] do
+task :generate_publication_types do
+  @publication_types = Hash.new
+  
+  CSV.foreach("#{@controlled_fields_folder}/publicationtype.csv") do |row|
+    @publication_types[row[0].to_s.downcase] = row[1]
+    @publication_types[row[0].to_s.downcase] = row[0] if row[1].nil?
+  end
+
+end
+
+task :generate_mappings => [:generate_csv_paths, :generate_publication_types] do
   
   puts "generating mappings..."
   
@@ -196,8 +209,7 @@ def create_document (doc, area_of_interest)
     document['Attachment'] = ""
     
     # these will now need mapping according to mapping_data/controlled_fields
-    document['PublicationType'] = [doc['publicationType'].to_s.capitalize_each]
-    
+    document['PublicationType'] = map_publication_type(doc['publicationType'].to_s)
     
     # the source and publisher are now to be mapped - there will be a file for this...
     document['Source'] = [area_of_interest]
@@ -206,7 +218,6 @@ def create_document (doc, area_of_interest)
     
     audience = document['Description'].scan(@intended_audience)[0]
     document['Audience'] = audience[0].to_audiences rescue []
-    
     
     
     document['PublicationDate'] = doc['publicationDate'].to_s.to_date
@@ -222,6 +233,21 @@ def create_document (doc, area_of_interest)
         
     document
 end
+
+def map_publication_type(in_type)
+  mapped_type = @publication_types[in_type.downcase]
+  
+  #puts "#{in_type.downcase}..."
+  #puts "#{@publication_types[in_type.downcase]}"
+  
+  if mapped_type.nil?
+    [in_type.capitalize_each]
+  else
+    [mapped_type]
+  end
+  
+end
+
 
 def map_keywords(keywords)
   tags = []

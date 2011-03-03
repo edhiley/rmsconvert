@@ -287,15 +287,16 @@ def map_keywords(keywords)
           "Id" => m.term_id,
           "MeshId" => m.mesh_id,
           "Name" => m.term,
-          "Path" => m.path,
+          "Path" => {
+              "Values" => m.path
+            },
           "Score" => 0.9
         }
       }
     end
   }
-  
+
   tags.flatten!
-  # find matching paths, need to add lookup to real terms in ontology (using service)?
 end
 
 def process_term(data)

@@ -259,6 +259,9 @@ def create_document (doc, area_of_interest)
     document['CreatedDate'] = Time.now.to_s.to_date
     
     document['Contributor'] = doc['creator'].to_s.split(", ")
+    
+    # needs to be "Mental Health"...
+    document['ImportProcesCreator'] = area_of_interest
         
     document
 end

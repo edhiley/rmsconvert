@@ -1,5 +1,397 @@
-CHILD HEALTH,Child_Health,D00001,0,0,null
-ETHICS AND LAW,Ethics,D00002,0,216012,"[""|NHS Evidence|Tags|MeSH (purged)|Health Care|Health Care Quality, Access, and Evaluation|Ethics|"",""|NHS Evidence|Tags|MeSH (purged)|Humanities|Ethics|"",""|NHS Evidence|Tags|MeSH (purged)|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Psychology, Social|Morals|Ethics|"",""|NHS Evidence|Tags|MeSH (purged)|Psychiatry and Pscychology|Behavioral Disciplines and Activities|Behavioral Sciences|Psychology|Psychology, Social|Morals|Ethics|"",""|NHS Evidence|Tags|MeSH (purged)|Humanities|Philosophy|Ethics|""]"
-ETHICS AND LAW,Law,D00003,0,277613,"[""|NHS Evidence|unused|IPSV|Public order, justice and rights|Law|""]"
-ETHICS AND LAW,Fiscal,D00004,0,0,null
-AGE GROUPS,sneezy_in_mesh,D00005,0,0,null
+CHILD HEALTH,Paediatrics,D010372,0,109776,"[""|Health Services And Their Management|Healthcare And Health Services|Medicine|Paediatrics|""]"
+CHILDREN'S NSF,National Service Framework,,0,109644,"[""|Health Services And Their Management|Management And Policy|Government Policy|National Service Framework|"",""|Health Services And Their Management|Management And Policy|National Service Framework|""]"
+EDUCATION/CPD,"Education, Continuing",D004496,0,117445,"[""|Education, Sociology and Social Phenomena|Education|Education, Professional|Education, Continuing|""]"
+ONLINE LEARNING,"Education, Continuing",D004496,0,117445,"[""|Education, Sociology and Social Phenomena|Education|Education, Professional|Education, Continuing|""]"
+MEDICINES,Prescriptions,D055656,0,0,null
+ETHICS AND LAW,Ethics,D004989,0,107989,"[""|Determinants Of Health|Social Determinant|Socioeconomic Factor|Social Factor|Ethics|""]"
+CONFIDENTIALITY,Confidentiality,D003219,0,108266,"[""|Determinants Of Health|Social Determinant|Socioeconomic Factor|Social Factor|Ethics|Confidentiality|""]"
+CONSENT,Informed Consent,D007258,0,108206,"[""|Determinants Of Health|Social Determinant|Socioeconomic Factor|Social Factor|Ethics|Informed Consent|""]"
+ETHICS,Ethics,D004989,0,107989,"[""|Determinants Of Health|Social Determinant|Socioeconomic Factor|Social Factor|Ethics|""]"
+ETHICS,Pediatrics,D010372,0,122915,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Pediatrics|""]"
+ORGAN RETENTION,Organ Retention,,0,0,null
+WITHDRAWAL OF LIFE SUPPORT,Withdrawal of Life Support,,0,0,null
+ACCIDENT AND EMERGENCY MEDICINE,Emergency Medicine,D004636,0,122549,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Emergency Medicine|""]"
+ABDOMINAL INJURY,Abdominal Injuries,D000007,0,120845,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Abdominal Injuries|""]"
+ASSESSMENT OF THE ILL CHILD,Assessment of the Ill Child,,0,0,null
+ASSESSMENT FOLLOWING MAJOR INJURY,Assessment Following Major Injury,,0,0,null
+BITES AND STINGS,Bites and Stings,D001733,0,118935,"[""|Diseases|Disorders of Environmental Origin|Poisoning|Bites and Stings|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Bites and Stings|""]"
+BURNS AND SCALDS,Burns,D002056,0,120402,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Burns|""]"
+CHEST INJURY,Chest injuries,D013898,0,0,null
+CONVULSIONS,Seizures,D012640,0,0,null
+HEAD INJURY,Head injuries,D006259,0,0,null
+ORTHOPAEDIC INJURY,Orthopaedic Injuries,,0,0,null
+PNEUMOTHORAX,Pneumothorax,D011030,0,120997,"[""|Diseases|Respiratory Tract Diseases|Pleural Diseases|Pneumothorax|""]"
+POISONING,Poisoning,D011041,0,120223,"[""|Diseases|Disorders of Environmental Origin|Poisoning|""]"
+RESPIRATORY DIFFICULTIES,Respiratory Insufficiency,D012131,0,118402,"[""|Diseases|Respiratory Tract Diseases|Respiration Disorders|Respiratory Insufficiency|""]"
+RESUSCITATION,Resuscitation,D012151,0,113830,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Emergency Treatment|Resuscitation|""]"
+ROAD TRAFFIC ACCIDENT,Traffic Accidents,D000063,0,0,null
+SPINAL INJURY,Spinal Injuries,D013124,0,119770,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Back Injuries|Spinal Injuries|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Spinal Injuries|""]"
+SUDDEN DEATH,"Death, Sudden",D003645,0,120626,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Death|Death, Sudden|""]"
+ADOLESCENCE,Adolescence                      ,D000293,0,0,null
+MANAGEMENT OF ILL HEALTH IN ADOLESCENCE,Management of Ill Health in Adolescence,,0,0,null
+SEXUAL HEALTH AND CONTRACEPTION,Contraception,D003267,0,113738,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Reproductive Techniques|Contraception|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Reproductive Techniques|Contraception|""]"
+SEXUAL HEALTH AND CONTRACEPTION,Sexual health,,0,0,null
+VIOLENT BEHAVIOUR,Violence,D014754,0,108031,"[""|Determinants Of Health|Environmental Determinant|Causes Of Harm|Violence|""]"
+ALLERGY,Allergy,D006967,0,0,null
+ANAPHYLAXIS,Anaphylaxis,D000707,0,120115,"[""|Diseases|Immune System Diseases|Allergies|Hypersensitivity, Immediate|Anaphylaxis|""]"
+DRUG ALLERGY,Drug Allergy,D004342,0,0,null
+FOOD ALLERGY,Food Allergy,D005512,0,0,null
+INSECT ALLERGY,Insect Bites and Stings,D007299,0,119262,"[""|Diseases|Disorders of Environmental Origin|Poisoning|Bites and Stings|Insect Bites and Stings|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Bites and Stings|Insect Bites and Stings|""]"
+INVESTIGATION OF ALLERGIC CONDITIONS,Allergy,D006967,0,0,null
+LATEX ALLERGY,Latex Allergy,D020315,0,0,null
+PREVENTION OF ATOPIC DISEASE,"Hypersensitivity, Immediate/Prevention and control",D006969,0,0,null
+URTICARIA,Urticaria,D014581,0,0,null
+ALLIED HEALTH PROFESSIONALS,Allied Health Personnel,D000488,0,112240,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Personnel|Allied Health Personnel|""]"
+SPEECH AND LANGUAGE,Speech and Language Therapy,,0,0,null
+PHYSIOTHERAPY,Physiotherapy (Techniques),D026741,0,0,null
+OCCUPATIONAL THERAPY,Occupational Therapy,D009788,0,114561,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Rehabilitation|Occupational Therapy|""]"
+ANAESTHESIA,Anesthesia,D000758,0,0,null
+SEDATION,Conscious Sedation                                                                                               ,D016292                            ,0,114862,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Anesthesia and Analgesia|Conscious Sedation|""]"
+CARDIOLOGY,Heart Diseases,D006331,0,120227,"[""|Diseases|Cardiovascular Diseases|Heart Diseases|""]"
+ACQUIRED DISORDERS,Heart Diseases,D006331,0,120227,"[""|Diseases|Cardiovascular Diseases|Heart Diseases|""]"
+ANTENATAL DIAGNOSIS,Antenatal Diagnosis,D011296,0,0,null
+ARRHYTHMIAS,"Arrhythmias, Cardiac",D001145,0,120226,"[""|Diseases|Cardiovascular Diseases|Heart Diseases|Arrhythmias, Cardiac|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Arrhythmias, Cardiac|""]"
+CARDIAC CATHETERISATION,Heart Catheterization,D006328,0,113654,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Catheterization|Heart Catheterization|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Catheterization|Heart Catheterization|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Cardiovascular|Heart Function Tests|Heart Catheterization|""]"
+CONGENITAL HEART DISEASE,Congenital Heart Defects,D006330,0,0,null
+ECHOCARDIOGRAPHY,Echocardiography,D004452,0,113980,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Cardiovascular|Heart Function Tests|Echocardiography|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Ultrasonography|Echocardiography|""]"
+ELECTROCARDIOGRAPHY,Electrocardiography,D004562,0,114055,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Electrodiagnosis|Electrocardiography|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Cardiovascular|Heart Function Tests|Electrocardiography|""]"
+HEART FAILURE,Heart Failure,D006333,0,120637,"[""|Diseases|Cardiovascular Diseases|Heart Diseases|Heart Failure|""]"
+HYPERTENSION,Hypertension,D006973,0,0,null
+INFECTIVE ENDOCARDITIS,Infective Endocarditis,D004696,0,0,null
+MYOCARDITIS,Myocarditis,D009205,0,119489,"[""|Diseases|Cardiovascular Diseases|Heart Diseases|Cardiomyopathies|Myocarditis|""]"
+PERICARDITIS,Pericarditis,D010493,0,119646,"[""|Diseases|Cardiovascular Diseases|Heart Diseases|Pericarditis|""]"
+SURGERY,Heart Surgery,D013903,0,0,null
+COMMUNICABLE DISEASES,Communicable Diseases,D003141,0,120569,"[""|Diseases|Bacterial Infections and Mycoses|Infection|Communicable Diseases|""]"
+BACTERIAL INFECTIONS,Bacterial Infections,D001424,0,120283,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|""]"
+"FLIES, FLEAS, MITES AND LICE",Arthropods,D001181,0,0,null
+FUNGAL INFECTIONS,Fungus Diseases,D009181                      ,0,0,null
+HOSPITAL ACQUIRED INFECTION,Hospital Infections,D003428,0,0,null
+IMMUNISATIONS,Immunization,D007114,0,0,null
+INJECTION TECHNIQUES,Injections,D007267,0,114283,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Drug Administration Routes|Injections|""]"
+INFECTION CONTROL,Infection Control,D017053,0,109761,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Infection Control|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Infection Control|""]"
+MALARIA,Malaria,D008288,0,119386,"[""|Diseases|Parasitic Diseases|Protozoan Infections|Coccidiosis|Malaria|""]"
+MEASLES,Measles,D008457,0,119401,"[""|Diseases|Virus Diseases|RNA Virus Infections|Mononegavirales Infections|Paramyxoviridae Infections|Morbillivirus Infections|Measles|""]"
+MENINGITIS,Meningitis,D008581,0,0,null
+PROTOZOAL INFECTIONS,Central Nervous System Protozoal Infections,D020808,0,119868,"[""|Diseases|Bacterial Infections and Mycoses|Central Nervous System Infections|Central Nervous System Parasitic Infections|Central Nervous System Protozoal Infections|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Central Nervous System Infections|Central Nervous System Parasitic Infections|Central Nervous System Protozoal Infections|"",""|Diseases|Parasitic Diseases|Central Nervous System Parasitic Infections|Central Nervous System Protozoal Infections|"",""|Diseases|Parasitic Diseases|Protozoan Infections|Central Nervous System Protozoal Infections|""]"
+TRAVEL AND TROPICAL,Tropical Medicine                                                                ,D014330                                     ,0,123105,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Tropical Medicine|""]"
+TRAVEL AND TROPICAL,Travel medicine,D057236 ,0,0,null
+VARICELLA,Chickenpox,D002644,0,120502,"[""|Diseases|Virus Diseases|DNA Virus Infections|Herpesviridae Infections|Chickenpox|""]"
+VIRAL INFECTIONS,Virus Diseases,D014777,0,120218,"[""|Diseases|Virus Diseases|""]"
+WORMS,Worms,D006373,0,0,null
+COMMUNITY CHILD HEALTH,Community Child Health,,0,0,null
+ACCIDENT PREVENTION,Accident Prevention,D000056,0,110105,"[""|Health, Public Health, Health Promotion|Preventive Action|Accident Prevention|""]"
+ADOPTION AND FOSTERING,Adoption,D000300,0,107576,"[""|People And Populations|Relationship|Personal Relationship|Family|Adoption|""]"
+ADOPTION AND FOSTERING,Fostering,D005581,0,0,null
+ALCOHOL MISUSE,Alcohol Abuse,D000437,0,0,null
+ATTENTION DEFICIT AND HYPERKINETIC DISORDERS,Attention Deficit and Disruptive Behavior Disorders,D019958,0,107043,"[""|Psychiatry and Pscychology|Mental Disorders|Mental Disorders Diagnosed in Childhood|Attention Deficit and Disruptive Behavior Disorders|""]"
+CHILD CARE,Child Care,D002654,0,109674,"[""|Health Services And Their Management|Healthcare And Health Services|Social Care|Child Care|""]"
+CHILD PROTECTION,Child Protective Services,D002669,0,0,null
+EDUCATION AND SCHOOLS,Education,D004493,0,108151,"[""|Determinants Of Health|Education, Employment And Skills|Education|""]"
+FABRICATED AND FICTITIOUS ILLNESS,Factitious Disorders,D005162,0,107151,"[""|Psychiatry and Pscychology|Mental Disorders|Factitious Disorders|""]"
+FAMILIES AND PARENTING,Parenting                                                                                  ,D016487                            ,0,0,null
+FAMILIES AND PARENTING,Child Rearing,D002668,0,106628,"[""|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Child Rearing|""]"
+HEALTH PROMOTION,Health Promotion,D006293,0,110116,"[""|Health, Public Health, Health Promotion|Health Promotion|""]"
+LOOKED AFTER CHILDREN,Looked After Children,,0,109628,"[""|Health Services And Their Management|Healthcare And Health Services|Social Care|Child Care|Looked After Children|""]"
+POVERTY,Poverty,D011203,0,108292,"[""|Determinants Of Health|Social Determinant|Socioeconomic Factor|Socioeconomic Status|Poverty|""]"
+REFUGEE CHILDREN,Refugees,D012036,0,0,null
+SMOKING,Smoking,D012907,0,108344,"[""|Determinants Of Health|Environmental Determinant|Causes Of Harm|Smoking|"",""|Determinants Of Health|Individual Behaviour|Smoking|""]"
+SUBSTANCE MISUSE,Substance-Related Disorders,D019966,0,107072,"[""|Psychiatry and Pscychology|Mental Disorders|Substance-Related Disorders|""]"
+TEENAGE PREGNANCY AND PARENTHOOD,Teenage Pregnancy,D011253,0,107930,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Reproductive and Urinary Physiology|Reproduction|Pregnancy|Teenage Pregnancy|""]"
+DENTISTRY,Dentistry,D003813,0,113355,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|""]"
+DENTAL CARIES,Dental Caries,D003731,0,120648,"[""|Diseases|Stomatognathic Diseases|Tooth Diseases|Tooth Demineralization|Dental Caries|""]"
+DERMATOLOGY,Skin Diseases,D012871,0,121408,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|""]"
+ACNE,Acne Vulgaris,D000152,0,0,null
+CONNECTIVE TISSUE DISEASES,Connective Tissue Diseases,D003240,0,121282,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|""]"
+ECZEMA AND DERMATITIS,Dermatitis,D003872,0,0,null
+ECZEMA AND DERMATITIS,Eczema,D004485,0,0,null
+HAIR LOSS,Hair Loss,,0,0,null
+HEREDITARY CONDITIONS,"Genetic Diseases, Inborn",D030342,0,118855,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|""]"
+HYPO-PIGMENTATION,Hypopigmentation,D017496,0,0,null
+HISTIOCYTOSES,Histiocytosis,D015614,0,119122,"[""|Diseases|Hemic and Lymphatic Diseases|Lymphatic Diseases|Reticuloendotheliosis|Histiocytosis|""]"
+INFECTIONS AND INFESTATIONS OF THE SKIN,"Skin Diseases, Infectious",D012874,0,118574,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Infectious|""]"
+BIRTHMARKS AND OTHER DEVELOPMENTAL DEFECTS,Birthmarks,,0,0,null
+PHOTOSENSITIVITY ERUPTIONS,Photosensitivity Disorders,D010787,0,121404,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Photosensitivity Disorders|""]"
+PSORIASIS,Psoriasis,D011565,0,0,null
+URTICARIA AND ERYTHEMAS,Urticaria,D014581,0,0,null
+VESICOBULLOUS DISORDERS,Vesiculobullous Skin Diseases,D012872,0,0,null
+VASCULITIS,Vasculitis,D014657,0,120205,"[""|Diseases|Cardiovascular Diseases|Vascular Diseases|Vasculitis|""]"
+DISABILITY,Children with Disabilities,D019988,0,0,null
+"EAR, NOSE AND THROAT",ENT Diseases,D010038,0,0,null
+ADENOIDS AND TONSILS,Adenoids,D000234,0,110169,"[""|Natural Science, Anatomy and Organisms|Anatomy|Hemic and Immune Systems|Immune System|Lymphatic System|Lymphoid Tissue|Adenoids|"",""|Natural Science, Anatomy and Organisms|Anatomy|Tissues|Lymphoid Tissue|Adenoids|""]"
+DEAFNESS,Deafness,D003638,0,0,null
+INJURIES/FOREIGN BODIES,Foreign Bodies,D005547,0,120312,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Foreign Bodies|""]"
+OTITIS MEDIA,Otitis Media,D010033,0,0,null
+OTITIS EXTERNA,Otitis Externa,D010032,0,119607,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Otitis|Otitis Externa|""]"
+SINUS DISEASE,Paranasal Sinus Diseases,D010254,0,118774,"[""|Diseases|Respiratory Tract Diseases|Nose Diseases|Paranasal Sinus Diseases|""]"
+TONSILLITIS AND PHARYNGITIS,Pharyngitis,D010612,0,118422,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Pharyngitis|""]"
+TONSILLITIS AND PHARYNGITIS,Tonsillitis,D014069,0,118382,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Tonsillitis|""]"
+SNUFFLES,Nasal Catarrh,D012220,0,0,null
+ENDOCRINOLOGY,Endocrine System Diseases,D004700,0,118853,"[""|Diseases|Endocrine System Diseases|""]"
+ADRENAL INSUFFICIENCY,Adrenal Insufficiency,D000309,0,118797,"[""|Diseases|Endocrine System Diseases|Adrenal Gland Diseases|Adrenal Insufficiency|""]"
+ADRENAL HYPERPLASIA – CONGENITAL,"Adrenal Hyperplasia, Congenital",D000312,0,118854,"[""|Diseases|Endocrine System Diseases|Adrenal Gland Diseases|Adrenal Hyperplasia, Congenital|"",""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|Adrenal Hyperplasia, Congenital|"",""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|Metabolism, Inborn Errors|Steroid Metabolism, Inborn Errors|Adrenal Hyperplasia, Congenital|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Metabolism, Inborn Errors|Steroid Metabolism, Inborn Errors|Adrenal Hyperplasia, Congenital|""]"
+DIABETES MELLITUS,Diabetes Mellitus,D003920,0,120719,"[""|Diseases|Endocrine System Diseases|Diabetes Mellitus|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Glucose Metabolism Disorders|Diabetes Mellitus|""]"
+DIABETES INSIPIDUS,Diabetes Insipidus,D003919,0,120717,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Kidney Diseases|Diabetes Insipidus|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Kidney Diseases|Diabetes Insipidus|"",""|Diseases|Endocrine System Diseases|Pituitary Diseases|Diabetes Insipidus|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Hypothalamic Diseases|Pituitary Diseases|Diabetes Insipidus|""]"
+DISORDERS OF SEXUAL DIFFERENTIATION,Genital Ambiguity,D012734,0,0,null
+GROWTH CHARTS,Growth Charts,D057238,0,0,null
+HYPERTHYROIDISM,Hyperthyroidism,D006980,0,118941,"[""|Diseases|Endocrine System Diseases|Thyroid Diseases|Hyperthyroidism|""]"
+HYPOGLYCAEMIA,Hypoglycemia,D007003,0,120353,"[""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Glucose Metabolism Disorders|Hypoglycemia|""]"
+HYPOTHYROIDISM,Hypothyroidism,D007037,0,120597,"[""|Diseases|Endocrine System Diseases|Thyroid Diseases|Hypothyroidism|""]"
+OBESITY AND THINNESS,Body Weight,D001835,0,113494,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Physical Examination|Body Constitution|Body Weights and Measures|Body Size|Body Weight|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Body Weights and Measures|Body Size|Body Weight|""]"
+PITUITARY GLAND,Pituitary Diseases,D010900,0,120718,"[""|Diseases|Endocrine System Diseases|Pituitary Diseases|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Hypothalamic Diseases|Pituitary Diseases|""]"
+SHORT STATURE,Growth Disorders,D006130,0,120798,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Growth Disorders|""]"
+FETAL MEDICINE,Fetal Diseases,D005315,0,120526,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Fetal Diseases|"",""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Pregnancy Complications|Fetal Diseases|""]"
+ALLOIMMUNISATION,Rh Isoimmunization,D012203,0,119702,"[""|Diseases|Hemic and Lymphatic Diseases|Hematologic Diseases|Blood Group Incompatibility|Rh Isoimmunization|"",""|Diseases|Immune System Diseases|Blood Group Incompatibility|Rh Isoimmunization|""]"
+CONGENITAL ABNORMALITIES,Congenital Abnormalities,D000013,0,118890,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Congenital Abnormalities|""]"
+FETAL SURGERY,Fetal Diseases,D005315,0,120526,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Fetal Diseases|"",""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Pregnancy Complications|Fetal Diseases|""]"
+FETAL SURGERY,Surgery,D013502,0,109857,"[""|Health Services And Their Management|Healthcare And Health Services|Medical Treatment|Surgery|""]"
+MULTIPLE PREGNANCIES,Multiple Pregnancy,D011272,0,0,null
+FLUID AND ELECTROLYTES,Fluid and Electrolytes,,0,0,null
+DEHYDRATION,Dehydration,D003681,0,120360,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Dehydration|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Water-Electrolyte Imbalance|Dehydration|""]"
+HYPERNATRAEMIA,Hypernatremia,D006955,0,119166,"[""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Water-Electrolyte Imbalance|Hypernatremia|""]"
+GASTROENTEROLOGY,Gastrointestinal Diseases,D005767,0,120772,"[""|Diseases|Digestive System Diseases|Gastrointestinal Diseases|""]"
+COELIAC DISEASE,Celiac Disease,D002446,0,120459,"[""|Diseases|Digestive System Diseases|Gastrointestinal Diseases|Intestinal Diseases|Malabsorption Syndromes|Celiac Disease|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Malabsorption Syndromes|Celiac Disease|""]"
+COLIC,Colic,D003085,0,113745,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Sensation|Pain|Abdominal Pain|Colic|""]"
+CONSTIPATION,Constipation,D003248,0,0,null
+DIARRHOEA,Diarrhea,D003967,0,0,null
+GASTRO-OESOPHAGEAL REFLUX,Gastroesophageal Reflux,D005764,0,121263,"[""|Diseases|Digestive System Diseases|Gastrointestinal Diseases|Esophageal Diseases|Deglutition Disorders|Esophageal Motility Disorders|Gastroesophageal Reflux|"",""|Diseases|Otorhinolaryngologic Diseases|Pharyngeal Diseases|Deglutition Disorders|Esophageal Motility Disorders|Gastroesophageal Reflux|"",""|Diseases|Stomatognathic Diseases|Pharyngeal Diseases|Deglutition Disorders|Esophageal Motility Disorders|Gastroesophageal Reflux|""]"
+INFLAMMATORY BOWEL DISEASE – CROHN’S DISEASE,Crohn's Disease,D003424,0,0,null
+INFLAMMATORY BOWEL DISEASE – ULCERATIVE COLITIS,Ulcerative Colitis,D003093,0,0,null
+IRRITABLE BOWEL SYNDROME,Irritable Bowel Syndrome,D043183,0,0,null
+OESOPHAGEAL ABNORMALITIES,Oesophageal Abnormalities,,0,0,null
+PANCREATIC DYSFUNCTION,Pancreatic Diseases,D010182,0,120613,"[""|Diseases|Digestive System Diseases|Pancreatic Diseases|""]"
+GENETICS & DYSMORPHOLOGY,"Genetic Diseases, Inborn",D030342,0,118855,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|""]"
+CHROMOSOMAL SYNDROMES,Chromosome Disorders,D025063,0,120302,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Congenital Abnormalities|Chromosome Disorders|"",""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|Chromosome Disorders|""]"
+COUNSELLING AND GENETIC SERVICES,Genetic Counselling,D005817,0,0,null
+DOWNS’ SYNDROME,Down's Syndrome,D004314,0,0,null
+MALFORMATION SYNDROMES,"Abnormalities, Multiple",D000015,0,118815,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Congenital Abnormalities|Abnormalities, Multiple|""]"
+SEX CHROMOSOME ABNORMALITIES,Sex Chromosome Aberrations,D012729,0,119737,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Chromosome Aberrations|Sex Chromosome Aberrations|""]"
+GYNAECOLOGY,Gynaecology,D006176,0,109734,"[""|Health Services And Their Management|Healthcare And Health Services|Medicine|Gynaecology|""]"
+CONTRACEPTION,Contraception,D003267,0,113738,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Reproductive Techniques|Contraception|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Reproductive Techniques|Contraception|""]"
+FEMALE CIRCUMCISION,"Circumcision, Female",D019093,0,0,null
+HAEMATOLOGY,Haematologic Diseases,D006402,0,0,null
+ANAEMIA,Anaemia,D000740,0,0,null
+BLEEDING DISORDERS,Haemorrhage,D006470,0,0,null
+NEUTROPAENIA,Neutropaenia,D009503,0,0,null
+PHENYLKETONURIA,Phenylketonurias,D010661,0,119522,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|Metabolism, Inborn Errors|Amino Acid Metabolism, Inborn Errors|Phenylketonurias|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Metabolism, Inborn Errors|Amino Acid Metabolism, Inborn Errors|Phenylketonurias|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Brain Diseases, Metabolic|Brain Diseases, Metabolic, Inborn|Phenylketonurias|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Brain Diseases, Metabolic|Brain Diseases, Metabolic, Inborn|Phenylketonurias|"",""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|Metabolism, Inborn Errors|Brain Diseases, Metabolic, Inborn|Phenylketonurias|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Metabolism, Inborn Errors|Brain Diseases, Metabolic, Inborn|Phenylketonurias|""]"
+SICKLE CELL,"Anemia, Sickle Cell",D000755,0,120141,"[""|Diseases|Hemic and Lymphatic Diseases|Hematologic Diseases|Anemia|Anemia, Hemolytic|Anemia, Hemolytic, Congenital|Anemia, Sickle Cell|"",""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|Anemia, Hemolytic, Congenital|Anemia, Sickle Cell|"",""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|Hemoglobinopathies|Anemia, Sickle Cell|"",""|Diseases|Hemic and Lymphatic Diseases|Hematologic Diseases|Hemoglobinopathies|Anemia, Sickle Cell|""]"
+TRANSFUSION,Blood Transfusion,D001803,0,109607,"[""|Health Services And Their Management|Healthcare And Health Services|Medical Treatment|Blood Transfusion|""]"
+THROMBOSIS,Thrombosis,D013927,0,120585,"[""|Diseases|Cardiovascular Diseases|Vascular Diseases|Embolism and Thrombosis|Thrombosis|""]"
+THROMBOCYTOPAENIA,Thrombocytopenia,D013921,0,120355,"[""|Diseases|Hemic and Lymphatic Diseases|Hematologic Diseases|Blood Platelet Disorders|Thrombocytopenia|""]"
+HEPATOLOGY,Liver Diseases,D008107,0,120517,"[""|Diseases|Digestive System Diseases|Liver Diseases|""]"
+HEPATITIS – INFECTIVE,"Hepatitis, Viral, Human",D006525,0,120663,"[""|Diseases|Digestive System Diseases|Liver Diseases|Hepatitis|Hepatitis, Viral, Human|"",""|Diseases|Virus Diseases|Hepatitis, Viral, Human|""]"
+JAUNDICE,Jaundice,D007565,0,0,null
+IMMUNOLOGY,Immune System Diseases,D007154,0,120276,"[""|Diseases|Immune System Diseases|""]"
+HIV INFECTION,HIV Infections,D015658,0,118894,"[""|Diseases|Immune System Diseases|Immunologic Deficiency Syndromes|HIV Infections|"",""|Diseases|Virus Diseases|RNA Virus Infections|Retroviridae Infections|Lentivirus Infections|HIV Infections|"",""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Genital Diseases, Female|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Viral|HIV Infections|"",""|Diseases|Male Urogenital Diseases|Genital Diseases, Male|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Viral|HIV Infections|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Viral|HIV Infections|"",""|Diseases|Virus Diseases|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Viral|HIV Infections|""]"
+INTENSIVE CARE,Intensive Care,D017055,0,113793,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Patient Care|Critical Care|Intensive Care|""]"
+RESPIRATORY FAILURE,Respiratory Failure,D012131,0,0,null
+MAXILLOFACIAL,Maxillofacial Abnormalities,D019767,0,120501,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Congenital Abnormalities|Musculoskeletal Abnormalities|Craniofacial Abnormalities|Maxillofacial Abnormalities|"",""|Diseases|Musculoskeletal Diseases|Musculoskeletal Abnormalities|Craniofacial Abnormalities|Maxillofacial Abnormalities|"",""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Congenital Abnormalities|Stomatognathic System Abnormalities|Maxillofacial Abnormalities|"",""|Diseases|Stomatognathic Diseases|Stomatognathic System Abnormalities|Maxillofacial Abnormalities|""]"
+MENTAL HEALTH,Mental Disorders,D001523,0,106960,"[""|Psychiatry and Pscychology|Mental Disorders|""]"
+ADOLESCENT PSYCHIATRIC SYNDROMES,Mental Disorders                                                      ,D001523                        ,0,106960,"[""|Psychiatry and Pscychology|Mental Disorders|""]"
+ADOLESCENT PSYCHIATRIC SYNDROMES,Adolescent,D000293,0,0,null
+CHRONIC FATIGUE SYNDROME,Chronic Fatigue Syndrome,D015673,0,0,null
+DEPRESSION,Depression,D003863,0,107127,"[""|Psychiatry and Pscychology|Mental Disorders|Mood Disorders|Depression|""]"
+DRUG THERAPY,Drug Therapy,D004358,0,113968,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Drug Therapy|""]"
+EATING DISORDERS,Eating Disorders,D001068,0,107025,"[""|Psychiatry and Pscychology|Mental Disorders|Eating Disorders|""]"
+PSYCHIATRIC DISORDERS IN ADOLESCENCE,Mental Disorders                                                      ,D001523                        ,0,106960,"[""|Psychiatry and Pscychology|Mental Disorders|""]"
+PSYCHIATRIC DISORDERS IN ADOLESCENCE,Adolescent,D000293,0,0,null
+PSYCHOLOGICAL EFFECTS OF ILLNESS AND HANDICAP,Illness Behavior,D055809,0,0,null
+SCHIZOPHRENIA,Schizophrenia,D012559,0,107091,"[""|Psychiatry and Pscychology|Mental Disorders|Schizophrenia and Disorders with Psychotic Features|Schizophrenia|""]"
+SELF HARM,Self-Injurious Behavior,D016728,0,106864,"[""|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Behavior|Behavioral Symptoms|Self-Injurious Behavior|""]"
+TREATMENT METHODS,Therapeutics,D013812,0,113253,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|""]"
+METABOLIC DISEASE,Metabolic Diseases,D008659,0,118893,"[""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|""]"
+AMINO ACID METABOLISM DISORDERS,"Amino Acid Metabolism, Inborn Errors",D000592,0,118914,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|Metabolism, Inborn Errors|Amino Acid Metabolism, Inborn Errors|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Metabolism, Inborn Errors|Amino Acid Metabolism, Inborn Errors|""]"
+FATTY ACID OXIDATION DISORDERS,"Lipid Metabolism, Inborn Errors",D008052,0,119272,"[""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Lipid Metabolism Disorders|Lipid Metabolism, Inborn Errors|"",""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|Metabolism, Inborn Errors|Lipid Metabolism, Inborn Errors|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Metabolism, Inborn Errors|Lipid Metabolism, Inborn Errors|""]"
+HYPOGLYCAEMIA,Hypoglycemia,D007003,0,120353,"[""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Glucose Metabolism Disorders|Hypoglycemia|""]"
+LIPID AND LIPOPROTEIN DISORDERS,"Lipid Metabolism, Inborn Errors",D008052,0,119272,"[""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Lipid Metabolism Disorders|Lipid Metabolism, Inborn Errors|"",""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|Metabolism, Inborn Errors|Lipid Metabolism, Inborn Errors|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Metabolism, Inborn Errors|Lipid Metabolism, Inborn Errors|""]"
+MUCOPOLYSACCHARIDE DISEASES,Mucopolysaccharidoses,D009083,0,121447,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Mucinoses|Mucopolysaccharidoses|""]"
+PORPHYRIAS,Porphyrias,D011164,0,0,null
+PURINE AND PYRIMIDINE DISORDERS,"Metabolism, Inborn Errors",D008661,0,120099,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|Metabolism, Inborn Errors|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Metabolism, Inborn Errors|""]"
+REYE SYNDROME,Reye Syndrome,D012202,0,119701,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Brain Diseases, Metabolic|Reye Syndrome|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Brain Diseases, Metabolic|Reye Syndrome|"",""|Diseases|Digestive System Diseases|Liver Diseases|Fatty Liver|Reye Syndrome|""]"
+MUSCULOSKELETAL,Musculoskeletal Diseases,D009140,0,120364,"[""|Diseases|Musculoskeletal Diseases|""]"
+CONGENITAL ABNORMALITIES,Musculoskeletal Abnormalities,D009139,0,120243,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Congenital Abnormalities|Musculoskeletal Abnormalities|"",""|Diseases|Musculoskeletal Diseases|Musculoskeletal Abnormalities|""]"
+DEVELOPMENTAL PROBLEMS,Developmental Disabilities,D002658,0,107082,"[""|Psychiatry and Pscychology|Mental Disorders|Mental Disorders Diagnosed in Childhood|Developmental Disabilities|""]"
+INHERITED DISORDERS OF BONES AND JOINTS,"Bone Diseases, Developmental",D001848,0,120299,"[""|Diseases|Musculoskeletal Diseases|Bone Diseases|Bone Diseases, Developmental|""]"
+OSTEOMYELITIS,Osteomyelitis,D010019,0,119603,"[""|Diseases|Musculoskeletal Diseases|Bone Diseases|Bone Diseases, Infectious|Osteomyelitis|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Bone Diseases, Infectious|Osteomyelitis|""]"
+OSTEOPOROSIS,Osteoporosis,D010024,0,0,null
+SCOLIOSIS,Scoliosis,D012600,0,119732,"[""|Diseases|Musculoskeletal Diseases|Bone Diseases|Spinal Diseases|Spinal Curvatures|Scoliosis|""]"
+SPINE AND RELATED PROBLEMS,Spinal Diseases,D013122,0,119277,"[""|Diseases|Musculoskeletal Diseases|Bone Diseases|Spinal Diseases|""]"
+SPORT RELATED PROBLEMS,Athletic Injuries,D001265,0,120269,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Athletic Injuries|""]"
+TRAUMA,Trauma,D014947,0,0,null
+NEONATOLOGY,Neonatology,D009359,0,122914,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Pediatrics|Neonatology|""]"
+APNOEA,Apnea,D001049,0,121110,"[""|Diseases|Respiratory Tract Diseases|Respiration Disorders|Apnea|""]"
+BIRTH TRAUMA,Birth Trauma,,0,0,null
+BIRTH ASPHYXIA,Asphyxia Neonatorum,D001238,0,120258,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Infant, Newborn, Diseases|Asphyxia Neonatorum|""]"
+DRUG WITHDRAWAL,"Substance Withdrawal, Neonatal",D009357,0,0,null
+"NEONATOLOGY, ENDOCRINOLOGY",Neonate,D007231,0,107649,"[""|People And Populations|Group|Age Group|Neonate|""]"
+"NEONATOLOGY, ENDOCRINOLOGY",Endocrine System Diseases,D004700,0,118853,"[""|Diseases|Endocrine System Diseases|""]"
+EXAMINATION OF THE NEONATE,Examination of the Neonate,,0,0,null
+FLUID BALANCE,Fluid Balance,D014882,0,0,null
+GASTROINTESTINAL PROBLEMS,Gastrointestinal Diseases,D005767,0,120772,"[""|Diseases|Digestive System Diseases|Gastrointestinal Diseases|""]"
+"NEONATOLOGY, HAEMATOLOGY",Haematologic Diseases,D006402,0,0,null
+"NEONATOLOGY, HAEMATOLOGY",Neonate,D007231,0,107649,"[""|People And Populations|Group|Age Group|Neonate|""]"
+HYPOXIC-ISCHEMIC ENCEPHALOPATHY,"Hypoxia-Ischemia, Brain",D020925,0,120174,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Brain Ischemia|Hypoxia-Ischemia, Brain|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Brain Ischemia|Hypoxia-Ischemia, Brain|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Hypoxia, Brain|Hypoxia-Ischemia, Brain|""]"
+"NEONATOLOGY, INFECTION",Infection,D007239,0,120152,"[""|Diseases|Bacterial Infections and Mycoses|Infection|""]"
+"NEONATOLOGY, INFECTION",Neonate,D007231,0,107649,"[""|People And Populations|Group|Age Group|Neonate|""]"
+INTENSIVE CARE,"Intensive Care, Neonatal",D015931,0,114277,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Patient Care|Critical Care|Intensive Care|Intensive Care, Neonatal|""]"
+JAUNDICE,"Jaundice, Neonatal",D007567,0,0,null
+KIDNEY PROBLEMS,Kidney Diseases,D007674,0,120182,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Kidney Diseases|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Kidney Diseases|""]"
+LARGE FOR GESTATIONAL AGE INFANT,Fetal Macrosomia,D005320,0,114030,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Physical Examination|Body Constitution|Body Weights and Measures|Body Size|Body Weight|Birth Weight|Fetal Macrosomia|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Body Weights and Measures|Body Size|Body Weight|Birth Weight|Fetal Macrosomia|""]"
+NEONATAL DEATH,Neonatal Death,,0,0,null
+"NEONATOLOGY, NEUROLOGY",Nervous System Diseases,D009422,0,120279,"[""|Diseases|Nervous System Diseases|""]"
+"NEONATOLOGY, NEUROLOGY",Neonate,D007231,0,107649,"[""|People And Populations|Group|Age Group|Neonate|""]"
+NUTRITION – ENTERAL,Enteral Nutrition,D004750,0,114097,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Feeding Methods|Enteral Nutrition|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Nutrition Therapy|Nutritional Support|Enteral Nutrition|""]"
+NUTRITION - PARENTERAL,Parenteral Nutrition,D010288,0,114610,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Feeding Methods|Parenteral Nutrition|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Nutrition Therapy|Nutritional Support|Parenteral Nutrition|""]"
+"NEONATOLOGY, OPHTHALMOLOGY",Eye Diseases,D005128,0,121831,"[""|Diseases|Eye Diseases|""]"
+"NEONATOLOGY, OPHTHALMOLOGY",Neonate,D007231,0,107649,"[""|People And Populations|Group|Age Group|Neonate|""]"
+PERSISTENT PULMONARY HYPERTENSION,Persistent Fetal Circulation Syndrome,D010547,0,118362,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Hypertension, Pulmonary|Persistent Fetal Circulation Syndrome|""]"
+RENAL,Kidney Diseases,D007674,0,120182,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Kidney Diseases|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Kidney Diseases|""]"
+RESPIRATORY DISTRESS,Neonatal Respiratory Distress Syndrome,D012127,0,0,null
+RESPIRATORY SUPPORT,"Respiration, Artificial",D012121,0,114165,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Respiratory Therapy|Respiration, Artificial|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Emergency Treatment|Resuscitation|Respiration, Artificial|""]"
+RESUSCITATION IN THE NEWBORN,Resuscitation,D012151,0,113830,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Emergency Treatment|Resuscitation|""]"
+RESUSCITATION IN THE NEWBORN,Neonate,D007231,0,107649,"[""|People And Populations|Group|Age Group|Neonate|""]"
+SMALL FOR GESTATIONAL AGE INFANT,"Infant, Small for Gestational Age",D007236,0,0,null
+THERMOREGULATION,Body Temperature Regulation,D001833,0,113566,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Physical Examination|Body Temperature|Body Temperature Regulation|""]"
+NEPHROLOGY,Kidney Diseases,D007674,0,120182,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Kidney Diseases|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Kidney Diseases|""]"
+ASSESSMENT OF RENAL FUNCTION,Kidney Function Tests,D007677,0,113546,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Urological|Kidney Function Tests|""]"
+BLADDER ABNORMALITIES,Urinary Bladder Diseases,D001745,0,120335,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Urinary Bladder Diseases|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Urinary Bladder Diseases|""]"
+CONGENITAL ABNORMALITIES,Congenital Abnormalities,D000013,0,118890,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Congenital Abnormalities|""]"
+CYSTIC DISEASE OF THE KIDNEYS,"Kidney Diseases, Cystic",D052177,0,119307,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Kidney Diseases|Kidney Diseases, Cystic|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Kidney Diseases|Kidney Diseases, Cystic|""]"
+DIALYSIS,Dialysis,D003956,0,113939,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Chemistry, Analytical|Dialysis|""]"
+ENURESIS,Enuresis,D004775,0,106958,"[""|Psychiatry and Pscychology|Mental Disorders|Mental Disorders Diagnosed in Childhood|Elimination Disorders|Enuresis|""]"
+GLOMERULONEPHRITIS,Glomerulonephritis,D005921,0,119266,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Kidney Diseases|Nephritis|Glomerulonephritis|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Kidney Diseases|Nephritis|Glomerulonephritis|""]"
+HEMATURIA,Hematuria,D006417,0,119055,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Hemorrhage|Hematuria|"",""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Urination Disorders|Hematuria|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Urination Disorders|Hematuria|""]"
+HYPERTENSION,Hypertension,D006973,0,0,null
+NEPHROTIC SYNDROME,Nephrotic Syndrome,D009404,0,119509,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Kidney Diseases|Nephrosis|Nephrotic Syndrome|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Kidney Diseases|Nephrosis|Nephrotic Syndrome|""]"
+PROTEINURIA,Proteinuria,D011507,0,118917,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Urination Disorders|Proteinuria|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Urination Disorders|Proteinuria|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Urological Manifestations|Proteinuria|""]"
+RENAL PROBLEMS IN THE NEONATE,Kidney Diseases,D007674,0,120182,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Kidney Diseases|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Kidney Diseases|""]"
+RENAL PROBLEMS IN THE NEONATE,Neonate,D007231,0,107649,"[""|People And Populations|Group|Age Group|Neonate|""]"
+RENAL FAILURE,Renal Insufficiency,D051437,0,120902,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Kidney Diseases|Renal Insufficiency|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Kidney Diseases|Renal Insufficiency|""]"
+RENAL TUBULAR DISORDERS,"Renal Tubular Transport, Inborn Errors",D015499,0,118800,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Kidney Diseases|Renal Tubular Transport, Inborn Errors|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Kidney Diseases|Renal Tubular Transport, Inborn Errors|"",""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|Metabolism, Inborn Errors|Renal Tubular Transport, Inborn Errors|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Metabolism, Inborn Errors|Renal Tubular Transport, Inborn Errors|""]"
+RENAL TUMOURS,Kidney Neoplasms,D007680,0,0,null
+STONES AND NEPHROCALCINOSIS,Kidney Calculi,D007669,0,0,null
+SYSTEMIC DISEASES AFFECTING THE KIDNEY,Kidney Diseases,D007674,0,120182,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Kidney Diseases|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Kidney Diseases|""]"
+TRANSPLANTATION,Kidney Transplantation,D016030,0,115108,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Transplantation|Organ Transplantation|Kidney Transplantation|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Renal Replacement Therapy|Kidney Transplantation|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Urogenital Surgical Procedures|Urologic Surgical Procedures|Kidney Transplantation|""]"
+URINARY TRACT INFECTIONS,Urinary Tract Infections,D014552,0,0,null
+VESICOURETERIC REFLUX,Vesico-Ureteral Reflux,D014718,0,119917,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Urinary Bladder Diseases|Vesico-Ureteral Reflux|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Urinary Bladder Diseases|Vesico-Ureteral Reflux|""]"
+NEUROLOGY,Nervous System Diseases,D009422,0,120279,"[""|Diseases|Nervous System Diseases|""]"
+ACQUIRED BRAIN INJURY,Brain Injuries,D001930,0,0,null
+AUTISTIC SPECTRUM DISORDERS,Autistic Disorder,D001321,0,0,null
+CEREBRAL PALSY,Cerebral Palsy,D002547,0,120477,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Brain Damage, Chronic|Cerebral Palsy|""]"
+CREUTZFELDT-JAKOB SYNDROME,Creutzfeldt-Jakob Syndrome,D007562,0,107131,"[""|Psychiatry and Pscychology|Mental Disorders|Delirium, Dementia, Amnestic, Cognitive Disorders|Dementias|Creutzfeldt-Jakob Syndrome|""]"
+DEGENERATIVE BRAIN DISORDERS,Neurodegenerative Diseases,D019636,0,119580,"[""|Diseases|Nervous System Diseases|Neurodegenerative Diseases|""]"
+DYSPRAXIA,Dyspraxia,D001072,0,0,null
+ENCEPHALITIS,Encephalitis,D004660,0,118963,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Encephalitis|"",""|Diseases|Bacterial Infections and Mycoses|Central Nervous System Infections|Encephalitis|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Central Nervous System Infections|Encephalitis|"",""|Diseases|Bacterial Infections and Mycoses|Central Nervous System Infections|Central Nervous System Viral Diseases|Encephalitis|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Central Nervous System Infections|Central Nervous System Viral Diseases|Encephalitis|"",""|Diseases|Virus Diseases|Central Nervous System Viral Diseases|Encephalitis|""]"
+GAIT DISORDERS,"Gait Disorders, Neurologic",D020233,0,120969,"[""|Diseases|Nervous System Diseases|Neurologic Manifestations|Gait Disorders, Neurologic|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Gait Disorders, Neurologic|""]"
+GIVING THE NEWS OF DISABILITY,Truth Disclosure,D014342,0,0,null
+HEADACHE AND MIGRAINE,Headache,D006261,0,119030,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Headache|""]"
+HYDROCEPHALUS,Hydrocephalus,D006849,0,120623,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Hydrocephalus|"",""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Infant, Newborn, Diseases|Hydrocephalus|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Intracranial Hypertension|Hydrocephalus|""]"
+INVESTIGATION OF NEUROLOGICAL DISORDERS,Nervous System Diseases,D009422,0,120279,"[""|Diseases|Nervous System Diseases|""]"
+INVESTIGATION OF NEUROLOGICAL DISORDERS,Diagnostic Techniques and Procedures,D019937,0,113592,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|""]"
+MOVEMENT DISORDERS,Movement Disorders,D009069,0,119017,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Movement Disorders|""]"
+MUSCULAR DYSTROPHY,Muscular Dystrophies,D009136,0,120855,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|Muscular Dystrophies|"",""|Diseases|Musculoskeletal Diseases|Muscular Diseases|Muscular Disorders, Atrophic|Muscular Dystrophies|"",""|Diseases|Nervous System Diseases|Neuromuscular Diseases|Muscular Diseases|Muscular Disorders, Atrophic|Muscular Dystrophies|"",""|Diseases|Nervous System Diseases|Neuromuscular Diseases|Muscular Disorders, Atrophic|Muscular Dystrophies|""]"
+NEURAL TUBE DEFECTS,Neural Tube Defects,D009436,0,120144,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Congenital Abnormalities|Nervous System Malformations|Neural Tube Defects|"",""|Diseases|Nervous System Diseases|Nervous System Malformations|Neural Tube Defects|""]"
+NEUROCUTANEOUS DISEASES,Neurocutaneous Disorders,D020752,0,0,null
+NEUROMUSCULAR DISEASE,Neuromuscular Diseases,D009468,0,119478,"[""|Diseases|Nervous System Diseases|Neuromuscular Diseases|""]"
+"SEIZURES, EPILEPSY AND OTHER PAROXYSMAL DISORDERS",Epilepsy                                                                              ,D004827,0,0,null
+SPINAL MUSCULAR ATROPHY,"Muscular Atrophy, Spinal",D009134,0,0,null
+STROKE,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+NURSING,Nursing Care,D009732,0,114183,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Patient Care|Nursing Care|""]"
+NUTRITION,Nutrition Therapy,D044623,0,113869,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Nutrition Therapy|""]"
+BREAST FEEDING,Breast Feeding,D001942,0,123802,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Biochemical Phenomena, Metabolism, and Nutrition|Nutrition Physiology|Child Nutrition Physiology|Infant Nutrition Physiology|Breast Feeding|"",""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Biochemical Phenomena, Metabolism, and Nutrition|Nutrition Physiology|Nutrition Processes|Breast Feeding|""]"
+"HEALTHY DIET: INFANCY, CHILDHOOD AND ADOLESCENCE",Diet Therapy,D004035,0,113954,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Nutrition Therapy|Diet Therapy|""]"
+MALNUTRITION,Malnutrition,D044342,0,108230,"[""|Determinants Of Health|Environmental Determinant|Causes Of Harm|Malnutrition|"",""|Determinants Of Health|Diet And Nutrition|Nutrition|Nutritional Deficiency|Malnutrition|""]"
+MICRONUTRIENT DEFICIENCY AND EXCESS,Malnutrition,D044343,0,108230,"[""|Determinants Of Health|Environmental Determinant|Causes Of Harm|Malnutrition|"",""|Determinants Of Health|Diet And Nutrition|Nutrition|Nutritional Deficiency|Malnutrition|""]"
+"NUTRITION, GROWTH, DEVELOPMENT AND DISEASE",Child Development,D002657,0,123852,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Physiological Processes|Growth and Development|Human Development|Child Development|""]"
+NUTRITIONAL ASSESSMENT,Nutrition Assessment,D015596,0,112678,"[""|Health Care|Population Characteristics|Health|Public Health|Epidemiologic Measurements|Nutrition Assessment|""]"
+NUTRITIONAL REQUIREMENTS DURING INFANCY AND CHILDHOOD,Nutritional Requirements,D009752,0,122644,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Biochemical Phenomena, Metabolism, and Nutrition|Nutrition Physiology|Nutrition Phenomena|Nutritional Requirements|""]"
+OBESITY,Obesity,D009765,0,113401,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Physical Examination|Body Constitution|Body Weights and Measures|Body Size|Body Weight|Overweight|Obesity|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Body Weights and Measures|Body Size|Body Weight|Overweight|Obesity|""]"
+PRINCIPLES OF NUTRITION SUPPORT,Nutritional Support,D018529,0,114098,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Nutrition Therapy|Nutritional Support|""]"
+ONCOLOGY,Cancer,D009369,0,0,null
+CENTRAL NERVOUS SYSTEM TUMOURS,Central nervous system cancer,,0,0,null
+OPTIC GLIOMAS,Optic Nerve Glioma,D020339,0,121792,"[""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Glandular and Epithelial|Cancers, Neuroepithelial|Glioma|Astrocytoma|Optic Nerve Glioma|"",""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Germ Cell and Embryonal|Neuroectodermal Tumors|Cancers, Neuroepithelial|Glioma|Astrocytoma|Optic Nerve Glioma|"",""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Nerve Tissue|Neuroectodermal Tumors|Cancers, Neuroepithelial|Glioma|Astrocytoma|Optic Nerve Glioma|"",""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Glandular and Epithelial|Cancers, Neuroepithelial|Glioma|Optic Nerve Glioma|"",""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Germ Cell and Embryonal|Neuroectodermal Tumors|Cancers, Neuroepithelial|Glioma|Optic Nerve Glioma|"",""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Nerve Tissue|Neuroectodermal Tumors|Cancers, Neuroepithelial|Glioma|Optic Nerve Glioma|"",""|Diseases|Cancers|Cancers by Site|Nervous System Cancers|Cranial Nerve Cancers|Optic Nerve Cancers|Optic Nerve Glioma|"",""|Diseases|Cancers|Cancers by Site|Nervous System Cancers|Peripheral Nervous System Cancers|Cranial Nerve Cancers|Optic Nerve Cancers|Optic Nerve Glioma|""]"
+EWING'S SARCOMA,"Sarcoma, Ewing's",D012512,0,121343,"[""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Connective and Soft Tissue|Cancers, Connective Tissue|Cancers, Bone Tissue|Osteosarcoma|Sarcoma, Ewing's|"",""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Connective and Soft Tissue|Sarcoma|Osteosarcoma|Sarcoma, Ewing's|""]"
+GERM CELL TUMOURS,Germ Cell Tumours,,0,0,null
+LEUKAEMIA,Leukaemia,D007938,0,0,null
+LIVER TUMOURS,Liver Cancer,D008113,0,0,null
+LYMPHOMA - HODGKIN'S DISEASE,Hodgkin's Disease,D006689,0,0,null
+LYMPHOMA – NON-HODGKIN'S,Non-Hodgkin's Lymphoma,D008228,0,0,null
+MESOBLASTIC NEPHROMA,"Nephroma, Mesoblastic",D018201,0,121958,"[""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Complex and Mixed|Nephroma, Mesoblastic|"",""|Diseases|Cancers|Cancers by Site|Urogenital Cancers|Urological Cancers|Kidney Cancers|Nephroma, Mesoblastic|""]"
+NEPHROBLASTOMA (WILMS' TUMOUR),Wilms' Tumor,D009396,0,0,null
+NEUROBLASTOMA,Neuroblastoma,D009447,0,121712,"[""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Glandular and Epithelial|Cancers, Neuroepithelial|Neuroectodermal Tumors, Primitive|Neuroectodermal Tumors, Primitive, Peripheral|Neuroblastoma|"",""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Germ Cell and Embryonal|Neuroectodermal Tumors|Cancers, Neuroepithelial|Neuroectodermal Tumors, Primitive|Neuroectodermal Tumors, Primitive, Peripheral|Neuroblastoma|"",""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Nerve Tissue|Neuroectodermal Tumors|Cancers, Neuroepithelial|Neuroectodermal Tumors, Primitive|Neuroectodermal Tumors, Primitive, Peripheral|Neuroblastoma|""]"
+OSTEOSARCOMA,Osteosarcoma,D012516,0,121335,"[""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Connective and Soft Tissue|Cancers, Connective Tissue|Cancers, Bone Tissue|Osteosarcoma|"",""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Connective and Soft Tissue|Sarcoma|Osteosarcoma|""]"
+RETINOBLASTOMA,Retinoblastoma,D012175,0,121502,"[""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Glandular and Epithelial|Cancers, Neuroepithelial|Retinoblastoma|"",""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Germ Cell and Embryonal|Neuroectodermal Tumors|Cancers, Neuroepithelial|Retinoblastoma|"",""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Nerve Tissue|Neuroectodermal Tumors|Cancers, Neuroepithelial|Retinoblastoma|"",""|Diseases|Cancers|Cancers by Site|Eye Cancers|Retinal Cancers|Retinoblastoma|""]"
+OPHTHALMOLOGY,Eye Diseases,D005128,0,121831,"[""|Diseases|Eye Diseases|""]"
+ACQUIRED VISUAL LOSS,Acquired Visual Loss,,0,0,null
+CATARACT,Cataract,D002386,0,0,null
+"OPHTHALMOLOGY, CONGENITAL ABNORMALITIES",Eye Diseases,D005128,0,121831,"[""|Diseases|Eye Diseases|""]"
+"OPHTHALMOLOGY, CONGENITAL ABNORMALITIES",Congenital Abnormalities,D000013,0,118890,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Congenital Abnormalities|""]"
+CONJUNCTIVITIS,Conjunctivitis,D003231,0,121526,"[""|Diseases|Eye Diseases|Conjunctival Diseases|Conjunctivitis|""]"
+CORNEAL DISEASE,Corneal Diseases,D003316,0,121534,"[""|Diseases|Eye Diseases|Corneal Diseases|""]"
+EYE LIDS,Eyelid Diseases,D005141,0,121842,"[""|Diseases|Eye Diseases|Eyelid Diseases|""]"
+GLAUCOMA,Glaucoma,D005901,0,121593,"[""|Diseases|Eye Diseases|Ocular Hypertension|Glaucoma|""]"
+REFRACTIVE ERRORS AND AMBLYOPIA,Refractive Errors,D012030,0,121819,"[""|Diseases|Eye Diseases|Refractive Errors|""]"
+REFRACTIVE ERRORS AND AMBLYOPIA,Amblyopia,D000550,0,121804,"[""|Diseases|Eye Diseases|Vision Disorders|Amblyopia|""]"
+RETINAL DISEASES,Retinal Diseases,D012164,0,121817,"[""|Diseases|Eye Diseases|Retinal Diseases|""]"
+STRABISMUS,Strabismus,D013285,0,121560,"[""|Diseases|Eye Diseases|Ocular Motility Disorders|Strabismus|""]"
+TRAUMA,Eye Injuries,D005131,0,0,null
+UVEITIS,Uveitis,D014605,0,121547,"[""|Diseases|Eye Diseases|Uveal Diseases|Uveitis|""]"
+PAIN,Pain,D010146,0,113452,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Sensation|Pain|""]"
+CLINICAL MANAGEMENT OF PAIN,Pain,D010146,0,113452,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Sensation|Pain|""]"
+MANAGEMENT OF NEONATAL PAIN,Pain,D010146,0,113452,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Sensation|Pain|""]"
+MANAGEMENT OF NEONATAL PAIN,Neonate,D007231,0,107649,"[""|People And Populations|Group|Age Group|Neonate|""]"
+MANAGEMENT OF PROCEDURAL PAIN,Pain,D010146,0,113452,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Sensation|Pain|""]"
+MANAGEMENT OF PAIN IN THE ICU,Pain,D010146,0,113452,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Sensation|Pain|""]"
+MANAGEMENT OF PAIN IN THE ICU,Intensive Care,D017055,0,113793,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Patient Care|Critical Care|Intensive Care|""]"
+CHRONIC PAIN,Pain,D010146,0,113452,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Sensation|Pain|""]"
+PALLIATIVE CARE,Palliative Care,D010166,0,109777,"[""|Health Services And Their Management|Healthcare And Health Services|Health Care|Palliative Care|""]"
+PATHOLOGY,Pathology,D010336,0,122969,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Pathology|""]"
+AUTOPSY,Autopsy,D001344,0,113446,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Autopsy|""]"
+PUBLIC HEALTH,Public Health,D011634,0,110144,"[""|Health, Public Health, Health Promotion|Public Health|""]"
+RADIOLOGY,Radiology,D011871,0,122859,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Radiology|""]"
+RESPIRATORY,Respiratory Tract Diseases,D012140,0,121067,"[""|Diseases|Respiratory Tract Diseases|""]"
+ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS),"Respiratory Distress Syndrome, Newborn",D012127,0,118736,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Respiratory Distress Syndrome, Newborn|"",""|Diseases|Respiratory Tract Diseases|Respiration Disorders|Respiratory Distress Syndrome, Newborn|""]"
+AEROSOL THERAPY,Aerosol Drug Therapy,D000280,0,0,null
+ALTITUDE,Altitude Sickness,D000532,0,118721,"[""|Diseases|Respiratory Tract Diseases|Respiration Disorders|Altitude Sickness|""]"
+ALVEOLAR PROTEINOSIS,Pulmonary Alveolar Proteinosis,D011649,0,118383,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Pulmonary Alveolar Proteinosis|""]"
+APNOEA AND ACUTE LIFE THREATENING EVENTS,Apnoea,D001049,0,0,null
+ASPIRATION,Respiratory Aspiration,D053120,0,118367,"[""|Diseases|Respiratory Tract Diseases|Respiration Disorders|Respiratory Aspiration|""]"
+ASTHMA,Asthma,D001249,0,118403,"[""|Diseases|Respiratory Tract Diseases|Bronchial Diseases|Asthma|"",""|Diseases|Respiratory Tract Diseases|Lung Diseases|Lung Diseases, Obstructive|Asthma|"",""|Diseases|Respiratory Tract Diseases|Respiratory Hypersensitivity|Asthma|""]"
+ATELECTASIS,Pulmonary Atelectasis,D001261,0,0,null
+BRONCHIECTASIS,Bronchiectasis,D001987,0,118754,"[""|Diseases|Respiratory Tract Diseases|Bronchial Diseases|Bronchiectasis|""]"
+BRONCHIOLITIS – ACUTE VIRAL,"Bronchiolitis, Viral",D001990,0,118758,"[""|Diseases|Respiratory Tract Diseases|Bronchial Diseases|Bronchitis|Bronchiolitis|Bronchiolitis, Viral|"",""|Diseases|Respiratory Tract Diseases|Lung Diseases|Lung Diseases, Obstructive|Bronchitis|Bronchiolitis|Bronchiolitis, Viral|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Bronchitis|Bronchiolitis|Bronchiolitis, Viral|""]"
+BRONCHIOLITIS OBLITERANS,Bronchiolitis Obliterans,D001989,0,118757,"[""|Diseases|Respiratory Tract Diseases|Bronchial Diseases|Bronchitis|Bronchiolitis|Bronchiolitis Obliterans|"",""|Diseases|Respiratory Tract Diseases|Lung Diseases|Lung Diseases, Obstructive|Bronchitis|Bronchiolitis|Bronchiolitis Obliterans|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Bronchitis|Bronchiolitis|Bronchiolitis Obliterans|"",""|Diseases|Respiratory Tract Diseases|Lung Diseases|Interstitial Pulmonary Disease|Bronchiolitis Obliterans|""]"
+COUGH,Cough,D003371,0,118742,"[""|Diseases|Respiratory Tract Diseases|Respiration Disorders|Cough|""]"
+CHRONIC LUNG DISEASE OF PREMATURITY,"Pulmonary Disease, Chronic Obstructive",D029424,0,0,null
+CONGENITAL ABNORMALITIES OF THE LUNG,Congenital Abnormalities,D000013,0,118890,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Congenital Abnormalities|""]"
+CONGENITAL ABNORMALITIES OF THE LUNG,Lung,D008168,0,111493,"[""|Natural Science, Anatomy and Organisms|Anatomy|Respiratory System|Lung|""]"
+CROUP,Croup,D003440,0,118765,"[""|Diseases|Respiratory Tract Diseases|Laryngeal Diseases|Laryngitis|Croup|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Laryngitis|Croup|""]"
+CYSTIC FIBROSIS,Cystic Fibrosis,D003550,0,118738,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Cystic Fibrosis|""]"
+EMPYEMA,Empyema,D004653,0,118827,"[""|Diseases|Bacterial Infections and Mycoses|Infection|Suppuration|Empyema|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Inflammation|Suppuration|Empyema|""]"
+INFECTIONS,Respiratory Tract Infections,D012141,0,118759,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|""]"
+VIRAL,Respiratory Tract Infections,D012141,0,118759,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|""]"
+INTERSTITIAL LUNG DISEASE,"Lung Diseases, Interstitial",D017563,0,0,null
+"RESPIRATORY, INVESTIGATIONS",Diagnostic Techniques and Procedures,D019937,0,113592,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|""]"
+"RESPIRATORY, INVESTIGATIONS",Respiratory Tract Diseases,D012140,0,121067,"[""|Diseases|Respiratory Tract Diseases|""]"
+BRONCHOSCOPY,Bronchoscopy,D001999,0,111459,"[""|Natural Science, Anatomy and Organisms|Anatomy|Respiratory System|Bronchoscopy|""]"
+LUNG FUNCTION TESTING,Respiratory Function Tests,D012129,0,113308,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Respiratory System|Respiratory Function Tests|""]"
+PERTUSSIS,Whooping Cough,D014917,0,118360,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Whooping Cough|""]"
+PNEUMONIA - COMMUNITY ACQUIRED,Pneumonia,D011014,0,118761,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Pneumonia|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Pneumonia|""]"
+PNEUMOTHORAX,Pneumothorax,D011030,0,120997,"[""|Diseases|Respiratory Tract Diseases|Pleural Diseases|Pneumothorax|""]"
+SARCOIDOSIS,Sarcoidosis,D012507,0,119725,"[""|Diseases|Immune System Diseases|Immunoproliferative Disorders|Lymphoproliferative Disorders|Sarcoidosis|"",""|Diseases|Hemic and Lymphatic Diseases|Lymphatic Diseases|Lymphoproliferative Disorders|Sarcoidosis|""]"
+SLEEP DISORDERED BREATHING,Sleep Apnea Syndromes,D012891,0,107103,"[""|Psychiatry and Pscychology|Mental Disorders|Sleep Disorders|Dyssomnias|Sleep Disorders, Intrinsic|Sleep Apnea Syndromes|""]"
+SUDDEN INFANT DEATH SYNDROME,Sudden Infant Death,D013398,0,120627,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Death|Death, Sudden|Sudden Infant Death|""]"
+THERAPEUTIC INTERVENTION,Therapeutics,D013812,0,113253,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|""]"
+TUBERCULOSIS,Tuberculosis,D014376,0,0,null
+WHEEZE,Wheezing,D012135,0,0,null
+RHEUMATOLOGY,Rheumatic Diseases,D012216,0,121299,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Rheumatic Diseases|""]"
+JUVENILE IDIOPATHIC ARTHRITIS (JIA),Juvenile Idiopathic Arthritis (JIA),D001171,0,0,null
+RAYNAUD'S PHENOMENON,Raynaud Disease,D011928,0,0,null
+VASCULITIS,Vasculitis,D014657,0,120205,"[""|Diseases|Cardiovascular Diseases|Vascular Diseases|Vasculitis|""]"
+SURGICAL,Surgery,D013502,0,109857,"[""|Health Services And Their Management|Healthcare And Health Services|Medical Treatment|Surgery|""]"
+"SURGICAL, NEONATES",Neonate,D007231,0,107649,"[""|People And Populations|Group|Age Group|Neonate|""]"
+"SURGICAL, NEONATES",Surgery,D013502,0,109857,"[""|Health Services And Their Management|Healthcare And Health Services|Medical Treatment|Surgery|""]"
+CIRCUMCISION,"Circumcision, Male",D002944,0,111523,"[""|Natural Science, Anatomy and Organisms|Anatomy|Urogenital System|Circumcision, Male|""]"
+CARDIAC,Cardiac Surgery,D013903,0,0,null
+SCREENING,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+"SCREENING, NEONATAL",Neonatal Screening,D015997,0,115086,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Laboratory Techniques and Procedures|Neonatal Screening|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Mass Screening|Neonatal Screening|""]"
+TRAVEL AND INTERNATIONAL MEDICINE,Travel Medicine,D057236,0,0,null

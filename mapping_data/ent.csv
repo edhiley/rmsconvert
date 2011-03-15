@@ -1,0 +1,192 @@
+EAR & AUDITORY SYSTEM DISORDERS,Ear Diseases,D004427,0,120756,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|""]"
+EXTERNAL EAR,External Ear,D004431,0,0,null
+CERUMEN,Cerumen,D002571,0,110407,"[""|Natural Science, Anatomy and Organisms|Anatomy|Fluids and Secretions|Bodily Secretions|Cerumen|""]"
+EAR DEFORMITIES,"Ear Deformities, Acquired",D004426,0,120755,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Ear Deformities, Acquired|""]"
+OTITIS EXTERNA,Otitis Externa,D010032,0,119607,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Otitis|Otitis Externa|""]"
+MIDDLE EAR,Middle Ear,D004432,0,0,null
+CHOLESTEATOMA,Cholesteatoma,D002781,0,0,null
+EARDRUM PERFORATION/ RETRACTION,Eardrum Perforation,D018058,0,0,null
+MASTOIDITIS,Mastoiditis,D008417,0,0,null
+OTITIS MEDIA,Otitis Media,D010033,0,0,null
+CHRONIC SUPPURATIVE OTITIS MEDIA,"Otitis Media, Suppurative",D010035,0,0,null
+OTITIS MEDIA WITH EFFUSION,Otitis Media with Effusion,D010034,0,0,null
+OTOSCLEROSIS,Otosclerosis,D010040,0,119608,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Otosclerosis|""]"
+INNER EAR,Inner Ear,D007758,0,0,null
+ACOUSTIC NEUROMA,Acoustic Neuroma,D009464,0,0,null
+BENIGN PAROXYSMAL POSITIONAL VERTIGO,Benign Paroxysmal Positional Vertigo,,0,0,null
+HEARING LOSS - SUDDEN,"Hearing Loss, Sudden",D003639,0,0,null
+LABYRINTHITIS,Labyrinthitis,D007762,0,119324,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Labyrinth Diseases|Labyrinthitis|"",""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Otitis|Labyrinthitis|""]"
+MENIERE'S DISEASE,Meniere's Disease,D008575,0,0,null
+MIGRAINE-RELATED VERTIGO,Vertigo,D014717,0,120701,"[""|Diseases|Nervous System Diseases|Neurologic Manifestations|Vertigo|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Vertigo|"",""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Labyrinth Diseases|Vestibular Diseases|Vertigo|""]"
+MOTION SICKNESS,Motion Sickness,D009041,0,119457,"[""|Diseases|Disorders of Environmental Origin|Motion Sickness|""]"
+VESTIBULAR NEURONITIS,Vestibular Neuronitis,D020338,0,119511,"[""|Diseases|Nervous System Diseases|Cranial Nerve Diseases|Vestibulocochlear Nerve Diseases|Vestibular Neuronitis|"",""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Retrocochlear Diseases|Vestibulocochlear Nerve Diseases|Vestibular Neuronitis|""]"
+GENERAL VESTIBULAR,Vestibular Diseases,D015837,0,119916,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Labyrinth Diseases|Vestibular Diseases|""]"
+GENERAL EAR & AUDITORY,Auditory Pathways,D001306,0,110274,"[""|Natural Science, Anatomy and Organisms|Anatomy|Nervous System|Neural Pathways|Afferent Pathways|Auditory Pathways|""]"
+CENTRAL AUDITORY DISORDERS,Central Auditory Diseases,D001304,0,0,null
+AUDITORY PROCESSING DISORDER,Auditory processing disorder,,0,0,null
+HEARING DISORDERS/ DEAFNESS,Hearing Disorders,D006311,0,0,null
+HEARING DISORDERS/ DEAFNESS,Hearing  Loss,D034381,0,0,null
+HEARING DISORDERS/ DEAFNESS,Deafness,D003638,0,0,null
+HERPES ZOSTER OTICUS,Herpes Zoster Oticus,D016697,0,120790,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Herpes Zoster Oticus|"",""|Diseases|Nervous System Diseases|Cranial Nerve Diseases|Facial Nerve Diseases|Herpes Zoster Oticus|"",""|Diseases|Virus Diseases|DNA Virus Infections|Herpesviridae Infections|Herpes Zoster|Herpes Zoster Oticus|""]"
+INJURIES/FOREIGN BODIES,Foreign Bodies,D005547,0,120312,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Foreign Bodies|""]"
+OTALGIA,Otalgia,D004433,0,0,null
+OTORRHOEA,"Otitis Media, Suppurative",D010035,0,0,null
+TINNITUS,Tinnitus,D014012,0,0,null
+NOSE & SINUS DISORDERS,Nose Diseases,D009668,0,118428,"[""|Diseases|Respiratory Tract Diseases|Nose Diseases|""]"
+EPISTAXIS,Epistaxis,D004844,0,120979,"[""|Diseases|Respiratory Tract Diseases|Nose Diseases|Epistaxis|""]"
+INJURIES/FOREIGN BODIES,Foreign Bodies,D005547,0,120312,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Foreign Bodies|""]"
+CSF LEAK,Cerebrospinal Fluid Otorrhea,D002558,0,0,null
+NASAL DEFORMITIES,"Nose Deformities, Acquired",D009667,0,118725,"[""|Diseases|Respiratory Tract Diseases|Nose Diseases|Nose Deformities, Acquired|""]"
+NASAL OBSTRUCTION/TURBINATE HYPERTROPHY,Nasal Obstruction,D015508,0,118727,"[""|Diseases|Respiratory Tract Diseases|Respiration Disorders|Respiratory Insufficiency|Airway Obstruction|Nasal Obstruction|"",""|Diseases|Respiratory Tract Diseases|Nose Diseases|Nasal Obstruction|""]"
+NASAL OBSTRUCTION/TURBINATE HYPERTROPHY,Turbinates,D014420,0,111470,"[""|Natural Science, Anatomy and Organisms|Anatomy|Respiratory System|Nose|Turbinates|""]"
+NASAL OBSTRUCTION/TURBINATE HYPERTROPHY,Hypertrophy,D006984,0,119035,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathological Conditions, Anatomical|Hypertrophy|""]"
+"NOSE & SINUS DISORDERS, NEOPLASMS",Nose Cancer,D009669,0,0,null
+"NOSE & SINUS DISORDERS, NEOPLASMS, BENIGN",Nose Cancer,D009670,0,0,null
+"NOSE & SINUS DISORDERS, NEOPLASMS, MALIGNANT",Nose Cancer,D009671,0,0,null
+OLFACTORY DISORDER,Olfaction Disorders,D000857,0,120166,"[""|Diseases|Nervous System Diseases|Neurologic Manifestations|Sensation Disorders|Olfaction Disorders|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Sensation Disorders|Olfaction Disorders|""]"
+RHINOSINUSITIS,Sinusitis,D012852,0,118722,"[""|Diseases|Respiratory Tract Diseases|Nose Diseases|Paranasal Sinus Diseases|Sinusitis|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Sinusitis|""]"
+RHINOSINUSITIS,Rhinitis,D012220,0,118451,"[""|Diseases|Respiratory Tract Diseases|Nose Diseases|Rhinitis|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Rhinitis|""]"
+NASAL POLYPS,Nasal Polyps,D009298,0,118394,"[""|Diseases|Respiratory Tract Diseases|Nose Diseases|Nasal Polyps|""]"
+RHINITIS,Rhinitis,D012220,0,118451,"[""|Diseases|Respiratory Tract Diseases|Nose Diseases|Rhinitis|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Rhinitis|""]"
+HAYFEVER,Hayfever,D006255,0,0,null
+PERENNIAL ALLERGIC RHINITIS,"Rhinitis, Allergic, Perennial",D012221,0,118764,"[""|Diseases|Respiratory Tract Diseases|Respiratory Hypersensitivity|Rhinitis, Allergic, Perennial|"",""|Diseases|Respiratory Tract Diseases|Nose Diseases|Rhinitis|Rhinitis, Allergic, Perennial|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Rhinitis|Rhinitis, Allergic, Perennial|""]"
+NON-ALLERGIC RHINITIS,Non-Allergic Rhinitis,,0,0,null
+SINUSITIS,Sinusitis,D012852,0,118722,"[""|Diseases|Respiratory Tract Diseases|Nose Diseases|Paranasal Sinus Diseases|Sinusitis|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Sinusitis|""]"
+LARYNX & PHARYNX DISORDERS,Laryngeal Diseases,D007818,0,118387,"[""|Diseases|Respiratory Tract Diseases|Laryngeal Diseases|""]"
+LARYNX & PHARYNX DISORDERS,Pharyngeal Diseases,D010608,0,118828,"[""|Diseases|Otorhinolaryngologic Diseases|Pharyngeal Diseases|"",""|Diseases|Stomatognathic Diseases|Pharyngeal Diseases|""]"
+ADENOIDAL HYPERTROPHY,Hypertrophy,D006984,0,119035,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathological Conditions, Anatomical|Hypertrophy|""]"
+ADENOIDAL HYPERTROPHY,Adenoids,D000234,0,110169,"[""|Natural Science, Anatomy and Organisms|Anatomy|Hemic and Immune Systems|Immune System|Lymphatic System|Lymphoid Tissue|Adenoids|"",""|Natural Science, Anatomy and Organisms|Anatomy|Tissues|Lymphoid Tissue|Adenoids|""]"
+DEGLUTITION DISORDERS,Deglutition Disorders,D003680,0,120634,"[""|Diseases|Digestive System Diseases|Gastrointestinal Diseases|Esophageal Diseases|Deglutition Disorders|"",""|Diseases|Otorhinolaryngologic Diseases|Pharyngeal Diseases|Deglutition Disorders|"",""|Diseases|Stomatognathic Diseases|Pharyngeal Diseases|Deglutition Disorders|""]"
+INJURIES/ FOREIGN BODIES,Foreign Bodies,D005547,0,120312,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Foreign Bodies|""]"
+LARYNGITIS,Laryngitis,D007827 ,0,118456,"[""|Diseases|Respiratory Tract Diseases|Laryngeal Diseases|Laryngitis|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Laryngitis|""]"
+NASOPHARYNGITIS,Nasopharyngitis,D009304,0,119501,"[""|Diseases|Otorhinolaryngologic Diseases|Pharyngeal Diseases|Nasopharyngeal Diseases|Nasopharyngitis|"",""|Diseases|Stomatognathic Diseases|Pharyngeal Diseases|Nasopharyngeal Diseases|Nasopharyngitis|""]"
+"LARYNX & PHARYNX DISORDERS, NEOPLASMS",Larynx Cancer,D007822,0,0,null
+"LARYNX & PHARYNX DISORDERS, NEOPLASMS, BENIGN",Larynx Cancer,D007822,0,0,null
+"LARYNX & PHARYNX DISORDERS, NEOPLASMS, MALIGNANT",Larynx Cancer,D007822,0,0,null
+PHARYNGEAL POUCH,Pharyngeal Pouch,,0,0,null
+SORE THROAT,Sore Throat,D010612,0,0,null
+TONSILLITIS,Tonsillitis,D014070,0,118382,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Tonsillitis|""]"
+PERITONSILLAR ABSCESS,Peritonsillar Abscess,D000039,0,118381,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Tonsillitis|Peritonsillar Abscess|""]"
+SPEECH DISORDERS,Speech Disorders,D013064,0,107031,"[""|Psychiatry and Pscychology|Mental Disorders|Mental Disorders Diagnosed in Childhood|Communication Disorders|Language Disorders|Speech Disorders|""]"
+VOICE DISORDERS,Voice Disorders,D014832,0,118783,"[""|Diseases|Respiratory Tract Diseases|Laryngeal Diseases|Voice Disorders|""]"
+DYSPHONIA,Dysphonia,D055154,0,0,null
+APHONIA,Aphonia,D001044,0,118782,"[""|Diseases|Respiratory Tract Diseases|Laryngeal Diseases|Voice Disorders|Aphonia|""]"
+VOCAL CORD PARALYSIS,Vocal Cord Paralysis,D014826,0,121098,"[""|Diseases|Respiratory Tract Diseases|Laryngeal Diseases|Vocal Cord Paralysis|""]"
+LANGUAGE DISORDERS,Language Disorders,D007806,0,106985,"[""|Psychiatry and Pscychology|Mental Disorders|Mental Disorders Diagnosed in Childhood|Communication Disorders|Language Disorders|""]"
+SLEEP APNOEA,Sleep apnoea,,0,0,null
+SNORING,Snoring,D012913,0,114715,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Respiratory System|Respiratory Sounds|Snoring|""]"
+SALIVARY GLAND DISORDERS,Salivary Gland Diseases,D012466,0,119445,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|""]"
+"SALIVARY GLAND DISORDERS, NEOPLASMS",Salivary Gland Cancer,D012468,0,0,null
+"SALIVARY GLAND DISORDERS, NEOPLASMS, BENIGN",Salivary Gland Cancer,D012468,0,0,null
+"SALIVARY GLAND DISORDERS, NEOPLASMS, MALIGNANT",Salivary Gland Cancer,D012468,0,0,null
+PAROTID GLANDS,Parotid Diseases,D010305,0,119634,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Parotid Diseases|""]"
+PAROTITIS,Parotitis,D010309,0,119469,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Parotid Diseases|Parotitis|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Sialadenitis|Parotitis|""]"
+"PAROTID GLANDS, NEOPLASMS",Parotid Cancer,D010307,0,0,null
+"PAROTID GLANDS, NEOPLASMS, BENIGN",Parotid Cancer,D010307,0,0,null
+"PAROTID GLANDS, NEOPLASMS, MALIGNANT",Parotid Cancer,D010307,0,0,null
+SALIVARY DUCT CALCULI,Salivary Duct Calculi,D012465,0,119717,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathological Conditions, Anatomical|Calculi|Salivary Calculi|Salivary Duct Calculi|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Salivary Calculi|Salivary Duct Calculi|""]"
+SALIVARY GLAND CALCULI,Salivary Gland Calculi,D015494,0,120064,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathological Conditions, Anatomical|Calculi|Salivary Calculi|Salivary Gland Calculi|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Salivary Calculi|Salivary Gland Calculi|""]"
+SALIVARY GLAND FISTULA,Salivary Gland Fistula,D012467,0,119719,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathological Conditions, Anatomical|Fistula|Oral Fistula|Salivary Gland Fistula|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Oral Fistula|Salivary Gland Fistula|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Salivary Gland Fistula|""]"
+SIALADENITIS,Sialadenitis,D012793,0,119635,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Sialadenitis|""]"
+PAROTITIS,Parotitis,D010309,0,119469,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Parotid Diseases|Parotitis|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Sialadenitis|Parotitis|""]"
+SIALOMETAPLASIA,Sialometaplasia,,0,0,null
+SIALORRHOEA,Sialhorrhoea,,0,0,null
+XEROSTOMIA,Xerostomia,D014987,0,119721,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Xerostomia|""]"
+SJOGREN'S SYNDROME,Sjogren's Syndrome,D012859,0,121463,"[""|Diseases|Eye Diseases|Lacrimal Apparatus Diseases|Dry Eye Syndromes|Sjogren's Syndrome|""]"
+SKULL BASE DISORDERS,Skull Base Disorders,,0,0,null
+GLOMUS TUMOUR,Glomus tumour,,0,0,null
+NECK DISORDERS,Neck Disorders,,0,0,null
+BRANCHIAL CYST,Branchial Cyst,D001935,0,0,null
+CERVICAL LYMPHADENOPATHY,Lymphatic Diseases,D008206,0,119373,"[""|Diseases|Hemic and Lymphatic Diseases|Lymphatic Diseases|""]"
+NECK ABSCESS,Neck,D009333,0,110891,"[""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Neck|""]"
+NECK ABSCESS,Abscess,D000038,0,118825,"[""|Diseases|Bacterial Infections and Mycoses|Infection|Suppuration|Abscess|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Inflammation|Suppuration|Abscess|""]"
+THYROGLOSSAL CYST,Thyroglossal Cyst,D013955,0,121737,"[""|Diseases|Cancers|Cysts|Thyroglossal Cyst|""]"
+NEOPLASMS,Head and Neck Cancer,D006258,0,0,null
+THYROID & PARATHYROID DISORDERS,Thyroid Diseases,D013959,0,120779,"[""|Diseases|Endocrine System Diseases|Thyroid Diseases|""]"
+THYROID & PARATHYROID DISORDERS,Parathyroid Diseases,D010279,0,119153,"[""|Diseases|Endocrine System Diseases|Parathyroid Diseases|""]"
+GOITRE,Goitre,,0,0,null
+HYPERPARATHYROIDISM,Hyperparathyroidism,D006961,0,119152,"[""|Diseases|Endocrine System Diseases|Parathyroid Diseases|Hyperparathyroidism|""]"
+HYPOPARATHYROIDISM,Hypoparathyroidism,D007011,0,120661,"[""|Diseases|Endocrine System Diseases|Parathyroid Diseases|Hypoparathyroidism|""]"
+HYPERTHYROIDISM,Hyperthyroidism,D006980,0,118941,"[""|Diseases|Endocrine System Diseases|Thyroid Diseases|Hyperthyroidism|""]"
+GRAVES' DISEASE,Graves' Disease,D006111,0,0,null
+THYROTOXICOSIS,Thyrotoxicosis,D013971,0,119845,"[""|Diseases|Endocrine System Diseases|Thyroid Diseases|Hyperthyroidism|Thyrotoxicosis|"",""|Diseases|Endocrine System Diseases|Thyroid Diseases|Thyrotoxicosis|""]"
+HYPOTHYROIDISM,Hypothyroidism,D007037,0,120597,"[""|Diseases|Endocrine System Diseases|Thyroid Diseases|Hypothyroidism|""]"
+"THYROID & PARATHYROID DISORDERS, NEOPLASMS",Thyroid Cancer,D013964,0,0,null
+"THYROID & PARATHYROID DISORDERS, NEOPLASMS, BENIGN",Thyroid Cancer,D013964,0,0,null
+"THYROID & PARATHYROID DISORDERS, NEOPLASMS, MALIGNANT",Thyroid Cancer,D013964,0,0,null
+THYROID NODULE,Thyroid Nodule,D016606,0,121935,"[""|Diseases|Cancers|Cancers by Site|Endocrine Gland Cancers|Thyroid Cancers|Thyroid Nodule|"",""|Diseases|Cancers|Cancers by Site|Head and Neck Cancers|Thyroid Cancers|Thyroid Nodule|""]"
+THYROIDITIS,Thyroiditis,D013966,0,119846,"[""|Diseases|Endocrine System Diseases|Thyroid Diseases|Thyroiditis|""]"
+FACIAL NERVE DISORDERS,Facial Nerve Diseases,D005155,0,120643,"[""|Diseases|Nervous System Diseases|Cranial Nerve Diseases|Facial Nerve Diseases|""]"
+BELL'S PALSY,Bell's Palsy,D020330,0,0,null
+HEAD & NECK CANCER,Head and Neck Cancer,D006258,0,0,null
+THERAPEUTIC INTERVENTIONS,Therapeutics,D013812,0,113253,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|""]"
+DRUG TREATMENTS,Drug Therapy,D004358,0,113968,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Drug Therapy|""]"
+ANTI-ALLERGIC AGENTS,Anti-Allergic Agents,D018926,0,0,null
+ANTI-BACTERIAL AGENTS,Anti-Bacterial Agents,D000900,0,0,null
+ANTI-VIRAL AGENTS,Antiviral Agents,D000998,0,0,null
+ANTI-DEPRESSIVE AGENTS,Antidepressive Agents,D000928,0,0,null
+ANTI-HISTAMINES,Anti-histamines,D006633,0,0,null
+ANTI-INFLAMMATORY AGENTS,Anti-inflammatory Agents,D000893,0,0,null
+ANTI-THYROID AGENTS,Anti-thyroid Agents,D013956,0,0,null
+CHEMOTHERAPY,"Chemotherapy, Adjuvant",D017024,0,115215,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Combined Modality Therapy|Chemotherapy, Adjuvant|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Drug Therapy|Chemotherapy, Adjuvant|""]"
+RESPIRATORY SYSTEM AGENTS,Respiratory System Agents,D019141,0,0,null
+LEUKOTRIENE ANTAGONISTS,Leukotriene Antagonists,D020024,0,0,null
+NASAL DECONGESTANTS,Nasal Decongestants,D014663,0,0,null
+STEROIDS,Steroids,D013256/D000305,0,0,null
+STEROIDS,Adrenal Cortex Hormones,D000305,0,0,null
+"DRUG TREATMENTS, OTHER",Drug Therapy,D004358,0,113968,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Drug Therapy|""]"
+AMPLIFICATION,Sensory Aids,D012682,0,113507,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Sensory Aids|""]"
+HEARING AIDS,Hearing Aids,D006310,0,113735,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Sensory Aids|Hearing Aids|""]"
+IMPLANTABLE DEVICES,Cochlear Implant,D003054,0,0,null
+IMPLANTABLE DEVICES,Auditory Brain Stem Implants,D038262,0,115339,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Electrodes|Electrodes, Implanted|Auditory Brain Stem Implants|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Sensory Aids|Hearing Aids|Auditory Brain Stem Implants|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Prostheses and Implants|Auditory Brain Stem Implants|""]"
+COMPLEMENTARY THERAPIES,Complementary Therapies,D000529,0,113311,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|""]"
+HERBAL REMEDIES,Phytotherapy,D008517,0,114406,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Phytotherapy|""]"
+ACUPUNCTURE,Acupuncture,D026881,0,109595,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Complementary Medicine|Acupuncture|""]"
+"NON-DRUG TREATMENTS, OTHER",Therapeutics,D013812,0,113253,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|""]"
+DIETARY SUPPLEMENTS,Dietary Supplements,D019587,0,0,null
+HEARING THERAPY,Rehabilitation of Hearing Impaired,D012048,0,113760,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Rehabilitation|Rehabilitation of Hearing Impaired|""]"
+LIP READING,Lipreading,D008085,0,113828,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Rehabilitation|Rehabilitation of Hearing Impaired|Lipreading|""]"
+SIGN LANGUAGE,Sign Language,D012813,0,114347,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Rehabilitation|Rehabilitation of Hearing Impaired|Manual Communication|Sign Language|""]"
+IMMUNOTHERAPY,Immunotherapy,D007167,0,114265,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Biological Therapy|Immunotherapy|""]"
+LANGUAGE THERAPY,Language Therapy,D007808,0,114348,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Rehabilitation|Rehabilitation of Speech and Language Disorders|Language Therapy|""]"
+RADIOTHERAPY,Radiotherapy,D011878,0,113584,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Radiotherapy|""]"
+SPEECH THERAPY,Speech Therapy,D013070,0,114727,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Rehabilitation|Rehabilitation of Speech and Language Disorders|Speech Therapy|""]"
+VOICE TRAINING,Voice Training,D014834,0,114728,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Rehabilitation|Rehabilitation of Speech and Language Disorders|Voice Training|""]"
+"HEARING THERAPY, OTHER",Rehabilitation of Hearing Impaired,D012048,0,113760,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Rehabilitation|Rehabilitation of Hearing Impaired|""]"
+SURGICAL PROCEDURES,Otorhinolaryngologic Surgical Procedures,D013517,0,113242,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Otorhinolaryngologic Surgical Procedures|""]"
+ADENOIDECTOMY,Adenoidectomy,D000233,0,113257,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Otorhinolaryngologic Surgical Procedures|Adenoidectomy|""]"
+LARYNGECTOMY,Laryngectomy,D007825,0,111478,"[""|Natural Science, Anatomy and Organisms|Anatomy|Respiratory System|Laryngectomy|""]"
+LARYNGOSCOPY,Laryngoscopy,D007828,0,111479,"[""|Natural Science, Anatomy and Organisms|Anatomy|Respiratory System|Laryngoscopy|""]"
+NECK DISSECTION,Neck Dissection,D037981,0,115338,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Lymph Node Excision|Neck Dissection|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Otorhinolaryngologic Surgical Procedures|Neck Dissection|""]"
+OTOLOGIC SURGICAL PROCEDURES,Otologic Surgical Procedures,D013506,0,114094,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Otorhinolaryngologic Surgical Procedures|Otologic Surgical Procedures|""]"
+COCHLEAR IMPLANTATION,Cochlear Implantation,D013506,0,113736,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Otorhinolaryngologic Surgical Procedures|Otologic Surgical Procedures|Cochlear Implantation|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Prosthesis Implantation|Cochlear Implantation|""]"
+AUDITORY BRAIN STEM IMPLANTATION,Auditory Brain Stem Implantation,D038263,0,115340,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Otorhinolaryngologic Surgical Procedures|Otologic Surgical Procedures|Auditory Brain Stem Implantation|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Prosthesis Implantation|Auditory Brain Stem Implantation|""]"
+ENDOLYMPHATIC SAC SURGERY,Endolymphatic Shunt,D004713,0,114093,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Anastomosis, Surgical|Endolymphatic Shunt|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Otorhinolaryngologic Surgical Procedures|Otologic Surgical Procedures|Endolymphatic Shunt|""]"
+"FENESTRATION, LABYRINTH","Fenestration, Labyrinth",D005276,0,114026,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Otorhinolaryngologic Surgical Procedures|Otologic Surgical Procedures|Fenestration, Labyrinth|""]"
+MASTOIDECTOMY,Mastoidectomy,,0,0,null
+MIDDLE EAR VENTILATION,Middle Ear Ventilation,D008876,0,114448,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Ostomy|Middle Ear Ventilation|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Otorhinolaryngologic Surgical Procedures|Otologic Surgical Procedures|Middle Ear Ventilation|""]"
+MYRINGOPLASTY,Myringoplasty,D009225,0,114466,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Otorhinolaryngologic Surgical Procedures|Otologic Surgical Procedures|Myringoplasty|""]"
+OSSICULAR REPLACEMENT,Ossicular Replacement,D019933,0,114588,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Otorhinolaryngologic Surgical Procedures|Otologic Surgical Procedures|Ossicular Replacement|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Prosthesis Implantation|Ossicular Replacement|""]"
+STAPES SURGERY,Stapes Surgery,D013201,0,113975,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Otorhinolaryngologic Surgical Procedures|Otologic Surgical Procedures|Stapes Surgery|""]"
+TYMPANOPLASTY,Tympanoplasty,D014433,0,113978,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Otorhinolaryngologic Surgical Procedures|Otologic Surgical Procedures|Tympanoplasty|""]"
+PHARYNGECTOMY,Pharyngectomy,D010611,0,111489,"[""|Natural Science, Anatomy and Organisms|Anatomy|Respiratory System|Pharyngectomy|""]"
+PHARYNGOSTOMY,Pharyngostomy,D010613,0,111490,"[""|Natural Science, Anatomy and Organisms|Anatomy|Respiratory System|Pharyngostomy|""]"
+RHINOPLASTY,Rhinoplasty,D012225,0,111474,"[""|Natural Science, Anatomy and Organisms|Anatomy|Respiratory System|Rhinoplasty|""]"
+SEPTOPLASTY,Septoplasty,,0,0,null
+TONSILLECTOMY,Tonsillectomy,D014068,0,111494,"[""|Natural Science, Anatomy and Organisms|Anatomy|Respiratory System|Tonsillectomy|""]"
+TRACHEOSTOMY,Tracheostomy,D014139,0,111435,"[""|Natural Science, Anatomy and Organisms|Anatomy|Respiratory System|Tracheostomy|""]"
+TRACHEOTOMY,Tracheotomy,D014140,0,111436,"[""|Natural Science, Anatomy and Organisms|Anatomy|Respiratory System|Tracheotomy|""]"
+THYROIDECTOMY,Thyroidectomy,D013965,0,114777,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Endocrine Surgical Procedures|Thyroidectomy|""]"
+"SURGICAL PROCEDURES, OTHER",Otorhinolaryngologic Surgical Procedures,D013517,0,113242,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Otorhinolaryngologic Surgical Procedures|""]"
+AUDIOLOGY,Audiology,D001298,0,123712,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Allied Health Occupations|Audiology|""]"
+AMPLIFICATION,Amplification,,0,0,null
+HEARING AIDS,Hearing Aids,D006310,0,113735,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Sensory Aids|Hearing Aids|""]"
+IMPLANTABLE DEVICES,Auditory Brain Stem Implants,D038262,0,115339,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Electrodes|Electrodes, Implanted|Auditory Brain Stem Implants|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Sensory Aids|Hearing Aids|Auditory Brain Stem Implants|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Prostheses and Implants|Auditory Brain Stem Implants|""]"
+IMPLANTABLE DEVICES,Cochlear Implants,D003054,0,113733,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Electrodes|Electrodes, Implanted|Cochlear Implants|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Sensory Aids|Hearing Aids|Cochlear Implants|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Prostheses and Implants|Cochlear Implants|""]"
+ASSESSMENT AND TESTING,Hearing Tests,D006320,0,113299,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Otological|Hearing Tests|""]"
+EDUCATIONAL AUDIOLOGY,Educational Audiology,D004496,0,0,null
+NEONATAL SCREENING,Neonatal Screening,D015997,0,115086,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Laboratory Techniques and Procedures|Neonatal Screening|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Mass Screening|Neonatal Screening|""]"
+SPEECH AND LANGUAGE THERAPY,Speech and Language Therapy,,0,0,null
+HEARING THERAPY,Hearing therapy,,0,0,null
+SERVICE DELIVERY,Delivery of Health Care,D003695,0,112273,"[""|Health Care|Health Care Quality, Access, and Evaluation|Delivery of Health Care|"",""|Health Care|Health Services Administration|Patient Care Management|Delivery of Health Care|""]"
+EDUCATION AND CPD,"Education, Continuing",D004496,0,117445,"[""|Education, Sociology and Social Phenomena|Education|Education, Professional|Education, Continuing|""]"

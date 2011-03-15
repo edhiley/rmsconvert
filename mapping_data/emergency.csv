@@ -1,0 +1,434 @@
+EMERGENCY CARE,Emergency Medicine,D004635,0,122549,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Emergency Medicine|""]"
+CLINICAL LIBRARY,Emergency Medicine,D004636,0,122549,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Emergency Medicine|""]"
+ORGANISATIONAL AND OTHER ISSUES,Emergency Medicine,D004637,0,122549,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Emergency Medicine|""]"
+ORGANISATIONAL AND OTHER ISSUES,organizational management,Q000458,0,0,null
+Record Keeping,Medical Records,D008499,0,112598,"[""|Health Care|Health Services Administration|Organization and Administration|Records as Topic|Medical Records|""]"
+ETHICS AND STANDARDS,Emergency Medicine,D004635,0,122549,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Emergency Medicine|""]"
+ETHICS AND STANDARDS,Ethics  ,Q000941 ,0,107989,"[""|Determinants Of Health|Social Determinant|Socioeconomic Factor|Social Factor|Ethics|""]"
+ETHICS AND STANDARDS,Standards,Q000592,0,0,null
+PROFESSIONAL STANDARDS,Emergency Medicine ,D004635 ,0,122549,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Emergency Medicine|""]"
+PROFESSIONAL STANDARDS,Standards,Q000592 ,0,0,null
+PROFESSIONAL CONFIDENTIALITY,Confidentiality,D003219,0,108266,"[""|Determinants Of Health|Social Determinant|Socioeconomic Factor|Social Factor|Ethics|Confidentiality|""]"
+CONSENT,Informed Consent,D007258,0,108206,"[""|Determinants Of Health|Social Determinant|Socioeconomic Factor|Social Factor|Ethics|Informed Consent|""]"
+WITHOLDING / WITHDRAWING TREATMENT,Withholding Treatment,D028761,0,113991,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Patient Care|Withholding Treatment|""]"
+WITHOLDING / WITHDRAWING TREATMENT,Refusal to Treat,D016079,0,112853,"[""|Health Care|Health Care Quality, Access, and Evaluation|Delivery of Health Care|Attitude of Health Personnel|Refusal to Treat|"",""|Health Care|Health Services Administration|Patient Care Management|Delivery of Health Care|Attitude of Health Personnel|Refusal to Treat|"",""|Health Care|Health Services Administration|Patient Care Management|Comprehensive Health Care|Primary Health Care|Refusal to Treat|""]"
+WITHOLDING / WITHDRAWING TREATMENT,Treatment Refusal,D016312,0,117487,"[""|Education, Sociology and Social Phenomena|Social Sciences|Sociology|Social Control, Formal|Human Rights|Patient Rights|Treatment Refusal|""]"
+RECOGNITION OF LIFE EXTINCT,Fatal Outcome,D017809,0,0,null
+RECOGNITION OF LIFE EXTINCT,Death Certificate,D003644,0,0,null
+AUDIT,Clinical Audit,D054869,0,109678,"[""|Health Services And Their Management|Management And Policy|Management|Performance Monitoring|Clinical Audit|""]"
+TRANSFERS,Transportation of Patients,D014187,0,113318,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Emergency Treatment|Transportation of Patients|""]"
+TRANSFERS,Patient Transfer,,0,114623,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Patient Care|Hospitalization|Patient Transfer|""]"
+FORENSICS,Forensic Medicine,D005554,0,117346,"[""|Education, Sociology and Social Phenomena|Social Sciences|Criminology|Forensic Sciences|Forensic Medicine|""]"
+FORENSICS,Crime,D003415,0,108128,"[""|Determinants Of Health|Social Determinant|Social Issue|Antisocial Behaviour|Crime|"",""|Determinants Of Health|Environmental Determinant|Causes Of Harm|Crime|"",""|Determinants Of Health|Social Determinant|Social Issue|Crime|""]"
+BLOODS IN ROAD CRASHES,"Accidents, Traffic",D000063,0,112226,"[""|Health Care|Population Characteristics|Health|Public Health|Accidents|Accidents, Traffic|""]"
+BLOODS IN ROAD CRASHES,Blood Chemical Analysis,D001774,0,113512,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Laboratory Techniques and Procedures|Clinical Chemistry Tests|Blood Chemical Analysis|""]"
+BLOODS IN ROAD CRASHES,Hematologic Tests,D006403,0,113511,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Laboratory Techniques and Procedures|Hematologic Tests|""]"
+CORONER,Coroners and Medical Examiners,D003334,0,112362,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Personnel|Coroners and Medical Examiners|""]"
+POLICE,Police,D016495,0,109798,"[""|Health Services And Their Management|Government And Law|Public Service|Police|""]"
+TISSUE DONATION,Tissue and Organ Procurement ,D009927 ,0,112691,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Tissue and Organ Procurement|""]"
+TISSUE DONATION,Tissue Donors,D014019,0,0,null
+SAFEGUARDING,Safeguarding,,0,0,null
+ADULTS,Safeguarding,,0,0,null
+CHILDREN,Safeguarding,,0,0,null
+SUPPORTING PATIENTS / RELATIVES,Supporting patients/relatives,,0,0,null
+BEREAVEMENT,Bereavement,D001601,0,106610,"[""|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Emotions|Bereavement|""]"
+DOMESTIC VIOLENCE,Domestic Violence,D017579,0,108140,"[""|Determinants Of Health|Social Determinant|Social Issue|Abuse|Domestic Violence|"",""|Determinants Of Health|Environmental Determinant|Causes Of Harm|Violence|Domestic Violence|""]"
+ASSAULT,Violence,D014754,0,108031,"[""|Determinants Of Health|Environmental Determinant|Causes Of Harm|Violence|""]"
+SEXUAL ASSAULT,Sex Offenses,D012742,0,0,null
+SEXUAL ASSAULT,Rape,D011902,0,108309,"[""|Determinants Of Health|Environmental Determinant|Causes Of Harm|Violence|Sexual Violence|Rape|""]"
+ALCOHOL,Alcoholism,D000437,0,106993,"[""|Psychiatry and Pscychology|Mental Disorders|Substance-Related Disorders|Alcohol-Related Disorders|Alcoholism|""]"
+ALCOHOL,Alcoholic Intoxication,D000435,0,106996,"[""|Psychiatry and Pscychology|Mental Disorders|Substance-Related Disorders|Alcohol-Related Disorders|Alcoholic Intoxication|""]"
+END OF LIFE,End of life,,0,0,null
+CAPACITY,Mental capacity,,0,0,null
+SPECIFIC PRE-HOSPITAL ISSUES,Emergency Medical Services,D004632,0,112441,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Emergency Medical Services|""]"
+DIAGNOSTICS,"Diagnostic Techniques and 
+Procedures",D019937,0,0,null
+SELECTED SYMPTOMS,Signs and Symptoms,D012816,0,120260,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|""]"
+SYNCOPE,Syncope,D013575,0,107121,"[""|Psychiatry and Pscychology|Mental Disorders|Delirium, Dementia, Amnestic, Cognitive Disorders|Consciousness Disorders|Unconsciousness|Syncope|""]"
+ACUTE CONFUSIONAL STATE,Confusion,D003221,0,120572,"[""|Diseases|Nervous System Diseases|Neurologic Manifestations|Neurobehavioral Manifestations|Confusion|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Neurobehavioral Manifestations|Confusion|""]"
+FEVER / PUO,Fever,D005334,0,120361,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Body Temperature Changes|Fever|""]"
+UNWELL RETURNING TRAVELLER,Travel ,D014195,0,0,null
+AIRWAY,Respiratory System,D012137,0,111480,"[""|Natural Science, Anatomy and Organisms|Anatomy|Respiratory System|""]"
+SORE THROAT,Sore Throat,D010612,0,0,null
+CHOKING,Choking,D000402,0,0,null
+ACUTE ALLERGIC REACTION,Allergic Reaction,D006967,0,0,null
+CHEST,Chest,D013909,0,0,null
+BREATHLESS AND DYSPNOEA,Dyspnea,D004417,0,118363,"[""|Diseases|Respiratory Tract Diseases|Respiration Disorders|Dyspnea|""]"
+CHEST PAIN (ISCHAEMIC),Chest Pain,D002637 ,0,0,null
+CHEST PAIN (ISCHAEMIC),Cardiovascular System,D002319,0,0,null
+CHEST PAIN (PLEURITIC),Chest Pain,D002637,0,0,null
+CHEST PAIN (PLEURITIC),Respiratory System,D012137,0,111480,"[""|Natural Science, Anatomy and Organisms|Anatomy|Respiratory System|""]"
+CHEST PAIN (ATYPICAL),Chest Pain,D002637,0,0,null
+COUGH,Cough,D003371,0,118742,"[""|Diseases|Respiratory Tract Diseases|Respiration Disorders|Cough|""]"
+WHEEZE,Respiratory Sounds ,D012135,0,114671,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Respiratory System|Respiratory Sounds|""]"
+HYPERVENTILATION,Hyperventilation,D006985,0,121014,"[""|Diseases|Respiratory Tract Diseases|Respiration Disorders|Hyperventilation|""]"
+HEAD / NECK / SPINE,Head,D006257,0,110572,"[""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Head|""]"
+HEAD / NECK / SPINE,Neck ,D009333,0,110891,"[""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Neck|""]"
+HEAD / NECK / SPINE,Spine,D013131,0,110409,"[""|Natural Science, Anatomy and Organisms|Anatomy|Tissues|Connective Tissue|Bone and Bones|Spine|"",""|Natural Science, Anatomy and Organisms|Anatomy|Musculoskeletal System|Skeleton|Bone and Bones|Spine|""]"
+HEADACHE,Headache,D006261,0,119030,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Headache|""]"
+DIZZINESS / VERTIGO,Dizziness,D004244,0,120777,"[""|Diseases|Nervous System Diseases|Neurologic Manifestations|Sensation Disorders|Dizziness|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Sensation Disorders|Dizziness|""]"
+DIZZINESS / VERTIGO,Vertigo,D014717,0,120701,"[""|Diseases|Nervous System Diseases|Neurologic Manifestations|Vertigo|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Vertigo|"",""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Labyrinth Diseases|Vestibular Diseases|Vertigo|""]"
+SEIZURE,Seizures,D012640,0,0,null
+CONFUSED / ALTERED CONSCIOUSNESS / COMA,Confusion,D003221,0,120572,"[""|Diseases|Nervous System Diseases|Neurologic Manifestations|Neurobehavioral Manifestations|Confusion|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Neurobehavioral Manifestations|Confusion|""]"
+CONFUSED / ALTERED CONSCIOUSNESS / COMA,Unconsciousness,D014474 ,0,107099,"[""|Psychiatry and Pscychology|Mental Disorders|Delirium, Dementia, Amnestic, Cognitive Disorders|Consciousness Disorders|Unconsciousness|""]"
+CONFUSED / ALTERED CONSCIOUSNESS / COMA,Coma,D003128,0,107063,"[""|Psychiatry and Pscychology|Mental Disorders|Delirium, Dementia, Amnestic, Cognitive Disorders|Consciousness Disorders|Unconsciousness|Coma|""]"
+PARAESTHESIA AND DYSTHESIA,Paresthesia,D010292,0,119629,"[""|Diseases|Nervous System Diseases|Neurologic Manifestations|Sensation Disorders|Somatosensory Disorders|Paresthesia|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Sensation Disorders|Somatosensory Disorders|Paresthesia|""]"
+NECK PAIN,Neck Pain,D019547,0,114909,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Sensation|Pain|Neck Pain|""]"
+LOW BACK PAIN,Low Back Pain,D017116,0,0,null
+EYE,Eye,D005123,0,110230,"[""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Head|Face|Eye|"",""|Natural Science, Anatomy and Organisms|Anatomy|Sense Organs|Eye|""]"
+LOSS OF VISION,Loss of vision,,0,0,null
+RED EYE,Red eye,,0,0,null
+ENT,Otolaryngology,D010036,0,122952,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Surgical|Otolaryngology|""]"
+ENT,Ear,D004423,0,110531,"[""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Head|Ear|"",""|Natural Science, Anatomy and Organisms|Anatomy|Sense Organs|Ear|""]"
+ENT,Nose,D009666,0,111461,"[""|Natural Science, Anatomy and Organisms|Anatomy|Respiratory System|Nose|""]"
+ENT,Pharynx,D010614 ,0,111442,"[""|Natural Science, Anatomy and Organisms|Anatomy|Respiratory System|Pharynx|""]"
+REDUCED HEARING,Hearing Loss,D034381,0,0,null
+EAR ACHE,Earache,D004433,0,113979,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Sensation|Pain|Earache|""]"
+EPISTAXIS,Epistaxis,D004844,0,120979,"[""|Diseases|Respiratory Tract Diseases|Nose Diseases|Epistaxis|""]"
+TINNITUS,Tinnitus,D014012,0,0,null
+DISCHARGE FROM EAR,Discharge from ear,,0,0,null
+SORE THROAT,Sore Throat,D010612,0,0,null
+DEAFNESS,Deafness,D003638,0,0,null
+ABDOMEN,Abdomen,D000005,0,110607,"[""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Abdomen|""]"
+DIFFICULTY IN SWALLOWING,Deglutition,D003679,0,123954,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Digestive, Oral, and Skin Physiology|Digestive Physiology|Digestive System Processes|Deglutition|""]"
+ABDOMINAL PAIN,Abdominal Pain,D015746,0,114046,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Sensation|Pain|Abdominal Pain|""]"
+NAUSEA AND VOMITING,Nausea,D009325 ,0,0,null
+NAUSEA AND VOMITING,Vomiting,D014839,0,0,null
+DIARRHOEA,Diarrhea,D003967,0,0,null
+CONSTIPATION,Constipation,D003248,0,0,null
+DYSPEPSIA SYMPTOMS,Dyspepsia,D004415,0,0,null
+HICCUPS,Hiccup,D006606,0,0,null
+GENITOURINARY,Urogenital System,D014566,0,111538,"[""|Natural Science, Anatomy and Organisms|Anatomy|Urogenital System|""]"
+PV BLEEDING,Per Vaginal (PV) bleeding,D014592,0,0,null
+DYSURIA,Dysuria,D053159,0,121165,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Urological Manifestations|Dysuria|""]"
+HAEMATURIA,Hematuria,D006417,0,119055,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Hemorrhage|Hematuria|"",""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Urination Disorders|Hematuria|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Urination Disorders|Hematuria|""]"
+TESTICULAR PAIN,Testis ,D013737,0,111597,"[""|Natural Science, Anatomy and Organisms|Anatomy|Urogenital System|Genitalia|Genitalia, Male|Testis|"",""|Natural Science, Anatomy and Organisms|Anatomy|Urogenital System|Genitalia, Male|Testis|"",""|Natural Science, Anatomy and Organisms|Anatomy|Urogenital System|Genitalia|Gonads|Testis|"",""|Natural Science, Anatomy and Organisms|Anatomy|Urogenital System|Gonads|Testis|"",""|Natural Science, Anatomy and Organisms|Anatomy|Urogenital System|Testis|""]"
+TESTICULAR PAIN,Pain,D010146,0,113452,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Sensation|Pain|""]"
+RETENTION,Urinary Retention,D016055,0,120078,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Urination Disorders|Urinary Retention|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Urination Disorders|Urinary Retention|""]"
+LIMB,Limbs,D005121,0,0,null
+SHOULDER PAIN,Shoulder Pain,D020069,0,115232,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Sensation|Pain|Arthralgia|Shoulder Pain|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Sensation|Pain|Shoulder Pain|""]"
+ELBOW PAIN,Elbow,D004550,0,110622,"[""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Extremities|Upper Extremity|Elbow|""]"
+ELBOW PAIN,Pain,D010146,0,113452,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Sensation|Pain|""]"
+KNEE PAIN,Knee,D007717,0,110771,"[""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Extremities|Lower Extremity|Knee|""]"
+KNEE PAIN,Pain,D010146,0,113452,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Sensation|Pain|""]"
+LEG PAIN,Leg,D007866,0,110785,"[""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Extremities|Lower Extremity|Leg|""]"
+LEG PAIN,Pain,D010146,0,113452,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Sensation|Pain|""]"
+SKIN,Skin,D012867,0,0,null
+RASH,Exanthema,D005076,0,0,null
+ALLERGIC RESPONSE,Allergic Reaction,D006967,0,0,null
+PRURITIS,Pruritis,D011537,0,0,null
+SPECIFIC PAEDIATRIC SYMPTOMS,Pediatrics,D010372,0,122915,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Pediatrics|""]"
+SPECIFIC PAEDIATRIC SYMPTOMS,Signs and Symptoms,D012816,0,120260,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|""]"
+SERIOUSLY ILL CHILD,Seriously ill child,,0,0,null
+PUO > 5 DAYS,PUO > 5 days,,0,0,null
+LIMP,Limp/floppy,,0,0,null
+SIDS,Sudden Infant Death,D013398,0,120627,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Death|Death, Sudden|Sudden Infant Death|""]"
+RASH,Rash,D005076,0,0,null
+FEBRILE CONVULSION,"Convulsions, Febrile",D003294,0,0,null
+ORAL / DENTAL,"Diagnosis, Oral",D003945,0,113879,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Diagnosis, Oral|""]"
+DENTAL PAIN,Toothache,D014098,0,114792,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Sensation|Pain|Facial Pain|Toothache|""]"
+RESPIRATORY,Respiratory System,D012137,0,111480,"[""|Natural Science, Anatomy and Organisms|Anatomy|Respiratory System|""]"
+ASTHMA,Asthma,D001249,0,118403,"[""|Diseases|Respiratory Tract Diseases|Bronchial Diseases|Asthma|"",""|Diseases|Respiratory Tract Diseases|Lung Diseases|Lung Diseases, Obstructive|Asthma|"",""|Diseases|Respiratory Tract Diseases|Respiratory Hypersensitivity|Asthma|""]"
+PULMONARY EMBOLISM,Pulmonary Embolism,D011655,0,118396,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Pulmonary Embolism|""]"
+RESPIRATORY FAILURE,Respiratory Insufficiency,D012131,0,118402,"[""|Diseases|Respiratory Tract Diseases|Respiration Disorders|Respiratory Insufficiency|""]"
+AIRWAY,Airway,,0,0,null
+PNEUMOTHORAX,Pneumothorax,D011030,0,120997,"[""|Diseases|Respiratory Tract Diseases|Pleural Diseases|Pneumothorax|""]"
+HYPERVENTILATION,Hyperventilation,D006985,0,121014,"[""|Diseases|Respiratory Tract Diseases|Respiration Disorders|Hyperventilation|""]"
+ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS),"Respiratory Distress Syndrome, Newborn",D012128,0,118736,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Respiratory Distress Syndrome, Newborn|"",""|Diseases|Respiratory Tract Diseases|Respiration Disorders|Respiratory Distress Syndrome, Newborn|""]"
+INFECTIONS,Infection,D007239,0,120152,"[""|Diseases|Bacterial Infections and Mycoses|Infection|""]"
+SEVERE ACUTE RESPIRATORY SYNDROME (SARS),Severe Acute Respiratory Syndrome,D045169,0,118734,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Severe Acute Respiratory Syndrome|""]"
+PNEUMONIA,Pneumonia,D011014,0,118761,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Pneumonia|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Pneumonia|""]"
+INFLUENZA,"Influenza, Human",D007251,0,118399,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Influenza, Human|""]"
+SEASONAL INFLUENZA,"Influenza, Human",D007251,0,118399,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Influenza, Human|""]"
+PANDEMIC INFLUENZA,Disease Outbreaks,D004196,0,112547,"[""|Health Care|Population Characteristics|Health|Public Health|Disease Outbreaks|""]"
+UPPER RESPIRATORY TRACT INFECTION,Respiratory Tract Infections,D012141,0,118759,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|""]"
+BRONCHITIS,Bronchitis,D001991,0,118756,"[""|Diseases|Respiratory Tract Diseases|Bronchial Diseases|Bronchitis|"",""|Diseases|Respiratory Tract Diseases|Lung Diseases|Lung Diseases, Obstructive|Bronchitis|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Bronchitis|""]"
+"INFECTIONS, OTHER",Infection,D007239,0,120152,"[""|Diseases|Bacterial Infections and Mycoses|Infection|""]"
+CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD),Chronic Obstructive Pulmonary Disease,D029424,0,118384,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Lung Diseases, Obstructive|Chronic Obstructive Pulmonary Disease|""]"
+PLEURAL EFFUSION,Pleural Effusion,D010996,0,118452,"[""|Diseases|Respiratory Tract Diseases|Pleural Diseases|Pleural Effusion|""]"
+BRONCHIECTASIS,Bronchiectasis,D001987,0,118754,"[""|Diseases|Respiratory Tract Diseases|Bronchial Diseases|Bronchiectasis|""]"
+CROUP,Croup,D003440,0,118765,"[""|Diseases|Respiratory Tract Diseases|Laryngeal Diseases|Laryngitis|Croup|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Laryngitis|Croup|""]"
+NEUROLOGICAL,Nervous System Diseases,D009422,0,120279,"[""|Diseases|Nervous System Diseases|""]"
+CNS INFECTIONS,Central Nervous System Viral Diseases,D020805,0,118964,"[""|Diseases|Bacterial Infections and Mycoses|Central Nervous System Infections|Central Nervous System Viral Diseases|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Central Nervous System Infections|Central Nervous System Viral Diseases|"",""|Diseases|Virus Diseases|Central Nervous System Viral Diseases|""]"
+SUBARACHNOID HAEMORRHAGE,Subarachnoid Hemorrhage,D013345,0,119794,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Intracranial Hemorrhages|Subarachnoid Hemorrhage|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Intracranial Hemorrhages|Subarachnoid Hemorrhage|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Hemorrhage|Intracranial Hemorrhages|Subarachnoid Hemorrhage|""]"
+SEIZURES,Seizures,D012640,0,0,null
+BELLS PALSY,Bell Palsy,D020330,0,120992,"[""|Diseases|Nervous System Diseases|Cranial Nerve Diseases|Facial Nerve Diseases|Bell Palsy|"",""|Diseases|Virus Diseases|DNA Virus Infections|Herpesviridae Infections|Bell Palsy|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Bell Palsy|""]"
+INTRACRANIAL HAEMORRHAGE,Intracranial Hemorrhages,D020300,0,120474,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Intracranial Hemorrhages|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Intracranial Hemorrhages|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Hemorrhage|Intracranial Hemorrhages|""]"
+CORD COMPRESSION,Spinal Cord Compression,D013117,0,119768,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Spinal Cord Diseases|Spinal Cord Compression|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Spinal Cord Diseases|Spinal Cord Injuries|Spinal Cord Compression|"",""|Diseases|Nervous System Diseases|Trauma, Nervous System|Spinal Cord Injuries|Spinal Cord Compression|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Trauma, Nervous System|Spinal Cord Injuries|Spinal Cord Compression|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Spinal Cord Injuries|Spinal Cord Compression|""]"
+STROKE,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+TRANSIENT ISCHAEMIC ATTACKS,"Ischemic Attack, Transient",D002546,0,0,null
+EPILEPSY,Epilepsy,D004827,0,0,null
+HEPATIC ENCEPHALOPATHY,Hepatic Encephalopathy,D006501,0,119087,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Brain Diseases, Metabolic|Hepatic Encephalopathy|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Brain Diseases, Metabolic|Hepatic Encephalopathy|"",""|Diseases|Digestive System Diseases|Liver Diseases|Hepatic Insufficiency|Liver Failure|Hepatic Encephalopathy|""]"
+MIGRAINE,Migraine Disorders,D008881,0,119442,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Headache|Headache Disorders, Primary|Migraine Disorders|""]"
+TRIGEMINAL NEURALGIA,Trigeminal Neuralgia,D014277,0,120788,"[""|Diseases|Nervous System Diseases|Cranial Nerve Diseases|Trigeminal Nerve Diseases|Trigeminal Neuralgia|""]"
+CARPAL TUNNEL SYNDROME,Carpal Tunnel Syndrome,D002349,0,0,null
+CARDIOVASCULAR,Cardiovascular Diseases,D002318,0,120437,"[""|Diseases|Cardiovascular Diseases|""]"
+AORTIC DISEASE,Aortic Diseases,D001018,0,120189,"[""|Diseases|Cardiovascular Diseases|Vascular Diseases|Aortic Diseases|""]"
+ABDOMINAL AORTIC ANEURYSMS (AAA),Abdominal Aortic Aneurysm,D017544,0,0,null
+THORACIC AORTIC ANEURYSMS (TAA),"Aortic Aneurysm, Thoracic",D017545,0,119999,"[""|Diseases|Cardiovascular Diseases|Vascular Diseases|Aneurysm|Aortic Aneurysm|Aortic Aneurysm, Thoracic|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Aortic Diseases|Aortic Aneurysm|Aortic Aneurysm, Thoracic|""]"
+AORTIC DISSECTION,Aortic dissection,,0,0,null
+ARRYTHMIA,Arrhythmia,D001145,0,0,null
+CARDIOPULMONARY ARREST,Heart Arrest,D006323,0,0,null
+BASIC LIFE SUPPORT (BLS),Basic life support,,0,0,null
+ADVANCED LIFE SUPPORT (ALS),Advanced life support,,0,0,null
+NEWBORN LIFE SUPPORT,Newborn life support,,0,0,null
+PROCEDURES,Methods,D008722,0,114429,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Methods|""]"
+PREVENTION,Primary Prevention,D011322,0,112554,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Community Health Services|Preventive Health Services|Primary Prevention|"",""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Preventive Health Services|Primary Prevention|"",""|Health Care|Population Characteristics|Health|Public Health|Public Health Practice|Primary Prevention|""]"
+ACUTE CORONARY SYNDROMES,Acute Coronary Syndrome,D054058,0,0,null
+MYOCARDIAL INFARCTION,Myocardial Infarction,D009203,0,119220,"[""|Diseases|Cardiovascular Diseases|Heart Diseases|Myocardial Ischemia|Myocardial Infarction|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Myocardial Ischemia|Myocardial Infarction|""]"
+UNSTABLE ANGINA,"Angina, Unstable",D000789,0,121225,"[""|Diseases|Cardiovascular Diseases|Heart Diseases|Myocardial Ischemia|Angina Pectoris|Angina, Unstable|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Myocardial Ischemia|Angina Pectoris|Angina, Unstable|""]"
+MYOCARDITIS,Myocarditis,D009205,0,119489,"[""|Diseases|Cardiovascular Diseases|Heart Diseases|Cardiomyopathies|Myocarditis|""]"
+ENDOCARDITIS,Endocarditis,D004696,0,118984,"[""|Diseases|Cardiovascular Diseases|Heart Diseases|Endocarditis|""]"
+HEART FAILURE,Heart Failure,D006333,0,120637,"[""|Diseases|Cardiovascular Diseases|Heart Diseases|Heart Failure|""]"
+PULMONARY OEDEMA,Pulmonary Edema,D011654,0,118395,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Pulmonary Edema|""]"
+HYPERTENSIVE EMERGENCIES,Hypertensive Emergencies,,0,0,null
+PERIPHERAL EMBOLUS,Embolism,D004617,0,118955,"[""|Diseases|Cardiovascular Diseases|Vascular Diseases|Embolism and Thrombosis|Embolism|""]"
+PERIPHERAL ISCHEMIA,Ischemia,D007511,0,120350,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Ischemia|""]"
+STROKE,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+VALVULAR DISEASES,Heart Valve Diseases,D006349,0,120199,"[""|Diseases|Cardiovascular Diseases|Heart Diseases|Heart Valve Diseases|""]"
+PERICARDITIS,Pericarditis,D010493,0,119646,"[""|Diseases|Cardiovascular Diseases|Heart Diseases|Pericarditis|""]"
+ABDOMINAL,Abdominal diseases,,0,0,null
+GASTROINTESTINAL,Gastroenterology,D005762,0,122673,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Internal Medicine|Gastroenterology|""]"
+GASTROENTERITIS,Gastroenteritis,D005759,0,0,null
+DYSPEPSIA,Dyspepsia,D004415,0,0,null
+LIVER,Liver,D008099,0,110312,"[""|Natural Science, Anatomy and Organisms|Anatomy|Digestive System|Liver|""]"
+LOWER GASTROINTESTINAL BLEED,Lower gastrointestinal bleed,,0,0,null
+UPPER GASTROINTESTINAL BLEED,Upper gastrointestinal bleed,,0,0,null
+DIVERTICULAR DISEASE,Diverticulitis,D004238,0,120695,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Diverticulitis|""]"
+DIVERTICULAR DISEASE,Diverticulum,D004240,0,120698,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathological Conditions, Anatomical|Diverticulum|""]"
+COLIC (INFANTILE),Colic,D003085,0,113745,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Sensation|Pain|Abdominal Pain|Colic|""]"
+ROUNDWORM AND THREADWORM,Roundworm,D009348,0,0,null
+ROUNDWORM AND THREADWORM,Threadworm,D004757,0,0,null
+APPENDICITIS,Appendicitis,D001064,0,0,null
+PERITONITIS,Peritonitis,D010538,0,119519,"[""|Diseases|Digestive System Diseases|Peritoneal Diseases|Peritonitis|""]"
+PANCREATITIS,Pancreatitis,D010195,0,119614,"[""|Diseases|Digestive System Diseases|Pancreatic Diseases|Pancreatitis|""]"
+GASTRO-OESOPHAGEAL REFLUX DISEASE (GORD),Gastroesophageal Reflux,D005764,0,121263,"[""|Diseases|Digestive System Diseases|Gastrointestinal Diseases|Esophageal Diseases|Deglutition Disorders|Esophageal Motility Disorders|Gastroesophageal Reflux|"",""|Diseases|Otorhinolaryngologic Diseases|Pharyngeal Diseases|Deglutition Disorders|Esophageal Motility Disorders|Gastroesophageal Reflux|"",""|Diseases|Stomatognathic Diseases|Pharyngeal Diseases|Deglutition Disorders|Esophageal Motility Disorders|Gastroesophageal Reflux|""]"
+INFLAMMATORY BOWEL DISEASE,Inflammatory Bowel Diseases,D015212,0,0,null
+BILIARY TREE & GALLBLADDER,Biliary Tract,D001659,0,110311,"[""|Natural Science, Anatomy and Organisms|Anatomy|Digestive System|Biliary Tract|""]"
+BILIARY TREE & GALLBLADDER,Gallbladder,D005704,0,110705,"[""|Natural Science, Anatomy and Organisms|Anatomy|Digestive System|Biliary Tract|Gallbladder|""]"
+ISCHAEMIA,Ischemia,D007511,0,120350,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Ischemia|""]"
+GENITOURINARY,Urogenital System,D014566,0,111538,"[""|Natural Science, Anatomy and Organisms|Anatomy|Urogenital System|""]"
+URINARY INFECTION,Urinary Tract Infections,D014552,0,0,null
+BALANITIS,Balanitis,D001446,0,120286,"[""|Diseases|Male Urogenital Diseases|Genital Diseases, Male|Penile Diseases|Balanitis|""]"
+HERPES SIMPLEX (GENITAL),Herpes Genitalis,D006558,0,121387,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Infectious|Skin Diseases, Viral|Herpes Simplex|Herpes Genitalis|""]"
+PELVIC INFLAMMATORY DISEASE,Pelvic Inflammatory Disease,D000292,0,118847,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Genital Diseases, Female|Adnexal Diseases|Pelvic Inflammatory Disease|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Pelvic Infection|Pelvic Inflammatory Disease|""]"
+PROSTATITIS,Prostatitis,D011472,0,0,null
+RENAL,Kidney,D007668,0,111516,"[""|Natural Science, Anatomy and Organisms|Anatomy|Urogenital System|Urinary Tract|Kidney|"",""|Natural Science, Anatomy and Organisms|Anatomy|Urogenital System|Kidney|""]"
+RENAL STONES,Kidney Stones,D007669,0,111518,"[""|Natural Science, Anatomy and Organisms|Anatomy|Urogenital System|Urinary Tract|Kidney|Kidney Pelvis|Kidney Stones|"",""|Natural Science, Anatomy and Organisms|Anatomy|Urogenital System|Kidney|Kidney Pelvis|Kidney Stones|"",""|Natural Science, Anatomy and Organisms|Anatomy|Urogenital System|Kidney Pelvis|Kidney Stones|"",""|Natural Science, Anatomy and Organisms|Anatomy|Urogenital System|Kidney Stones|""]"
+ACUTE RENAL FAILURE,"Kidney Failure, Acute",D007675,0,119300,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Kidney Diseases|Renal Insufficiency|Kidney Failure|Kidney Failure, Acute|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Kidney Diseases|Renal Insufficiency|Kidney Failure|Kidney Failure, Acute|"",""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Kidney Diseases|Renal Insufficiency|Renal Insufficiency, Acute|Kidney Failure, Acute|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Kidney Diseases|Renal Insufficiency|Renal Insufficiency, Acute|Kidney Failure, Acute|""]"
+ACUTE PYELONEPHRITIS,Pyelonephritis,D011704,0,119675,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Kidney Diseases|Nephritis|Nephritis, Interstitial|Pyelonephritis|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Kidney Diseases|Nephritis|Nephritis, Interstitial|Pyelonephritis|"",""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Kidney Diseases|Nephritis|Pyelitis|Pyelonephritis|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Kidney Diseases|Nephritis|Pyelitis|Pyelonephritis|""]"
+ENDOCRINOLOGY / METABOLIC,Endocrinology,D004704,0,122575,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Internal Medicine|Endocrinology|"",""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Physiology|Endocrinology|""]"
+DIABETES MELLITUS,Diabetes Mellitus,D003920,0,120719,"[""|Diseases|Endocrine System Diseases|Diabetes Mellitus|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Glucose Metabolism Disorders|Diabetes Mellitus|""]"
+HYPERGLYCAEMIA,Hyperglycemia,D006943,0,120352,"[""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Glucose Metabolism Disorders|Hyperglycemia|""]"
+HYPOGLYCAEMIA,Hypoglycemia,D007003,0,120353,"[""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Glucose Metabolism Disorders|Hypoglycemia|""]"
+HYPERKALAEMIA,Hyperkalemia,D006947,0,119213,"[""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Water-Electrolyte Imbalance|Hyperkalemia|""]"
+HYPONATRAEMIA,Hyponatremia,D007010,0,119223,"[""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Water-Electrolyte Imbalance|Hyponatremia|""]"
+HYPOADRENALISM,Adrenal Insufficiency,D000309,0,118797,"[""|Diseases|Endocrine System Diseases|Adrenal Gland Diseases|Adrenal Insufficiency|""]"
+RHEUMATOLOGY / ORTHOPAEDICS,Rheumatology,D012219,0,123023,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Internal Medicine|Rheumatology|""]"
+RHEUMATOLOGY / ORTHOPAEDICS,Orthopedics,D009985,0,122946,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Surgical|Orthopedics|""]"
+BACK PAIN,Back Pain,D001416,0,115467,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Sensation|Pain|Back Pain|""]"
+BONE AND JOINT INFECTIONS,Bone Diseases,D001847,0,120363,"[""|Diseases|Musculoskeletal Diseases|Bone Diseases|""]"
+BONE AND JOINT INFECTIONS,Joint Diseases,D007592,0,120163,"[""|Diseases|Musculoskeletal Diseases|Joint Diseases|""]"
+CRYSTAL ARTHROPATHY,"Arthropathy, Neurogenic",D001177,0,120244,"[""|Diseases|Musculoskeletal Diseases|Joint Diseases|Arthropathy, Neurogenic|""]"
+GOUT,Gout,D006073,0,121294,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Rheumatic Diseases|Gout|""]"
+ACUTE ARTHRITIS,"Arthritis, Acute Rheumatic",D012213,0,0,null
+OSTEONECROSIS,Osteonecrosis,D010020,0,120818,"[""|Diseases|Musculoskeletal Diseases|Bone Diseases|Osteonecrosis|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Necrosis|Osteonecrosis|""]"
+HAEMATOLOGY,Hematology,D006405,0,122619,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Internal Medicine|Hematology|""]"
+BLEEDING,Bleeding,D006470,0,0,null
+SICKLE CELL,"Anemia, Sickle Cell",D000755,0,120141,"[""|Diseases|Hemic and Lymphatic Diseases|Hematologic Diseases|Anemia|Anemia, Hemolytic|Anemia, Hemolytic, Congenital|Anemia, Sickle Cell|"",""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|Anemia, Hemolytic, Congenital|Anemia, Sickle Cell|"",""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|Hemoglobinopathies|Anemia, Sickle Cell|"",""|Diseases|Hemic and Lymphatic Diseases|Hematologic Diseases|Hemoglobinopathies|Anemia, Sickle Cell|""]"
+VENOUS THROMBOSIS,Venous Thrombosis,D020246,0,119090,"[""|Diseases|Cardiovascular Diseases|Vascular Diseases|Embolism and Thrombosis|Thrombosis|Venous Thrombosis|""]"
+ANTICOAGULANTS,Anticoagulants,D000925,0,0,null
+OBSTETRICS / GYNAECOLOGY,Obstetrics,D009774,0,122932,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Surgical|Obstetrics|""]"
+OBSTETRICS / GYNAECOLOGY,Gynecology,D006176,0,122598,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Surgical|Gynecology|""]"
+BLEEDING IN EARLY PREGNANCY,Bleeding in early pregnancy,,0,0,null
+ECLAMPSIA,Eclampsia,D004461,0,0,null
+POSTPARTUM HAEMORRHAGE (PPH),Postpartum Hemorrhage,D006473,0,119071,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Pregnancy Complications|Obstetric Labor Complications|Postpartum Hemorrhage|"",""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Pregnancy Complications|Puerperal Disorders|Postpartum Hemorrhage|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Hemorrhage|Uterine Hemorrhage|Postpartum Hemorrhage|"",""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Genital Diseases, Female|Uterine Diseases|Uterine Hemorrhage|Postpartum Hemorrhage|""]"
+PER VAGINAL (PV) BLEEDING,Per Vaginal (PV) bleeding,,0,0,null
+ECTOPIC PREGNANCY,"Pregnancy, Ectopic",D011271,0,119557,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Pregnancy Complications|Pregnancy, Ectopic|""]"
+CHILDBIRTH,Childbirth,D036801,0,0,null
+INFECTION,Infection,D007239,0,120152,"[""|Diseases|Bacterial Infections and Mycoses|Infection|""]"
+EMERGENCY CONTRACEPTION,Emergency Contraception,D044363,0,109711,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Family Planning|Contraception Care|Emergency Contraception|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Family Planning|Contraception Care|Emergency Contraception|"",""|Health Services And Their Management|Healthcare And Health Services|Health Services|Family Planning|Contraception Care|Oral Contraception|Emergency Contraception|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Family Planning|Contraception Care|Oral Contraception|Emergency Contraception|""]"
+HYPERTENSION IN PREGNANCY,"Hypertension, Pregnancy-Induced",D046110,0,0,null
+NAUSEA AND VOMITING IN PREGNANCY,Hyperemesis Gravidarum,D006939,0,121245,"[""|Morning Sickness|Hyperemesis Gravidarum|""]"
+NORMAL PREGNANCY,Pregnancy,D011247,0,122750,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Reproductive and Urinary Physiology|Reproduction|Pregnancy|""]"
+TRAUMA IN PREGNANCY,Trauma,D014947,0,0,null
+TRAUMA IN PREGNANCY,Pregnancy,D011247,0,122750,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Reproductive and Urinary Physiology|Reproduction|Pregnancy|""]"
+ABDOMINAL PAIN IN PREGNANCY,Abdominal Pain,D015746,0,114046,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Sensation|Pain|Abdominal Pain|""]"
+ABDOMINAL PAIN IN PREGNANCY,Pregnancy,D011247,0,122750,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Reproductive and Urinary Physiology|Reproduction|Pregnancy|""]"
+ENT,Otolaryngology,D010036,0,122952,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Surgical|Otolaryngology|""]"
+EPIGLOTTITIS,Epiglottitis,D004826,0,118359,"[""|Diseases|Respiratory Tract Diseases|Laryngeal Diseases|Laryngitis|Epiglottitis|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Laryngitis|Epiglottitis|""]"
+FOREIGN BODY,Foreign Bodies,D005547,0,120312,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Foreign Bodies|""]"
+EPISTAXIS,Epistaxis,D004844,0,120979,"[""|Diseases|Respiratory Tract Diseases|Nose Diseases|Epistaxis|""]"
+ALLERGIC RHINITIS,"Rhinitis, Allergic, Perennial",D012221,0,118764,"[""|Diseases|Respiratory Tract Diseases|Respiratory Hypersensitivity|Rhinitis, Allergic, Perennial|"",""|Diseases|Respiratory Tract Diseases|Nose Diseases|Rhinitis|Rhinitis, Allergic, Perennial|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Rhinitis|Rhinitis, Allergic, Perennial|""]"
+ALLERGIC RHINITIS,"Rhinitis, Allergic, Seasonal",D006255,0,118720,"[""|Diseases|Respiratory Tract Diseases|Respiratory Hypersensitivity|Rhinitis, Allergic, Seasonal|"",""|Diseases|Respiratory Tract Diseases|Nose Diseases|Rhinitis|Rhinitis, Allergic, Seasonal|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Rhinitis|Rhinitis, Allergic, Seasonal|""]"
+SINUSITIS,Sinusitis,D012852,0,118722,"[""|Diseases|Respiratory Tract Diseases|Nose Diseases|Paranasal Sinus Diseases|Sinusitis|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Sinusitis|""]"
+EAR INFECTIONS,Ear Diseases,D004427,0,120756,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|""]"
+OTITIS MEDIA,Otitis Media,D010033,0,0,null
+OTITIS EXTERNA,Otitis Externa,D010032,0,119607,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Otitis|Otitis Externa|""]"
+"EAR INFECTIONS, OTHER",Ear Diseases,D004427,0,120756,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|""]"
+CANDIDA (ORAL),"Candidiasis, Oral",D002180,0,120421,"[""|Diseases|Bacterial Infections and Mycoses|Mycoses|Candidiasis|Candidiasis, Oral|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Candidiasis, Oral|""]"
+TONSILLITIS,Tonsillitis,D014069,0,118382,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Tonsillitis|""]"
+MENIERE'S DISEASE,Meniere Disease,D008575,0,119411,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Labyrinth Diseases|Endolymphatic Hydrops|Meniere Disease|""]"
+ORAL / DENTAL,Oral Health,D009909,0,110132,"[""|Health, Public Health, Health Promotion|Health|Oral Health|""]"
+ORAL / DENTAL,Dental Care,D003729,0,113852,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Dental Care|""]"
+HERPES SIMPLEX (ORAL),"Herpes Simplex, Oral",D013283,0,0,null
+GINGIVITIS AND PERIDONTITIS,Gingivitis,D005891,0,119250,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Periodontal Diseases|Gingival Diseases|Gingivitis|""]"
+GINGIVITIS AND PERIDONTITIS,Periodontitis,D010518,0,119515,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Periodontal Diseases|Periodontitis|""]"
+CANDIDA (ORAL),"Candidiasis, Oral",D002180,0,120421,"[""|Diseases|Bacterial Infections and Mycoses|Mycoses|Candidiasis|Candidiasis, Oral|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Candidiasis, Oral|""]"
+OPHTHALMOLOGY,Ophthalmology,D009885,0,122941,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Surgical|Ophthalmology|""]"
+EYE LID,Eyelids,D005143,0,110498,"[""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Head|Face|Eye|Eyelids|"",""|Natural Science, Anatomy and Organisms|Anatomy|Sense Organs|Eye|Eyelids|""]"
+HERPES SIMPLEX (OCULAR),"Herpes Simplex, Ocular",D016849,0,0,null
+CONJUNCTIVITIS,Conjunctivitis,D003231,0,121526,"[""|Diseases|Eye Diseases|Conjunctival Diseases|Conjunctivitis|""]"
+GLAUCOMA,Glaucoma,D005901,0,121593,"[""|Diseases|Eye Diseases|Ocular Hypertension|Glaucoma|""]"
+KERATITIS,Keratitis,D007634,0,121538,"[""|Diseases|Eye Diseases|Corneal Diseases|Keratitis|""]"
+UVEITIS,Uveitis,D014605,0,121547,"[""|Diseases|Eye Diseases|Uveal Diseases|Uveitis|""]"
+TRAUMA,Wounds and Injuries,D014947,0,120846,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|""]"
+TRAUMA,Ophthalmology,D009885,0,122941,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Surgical|Ophthalmology|""]"
+DERMATOLOGY,Dermatology,D003880,0,122472,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Dermatology|""]"
+INFECTION,Infection,D007239,0,120152,"[""|Diseases|Bacterial Infections and Mycoses|Infection|""]"
+COMMON STAPHYLOCOCCAL,Staphylococcal Infections,D013203,0,119542,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Positive Bacterial Infections|Staphylococcal Infections|""]"
+FUNGAL,Fungal Skin Diseases,D003881,0,0,null
+SCABIES,Scabies,D012532,0,0,null
+SHINGLES AND POSTHERPETIC NEURALGIA,Shingles,D006562,0,0,null
+SHINGLES AND POSTHERPETIC NEURALGIA,"Neuralgia, Postherpetic",D051474,0,0,null
+URTICARIA AND ANGIO OEDEMA,Urticaria,D014581,0,0,null
+URTICARIA AND ANGIO OEDEMA,Angioedema,D000799,0,0,null
+ALLERGY,Allergy,D006967,0,0,null
+ACUTE ALLERGIC REACTION,Allergic Reaction,D006967,0,0,null
+INFECTIOUS DISEASES,Communicable Diseases,D003141,0,120569,"[""|Diseases|Bacterial Infections and Mycoses|Infection|Communicable Diseases|""]"
+MALARIA,Malaria,D008288,0,119386,"[""|Diseases|Parasitic Diseases|Protozoan Infections|Coccidiosis|Malaria|""]"
+GLANDULAR FEVER,Glandular Fever,D007244,0,0,null
+HEPATITIS,Hepatitis,D006505,0,119092,"[""|Diseases|Digestive System Diseases|Liver Diseases|Hepatitis|""]"
+STD,Sexually Transmitted Diseases,D012749,0,119738,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Genital Diseases, Female|Sexually Transmitted Diseases|"",""|Diseases|Male Urogenital Diseases|Genital Diseases, Male|Sexually Transmitted Diseases|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Sexually Transmitted Diseases|"",""|Diseases|Virus Diseases|Sexually Transmitted Diseases|""]"
+HERPES SIMPLEX (GENITAL),"Herpes Simplex, Genital",D006558,0,0,null
+CHLAMYDIA,Chlamydia,D002689,0,0,null
+HIV / AIDS,HIV,D006678,0,118233,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|Oncogenic Viruses|Retroviridae|Lentivirus|Lentiviruses, Primate|HIV|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|RNA Viruses|Retroviridae|Lentivirus|Lentiviruses, Primate|HIV|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|RNA Viruses|Retroviridae|Lentivirus|Lentiviruses, Primate|HIV|""]"
+HIV / AIDS,AIDS,D000163,0,0,null
+GONORRHOEA,Gonorrhea,D006069,0,120868,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Negative Bacterial Infections|Neisseriaceae Infections|Gonorrhea|"",""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Sexually Transmitted Diseases, Bacterial|Gonorrhea|"",""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Genital Diseases, Female|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Gonorrhea|"",""|Diseases|Male Urogenital Diseases|Genital Diseases, Male|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Gonorrhea|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Gonorrhea|"",""|Diseases|Virus Diseases|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Gonorrhea|""]"
+CELLULITIS,Cellulitis,D002481,0,121396,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Cellulitis|""]"
+SEPSIS,Sepsis,D018805,0,119742,"[""|Diseases|Bacterial Infections and Mycoses|Infection|Sepsis|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Inflammation|Systemic Inflammatory Response Syndrome|Sepsis|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Shock|Systemic Inflammatory Response Syndrome|Sepsis|""]"
+NEUTROPENIC SEPSIS,Neutropenia,D009503,0,119563,"[""|Diseases|Hemic and Lymphatic Diseases|Hematologic Diseases|Leukocyte Disorders|Leukopenia|Agranulocytosis|Neutropenia|""]"
+INFECTION CONTROL,Infection Control,D017053,0,109761,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Infection Control|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Infection Control|""]"
+PARASITIC INFECTIONS,Tick-Borne Diseases,D017282,0,118874,"[""|Diseases|Virus Diseases|Arbovirus Infections|Tick-Borne Diseases|"",""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Negative Bacterial Infections|Tick-Borne Diseases|"",""|Diseases|Parasitic Diseases|Protozoan Infections|Tick-Borne Diseases|""]"
+FUNGAL INFECTION,Bacterial Infections and Mycoses,D001423,0,120282,"[""|Diseases|Bacterial Infections and Mycoses|""]"
+TETANUS,Tetanus,D013742,0,119834,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Positive Bacterial Infections|Clostridium Infections|Tetanus|""]"
+CHICKENPOX,Chickenpox,D002644,0,120502,"[""|Diseases|Virus Diseases|DNA Virus Infections|Herpesviridae Infections|Chickenpox|""]"
+TB,Tuberculosis,D014376,0,0,null
+MEASLES,Measles,D008457,0,119401,"[""|Diseases|Virus Diseases|RNA Virus Infections|Mononegavirales Infections|Paramyxoviridae Infections|Morbillivirus Infections|Measles|""]"
+OTHER VACCINE PREVENTABLE DISEASES,Vaccine preventabile diseases,,0,0,null
+PSYCHIATRY,Psychiatry,D011570,0,109817,"[""|Health Services And Their Management|Healthcare And Health Services|Medicine|Psychiatry|""]"
+GENERAL APPROACH,Psychiatry,D011570,0,109817,"[""|Health Services And Their Management|Healthcare And Health Services|Medicine|Psychiatry|""]"
+MENTAL STATE EXAMINATION,Mental Disorders,D001523,0,106960,"[""|Psychiatry and Pscychology|Mental Disorders|""]"
+MENTAL HEALTH ACT,Mental Health Act,,0,0,null
+DELIBERATE SELF HARM,Self-Injurious Behavior,D016728,0,106864,"[""|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Behavior|Behavioral Symptoms|Self-Injurious Behavior|""]"
+DEMENTIA,Dementia,D003704,0,0,null
+DRUG ADDICTION,Substance-Related Disorders,D019966,0,107072,"[""|Psychiatry and Pscychology|Mental Disorders|Substance-Related Disorders|""]"
+DEPRESSION,Depression,D003863,0,107127,"[""|Psychiatry and Pscychology|Mental Disorders|Mood Disorders|Depression|""]"
+MANIA,Bipolar Disorder,D001714,0,107059,"[""|Psychiatry and Pscychology|Mental Disorders|Mood Disorders|Affective Disorders, Psychotic|Bipolar Disorder|""]"
+SCHIZOPHRENIA,Schizophrenia,D012559,0,107091,"[""|Psychiatry and Pscychology|Mental Disorders|Schizophrenia and Disorders with Psychotic Features|Schizophrenia|""]"
+PSYCHOSIS,Psychotic Disorders,D011618,0,107079,"[""|Psychiatry and Pscychology|Mental Disorders|Schizophrenia and Disorders with Psychotic Features|Psychotic Disorders|""]"
+ADVERSE REACTIONS TO MEDICATION,Adverse reactions to medication,,0,0,null
+ADVERSE REACTIONS TO MEDICATION,Mental Disorders,D001523,0,106960,"[""|Psychiatry and Pscychology|Mental Disorders|""]"
+REACTIONS TO LITHIUM,Lithium,D008094,0,0,null
+REACTIONS TO NEUROLEPTICS,Antipsychotic Agents,D014150,0,0,null
+VIOLENT PATIENTS,Violence,D014754,0,108031,"[""|Determinants Of Health|Environmental Determinant|Causes Of Harm|Violence|""]"
+PANIC STRICKEN PATIENTS,Panic,D010200,0,106812,"[""|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Emotions|Fear|Panic|""]"
+POST TRAUMATIC STRESS DISORDER (PTSD),Post-Traumatic Stress Disorders,D013313,0,0,null
+HEPATIC ENCEPHALOPATHY,Hepatic Encephalopathy,D006501,0,119087,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Brain Diseases, Metabolic|Hepatic Encephalopathy|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Brain Diseases, Metabolic|Hepatic Encephalopathy|"",""|Diseases|Digestive System Diseases|Liver Diseases|Hepatic Insufficiency|Liver Failure|Hepatic Encephalopathy|""]"
+TRAUMA (BODY LOCATION),Trauma,D014947,0,0,null
+HEAD,Craniocerebral Trauma,D006259,0,0,null
+FACE,Craniocerebral Trauma,D006259,0,0,null
+NECK AND SPINAL,Neck Injuries,D019838,0,119933,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Neck Injuries|""]"
+CERVICAL,Neck Injuries,D019838,0,119933,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Neck Injuries|""]"
+LUMBAR,Lumbosacral Region,D008161,0,110799,"[""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Back|Lumbosacral Region|""]"
+THORACIC,Thoracic Injuries,D013898,0,119130,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Thoracic Injuries|""]"
+UPPER LIMB,Arm Injuries,D001134,0,120224,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Arm Injuries|""]"
+LOWER LIMB,Leg Injuries,D007869,0,120816,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Leg Injuries|""]"
+CHEST,Thoracic Injuries,D013898,0,119130,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Thoracic Injuries|""]"
+ABDOMEN,Abdominal Injuries,D000007,0,120845,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Abdominal Injuries|""]"
+PELVIS,Pelvis,D010388,0,110981,"[""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Pelvis|""]"
+MULTIPLE,Multiple Trauma,D009104,0,119466,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Multiple Trauma|""]"
+INJURY PREVENTION,prevention & control,Q000517,0,0,null
+INJURY PREVENTION,Wounds and Injuries,D014947,0,120846,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|""]"
+TRAUMA (NATURE OF INJURY),Trauma,D014947,0,0,null
+HYPOTHERMIA,Hypothermia,D007035,0,120557,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Body Temperature Changes|Hypothermia|""]"
+HEAT RELATED ILLNESS,Heat Stress Disorder,D018882,0,0,null
+HEAT RELATED ILLNESS,Heat Exhaustion,D006359,0,119043,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Heat Stress Disorders|Heat Exhaustion|""]"
+HEAT RELATED ILLNESS,Heat Stroke,D018883,0,119803,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Heat Stress Disorders|Heat Stroke|""]"
+HEAT RELATED ILLNESS,Sunstroke,D013474,0,119802,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Heat Stress Disorders|Heat Stroke|Sunstroke|""]"
+DROWNING,Drowning,D004332,0,120844,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Death|Drowning|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Drowning|""]"
+DROWNING,Near Drowning,D015701,0,120730,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Death|Drowning|Near Drowning|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Drowning|Near Drowning|""]"
+ELECTRICAL INJURY,Electric Injuries,D004556,0,120405,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Electric Injuries|""]"
+ELECTRICAL INJURY,"Burns, Electric",D002058,0,120404,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Burns|Burns, Electric|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Electric Injuries|Burns, Electric|""]"
+BURNS,Burns,D002056,0,120402,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Burns|""]"
+WOUNDS,Wounds and Injuries,D014947,0,120846,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|""]"
+GUNSHOT,"Wounds, Gunshot",D014948,0,119126,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Wounds, Penetrating|Wounds, Gunshot|""]"
+BITES / STINGS,Bites and Stings,D001733,0,118935,"[""|Diseases|Disorders of Environmental Origin|Poisoning|Bites and Stings|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Bites and Stings|""]"
+LACERATIONS,Lacerations,D022125,0,121040,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Lacerations|""]"
+NEEDLESTICK INJURIES,Needlestick Injuries,D016602,0,120878,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Wounds, Penetrating|Wounds, Stab|Needlestick Injuries|""]"
+FRACTURE,"Fractures, Bone",D050723,0,120365,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Fractures, Bone|""]"
+DISLOCATION,Dislocations,D004204,0,120740,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Dislocations|""]"
+SOFT TISSUE INJURY,Soft Tissue Injuries,D017695,0,120010,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Soft Tissue Injuries|""]"
+MAJOR / MULTIPLE,Multiple Trauma,D009104,0,119466,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Multiple Trauma|""]"
+TRAUMA IN PREGNANCY,Pregnancy,D011247,0,122750,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Reproductive and Urinary Physiology|Reproduction|Pregnancy|""]"
+TRAUMA IN PREGNANCY,Wounds and injuries,D014947,0,0,null
+INJURY PREVENTION,prevention & control,Q000517,0,0,null
+INJURY PREVENTION,Wounds and injuries,D014947,0,0,null
+POISONING,Poisoning,D011041,0,120223,"[""|Diseases|Disorders of Environmental Origin|Poisoning|""]"
+ALCOHOL,Ethanol,D000431 ,0,0,null
+ALCOHOL,poisoning,Q000506,0,0,null
+PARACETAMOL,Paracetamol,D000082,0,0,null
+PARACETAMOL,poisoning,Q000506,0,0,null
+ASPIRIN,Aspirin,D001241,0,109781,"[""|Health Services And Their Management|Healthcare And Health Services|Medicinal Product|Drug|Analgesic|Aspirin|""]"
+ASPIRIN,poisoning,Q000506,0,0,null
+ALL OTHER,Poisoning,D011041,0,120223,"[""|Diseases|Disorders of Environmental Origin|Poisoning|""]"
+ANAESTHESIA AND ANALGESIA,Anesthesia and Analgesia,D000760,0,113337,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Anesthesia and Analgesia|""]"
+ANAESTHESIA / SEDATION,Preanesthetic Medication,D011229,0,114527,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Anesthesia and Analgesia|Preanesthetic Medication|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Patient Care|Preoperative Care|Preanesthetic Medication|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Preoperative Care|Preanesthetic Medication|""]"
+ANALGESIA,Analgesia,D000698,0,113336,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Anesthesia and Analgesia|Analgesia|""]"
+PRESCRIBING,Prescriptions,D055656,0,0,null
+OTHER PRESCRIBING,Prescriptions,D055656,0,0,null
+ADVERSE DRUG REACTIONS,Adverse Drug Reaction,D004362,0,0,null
+GENERAL,Prescriptions,D055656,0,0,null
+SPECIFIC DRUGS,Prescription Drugs,D055553,0,0,null
+PATIENT GROUP DIRECTIONS (PGDS),Patient Group Directions,,0,0,null
+CONTINGENCY,Contingency,,0,0,null
+MAJOR INCIDENT,Disaster Planning,D004189,0,122475,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Environment and Public Health|Environment|Disasters|Disaster Planning|""]"
+MAJOR INCIDENT,Mass Casualty Incidents,D054527,0,0,null
+PANDEMIC INFLUENZA,Disease Outbreaks,D004196,0,112547,"[""|Health Care|Population Characteristics|Health|Public Health|Disease Outbreaks|""]"
+PANDEMIC INFLUENZA,"Influenza, Human",D007251,0,118399,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Influenza, Human|""]"
+CHEMICAL,Chemical Hazard Release,D055884,0,0,null
+CHEMICAL,Terrorism,D023481,0,108379,"[""|Determinants Of Health|Environmental Determinant|Causes Of Harm|Terrorism|""]"
+CHEMICAL,Disasters,D004190,0,122476,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Environment and Public Health|Environment|Disasters|""]"
+CHEMICAL,Chemical Terrorism,D051337,0,0,null
+BIOLOGICAL,Biohazard Release,D055885,0,0,null
+BIOLOGICAL,Bioterrorism,D023482,0,108081,"[""|Determinants Of Health|Environmental Determinant|Causes Of Harm|Terrorism|Bioterrorism|""]"
+BIOLOGICAL,Disasters,D004190,0,122476,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Environment and Public Health|Environment|Disasters|""]"
+RADIOLOGICAL AND NUCLEAR,Radioactive Hazard Release,D018788,0,0,null
+RADIOLOGICAL AND NUCLEAR,Terrorism,D023481,0,108379,"[""|Determinants Of Health|Environmental Determinant|Causes Of Harm|Terrorism|""]"
+RADIOLOGICAL AND NUCLEAR,Disasters,D023481,0,122476,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Environment and Public Health|Environment|Disasters|""]"
+BUSINESS CONTINUITY,Business continuity,,0,0,null
+MANAGING EMERGENCY AND URGENT CARE,Emergency Medical Services,D004632,0,112441,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Emergency Medical Services|""]"
+MANAGING EMERGENCY AND URGENT CARE,organization and administration,Q000458,0,0,null
+MANAGEMENT BRIEFINGS,Emergency Medical Services,D004632,0,112441,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Emergency Medical Services|""]"
+POLICY AND SUPPORTING DOCUMENTS,Health Policy,D006291,0,109743,"[""|Health Services And Their Management|Management And Policy|Health Policy|""]"
+POLICY AND SUPPORTING DOCUMENTS,Emergency Medical Services,D004632,0,112441,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Emergency Medical Services|""]"
+EDUCATION AND RESEARCH,Education,D004493,0,108151,"[""|Determinants Of Health|Education, Employment And Skills|Education|""]"
+EDUCATION AND RESEARCH,Research,D012106,0,122530,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Science|Research|""]"
+EDUCATION AND CPD,Education,D004493,0,108151,"[""|Determinants Of Health|Education, Employment And Skills|Education|""]"
+EDUCATION AND CPD,"Education, Continuing",D004496,0,117445,"[""|Education, Sociology and Social Phenomena|Education|Education, Professional|Education, Continuing|""]"
+DEVELOPING ONLINE TEACHING,Computer-Assisted Instruction,D003194,0,117384,"[""|Education, Sociology and Social Phenomena|Education|Teaching|Programmed Instruction as Topic|Computer-Assisted Instruction|""]"
+VIRTUAL MOULAGE,Computer-Assisted Instruction,D003194,0,117384,"[""|Education, Sociology and Social Phenomena|Education|Teaching|Programmed Instruction as Topic|Computer-Assisted Instruction|""]"
+SELF-TESTS,Computer-Assisted Instruction,D003194,0,117384,"[""|Education, Sociology and Social Phenomena|Education|Teaching|Programmed Instruction as Topic|Computer-Assisted Instruction|""]"
+COURSES,Curriculum,D003479,0,117381,"[""|Education, Sociology and Social Phenomena|Education|Curriculum|""]"
+CASE PRESENTATIONS,Case Reports,D002363,0,107830,"[""|Publication Characteristics|Study Characteristics|Case Reports|""]"
+RESEARCH,Research,D012106,0,122530,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Science|Research|""]"
+TECHNIQUE,Diagnostic Imaging,D003952 ,0,113959,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|""]"
+CT,"Tomography, X-Ray Computed",D014057,0,114783,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnosis, Computer-Assisted|Image Interpretation, Computer-Assisted|Tomography, X-Ray Computed|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Image Interpretation, Computer-Assisted|Tomography, X-Ray Computed|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Photography|Image Enhancement|Radiographic Image Enhancement|Tomography, X-Ray Computed|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Photography|Image Enhancement|Radiographic Image Enhancement|Tomography, X-Ray Computed|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Radiography|Radiographic Image Enhancement|Tomography, X-Ray Computed|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Radiography|Tomography, X-Ray|Tomography, X-Ray Computed|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Tomography|Tomography, X-Ray|Tomography, X-Ray Computed|""]"
+ECG,Electrocardiography,D004562,0,114055,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Electrodiagnosis|Electrocardiography|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Cardiovascular|Heart Function Tests|Electrocardiography|""]"
+RADIOLOGY/X-RAY,Radiology,D011871,0,122859,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Radiology|""]"
+ULTRASOUND,Ultrasonography,D014463,0,113845,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Ultrasonography|""]"
+ANATOMY,Anatomy,D000715,0,123671,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Anatomy|""]"
+DERMATOLOGY,Dermatology,D003880,0,122472,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Dermatology|""]"
+EYES,Eye,D005123,0,110230,"[""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Head|Face|Eye|"",""|Natural Science, Anatomy and Organisms|Anatomy|Sense Organs|Eye|""]"
+GASTROINTESTINAL,Gastrointestinal Tract,D041981,0,110760,"[""|Natural Science, Anatomy and Organisms|Anatomy|Digestive System|Gastrointestinal Tract|""]"
+PAEDIATRIC,Pediatrics,D010372 ,0,122915,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Pediatrics|""]"

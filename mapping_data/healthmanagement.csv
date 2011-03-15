@@ -1,0 +1,66 @@
+Policy,Policy,,0,0,null
+NHS Plan,NHS Plan,,0,0,null
+Service Modernisation,Service Modernisation,,0,0,null
+NHS Re-organisation,NHS Re-organisation,,0,0,null
+National Service Frameworks,National Service Framework,,0,109644,"[""|Health Services And Their Management|Management And Policy|Government Policy|National Service Framework|"",""|Health Services And Their Management|Management And Policy|National Service Framework|""]"
+Inequalities,Inequalities,D012959,0,0,null
+Health Technology Assessment,Health Technology Assessment,,0,0,null
+Service Sectors,Health Care Sector,D019981,0,117555,"[""|Education, Sociology and Social Phenomena|Social Sciences|Economics|Health Care Sector|""]"
+Primary Care Services,Primary Health Care,D011320,0,112359,"[""|Health Care|Health Services Administration|Patient Care Management|Comprehensive Health Care|Primary Health Care|""]"
+Acute Services,Acute Services,,0,0,null
+Public Health,Public Health,D011634,0,110144,"[""|Health, Public Health, Health Promotion|Public Health|""]"
+Health and Social Care,Health and Social Care,,0,0,null
+Intermediate Care,Intermediate Care,,0,0,null
+Networks and Collaboratives,Networks and Collaboratives,,0,0,null
+Prison health,Prisons,D011330,0,117389,"[""|Education, Sociology and Social Phenomena|Social Sciences|Sociology|Social Control, Formal|Prisons|""]"
+Social Care,Social care,,0,0,null
+Learning Disability Services,Learning disability services,,0,0,null
+Mental Health Services,Mental Health Services,D008605,0,109639,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Mental Health Services|"",""|Health Services And Their Management|Services|Secondary And Tertiary Services|Mental Health Services|""]"
+Community and Domiciliary Services,Community health services,D003153,0,0,null
+Residential Care Services,Residential Care Services,,0,0,null
+Pharmacy,Pharmacies,D010594,0,112629,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Facilities|Pharmacies|""]"
+NHS Activities,NHS Activities,,0,0,null
+Estates and Facilities,Estates and Facilities,,0,0,null
+Commissioning,Commissioning,,0,109784,"[""|Health Services And Their Management|Management And Policy|Management|Commissioning|""]"
+Contracting and Procurement,,,0,0,null
+Capacity Planning,Capacity Planning,,0,0,null
+Change Management,Change Management,,0,0,null
+Patient and Public Involvement,Patient and Public Involvement,,0,0,null
+Collaborative Working,Cooperative Behavior,D003299,0,106651,"[""|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Behavior|Social Behavior|Cooperative Behavior|""]"
+Collaborative Working,Interprofessional Relations ,D007400,0,106755,"[""|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Psychology, Social|Interpersonal Relations|Interprofessional Relations|"",""|Psychiatry and Pscychology|Behavioral Disciplines and Activities|Behavioral Sciences|Psychology|Psychology, Social|Interpersonal Relations|Interprofessional Relations|""]"
+Education / CPD,Staff Development,D013192,0,117542,"[""|Education, Sociology and Social Phenomena|Education|Inservice Training|Staff Development|""]"
+Finance and Funding,Financial Management,D005376,0,117336,"[""|Education, Sociology and Social Phenomena|Social Sciences|Economics|Financial Management|""]"
+Workforce,Workforce,,0,0,null
+Information Management & Technology,Information Management,D019451,0,106492,"[""|Communication And Knowledge|Information|Information Management|""]"
+Informatics,Medical Informatics,D008490,0,0,null
+Electronic records,"Medical Records Systems, Computerized",D016347,0,112430,"[""|Health Care|Health Services Administration|Organization and Administration|Records as Topic|Medical Records|Medical Records Systems, Computerized|""]"
+Knowledge Management,Knowledge Management,,0,0,null
+Telehealth,Telehealth,,0,0,null
+Needs Assessment,Needs Assessment,D020380,0,107908,"[""|Public Health Methods, Theory And Research|Health Research|Needs Assessment|""]"
+Research,Research,D012106,0,122530,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Science|Research|""]"
+Service Delivery,Delivery of Health Care,D003695,0,112273,"[""|Health Care|Health Care Quality, Access, and Evaluation|Delivery of Health Care|"",""|Health Care|Health Services Administration|Patient Care Management|Delivery of Health Care|""]"
+Quality and Monitoring,"Health Care Quality, Access, and Evaluation",D017530,0,112372,"[""|Health Care|Health Care Quality, Access, and Evaluation|""]"
+Quality Improvement,Quality Improvement,,0,109824,"[""|Health Services And Their Management|Management And Policy|Management|Quality|Quality Improvement|"",""|Health Services And Their Management|Services|Quality|Quality Improvement|""]"
+Innovation,Organizational Innovation,D009936,0,112693,"[""|Health Care|Health Services Administration|Organization and Administration|Organizational Innovation|""]"
+Performance Management,Task Performance and Analysis,D013647,0,123080,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Musculoskeletal, Neural, and Ocular Physiology|Musculoskeletal Physiology|Musculoskeletal Physiologic Phenomena|Psychomotor Performance|Task Performance and Analysis|"",""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Musculoskeletal, Neural, and Ocular Physiology|Nervous System Physiology|Nervous System Physiologic Phenomena|Psychomotor Performance|Task Performance and Analysis|""]"
+Risk Management,Risk Management,D012308,0,109834,"[""|Health Services And Their Management|Management And Policy|Management|Risk Management|""]"
+Research Governance,Research Governance,,0,0,null
+Patient Safety,Patient Safety,,0,109789,"[""|Health Services And Their Management|Management And Policy|Management|Quality|Patient Safety|"",""|Health Services And Their Management|Services|Quality|Patient Safety|""]"
+Health Service Staff,Health Personnel,D006282,0,112241,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Personnel|""]"
+Overview,Health Personnel,D006282,0,112241,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Personnel|""]"
+Managers,Managers,,0,0,null
+Primary care staff,Primary care staff,,0,0,null
+Medical staff,Medical Staff,D008503,0,107641,"[""|People And Populations|Group|Occupational Group|Health Professional|Medical Staff|""]"
+Nurses,Nurses,D009726,0,107650,"[""|People And Populations|Group|Occupational Group|Health Professional|Nurses|""]"
+Allied Health Professions,Allied Health Personnel,D000488,0,112240,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Personnel|Allied Health Personnel|""]"
+Other Sectors,Other Sectors,,0,0,null
+Central Government,Government,D006076,0,109727,"[""|Health Services And Their Management|Government And Law|Government|""]"
+Local Government,Local Government,D009111,0,109773,"[""|Health Services And Their Management|Government And Law|Government|Local Government|""]"
+Housing,Housing,D006798,0,108194,"[""|Determinants Of Health|Environmental Determinant|Environment|Housing|""]"
+Social Services,Social Services,,0,109851,"[""|Health Services And Their Management|Government And Law|Government|Local Government|Social Services|""]"
+Non-profit,"Organizations, Nonprofit",D009939,0,112431,"[""|Health Care|Health Care Economics and Organizations|Organizations|Organizations, Nonprofit|""]"
+Private,Private Sector,D017149,0,108013,"[""|Determinants Of Health|Economics, Finance And Industry|Economic System|Private Sector|""]"
+Pharmaceutical industry,Pharmaceutical Industry,D004345,0,108283,"[""|Determinants Of Health|Economics, Finance And Industry|Pharmaceutical Industry|""]"
+Academic,Universities,D014495,0,0,null
+International,Internationality,D038622,0,0,null
+Key Topics,Key Topics,,0,0,null

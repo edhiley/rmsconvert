@@ -1,0 +1,52 @@
+Mental Health,Mental Health,D008603,0,110126,"[""|Health, Public Health, Health Promotion|Health|Mental Health|""]"
+Mental Health,Mental Disorders,D001523,0,106960,"[""|Psychiatry and Pscychology|Mental Disorders|""]"
+Acute psychotic disorders,Psychotic Disorders,D011618,0,107079,"[""|Psychiatry and Pscychology|Mental Disorders|Schizophrenia and Disorders with Psychotic Features|Psychotic Disorders|""]"
+Adjustment disorder,Adjustment disorders,D000275,0,0,null
+Alcohol misuse,Alcoholism,D000437,0,106993,"[""|Psychiatry and Pscychology|Mental Disorders|Substance-Related Disorders|Alcohol-Related Disorders|Alcoholism|""]"
+Alcohol misuse,Alcohol-Induced Disorders,D020751,0,107159,"[""|Psychiatry and Pscychology|Mental Disorders|Substance-Related Disorders|Alcohol-Related Disorders|Alcohol-Induced Disorders|""]"
+Bereavement and loss,Bereavement,D001601,0,106610,"[""|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Emotions|Bereavement|""]"
+Bipolar disorder,Bipolar disorder,D001714,0,0,null
+Chronic mixed anxiety and depression,Anxiety Disorder,D001008,0,0,null
+Chronic mixed anxiety and depression,Depressive Disorder,D003866,0,0,null
+Chronic (persistent) psychotic disorders,Psychotic disorders,D011618,0,0,null
+Chronic (persistent) psychotic disorders,Schizophrenia,D012559,0,107091,"[""|Psychiatry and Pscychology|Mental Disorders|Schizophrenia and Disorders with Psychotic Features|Schizophrenia|""]"
+Chronic (persistent) psychotic disorders,Delusions,D003702,0,106669,"[""|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Behavior|Behavioral Symptoms|Delusions|""]"
+Delirium,Delirium,D003693,0,107124,"[""|Psychiatry and Pscychology|Mental Disorders|Delirium, Dementia, Amnestic, Cognitive Disorders|Delirium|""]"
+Dementia,Dementia,D003704,0,0,null
+Depression,Depression,D003863,0,107127,"[""|Psychiatry and Pscychology|Mental Disorders|Mood Disorders|Depression|""]"
+Depression,Depressive Disorder,D003866,0,0,null
+Depression,"Depressive Disorder, Major",D003865,0,107126,"[""|Psychiatry and Pscychology|Mental Disorders|Mood Disorders|Depression|Depressive Disorder, Major|""]"
+Dissociative (conversion) disorder,Conversion Disorder,D003291,0,107113,"[""|Psychiatry and Pscychology|Mental Disorders|Somatoform Disorders|Conversion Disorder|""]"
+Domestic violence or partner abuse,Domestic Violence,D017579,0,108140,"[""|Determinants Of Health|Social Determinant|Social Issue|Abuse|Domestic Violence|"",""|Determinants Of Health|Environmental Determinant|Causes Of Harm|Violence|Domestic Violence|""]"
+Domestic violence or partner abuse,Spouse Abuse,D013179,0,0,null
+Drug use disorders,Substance-Related Disorders,D019966,0,107072,"[""|Psychiatry and Pscychology|Mental Disorders|Substance-Related Disorders|""]"
+Drug use disorders,Smoking Cessation,D016540,0,108345,"[""|Determinants Of Health|Environmental Determinant|Causes Of Harm|Smoking|Smoking Cessation|"",""|Determinants Of Health|Individual Behaviour|Smoking|Smoking Cessation|""]"
+Drug use disorders,Substance Abuse Detection,D015813,0,115063,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Substance Abuse Detection|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Mass Screening|Substance Abuse Detection|""]"
+Eating disorders,Eating disorders,D001068,0,0,null
+Generalized anxiety,Anxiety,D001007,0,106983,"[""|Psychiatry and Pscychology|Mental Disorders|Anxiety|""]"
+Generalized anxiety,Anxiety Disorders,D001008,0,0,null
+Obsessive compulsive disorder,Obsessive-compulsive disorder,D009771,0,0,null
+Panic disorder,Panic disorder,D016584,0,0,null
+Personality (behavioural) disorders,Personality,D010551,0,108281,"[""|Determinants Of Health|Psychological Determinant|Personality|""]"
+Personality (behavioural) disorders,Personality Development,D010553,0,106629,"[""|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Personality|Personality Development|""]"
+Phobic disorders,Phobic disorders,D010698,0,0,null
+Post-traumatic stress disorder,Post-Traumatic Stress Disorders,D013313,0,0,null
+Postnatal disorders,Postnatal Depression,D019052,0,0,null
+Self-harm,Self-Injurious Behavior,D016728,0,106864,"[""|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Behavior|Behavioral Symptoms|Self-Injurious Behavior|""]"
+Sexual disorders,"Sexual Dysfunctions, Psychological",D020018,0,107142,"[""|Psychiatry and Pscychology|Mental Disorders|Sexual and Gender Disorders|Sexual Dysfunctions, Psychological|""]"
+Sleep problems,Sleep Disorders,D012893,0,107106,"[""|Psychiatry and Pscychology|Mental Disorders|Sleep Disorders|""]"
+Unexplained somatic complaints,Psychiatric Somatic Therapies,D013000,0,106650,"[""|Psychiatry and Pscychology|Behavioral Disciplines and Activities|Psychiatric Somatic Therapies|""]"
+Unexplained somatic complaints,Psychophysiologic Disorders,D011602,0,119664,"[""|Diseases|Nervous System Diseases|Neurologic Manifestations|Psychophysiologic Disorders|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Psychophysiologic Disorders|""]"
+Attention-deficit / hyperactivity disorder,Attention Deficit Disorder with Hyperactivity,D001289,0,0,null
+Bereavement and loss,Bereavement,D001601,0,106610,"[""|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Emotions|Bereavement|""]"
+Bullying,Bullying,,0,0,null
+Child abuse and neglect,Child Abuse,D002649,0,108108,"[""|Determinants Of Health|Social Determinant|Social Issue|Abuse|Child Abuse|""]"
+Conduct disorder,Conduct disorder,D019955,0,0,null
+Depressive disorder,Depressive disorder,D003866,0,0,null
+Eating disorders,Eating disorders,D001068,0,0,null
+Emotional disorders,Emotional disorders,,0,0,null
+School refusal,School refusal,,0,0,null
+Self-harm,Self-Injurious Behavior,D016728,0,106864,"[""|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Behavior|Behavioral Symptoms|Self-Injurious Behavior|""]"
+Substance misuse,Substance-Related Disorders,D019966,0,107072,"[""|Psychiatry and Pscychology|Mental Disorders|Substance-Related Disorders|""]"
+Mental health promotion,Health Promotion,D006293,0,110116,"[""|Health, Public Health, Health Promotion|Health Promotion|""]"
+Mental health promotion,Mental Health,D008603,0,110126,"[""|Health, Public Health, Health Promotion|Health|Mental Health|""]"

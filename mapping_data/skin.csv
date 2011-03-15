@@ -1,0 +1,462 @@
+DISORDERS,Skin Diseases,D012871,0,121408,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|""]"
+GENERAL SKIN DISEASE,Skin Diseases,D012871,0,121408,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|""]"
+"ACNE, ROSACEA & RELATED",Acneiform Eruptions,D017486,0,118482,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Facial Dermatoses|Acneiform Eruptions|"",""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Acneiform Eruptions|""]"
+"ACNE, ROSACEA & RELATED",Rosacea,D012393,0,0,null
+ACNE VULGARIS,Acne Vulgaris,D000152,0,0,null
+ACNE IN YOUNG CHILDREN,Acne Vulgaris,D000152,0,0,null
+ACNE IN YOUNG CHILDREN,Children,D002648,0,0,null
+ACNE OF EXTERNAL ORIGIN,Acne of external origin,,0,0,null
+GRAM NEGATIVE FOLLICULITIS,Gram negative folliculitis,,0,0,null
+ACNE SCARRING,Acne Vulgaris,D000152,0,0,null
+ACNE SCARRING,Scarring,D002921,0,0,null
+ACNEIFORM REACTIONS DUE TO DRUGS & POISONS,Drug Eruptions,D003875,0,118640,"[""|Drug Eruptions|""]"
+ACNEIFORM ERUPTIONS - MISCELLANEOUS,Acneiform Eruptions,D017486,0,118482,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Facial Dermatoses|Acneiform Eruptions|"",""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Acneiform Eruptions|""]"
+ROSACEA,Rosacea,D012393,0,0,null
+RHINOPHYMA (RED NOSE),Rhinophyma,D012224,0,0,null
+PERIORAL DERMATITIS,Perioral Dermatitis,D019557,0,0,null
+SEBORRHOEA (GREASY SKIN),Seborrhoea (greasy skin),,0,0,null
+OTHER SEBACEOUS GLAND DISORDERS,Sebaceous Glands,D012627,0,0,null
+HIDRADENITIS SUPPURATIVA (ACNE INVERSA),Hidradenitis Suppurativa,D017497,0,118487,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Infectious|Skin Diseases, Bacterial|Hidradenitis Suppurativa|""]"
+POLYPS & PAPILLOMAS,Polyps,D011127,0,119281,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathological Conditions, Anatomical|Polyps|""]"
+POLYPS & PAPILLOMAS,Papilloma,D011127,0,121747,"[""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Glandular and Epithelial|Cancers, Squamous Cell|Papilloma|""]"
+MOLES (MELANOCYTIC NAEVI),"Nevus, Pigmented",D009508,0,121730,"[""|Diseases|Cancers|Cancers by Histologic Type|Nevi and Melanomas|Nevus|Nevus, Pigmented|""]"
+OTHER BENIGN TUMOURS,Benign tumours,,0,0,null
+SKIN CYSTS,Cysts,D003560,0,122183,"[""|Diseases|Cancers|Cysts|""]"
+SKIN CYSTS,Skin,D012867,0,0,null
+EPIDERMAL NAEVI,Epidermal naevi,,0,0,null
+PORT-WINE STAINS & ASSOCIATED SYNDROMES,Port-Wine Stain,D019339,0,121341,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Abnormalities|Port-Wine Stain|""]"
+OTHER VASCULAR BIRTHMARKS & MALFORMATIONS,Vascular birthmarks & malformations,,0,0,null
+OTHER NAEVI & CONGENITAL MALFORMATIONS,Naevi & congenital malformations,D009506,0,0,null
+DISFIGUREMENTS,Disfigurements,,0,0,null
+CONNECTIVE TISSUE,Connective Tissue Diseases,D003240,0,121282,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|""]"
+LUPUS ERYTHEMATOSUS,"Lupus Erythematosus, Cutaneous",D008178,0,121473,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Lupus Erythematosus, Cutaneous|""]"
+SYSTEMIC SCLEROSIS & SCLERODERMA #1,"Scleroderma, Localized",D012594,0,121338,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Scleroderma, Localized|""]"
+SYSTEMIC SCLEROSIS & SCLERODERMA #2,"Scleroderma, Systemic",D012595,0,121339,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Scleroderma, Systemic|""]"
+MORPHOEA & RELATED,"Scleroderma, Localized",D012594,0,121338,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Scleroderma, Localized|""]"
+SCLEREDEMA,Scleredema,,0,0,null
+LICHEN SCLEROSUS,Lichen Sclerosus et Atrophicus,D018459,0,121362,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Papulosquamous|Lichenoid Eruptions|Lichen Sclerosus et Atrophicus|""]"
+DERMATOMYOSITIS,Dermatomyositis,D003882,0,118644,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Dermatomyositis|""]"
+RHEUMATOID DISEASE,Rheumatoid disease,,0,0,null
+STILL'S DISEASE (JUVENILE IDIOPATHIC ARTHRITIS),"Still's Disease, Juvenile-Onset",D001171,0,0,null
+SJÖGREN SYNDROME,Sjogren's Syndrome,D012859,0,121463,"[""|Diseases|Eye Diseases|Lacrimal Apparatus Diseases|Dry Eye Syndromes|Sjogren's Syndrome|""]"
+MIXED CONNECTIVE TISSUE DISEASE,Mixed Connective Tissue Disease,D008947,0,121468,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Mixed Connective Tissue Disease|""]"
+CUTANEOUS ATROPHY (THINNING),Cutaneous atrophy (thinning),,0,0,null
+CUTANEOUS STRIAE (STRETCH MARKS),Cutaneous striae (stretch marks),,0,0,null
+DISORDERS OF ELASTIC FIBRES,Elastic Fibers,D004547,0,0,null
+DEGENERATIVE DISORDERS OF DERMIS,Dermis,D020405,0,0,null
+FIBROMATOSES & KELOIDS,Keloid,D007627,0,118485,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Collagen Diseases|Keloid|""]"
+FIBROMATOSES & KELOIDS ,Fibroma,D005350,0,121434,"[""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Connective and Soft Tissue|Cancers, Connective Tissue|Cancers, Fibrous Tissue|Fibroma|""]"
+SUBCUTANEOUS FAT DISORDERS,Subcutaneous fat disorders,,0,0,null
+DRUG ERUPTIONS & REACTIONS,Drug Eruptions,D003875,0,118640,"[""|Drug Eruptions|""]"
+COMPLICATIONS OF SURGERY & LASERS,Surgery,D013502,0,109857,"[""|Health Services And Their Management|Healthcare And Health Services|Medical Treatment|Surgery|""]"
+COMPLICATIONS OF SURGERY & LASERS,complications,Q000150,0,0,null
+COMPLICATIONS OF PHOTOTHERAPY,Phototherapy,D010789,0,114141,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Phototherapy|""]"
+COMPLICATIONS OF PHOTOTHERAPY,complications,Q000150,0,0,null
+COMPLICATIONS OF RADIOTHERAPY,Radiotherapy,D011878,0,113584,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Radiotherapy|""]"
+COMPLICATIONS OF RADIOTHERAPY,complications,Q000150,0,0,null
+DRUG ABUSE,Substance-Related Disorders,D019966,0,107072,"[""|Psychiatry and Pscychology|Mental Disorders|Substance-Related Disorders|""]"
+DRUG ABUSE,Skin Diseases,D012871,0,121408,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|""]"
+ECZEMA & DERMATITIS ,Dermatitis,D003872,0,0,null
+ECZEMA & DERMATITIS ,Eczematous Disorders,D017443,0,0,null
+ATOPIC ECZEMA,"Dermatitis, Atopic ",D003876,0,118641,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Eczematous|Dermatitis, Atopic|"",""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Genetic|Dermatitis, Atopic|""]"
+ECZEMA IN INFANTS,"Dermatitis, Atopic",D003876,0,118641,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Eczematous|Dermatitis, Atopic|"",""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Genetic|Dermatitis, Atopic|""]"
+ECZEMA IN INFANTS,Infant,D007223,0,107575,"[""|People And Populations|Group|Age Group|Child|Infant|""]"
+SEBORRHOEIC DERMATITIS,Seborrheic Dermatitis,D012628,0,0,null
+NAPPY RASH (NAPKIN DERMATITIS),Nappy rash,,0,0,null
+DISCOID ECZEMA (NUMMULAR DERMATITIS),Discoid eczema (nummular dermatitis),,0,0,null
+HAND & FOOT ECZEMA,Hand & foot eczema,,0,0,null
+LICHEN SIMPLEX & PRURIGO,Lichen Simplex Chronicus,D009450,0,0,null
+CONTACT DERMATITIS,Contact Dermatitis,D003877,0,0,null
+CONTACT DERMATITIS - GENERAL,Contact Dermatitis,D003877,0,0,null
+ALLERGIC CONTACT DERMATITIS,Allergic Contact Dermatitis,D017449,0,0,null
+IRRITANT CONTACT DERMATITIS,"Dermatitis, Irritant",D017453,0,118648,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Eczematous|Dermatitis, Contact|Dermatitis, Irritant|""]"
+VENOUS ECZEMA,Venous eczema,,0,0,null
+OTHER ECZAMATOUS DISORDERS,Eczematous Disorders,D017443,0,0,null
+OCCUPATIONAL DERMATITIS,Occupational Dermatitis,D009783,0,0,null
+GENETIC & CHROMOSOMAL,"Skin Diseases, Genetic",D012873,0,120872,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Genetic|""]"
+INHERITED DISORDERS IN GENERAL,"Skin Diseases, Genetic",D012873,0,120872,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Genetic|""]"
+CHROMOSOMAL DISORDERS,Chromosome Disorders,D025063,0,120302,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Congenital Abnormalities|Chromosome Disorders|"",""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|Chromosome Disorders|""]"
+ECTODERMAL SYNDROMES,Ectodermal Dysplasia,D004476,0,118666,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Abnormalities|Ectodermal Dysplasia|"",""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Genetic|Ectodermal Dysplasia|""]"
+GENETIC SYNDROMES AFFECTING SKIN,Genetic syndromes affecting skin,,0,0,null
+ICHTHYOSES,Ichthyosis,D007057,0,0,null
+OTHER INHERITED KERATINISATION DISORDERS,Inherited keratinisation disorders,,0,0,null
+GENETIC HAIR DISORDERS,Genetic hair disorders,,0,0,null
+GENETIC NAIL DISORDERS,Genetic nail disorders,,0,0,null
+GENETIC SKIN PIGMENTATION DISORDERS,Genetic skin pigmentation disorders,,0,0,null
+EPIDERMOLYSIS BULLOSA (INHERITED),Epidermolysis Bullosa,D004820,0,118503,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Abnormalities|Epidermolysis Bullosa|"",""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Genetic|Epidermolysis Bullosa|"",""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Vesiculobullous|Epidermolysis Bullosa|""]"
+PSEUDOXANTHOMA ELASTICUM,Pseudoxanthoma Elasticum,D011561,0,121291,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Abnormalities|Pseudoxanthoma Elasticum|"",""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Genetic|Pseudoxanthoma Elasticum|""]"
+CUTIS LAXA (INHERITED),Cutis Laxa,D003483,0,118619,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Cutis Laxa|""]"
+MARFAN SYNDROME,Marfan Syndrome,D008382,0,121433,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Marfan Syndrome|""]"
+EHLERS-DANLOS SYNDROME & OTHER COLLAGEN DISORDERS,Ehlers-Danlos Syndrome,D004535,0,121454,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Abnormalities|Ehlers-Danlos Syndrome|"",""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Genetic|Ehlers-Danlos Syndrome|""]"
+EHLERS-DANLOS SYNDROME & OTHER COLLAGEN DISORDERS,Collagen,D003094,0,0,null
+PREMATURE AGEING SYNDROMES,Progeria,D011371,0,119651,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|Metabolism, Inborn Errors|Progeria|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Metabolism, Inborn Errors|Progeria|""]"
+FAMILIAL MULTIPLE TUMOUR SYNDROMES,Familial multiple tumour syndromes,,0,0,null
+XERODERMA PIGMENTOSUM & OTHER DNA INSTABILITY SYNDROMESD014983,Xeroderma Pigmentosum,D014983,0,118665,"[""|Diseases|Cancers|Precancerous Conditions|Xeroderma Pigmentosum|""]"
+INHERITED DISORDERS OF LIPID METABOLISM,"Lipid Metabolism, Inborn Errors",D008052,0,119272,"[""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Lipid Metabolism Disorders|Lipid Metabolism, Inborn Errors|"",""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|Metabolism, Inborn Errors|Lipid Metabolism, Inborn Errors|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Metabolism, Inborn Errors|Lipid Metabolism, Inborn Errors|""]"
+INHERITED DISORDERS OF AMINO ACID METABOLISM,"Amino Acid Metabolism, Inborn Errors",D000592,0,118914,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|Metabolism, Inborn Errors|Amino Acid Metabolism, Inborn Errors|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Metabolism, Inborn Errors|Amino Acid Metabolism, Inborn Errors|""]"
+INHERITED DISORDERS OF PORPHYRIN METABOLISM,Porphyrias,D011164,0,0,null
+MUCOPOLYSACCHARIDOSES & MUCOLIPIDOSES #1,Mucopolysaccharidoses,D009083,0,121447,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Mucinoses|Mucopolysaccharidoses|""]"
+MUCOPOLYSACCHARIDOSES & MUCOLIPIDOSES #2,Mucolipidoses,D009081,0,119461,"[""|Diseases|Musculoskeletal Diseases|Bone Diseases|Bone Diseases, Metabolic|Mucolipidoses|"",""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|Metabolism, Inborn Errors|Carbohydrate Metabolism, Inborn Errors|Mucolipidoses|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Metabolism, Inborn Errors|Carbohydrate Metabolism, Inborn Errors|Mucolipidoses|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Brain Diseases, Metabolic|Brain Diseases, Metabolic, Inborn|Lysosomal Storage Diseases, Nervous System|Mucolipidoses|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Brain Diseases, Metabolic|Brain Diseases, Metabolic, Inborn|Lysosomal Storage Diseases, Nervous System|Mucolipidoses|"",""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|Metabolism, Inborn Errors|Brain Diseases, Metabolic, Inborn|Lysosomal Storage Diseases, Nervous System|Mucolipidoses|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Metabolism, Inborn Errors|Brain Diseases, Metabolic, Inborn|Lysosomal Storage Diseases, Nervous System|Mucolipidoses|"",""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|Metabolism, Inborn Errors|Lysosomal Storage Diseases|Lysosomal Storage Diseases, Nervous System|Mucolipidoses|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Metabolism, Inborn Errors|Lysosomal Storage Diseases|Lysosomal Storage Diseases, Nervous System|Mucolipidoses|""]"
+INHERITED IMMUNE DISORDERS,Immunologic Deficiency Syndromes,D007153,0,118876,"[""|Diseases|Immune System Diseases|Immunologic Deficiency Syndromes|""]"
+GRANULOMA ANNULARE,Granuloma Annulare,D016460,0,118702,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Collagen Diseases|Necrobiotic Disorders|Granuloma Annulare|""]"
+NECROBIOSIS LIPOIDICA,Necrobiosis Lipoidica,D009335,0,121304,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Necrobiotic Disorders|Necrobiosis Lipoidica|"",""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Metabolic|Necrobiosis Lipoidica|""]"
+SARCOIDOSIS OF THE SKIN,Sarcoidosis,D012507,0,119725,"[""|Diseases|Immune System Diseases|Immunoproliferative Disorders|Lymphoproliferative Disorders|Sarcoidosis|"",""|Diseases|Hemic and Lymphatic Diseases|Lymphatic Diseases|Lymphoproliferative Disorders|Sarcoidosis|""]"
+SARCOIDOSIS OF THE SKIN,Skin,D012867,0,0,null
+CROHN'S DISEASE OF THE SKIN,Crohn Disease,D003424,0,0,null
+CROHN'S DISEASE OF THE SKIN,Skin,D012867,0,0,null
+IMMUNOBULLOUS (BLISTERING),"Skin Diseases, Vesiculobullous",D012872,0,118469,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Vesiculobullous|""]"
+PEMPHIGUS,Pemphigus,D010392,0,0,null
+BULLOUS PEMPHIGOID,"Pemphigoid, Bullous",D010391,0,118672,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Vesiculobullous|Pemphigoid, Bullous|""]"
+MUCOUS MEMBRANE PEMPHIGOID,"Pemphigoid, Benign Mucous Membrane",D010390,0,118671,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Vesiculobullous|Pemphigoid, Benign Mucous Membrane|""]"
+PEMPHIGOID GESTATIONIS,Pemphigoid Gestationis,D006559,0,121389,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Vesiculobullous|Pemphigoid Gestationis|""]"
+DERMATITIS HERPETIFORMIS,Dermatitis Herpetiformis,D003874,0,118639,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Vesiculobullous|Dermatitis Herpetiformis|""]"
+LINEAR IGA DISEASE,Linear IgA disease,,0,0,null
+EPIDERMOLYSIS BULLOSA ACQUISITA,Epidermolysis Bullosa Acquisita,D016107,0,118689,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Abnormalities|Epidermolysis Bullosa|Epidermolysis Bullosa Acquisita|"",""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Genetic|Epidermolysis Bullosa|Epidermolysis Bullosa Acquisita|"",""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Vesiculobullous|Epidermolysis Bullosa|Epidermolysis Bullosa Acquisita|""]"
+"INFECTIONS, INFESTATIONS & BITES","Skin Diseases, Infectious",D012874,0,118574,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Infectious|""]"
+VIRAL INFECTIONS,"Skin Diseases, Viral",D017193,0,118670,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Infectious|Skin Diseases, Viral|""]"
+MOLLUSCUM CONTAGIOSUM,Molluscum Contagiosum,D008976,0,121415,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Infectious|Skin Diseases, Viral|Molluscum Contagiosum|""]"
+OTHER POX VIRUSES,Poxviridae,D011212,0,118286,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|DNA Viruses|Poxviridae|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|DNA Viruses|Poxviridae|""]"
+HERPES SIMPLEX (INCLUDING COLD SORES),Herpes Labialis,D006560,0,121390,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Infectious|Skin Diseases, Viral|Herpes Simplex|Herpes Labialis|""]"
+GENITAL HERPES (HERPES SIMPLEX),Herpes Genitalis,D006558,0,121387,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Infectious|Skin Diseases, Viral|Herpes Simplex|Herpes Genitalis|""]"
+CHICKEN POX (VARICELLA),Chickenpox,D002644,0,120502,"[""|Diseases|Virus Diseases|DNA Virus Infections|Herpesviridae Infections|Chickenpox|""]"
+SHINGLES (HERPES ZOSTER),Herpes Zoster,D006562,0,119115,"[""|Diseases|Virus Diseases|DNA Virus Infections|Herpesviridae Infections|Herpes Zoster|""]"
+WARTS AND VERRUCAS,Warts,D014860,0,118612,"[""|Diseases|Cancers|Tumor Virus Infections|Papillomavirus Infections|Warts|"",""|Diseases|Cancers|Cancers, Experimental|Tumor Virus Infections|Papillomavirus Infections|Warts|"",""|Diseases|Cancers|Tumor Virus Infections|Warts|"",""|Diseases|Cancers|Cancers, Experimental|Tumor Virus Infections|Warts|""]"
+GENITAL WARTS,Genital Warts,D003218,0,0,null
+VIRAL RASHES,Viral rashes,,0,0,null
+HIV & AIDS,AIDS,D000163,0,0,null
+HIV & AIDS,HIV,D006678,0,118233,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|Oncogenic Viruses|Retroviridae|Lentivirus|Lentiviruses, Primate|HIV|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|RNA Viruses|Retroviridae|Lentivirus|Lentiviruses, Primate|HIV|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|RNA Viruses|Retroviridae|Lentivirus|Lentiviruses, Primate|HIV|""]"
+INSECT-BORNE AND HAEMORRHAGIC FEVERS,"Hemorrhagic Fevers, Viral",D006482,0,120666,"[""|Diseases|Virus Diseases|RNA Virus Infections|Hemorrhagic Fevers, Viral|""]"
+PITYRIASIS ROSEA (SUSPECTED VIRAL ORIGIN),Pityriasis Rosea,D017515,0,118491,"[""|Pityriasis Rosea|""]"
+RICKETTSIAL AND CHLAMYDIAL INFECTIONS,Rickettsiaceae Infections,D012288,0,119541,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Negative Bacterial Infections|Rickettsiaceae Infections|""]"
+BACTERIAL INFECTIONS,"Skin Diseases, Bacterial",D017192,0,118494,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Infectious|Skin Diseases, Bacterial|""]"
+IMPETIGO & ECTHYMA,Impetigo ,D007169,0,0,null
+BACTERIAL FOLLICULITIS,Folliculitis,D005499,0,0,null
+BOILS (FURUNCLES) & CARBUNCLES,Furunculosis,D005667,0,0,null
+ERYSIPELAS,Erysipelas,D004886,0,0,null
+CELLULITIS,Cellulitis,D002481,0,121396,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Cellulitis|""]"
+NECROTISING FASCIITIS,"Fasciitis, Necrotizing",D019115,0,121401,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Infectious|Skin Diseases, Bacterial|Fasciitis, Necrotizing|""]"
+SITE-SPECIFIC PYOGENIC INFECTIONS,Site-specific pyogenic infections,,0,0,null
+PYOGENIC ABSCESS,Psoas Abscess,D016659,0,120880,"[""|Diseases|Bacterial Infections and Mycoses|Infection|Suppuration|Abscess|Psoas Abscess|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Inflammation|Suppuration|Abscess|Psoas Abscess|""]"
+WOUND INFECTIONS,Wound Infection,D014946,0,119808,"[""|Diseases|Bacterial Infections and Mycoses|Infection|Wound Infection|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Wound Infection|""]"
+MRSA,MRSA,D055624,0,0,null
+OTHER PYOGENIC INFECTIONS,Pyogenic infections,,0,0,null
+NON-PYOGENIC BACTERIAL INFECTIONS,Non-pyogenic bacterial infections,,0,0,null
+SYPHILIS & OTHER TREPONEMATOSES," Syphilis, Cutaneous",D013591,0,118623,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Infectious|Skin Diseases, Bacterial|Syphilis, Cutaneous|""]"
+SYPHILIS & OTHER TREPONEMATOSES,Treponematoses,,0,0,null
+OTHER SEXUALLY TRANSMITTED BACTERIAL DISEASES,"Sexually Transmitted Diseases, Bacterial",D015231,0,120494,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Sexually Transmitted Diseases, Bacterial|"",""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Genital Diseases, Female|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|"",""|Diseases|Male Urogenital Diseases|Genital Diseases, Male|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|"",""|Diseases|Virus Diseases|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|""]"
+PLAGUE,Plague,D010930,0,119533,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Negative Bacterial Infections|Enterobacteriaceae Infections|Yersinia Infections|Plague|""]"
+ANTHRAX,Anthrax,D000881,0,120177,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Positive Bacterial Infections|Bacillaceae Infections|Anthrax|""]"
+LYME DISEASE,Lyme Disease,D008193,0,119372,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Negative Bacterial Infections|Borrelia Infections|Lyme Disease|"",""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Spirochaetales Infections|Borrelia Infections|Lyme Disease|"",""|Diseases|Virus Diseases|Arbovirus Infections|Tick-Borne Diseases|Lyme Disease|"",""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Negative Bacterial Infections|Tick-Borne Diseases|Lyme Disease|"",""|Diseases|Parasitic Diseases|Protozoan Infections|Tick-Borne Diseases|Lyme Disease|""]"
+OTHER ZOONOTIC BACTERIAL INFECTIONS,"Skin Diseases, Bacterial",D017192,0,118494,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Infectious|Skin Diseases, Bacterial|""]"
+TROPICAL & SUB-TROPICAL BACTERIAL INFECTIONS,"Skin Diseases, Bacterial",D017192,0,118494,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Infectious|Skin Diseases, Bacterial|""]"
+SYSTEMIC & DISTANT BACTERIAL INFECTIONS,"Skin Diseases, Bacterial",D017192,0,118494,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Infectious|Skin Diseases, Bacterial|""]"
+KAWASAKI DISEASE (SUSPECTED BACTERIAL ORIGIN),Kawasaki Disease,D009080,0,0,null
+MYCOBACTERIAL INFECTIONS,Mycobacterium Infections,D009164,0,119340,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Positive Bacterial Infections|Actinomycetales Infections|Mycobacterium Infections|""]"
+LEPROSY,Leprosy,D007918,0,119339,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Positive Bacterial Infections|Actinomycetales Infections|Mycobacterium Infections|Leprosy|""]"
+SKIN TUBERCULOSIS,"Tuberculosis, Cutaneous",D014382,0,118513,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Infectious|Skin Diseases, Bacterial|Tuberculosis, Cutaneous|""]"
+OTHER MYCOBACTERIAL INFECTIONS,Mycobacterial infections,,0,0,null
+ACTINOMYCETE INFECTIONS,Actinomycosis,D000196,0,118880,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Positive Bacterial Infections|Actinomycetales Infections|Actinomycosis|""]"
+FUNGAL INFECTIONS,Fungal Skin Diseases,D003881,0,0,null
+CANDIDA INFECTIONS (THRUSH),"Candidiasis, Cutaneous",D002179,0,118657,"[""|Candidiasis, Cutaneous|""]"
+PITYRIASIS VERSICOLOR,Tinea Versicolor,D014010,0,118635,"[""|Tinea Versicolor|""]"
+"TINEA (RINGWORM, ATHLETE'S FOOT ETC.)",Tinea,D014005,0,0,null
+OTHER FUNGAL INFECTIONS,Fungal Skin Diseases,D003881,0,0,null
+DERMATOSES DUE TO PARASITES,Lice,D008003,0,0,null
+DERMATOSES DUE TO PARASITES,Mites,D008925,0,0,null
+STINGS & BITES,Bites and Stings,D001733,0,118935,"[""|Diseases|Disorders of Environmental Origin|Poisoning|Bites and Stings|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Bites and Stings|""]"
+HEAD LICE,Head Lice,D010374,0,0,null
+PUBIC & BODY LICE,Body Lice,D010374,0,0,null
+PUBIC & BODY LICE,Pubic lice,,0,0,null
+MITES (INCLUDING SCABIES),Scabies,D012532,0,0,null
+MAMMAL & HUMAN BITES,Bites and Stings,D001733,0,118935,"[""|Diseases|Disorders of Environmental Origin|Poisoning|Bites and Stings|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Bites and Stings|""]"
+"URTICARIA, ANGIO-OEDEMA & ANAPHYLAXIS",Urticaria,D014581,0,0,null
+INFLAMMATORY ERYTHEMAS,Erythema,D004890,0,0,null
+ERYTHEMA MULTIFORME/STEVENS-JOHNSON SYNDROME,Erythema Multiforme,D004892,0,118515,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Vesiculobullous|Erythema Multiforme|""]"
+TOXIC EPIDERMAL NECROLYSIS,"Epidermal Necrolysis, Toxic",D004816,0,118501,"[""|Drug Eruptions|Epidermal Necrolysis, Toxic|""]"
+EOSINOPHILIC DISORDERS,Eosinophilia,D004802,0,120157,"[""|Diseases|Hemic and Lymphatic Diseases|Hematologic Diseases|Leukocyte Disorders|Eosinophilia|""]"
+SWEET'S DISEASE,Sweet Syndrome,D016463,0,0,null
+PYODERMA GANGRENOSUM,Pyoderma Gangrenosum,D017511,0,118489,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Vascular|Pyoderma Gangrenosum|"",""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Ulcer|Pyoderma Gangrenosum|""]"
+SUBCORNEAL PUSTULAR DERMATOSIS,"Skin Diseases, Vesiculobullous",D012872,0,118469,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Vesiculobullous|""]"
+LICHEN PLANUS & RELATED,Lichenoid Eruptions,D017512,0,121377,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Papulosquamous|Lichenoid Eruptions|""]"
+LICHEN PLANUS,Lichen Planus,D008010,0,121376,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Papulosquamous|Lichenoid Eruptions|Lichen Planus|""]"
+LICHENOID DISORDERS,Lichenoid disorders,,0,0,null
+GRAFT-VERSUS-HOST REACTIONS,Graft vs Host Disease,D006086,0,118937,"[""|Diseases|Immune System Diseases|Graft vs Host Disease|""]"
+BENIGN LYMPHOCYTIC INFILTRATIONS,Benign lymphocytic infiltrations,,0,0,null
+CUTANEOUS T-CELL LYMPHOMAS (INCLUDING MYCOSIS FUNGOIDES),"Lymphoma, T-Cell, Cutaneous",D016410,0,121686,"[""|Diseases|Cancers|Cancers by Histologic Type|Lymphomas|Lymphoma, Non-Hodgkin|Lymphoma, T-Cell|Lymphoma, T-Cell, Cutaneous|""]"
+OTHER SKIN LYMPHOMAS,Lymphoma,D008223,0,0,null
+OTHER SKIN LYMPHOMAS,Skin,D012867,0,0,null
+LEUKAEMIA & THE SKIN,Leukemia,D007938,0,0,null
+LEUKAEMIA & THE SKIN,Skin,D012867,0,0,null
+HISTIOCYTOSES,Histiocytosis,D015614,0,119122,"[""|Diseases|Hemic and Lymphatic Diseases|Lymphatic Diseases|Reticuloendotheliosis|Histiocytosis|""]"
+MASTOCYTOSIS (INCLUDING URTICARIA PIGMENTOSA),"Mastocytosis, Cutaneous",D034701,0,118654,"[""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Connective and Soft Tissue|Cancers, Connective Tissue|Mastocytosis|Mastocytosis, Cutaneous|""]"
+METABOLIC & NUTRITIONAL,"Skin Diseases, Metabolic",D012875,0,121384,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Metabolic|""]"
+CUTANEOUS AMYLOIDOSIS,Amyloidosis,D000686,0,120111,"[""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Amyloidosis|""]"
+MUCINOSES,Mucinoses,D017520,0,121477,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Mucinoses|""]"
+XANTHOMATA,Xanthomatosis,D014973,0,119947,"[""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Lipid Metabolism Disorders|Xanthomatosis|""]"
+PORPHYRIAS,Porphyrias,D011164,0,0,null
+VITAMIN METABOLISM,Avitaminosis,D001361,0,120252,"[""|Diseases|Nutritional and Metabolic Diseases|Nutrition Disorders|Malnutrition|Deficiency Diseases|Avitaminosis|""]"
+MINERAL METABOLISM,Metabolic diseases,D008659,0,0,null
+MINERAL METABOLISM,Nutrition Disorders,D009748,0,119173,"[""|Diseases|Nutritional and Metabolic Diseases|Nutrition Disorders|""]"
+MALNUTRITION,Malnutrition,D044342,0,108230,"[""|Determinants Of Health|Environmental Determinant|Causes Of Harm|Malnutrition|"",""|Determinants Of Health|Diet And Nutrition|Nutrition|Nutritional Deficiency|Malnutrition|""]"
+OTHER METABOLIC AND NUTRITIONAL,,,0,0,null
+PHYSICAL & SUN DAMAGE,Wounds and Injuries,D014947,0,120846,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|""]"
+FRICTION & CORNS,Callosities,D002145,0,0,null
+PRESSURE SORES & ULCERS,Pressure Ulcer,D003668,0,118627,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Ulcer|Pressure Ulcer|""]"
+FOREIGN BODY REACTIONS,Foreign-Body Reaction,D005549,0,119141,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Foreign Bodies|Foreign-Body Reaction|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Inflammation|Foreign-Body Reaction|""]"
+TATTOOS,Tattooing,D013653,0,114759,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Cosmetic Techniques|Body Modification, Non-Therapeutic|Tattooing|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Body Modification, Non-Therapeutic|Tattooing|""]"
+BODY PIERCING,Body Piercing,D046288,0,108083,"[""|Determinants Of Health|Individual Behaviour|Body Piercing|""]"
+COLD & HEAT,Cold & heat,,0,0,null
+COLD DAMAGE & REACTIONS,Frostbite,D005627,0,120505,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Frostbite|""]"
+BURNS & HEAT DAMAGE,Burns,D002056,0,120402,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Burns|""]"
+SUN & ULTRAVIOLET,Sun & ultraviolet,,0,0,null
+SUNBURN,Sunburn ,D013471,0,108373,"[""|Determinants Of Health|Environmental Determinant|Causes Of Harm|Sunburn|"",""|Determinants Of Health|Environmental Determinant|Environment|Natural Environment|Sun|Sunburn|""]"
+SUNTAN,Suntan,D055107,0,0,null
+CHRONIC SUN DAMAGE & SKIN AGEING,Skin Aging,D015595,0,123629,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Digestive, Oral, and Skin Physiology|Skin Physiology|Skin Aging|""]"
+ACTINIC (SOLAR) KERATOSIS,"Keratosis, Actinic",D055623,0,0,null
+PHOTOSENSITIVITY REACTIONS,Photosensitivity Disorders,D010787,0,121404,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Photosensitivity Disorders|""]"
+"WOUNDS, INJURIES & SCARS",Wounds and Injuries,D014947,0,120846,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|""]"
+WOUNDS ,"Wounds, Penetrating",D014950,0,119945,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Wounds, Penetrating|""]"
+WOUNDS ,Lacerations,D022125,0,121040,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Lacerations|""]"
+OTHER SKIN INJURIES,Wounds and Injuries,D014947,0,120846,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|""]"
+OTHER SKIN INJURIES,Skin,D012867,0,0,null
+SCARRING,Scarring,D002921,0,0,null
+KELOIDS & HYPERTROPHIC SCARS,Keloid,D007627,0,118485,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Collagen Diseases|Keloid|""]"
+PSORIASIS (GENERAL),Psoriasis,D011565,0,0,null
+CHRONIC PLAQUE PSORIASIS,Psoriasis,D011565,0,0,null
+GUTTATE PSORIASIS,Psoriasis,D011565,0,0,null
+PSORIATIC ARTHRITIS,"Arthritis, Psoriatic",D015535,0,121419,"[""|Arthritis, Psoriatic|""]"
+NAIL PSORIASIS,Psoriasis,D011565,0,0,null
+PALMOPLANTAR PUSTULOSIS,Psoriasis,D011565,0,0,null
+GENERALISED PUSTULAR PSORIASIS,Psoriasis,D011565,0,0,null
+PITYRIASIS RUBRA PILARIS,Pityriasis Rubra Pilaris,D010916,0,118531,"[""|Pityriasis Rubra Pilaris|""]"
+KERATOSIS PILARIS & OTHER FOLLICULAR KERATOSES,Keratosis pilaris,,0,0,null
+KERATOSIS PILARIS & OTHER FOLLICULAR KERATOSES,Follicular keratoses,,0,0,null
+POROKERATOSES,Porokeratosis,D017499,0,0,null
+OTHER ACQUIRED KERATINISING DISORDERS,Acquired keratinising disorders,,0,0,null
+PSYCHOLOGICAL & NEUROLOGICAL ,Nervous System Diseases,D009422,0,120279,"[""|Diseases|Nervous System Diseases|""]"
+PSYCHOLOGICAL & NEUROLOGICAL ,Mental Disorders,D001523,0,106960,"[""|Psychiatry and Pscychology|Mental Disorders|""]"
+ITCH (PRURITUS & PRURIGO),Prurigo,D011536,0,0,null
+ITCH (PRURITUS & PRURIGO),Pruritus,D011537,0,0,null
+ARTEFACTUAL (INFLICTED) SKIN DISORDERS,Factitious Disorders,D005162,0,107151,"[""|Psychiatry and Pscychology|Mental Disorders|Factitious Disorders|""]"
+DISORDERS OF SKIN IMAGE & PERCEPTION,Disorders of skin image & perception,,0,0,null
+NEUROLOGICAL DISORDERS,Nervous System Diseases,D009422,0,120279,"[""|Diseases|Nervous System Diseases|""]"
+SEXUALLY TRANSMITTED,Sexually Transmitted Diseases,D012749,0,119738,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Genital Diseases, Female|Sexually Transmitted Diseases|"",""|Diseases|Male Urogenital Diseases|Genital Diseases, Male|Sexually Transmitted Diseases|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Sexually Transmitted Diseases|"",""|Diseases|Virus Diseases|Sexually Transmitted Diseases|""]"
+STDS IN GENERAL,Sexually Transmitted Diseases,D012749,0,119738,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Genital Diseases, Female|Sexually Transmitted Diseases|"",""|Diseases|Male Urogenital Diseases|Genital Diseases, Male|Sexually Transmitted Diseases|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Sexually Transmitted Diseases|"",""|Diseases|Virus Diseases|Sexually Transmitted Diseases|""]"
+MOLLUSCUM CONTAGIOSUM,Molluscum Contagiosum,D008976,0,121415,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Infectious|Skin Diseases, Viral|Molluscum Contagiosum|""]"
+GENITAL HERPES (HERPES SIMPLEX),Herpes Genitalis,D006558,0,121387,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Infectious|Skin Diseases, Viral|Herpes Simplex|Herpes Genitalis|""]"
+GENITAL WARTS,Genital Warts,D003218,0,0,null
+HIV & AIDS,AIDS,D000163,0,0,null
+HIV & AIDS,HIV,D006678,0,118233,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|Oncogenic Viruses|Retroviridae|Lentivirus|Lentiviruses, Primate|HIV|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|RNA Viruses|Retroviridae|Lentivirus|Lentiviruses, Primate|HIV|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|RNA Viruses|Retroviridae|Lentivirus|Lentiviruses, Primate|HIV|""]"
+SYPHILIS,Syphilis,D013587,0,120491,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Sexually Transmitted Diseases, Bacterial|Syphilis|"",""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Genital Diseases, Female|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Syphilis|"",""|Diseases|Male Urogenital Diseases|Genital Diseases, Male|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Syphilis|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Syphilis|"",""|Diseases|Virus Diseases|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Syphilis|"",""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Negative Bacterial Infections|Treponemal Infections|Syphilis|"",""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Spirochaetales Infections|Treponemal Infections|Syphilis|""]"
+CHANCROID,Chancroid,D002602,0,120492,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Negative Bacterial Infections|Pasteurellaceae Infections|Haemophilus Infections|Chancroid|"",""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Sexually Transmitted Diseases, Bacterial|Chancroid|"",""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Genital Diseases, Female|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Chancroid|"",""|Diseases|Male Urogenital Diseases|Genital Diseases, Male|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Chancroid|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Chancroid|"",""|Diseases|Virus Diseases|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Chancroid|""]"
+PUBIC LICE,Pubic lice,,0,0,null
+OTHER STDS,Sexually Transmitted Diseases,D012749,0,119738,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Genital Diseases, Female|Sexually Transmitted Diseases|"",""|Diseases|Male Urogenital Diseases|Genital Diseases, Male|Sexually Transmitted Diseases|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Sexually Transmitted Diseases|"",""|Diseases|Virus Diseases|Sexually Transmitted Diseases|""]"
+SIGNS OF INTERNAL DISEASE,Skin Manifestations,D012877,0,118661,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Manifestations|""]"
+INTERNAL MALIGNANCY,Paraneoplastic Syndromes,D010257,0,121706,"[""|Diseases|Cancers|Paraneoplastic Syndromes|""]"
+IMMUNODEFICIENCY,Immunodeficiency,,0,0,null
+THYROID DISORDERS,Thyroid Diseases,D013959,0,120779,"[""|Diseases|Endocrine System Diseases|Thyroid Diseases|""]"
+DIABETES MELLITUS,Diabetes Complications,D048909,0,120726,"[""|Diseases|Endocrine System Diseases|Diabetes Mellitus|Diabetes Complications|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Glucose Metabolism Disorders|Diabetes Mellitus|Diabetes Complications|""]"
+OTHER ENDOCRINE DISORDERS,Endocrine System Diseases,D004700,0,118853,"[""|Diseases|Endocrine System Diseases|""]"
+MAJOR ORGAN DISEASE,Major organ disease,,0,0,null
+BEHÇET'S DISEASE,Behcet Disease,D001528,0,0,null
+OTHER SKIN SIGNS,signs,Q000175,0,0,null
+HAIR & SCALP ,Hair Diseases,D006201,0,118686,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Hair Diseases|""]"
+HAIR & SCALP,Scalp Dermatoses,D012536,0,118594,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Scalp Dermatoses|""]"
+EXCESSIVE HAIR GROWTH ,Hirsutism,D006628,0,0,null
+EXCESSIVE HAIR GROWTH ,Hypertrichosis,D006983,0,0,null
+HAIR LOSS & ALOPECIA,Hypotrichosis,D007039,0,0,null
+DANDRUFF & SCALY SCALPS,"Dermatitis, Seborrheic",D012628,0,118602,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Sebaceous Gland Diseases|Dermatitis, Seborrheic|"",""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Eczematous|Dermatitis, Seborrheic|"",""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Papulosquamous|Dermatitis, Seborrheic|""]"
+TINEA CAPITIS (SCALP RINGWORM),Tinea Capitis,D014006,0,118631,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Scalp Dermatoses|Tinea Capitis|""]"
+OTHER HAIR & SCALP,Hair Diseases,D006201,0,118686,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Hair Diseases|""]"
+OTHER HAIR & SCALP,Scalp Dermatoses,D012536,0,118594,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Scalp Dermatoses|""]"
+EARS,Ear Diseases,D004427,0,120756,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|""]"
+EYES,Eye Diseases,D005128,0,121831,"[""|Diseases|Eye Diseases|""]"
+MOUTH & LIPS,Mouth Diseases,D009059,0,120303,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|""]"
+MOUTH ULCERS,Oral Ulcer,D019226,0,120924,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Oral Ulcer|""]"
+ORAL CANDIDA (THRUSH),"Candidiasis, Oral",D002180,0,120421,"[""|Diseases|Bacterial Infections and Mycoses|Mycoses|Candidiasis|Candidiasis, Oral|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Candidiasis, Oral|""]"
+CANCER OF THE MOUTH & LIPS,Mouth Neoplasms,D009062,0,0,null
+CHEILITIS,Cheilitis,D002613,0,120496,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Lip Diseases|Cheilitis|""]"
+OTHER MOUTH & LIPS,Mouth Diseases,D009059,0,120303,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|""]"
+MALE GENITAL,"Genital Diseases, Male",D005832,0,119001,"[""|Diseases|Male Urogenital Diseases|Genital Diseases, Male|""]"
+FEMALE GENITAL,"Genital Diseases, Female",D005831,0,118846,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Genital Diseases, Female|""]"
+PERIANAL,Perianal,,0,0,null
+FLEXURES,Flexures,,0,0,null
+LEGS,Leg Dermatoses,D007868,0,121366,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Leg Dermatoses|""]"
+FEET,Foot Diseases,D005534,0,118688,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Foot Diseases|""]"
+HANDS,Hand Dermatoses,D006229,0,121359,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Hand Dermatoses|""]"
+NAILS,Nail Diseases,D009260,0,121420,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Nail Diseases|""]"
+FUNGAL INFECTIONS OF NAILS,Nail Fungus,D014009,0,0,null
+PARONYCHIA,Paronychia,D010304,0,0,null
+NAIL DEFORMITIES,"Nails, Malformed",D009264,0,119499,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathological Conditions, Anatomical|Nails, Malformed|""]"
+INGROWING TOENAIL,"Nails, Ingrown",D009263,0,121422,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Nail Diseases|Nails, Ingrown|""]"
+NAIL PSORIASIS,Nail psoriasis,,0,0,null
+OTHER NAILS,Nails,D009262,0,110887,"[""|Natural Science, Anatomy and Organisms|Anatomy|Integumentary System|Nails|""]"
+SKIN CANCERS,Skin Cancer,D012878,0,0,null
+SKIN CANCER - GENERAL,Skin Cancer,D012878,0,0,null
+BOWEN'S DISEASE,Bowen's Disease,D001913,0,122185,"[""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Glandular and Epithelial|Cancers, Squamous Cell|Carcinoma, Squamous Cell|Bowen's Disease|"",""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Glandular and Epithelial|Carcinoma|Carcinoma, Squamous Cell|Bowen's Disease|""]"
+SQUAMOUS CELL CARCINOMA,Squamous Cell Carcinoma,D002294,0,0,null
+BASAL CELL CARCINOMA (RODENT ULCER),Basal cell carcinoma,D002280,0,0,null
+MALIGNANT MELANOMA,Malignant Melanoma,D008545,0,0,null
+KAPOSI'S SARCOMA,Kaposi Sarcoma,D012514,0,0,null
+"OTHER MALIGNANCIES AFFECTING THE SKIN (SEE ALSO ""LYMPHOMAS & OTHER INFILTRATIONS"")",Skin Cancer,D012878,0,0,null
+SKIN COLOUR,Skin Pigmentation,D012880,0,114501,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Physical Examination|Pigmentation|Skin Pigmentation|""]"
+SKIN PIGMENTATION & PHOTOTYPE #1,Pigmentation Disorders,D010859,0,121418,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Pigmentation Disorders|""]"
+SKIN PIGMENTATION & PHOTOTYPE #2,Skin Pigmentation,D012880,0,114501,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Physical Examination|Pigmentation|Skin Pigmentation|""]"
+INCREASED PIGMENTATION,Hyperpigmentation,D017495,0,0,null
+DECREASED PIGMENTATION,Hypopigmentation,D017496,0,0,null
+VITILIGO,Vitiligo,D014820,0,0,null
+STAGE OF LIFE,Age Groups,D009273,0,0,null
+NEWBORN,"Infant, Newborn",D007231,0,0,null
+INFANCY,Infant,D007223,0,107575,"[""|People And Populations|Group|Age Group|Child|Infant|""]"
+CHILDHOOD,Child,D002648,0,107590,"[""|People And Populations|Group|Age Group|Child|""]"
+MENSTRUAL CYCLE,Menstrual Cycle,D008597,0,122643,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Reproductive and Urinary Physiology|Reproduction|Menstrual Cycle|""]"
+PREGNANCY,Pregnancy Complications,D011248,0,118897,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Pregnancy Complications|""]"
+MENOPAUSE,Menopause,D008593,0,0,null
+AGEING,Skin Aging,D015595,0,123629,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Digestive, Oral, and Skin Physiology|Skin Physiology|Skin Aging|""]"
+SWEAT GLAND,Sweat Gland Diseases ,D013543,0,118459,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Sweat Gland Diseases|""]"
+BODY ODOUR,Body odour,,0,0,null
+HYPERHIDROSIS (EXCESS SWEATING),Hyperhidrosis,D006945,0,0,null
+HYPOHIDROSIS (REDUCED SWEATING),Hypohidrosis,D007007,0,0,null
+MILIARIA (PRICKLY HEAT),Miliaria,D008883,0,0,null
+OTHER SWEAT GLAND DISORDERS,Sweat Glands,D013545,0,0,null
+TOXINS & POISONS,Poisoning,D011041,0,120223,"[""|Diseases|Disorders of Environmental Origin|Poisoning|""]"
+GENERAL POISONING,Poisoning,D011041,0,120223,"[""|Diseases|Disorders of Environmental Origin|Poisoning|""]"
+MERCURY,Mercury Poisoning,D008630,0,119428,"[""|Diseases|Disorders of Environmental Origin|Poisoning|Mercury Poisoning|""]"
+ARSENIC,Arsenic Poisoning,D020261,0,120981,"[""|Diseases|Nervous System Diseases|Neurotoxicity Syndromes|Heavy Metal Poisoning, Nervous System|Arsenic Poisoning|"",""|Diseases|Disorders of Environmental Origin|Poisoning|Neurotoxicity Syndromes|Heavy Metal Poisoning, Nervous System|Arsenic Poisoning|"",""|Diseases|Disorders of Environmental Origin|Poisoning|Arsenic Poisoning|""]"
+OTHER HEAVY METALS,Heavy Metals,D019216,0,0,null
+MUSTARD GAS,Mustard Gas,D009151,0,0,null
+CHLORACNE,Chloracne,D054506,0,0,null
+VASCULAR ,"Skin Diseases, Vascular",D017445,0,118534,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Vascular|""]"
+VASCULAR ,Vascular Diseases,D014652,0,120149,"[""|Diseases|Cardiovascular Diseases|Vascular Diseases|""]"
+"BLOOD & LYMPHATIC VESSEL ABNORMALITIES (SEE ALSO ""BIRTHMARKS & DISFIGUREMENTS"")",Vascular Malformations,D054079,0,120232,"[""|Diseases|Cardiovascular Diseases|Cardiovascular Abnormalities|Vascular Malformations|"",""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Congenital Abnormalities|Cardiovascular Abnormalities|Vascular Malformations|""]"
+VARICOSITIES,Varicose Veins,D014648,0,0,null
+PURPURA & BRUISING #1,Purpura,D011693,0,0,null
+PURPURA & BRUISING #1,Contusions,D003288,0,120580,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Contusions|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Wounds, Nonpenetrating|Contusions|""]"
+CUTANEOUS VASCULITIS & INFLAMMATORY PURPURA,Vasculitis ,D014657,0,120205,"[""|Diseases|Cardiovascular Diseases|Vascular Diseases|Vasculitis|""]"
+ERYTHEMA NODOSUM & RELATED,Erythema Nodosum,D004893,0,118517,"[""|Drug Eruptions|Erythema Nodosum|""]"
+ARTERIAL DISEASE & ISCHAEMIA,Peripheral Arterial Diseases,D016491,0,0,null
+VENOUS DISEASE & LEG ULCERS,Venous disease,,0,0,null
+VENOUS DISEASE & LEG ULCERS,Leg Ulcer,D007871,0,121367,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Ulcer|Leg Ulcer|""]"
+INTRAVASCULAR THROMBOSIS,Thrombosis,D013927,0,120585,"[""|Diseases|Cardiovascular Diseases|Vascular Diseases|Embolism and Thrombosis|Thrombosis|""]"
+OEDEMA & LYMPHOEDEMA,Oedema,D004487,0,0,null
+OEDEMA & LYMPHOEDEMA ,Lymphoedema,D008209,0,0,null
+BLUSHING & FLUSHING,Blushing,D001821,0,113553,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Blushing|""]"
+BLUSHING & FLUSHING,Flushing,D005483,0,119135,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Flushing|""]"
+VASODILATATION OF EXTREMITIES,Vasodilation,D014664,0,123114,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Circulatory and Respiratory Physiology|Cardiovascular Physiology|Cardiovascular Physiologic Phenomena|Hemodynamics|Vasodilation|"",""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Circulatory and Respiratory Physiology|Cardiovascular Physiology|Cardiovascular Physiologic Processes|Hemodynamics|Vasodilation|""]"
+RAYNAUD'S & RELATED,Raynaud's Disease,D011928,0,0,null
+EPIDEMIOLOGY,Epidemiology,D004813,0,107885,"[""|Public Health Methods, Theory And Research|Health Research|Epidemiology|""]"
+IMPACT OF SKIN DISEASE,Impact of skin disease,,0,0,null
+QUALITY OF LIFE INDICATORS,Quality of Life,D011788,0,117508,"[""|Education, Sociology and Social Phenomena|Social Sciences|Quality of Life|""]"
+STATISTICS,Statistics,D020500,0,0,null
+DIAGNOSIS & INVESTIGATION,Diagnosis,D003933,0,107878,"[""|Public Health Methods, Theory And Research|Method|Diagnosis|""]"
+ALLERGY TESTS (INCLUDING PATCH TESTS),Patch Tests,D010328,0,114617,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Skin Tests|Patch Tests|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Immunologic Techniques|Immunologic Tests|Skin Tests|Patch Tests|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Laboratory Techniques and Procedures|Immunologic Tests|Skin Tests|Patch Tests|""]"
+BIOPSIES,Biopsy,D001706,0,113487,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Laboratory Techniques and Procedures|Cytodiagnosis|Biopsy|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Surgical|Biopsy|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Laboratory Techniques and Procedures|Specimen Handling|Biopsy|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Biopsy|""]"
+BLOOD TESTS,Hematologic Tests,D006403,0,113511,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Laboratory Techniques and Procedures|Hematologic Tests|""]"
+DERMOSCOPY,Dermoscopy,D046169,0,115376,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Microscopy|Dermoscopy|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Microscopy|Dermoscopy|""]"
+DIAGNOSIS,Diagnosis,D003933,0,107878,"[""|Public Health Methods, Theory And Research|Method|Diagnosis|""]"
+DISEASE SEVERITY SCALES,Disease severity scales,,0,0,null
+PHOTOGRAPHY,Photography,D010781,0,114172,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Photography|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Photography|""]"
+SCREENING,Mass Screening,D008403,0,114243,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Mass Screening|""]"
+PHOTOTESTING,Phototesting,,0,0,null
+SKIN PATHOLOGY,Skin pathology,,0,0,null
+TELEDERMATOLOGY,Teledermatology,,0,0,null
+TREATMENT & MANAGEMENT,Therapeutics,D013812,0,113253,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|""]"
+COMPLEMENTARY & ALTERNATIVE TREATMENTS,Complementary Therapies,D000529,0,113311,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|""]"
+COMPRESSION BANDAGES & STOCKINGS,Intermittent Pneumatic Compression Devices,D048228,0,114217,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Intermittent Pneumatic Compression Devices|""]"
+COSMETIC TREATMENTS & IMPLANTS,"Surgery, Plastic",D013518,0,123076,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Surgical|Surgery, Plastic|""]"
+COSMETIC TREATMENTS & IMPLANTS,Breast Implants,D018427,0,114707,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Prostheses and Implants|Breast Implants|""]"
+DIET & SUPPLEMENTS,Dietary Supplements,D019587,0,0,null
+DIET & SUPPLEMENTS,Diet,D004032,0,108134,"[""|Determinants Of Health|Individual Behaviour|Eating Habit|Diet|""]"
+DRESSINGS,Bandages,D001458,0,113457,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Bandages|""]"
+HAIR REMOVAL,Hair removal,D006204,0,0,null
+LASER TREATMENT,Laser Therapy,D053685,0,115126,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Laser Therapy|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Laser Therapy|""]"
+PHOTODYNAMIC THERAPY,Photochemotherapy,D010778,0,114146,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Combined Modality Therapy|Photochemotherapy|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Drug Therapy|Photochemotherapy|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Phototherapy|Photochemotherapy|""]"
+PHOTOTHERAPY,Phototherapy,D010789,0,114141,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Phototherapy|""]"
+PRESCRIBING,Prescriptions,D055656,0,0,null
+PREVENTION,Primary Prevention,D011322,0,112554,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Community Health Services|Preventive Health Services|Primary Prevention|"",""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Preventive Health Services|Primary Prevention|"",""|Health Care|Population Characteristics|Health|Public Health|Public Health Practice|Primary Prevention|""]"
+PSYCHOLOGICAL & EDUCATIONAL INTERVENTIONS,Crisis Intervention,D003419,0,106661,"[""|Psychiatry and Pscychology|Behavioral Disciplines and Activities|Psychotherapy|Crisis Intervention|""]"
+RADIOTHERAPY,Radiotherapy,D011878,0,113584,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Radiotherapy|""]"
+SKIN CAMOUFLAGE,Skin camouflage,,0,0,null
+SUNSCREENS & SUN PROTECTION,Sunscreening Agents,D013473,0,0,null
+SURGICAL,Surgery,D013502,0,109857,"[""|Health Services And Their Management|Healthcare And Health Services|Medical Treatment|Surgery|""]"
+CRYOTHERAPY,Cryotherapy,D017679,0,113743,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Cryotherapy|""]"
+DERMATOLOGICAL SURGERY,Surgery,D013502,0,109857,"[""|Health Services And Their Management|Healthcare And Health Services|Medical Treatment|Surgery|""]"
+DERMATOLOGICAL SURGERY,Dermatology,D003880,0,122472,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Dermatology|""]"
+MOHS' MICROGRAPHIC SURGERY,Mohs Surgery,D015580,0,115042,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Micromanipulation|Microsurgery|Mohs Surgery|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Microsurgery|Mohs Surgery|""]"
+PLASTIC SURGERY,"Surgery, Plastic",D013518,0,123076,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Surgical|Surgery, Plastic|""]"
+WOUND CLOSURE,Wound closure,,0,0,null
+SYSTEMIC DRUGS,Pharmaceutical Preparations,D004364,0,0,null
+ANTILEPROTIC DRUGS (INCLUDING DAPSONE),Leprostatic Agents,D007917,0,0,null
+ANTILEPROTIC DRUGS (INCLUDING DAPSONE),Dapsone,D003622,0,0,null
+ANTIMALARIAL DRUGS (INCLUDING HYDROXYCHLOROQUINE),Antimalarials,D000962,0,0,null
+ANTIMALARIAL DRUGS (INCLUDING HYDROXYCHLOROQUINE),Hydroxychloroquine,D006886,0,0,null
+BIOLOGICAL THERAPIES (BIOLOGICS),Biological Therapy,D001691,0,113483,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Biological Therapy|""]"
+COLCHICINE,Colchicine,D003078,0,0,null
+"CYTOTOXIC & IMMUNOSUPPRESSIVE DRUGSANTIBIOTICS, ANTINEOPLASTIC",,D000903,0,0,null
+"CYTOTOXIC & IMMUNOSUPPRESSIVE DRUGSANTIBIOTICS, ANTINEOPLASTIC",Immunosuppressive Agents,D007166,0,0,null
+CHEMOTHERAPY,Drug Therapy,D004358,0,113968,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Drug Therapy|""]"
+ALKYLATING DRUGS (INCLUDING CYCLOPHOSPHAMIDE)CYCLOPHOSPHAMIDE,"Antineoplastic Agents, Alkylating",D018906,0,0,null
+ALKYLATING DRUGS (INCLUDING CYCLOPHOSPHAMIDE)CYCLOPHOSPHAMIDE,,D003520,0,0,null
+AZATHIOPRINE,Azathioprine,D001379,0,0,null
+CICLOSPORIN,Cyclosporine,D016572,0,0,null
+FUMARATES,Fumarates,D005650,0,0,null
+HYDROXYCARBAMIDE (HYDROXYUREA),Hydroxyurea,D006918,0,0,null
+LEFLUNOMIDE,leflunomide,C045463,0,0,null
+LEFLUNOMIDE,Isoxazoles,D007555,0,0,null
+METHOTREXATE,Methotrexate,D008727,0,0,null
+MYCOPHENOLATE MOFETIL,Mycophenolate mofetil,C063008,0,0,null
+MYCOPHENOLATE MOFETIL,Mycophenolic Acid,D009173,0,0,null
+GOLD,Gold,D006046,0,0,null
+HORMONES & ANTI-ANDROGENS,Hormones,D006728,0,0,null
+HORMONES & ANTI-ANDROGENS,Androgen Antagonists,D000726,0,0,null
+IMMUNOGLOBULINS,Immunoglobulins,D007136,0,0,null
+SYSTEMIC ANTIBACTERIAL AGENTS,Anti-Bacterial Agents,D000900,0,0,null
+SYSTEMIC ANTIFUNGAL AGENTS,Antifungal Agents,D000935,0,0,null
+SYSTEMIC ANTIHISTAMINES,Histamine Antagonists,D006633,0,0,null
+SYSTEMIC ANTIPARASITIC AGENTS,Antiparasitic agents,D000977,0,0,null
+SYSTEMIC ANTIPRURITIC AGENTS,Antipruritics,D000982,0,0,null
+SYSTEMIC ANTIVIRAL AGENTS,Antiviral Agents,D000998,0,0,null
+SYSTEMIC CORTICOSTEROIDS,Adrenal Cortex Hormones,D000305,0,0,null
+SYSTEMIC INTERFERONS,Interferons,D007372,0,0,null
+SYSTEMIC RETINOIDS,Retinoids,D012176,0,0,null
+THALIDOMIDE,Thalidomide,D013792,0,0,null
+TOPICAL TREATMENTS,"Administration, Topical",D000287,0,113263,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Drug Administration Routes|Administration, Topical|""]"
+BARRIER PREPARATIONS,Barrier preparations,,0,0,null
+CLEANSERS,Cleansers,,0,0,null
+DEBRIDING AGENTS,Debridement,D003646,0,113831,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Debridement|""]"
+EMOLLIENTS,Emollients,D004643,0,0,null
+SHAMPOOS,Shampoos,,0,0,null
+TOPICAL ACNE TREATMENTS,Topical acne treatments,,0,0,null
+TOPICAL ANTIBACTERIAL AGENTS,Anti-Bacterial Agents,D000900,0,0,null
+TOPICAL ANTIFUNGAL AGENTS,Antifungal Agents,D000935,0,0,null
+TOPICAL ANTIHISTAMINES,Histamine Antagonists,D006633,0,0,null
+TOPICAL ANTIPARASITIC TREATMENTS & REPELLENTS,Insect Repellents,D007302,0,0,null
+TOPICAL ANTIVIRAL AGENTS,Antiviral Agents,D000998,0,0,null
+TOPICAL CYTOTOXIC AGENTS,Cytotoxins,D003603,0,0,null
+TOPICAL DRUGS AFFECTING THE IMMUNE RESPONSE,,,0,0,null
+TOPICAL & INTRALESIONAL CORTICOSTEROIDS,Adrenal Cortex Hormones,D000305,0,0,null
+TOPICAL & INTRALESIONAL INTERFERONS,Interferons,D007372,0,0,null
+TOPICAL LOCAL ANAESTHETICS & ANTIPRURITICS,Antipruritics,D000982,0,0,null
+TOPICAL PSORIASIS TREATMENTS,"Administration, Topical",D000287,0,113263,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Drug Administration Routes|Administration, Topical|""]"
+TOPICAL PSORIASIS TREATMENTS,Psoriasis,D011565,0,0,null
+TOPICAL RETINOIDS,Retinoids,D012176,0,0,null
+TOPICAL VITAMINS,Vitamins,D014815,0,0,null
+SERVICE DELIVERY,Delivery of Health Care,D003695,0,112273,"[""|Health Care|Health Care Quality, Access, and Evaluation|Delivery of Health Care|"",""|Health Care|Health Services Administration|Patient Care Management|Delivery of Health Care|""]"
+GENERAL DERMATOLOGY SERVICES,Delivery of Health Care,D003695,0,112273,"[""|Health Care|Health Care Quality, Access, and Evaluation|Delivery of Health Care|"",""|Health Care|Health Services Administration|Patient Care Management|Delivery of Health Care|""]"
+GENERAL DERMATOLOGY SERVICES,Dermatology,D003880,0,122472,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Dermatology|""]"
+SECONDARY CARE DERMATOLOGY SERVICES,Secondary care dermatology services,,0,0,null
+TELEDERMATOLOGY SERVICES,Teledermatology services,,0,0,null
+GPS WITH A SPECIAL INTEREST,GPs with a Special Interest,,0,0,null
+PRIMARY CARE,Primary Health Care,D011320,0,112359,"[""|Health Care|Health Services Administration|Patient Care Management|Comprehensive Health Care|Primary Health Care|""]"
+NURSING SERVICES,Nursing services,D009739,0,0,null
+PHARMACY SERVICES,Pharmacy Services,D010593,0,0,null
+RELATED SPECIALTY SERVICES,Delivery of Health Care,D003695,0,112273,"[""|Health Care|Health Care Quality, Access, and Evaluation|Delivery of Health Care|"",""|Health Care|Health Services Administration|Patient Care Management|Delivery of Health Care|""]"
+DERMATOLOGY,Dermatology,D003880,0,122472,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Dermatology|""]"
+DERMATOPATHOLOGY,Dermatopathology,,0,0,null
+GENITOURINARY MEDICINE,Genitourinary medicine,,0,0,null
+MANAGEMENT,Management,,0,109629,"[""|Health Services And Their Management|Management And Policy|Management|""]"
+NURSING,Nursing,D009729,0,109648,"[""|Health Services And Their Management|Healthcare And Health Services|Nursing|""]"
+PAEDIATRIC DERMATOLOGY,Paediatric dermatology,,0,0,null
+PHARMACY,Pharmacy,D010604,0,109794,"[""|Health Services And Their Management|Healthcare And Health Services|Pharmacy|""]"
+PRIMARY CARE,Primary Health Care,D011320,0,112359,"[""|Health Care|Health Services Administration|Patient Care Management|Comprehensive Health Care|Primary Health Care|""]"
+SURGERY,General Surgery,D013502,0,0,null

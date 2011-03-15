@@ -1,0 +1,245 @@
+INFECTIONS,Communicable Diseases,D003141,0,120569,"[""|Diseases|Bacterial Infections and Mycoses|Infection|Communicable Diseases|""]"
+INFECTIONS,Infection,D007239,0,120152,"[""|Diseases|Bacterial Infections and Mycoses|Infection|""]"
+INFECTIOUS DISEASES,Infectious Diseases,D003141,0,0,null
+BRAIN AND SPINAL CORD INFECTIONS,Central nervous system diseases,D002493,0,0,null
+CREUTZFELDT-JAKOB DISEASE (CJD),Creutzfeldt-Jacob Syndrome,D007562,0,0,null
+ENCEPHALITIS,Encephalitis,D004660,0,118963,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Encephalitis|"",""|Diseases|Bacterial Infections and Mycoses|Central Nervous System Infections|Encephalitis|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Central Nervous System Infections|Encephalitis|"",""|Diseases|Bacterial Infections and Mycoses|Central Nervous System Infections|Central Nervous System Viral Diseases|Encephalitis|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Central Nervous System Infections|Central Nervous System Viral Diseases|Encephalitis|"",""|Diseases|Virus Diseases|Central Nervous System Viral Diseases|Encephalitis|""]"
+MENINGITIS,Meningitis,D008581,0,0,null
+EAR INFECTIONS,Ear Diseases,D004427,0,120756,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|""]"
+OTITIS EXTERNA,Otitis Externa,D010032,0,119607,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Otitis|Otitis Externa|""]"
+OTITIS MEDIA,Otitis Media,D010033,0,0,null
+EYE INFECTIONS,Eye Diseases,D005128,0,121831,"[""|Diseases|Eye Diseases|""]"
+CONJUNCTIVITIS,Conjunctivitis,D003231,0,121526,"[""|Diseases|Eye Diseases|Conjunctival Diseases|Conjunctivitis|""]"
+TRACHOMA,Trachoma,D014141,0,121544,"[""|Diseases|Eye Diseases|Conjunctival Diseases|Conjunctivitis|Conjunctivitis, Bacterial|Trachoma|"",""|Diseases|Eye Diseases|Eye Infections|Eye Infections, Bacterial|Conjunctivitis, Bacterial|Trachoma|"",""|Diseases|Eye Diseases|Corneal Diseases|Trachoma|""]"
+GASTROINTESTINAL INFECTIONS,Gastrointestinal diseases,D005767,0,0,null
+GASTROINTESTINAL INFECTIONS,Communicable Diseases,D003141,0,120569,"[""|Diseases|Bacterial Infections and Mycoses|Infection|Communicable Diseases|""]"
+CAMPYLOBACTER,Campylobacter,D002167,0,0,null
+CHOLERA,Cholera,D002771,0,120514,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Negative Bacterial Infections|Vibrio Infections|Cholera|""]"
+ESCHERICHIA COLI INFECTION,Escherichia coli Infections,D004927,0,120767,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Negative Bacterial Infections|Enterobacteriaceae Infections|Escherichia coli Infections|""]"
+GASTROENTERITIS,Gastroenteritis,D005759,0,0,null
+LISTERIOSIS,Listeriosis,,0,0,null
+NOROVIRUS,Norovirus,D029322,0,118290,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|RNA Viruses|Caliciviridae|Norovirus|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|RNA Viruses|Caliciviridae|Norovirus|""]"
+ROTAVIRUS,Rotavirus,D012401,0,117847,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|RNA Viruses|Reoviridae|Rotavirus|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|RNA Viruses|Reoviridae|Rotavirus|""]"
+SALMONELLA,Salmonella,D012475,0,0,null
+SHIGELLA,Shigella,D012760,0,0,null
+TYPHOID,Typhoid fever,D014435,0,0,null
+HEALTHCARE ASSOCIATED INFECTIONS AND ANTIMICROBIAL RESISTANCE,"Infectious Disease Transmission, Professional-to-Patient",D017757,0,0,null
+HEALTHCARE ASSOCIATED INFECTIONS AND ANTIMICROBIAL RESISTANCE,Blood-Borne Pathogens,D017848,0,0,null
+ANTIMICROBIAL RESISTANCE,"Drug Resistance, Microbial",D004352,0,122505,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Chemical and Pharmacologic Phenomena|Drug Resistance|Drug Resistance, Microbial|"",""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Biological Phenomena, Cell Phenomena, and Immunity|Biological Phenomena|Microbiologic Phenomena|Drug Resistance, Microbial|""]"
+BACTERAEMIA / SEPTICAEMIA,Bacteremia,D016470,0,119083,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Bacteremia|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Sepsis|Bacteremia|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Inflammation|Systemic Inflammatory Response Syndrome|Sepsis|Bacteremia|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Shock|Systemic Inflammatory Response Syndrome|Sepsis|Bacteremia|""]"
+BACTERAEMIA / SEPTICAEMIA,Septicaemia,D018805,0,0,null
+BACTERAEMIA / SEPTICAEMIA,Haemorrhagic Septicaemia,D006483,0,0,null
+CLOSTRIDIUM DIFFICILE-ASSOCIATED DISEASE,Clostridium difficile,D016360,0,0,null
+ENTEROCOCCUS AND GRE/VRE,Enterococcus,D016983,0,0,null
+MRSA INFECTION,Methicillin-Resistant Staphylococcus aureus,D055624,0,0,null
+NOROVIRUS INFECTION,Norovirus,D029322,0,118290,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|RNA Viruses|Caliciviridae|Norovirus|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|RNA Viruses|Caliciviridae|Norovirus|""]"
+HEPATITIS,"Hepatitis, Viral, Human",D006525,0,120663,"[""|Diseases|Digestive System Diseases|Liver Diseases|Hepatitis|Hepatitis, Viral, Human|"",""|Diseases|Virus Diseases|Hepatitis, Viral, Human|""]"
+HEPATITIS A,Hepatitis A,D006506,0,119093,"[""|Diseases|Virus Diseases|RNA Virus Infections|Picornaviridae Infections|Enterovirus Infections|Hepatitis A|"",""|Diseases|Digestive System Diseases|Liver Diseases|Hepatitis|Hepatitis, Viral, Human|Hepatitis A|"",""|Diseases|Virus Diseases|Hepatitis, Viral, Human|Hepatitis A|""]"
+HEPATITIS B,Hepatitis B,D006509,0,0,null
+HEPATITIS C,Hepatitis C,D006526,0,0,null
+MOUTH AND GUM INFECTIONS,Mouth Diseases,D009059,0,120303,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|""]"
+RESPIRATORY INFECTIONS,Respiratory Tract Infections,D012141,0,118759,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|""]"
+COMMON COLD,Common Cold,D003139,0,121009,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Common Cold|""]"
+INFLUENZA,"Influenza, Human",D007251,0,118399,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Influenza, Human|""]"
+AVIAN INFLUENZA,Influenza A virus,D009980,0,118294,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|RNA Viruses|Orthomyxoviridae|Influenzavirus A|Influenza A virus|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|RNA Viruses|Orthomyxoviridae|Influenzavirus A|Influenza A virus|""]"
+AVIAN INFLUENZA,"Influenza A Virus, H5N1 Subtype",D053124,0,118090,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|RNA Viruses|Orthomyxoviridae|Influenzavirus A|Influenza A virus|Influenza A Virus, H5N1 Subtype|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|RNA Viruses|Orthomyxoviridae|Influenzavirus A|Influenza A virus|Influenza A Virus, H5N1 Subtype|""]"
+PANDEMIC INFLUENZA,"Influenza, Human",D007251,0,118399,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Influenza, Human|""]"
+PANDEMIC INFLUENZA,Disease Outbreaks,D004196,0,112547,"[""|Health Care|Population Characteristics|Health|Public Health|Disease Outbreaks|""]"
+SEASONAL INFLUENZA,Seasonal Influenza,,0,0,null
+SWINE INFLUENZA,"Influenza A Virus, H1N1 Subtype",D053118,0,118086,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|RNA Viruses|Orthomyxoviridae|Influenzavirus A|Influenza A virus|Influenza A Virus, H1N1 Subtype|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|RNA Viruses|Orthomyxoviridae|Influenzavirus A|Influenza A virus|Influenza A Virus, H1N1 Subtype|""]"
+LEGIONNAIRE'S DISEASE,Legionnaire's Disease,D007877,0,0,null
+PNEUMONIA,Pneumonia,D011014,0,118761,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Pneumonia|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Pneumonia|""]"
+RESPIRATORY SYNCYTIAL VIRUS (RSV),"Respiratory Syncytial Virus, Human",D018113,0,117915,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|RNA Viruses|Mononegavirales|Paramyxoviridae|Pneumovirinae|Pneumovirus|Respiratory Syncytial Viruses|Respiratory Syncytial Virus, Human|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|RNA Viruses|Mononegavirales|Paramyxoviridae|Pneumovirinae|Pneumovirus|Respiratory Syncytial Viruses|Respiratory Syncytial Virus, Human|""]"
+SARS,Severe Acute Respiratory Syndrome,D045169,0,118734,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Severe Acute Respiratory Syndrome|""]"
+SEXUALLY TRANSMITTED INFECTIONS,Sexually Transmitted Diseases,D012749,0,119738,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Genital Diseases, Female|Sexually Transmitted Diseases|"",""|Diseases|Male Urogenital Diseases|Genital Diseases, Male|Sexually Transmitted Diseases|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Sexually Transmitted Diseases|"",""|Diseases|Virus Diseases|Sexually Transmitted Diseases|""]"
+CHLAMYDIA,Chlamydia infections,D002690,0,0,null
+GENITAL WARTS (HPV),Human Papilloma,D010212,0,0,null
+GONORRHOEA,,D006069,0,0,null
+HERPES,Herpes Genitalis,D006558,0,121387,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Infectious|Skin Diseases, Viral|Herpes Simplex|Herpes Genitalis|""]"
+HIV/AIDS,HIV Infections,D015658,0,118894,"[""|Diseases|Immune System Diseases|Immunologic Deficiency Syndromes|HIV Infections|"",""|Diseases|Virus Diseases|RNA Virus Infections|Retroviridae Infections|Lentivirus Infections|HIV Infections|"",""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Genital Diseases, Female|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Viral|HIV Infections|"",""|Diseases|Male Urogenital Diseases|Genital Diseases, Male|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Viral|HIV Infections|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Viral|HIV Infections|"",""|Diseases|Virus Diseases|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Viral|HIV Infections|""]"
+LYMPHOGRANULOMA VENEREUM (LGV),Lymphogranuloma Venereum,D008219,0,119379,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Negative Bacterial Infections|Chlamydiaceae Infections|Chlamydia Infections|Lymphogranuloma Venereum|"",""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Sexually Transmitted Diseases, Bacterial|Chlamydia Infections|Lymphogranuloma Venereum|"",""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Genital Diseases, Female|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Chlamydia Infections|Lymphogranuloma Venereum|"",""|Diseases|Male Urogenital Diseases|Genital Diseases, Male|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Chlamydia Infections|Lymphogranuloma Venereum|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Chlamydia Infections|Lymphogranuloma Venereum|"",""|Diseases|Virus Diseases|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Chlamydia Infections|Lymphogranuloma Venereum|""]"
+PUBIC LICE,Pediculus,D010374,0,0,null
+SYPHILIS,Syphilis,D013587,0,120491,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Sexually Transmitted Diseases, Bacterial|Syphilis|"",""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Genital Diseases, Female|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Syphilis|"",""|Diseases|Male Urogenital Diseases|Genital Diseases, Male|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Syphilis|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Syphilis|"",""|Diseases|Virus Diseases|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Syphilis|"",""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Negative Bacterial Infections|Treponemal Infections|Syphilis|"",""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Spirochaetales Infections|Treponemal Infections|Syphilis|""]"
+SKIN AND NAIL INFECTIONS,"Skin diseases, infectious",D012874,0,0,null
+ATHLETE'S FOOT/TINEA,Tinea,D014005,0,0,null
+CANDIDA,Candida,D002175,0,0,null
+CELLULITIS,Cellulitis,D002481,0,121396,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Cellulitis|""]"
+HEAD LICE,Head Lice,D010374,0,0,null
+PARVOVIRUS B19,Parvovirus B19,D017992,0,0,null
+SCABIES,Scabies,D012532,0,0,null
+SHINGLES,Herpes Zoster,D006562,0,119115,"[""|Diseases|Virus Diseases|DNA Virus Infections|Herpesviridae Infections|Herpes Zoster|""]"
+SMALLPOX,Smallpox,D012899,0,119760,"[""|Diseases|Virus Diseases|DNA Virus Infections|Poxviridae Infections|Smallpox|""]"
+STREPTOCOCCAL INFECTIONS,Streptococcal infections,D013290,0,0,null
+TRAVEL ASSOCIATED INFECTIONS,Travel Associated Infections,,0,0,null
+LEISHMANIASIS,Leishmaniasis,D007896,0,0,null
+LEPROSY,Leprosy,D007918,0,119339,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Positive Bacterial Infections|Actinomycetales Infections|Mycobacterium Infections|Leprosy|""]"
+MALARIA,Malaria,D008288,0,119386,"[""|Diseases|Parasitic Diseases|Protozoan Infections|Coccidiosis|Malaria|""]"
+VIRAL HEMORRHAGIC FEVER,"Hemorragic Fevers, viral",D006482,0,0,null
+MARBURG HAEMORRHAGIC FEVER,Marburg Virus Disease,D008379,0,0,null
+LASSA FEVER,Lassa Fever,D007835,0,119329,"[""|Diseases|Virus Diseases|RNA Virus Infections|Arenaviridae Infections|Lassa Fever|"",""|Diseases|Virus Diseases|RNA Virus Infections|Hemorrhagic Fevers, Viral|Lassa Fever|""]"
+EBOLA HAEMORRHAGIC FEVER,Ebola Haemorrhagic Fever,D019142,0,0,null
+DENGUE FEVER,Dengue hemorragic fever,D019595,0,0,null
+YELLOW FEVER,Yellow fever,D015004,0,0,null
+TUBERCULOSIS,Tuberculosis,D014376,0,0,null
+URINARY TRACT INFECTION,Urinary Tract Infection,D014552,0,0,null
+VACCINE PREVENTABLE DISEASES,Vaccine Preventable Diseases,,0,0,null
+CHICKENPOX,Chickenpox,D002644,0,120502,"[""|Diseases|Virus Diseases|DNA Virus Infections|Herpesviridae Infections|Chickenpox|""]"
+DIPHTHERIA,Corynebacterium diphtheriae,D003353,0,0,null
+HAEMOPHILUS INFLUENZAE TYPE B (HIB),Haemophilus influenzae Type B (HiB),D019741,0,0,null
+INFLUENZA,Influenza,D007251,0,0,null
+MEASLES,Measles,D008457,0,119401,"[""|Diseases|Virus Diseases|RNA Virus Infections|Mononegavirales Infections|Paramyxoviridae Infections|Morbillivirus Infections|Measles|""]"
+MENINGOCOCCAL MENINGITIS,"Meningitis, Meningococcal",D008585,0,0,null
+MUMPS,Mumps,D009107,0,119467,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Parotid Diseases|Parotitis|Mumps|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Sialadenitis|Parotitis|Mumps|"",""|Diseases|Virus Diseases|RNA Virus Infections|Mononegavirales Infections|Paramyxoviridae Infections|Rubulavirus Infections|Mumps|""]"
+PNEUMOCOCCAL DISEASE,Pneumococcal Infections,D011008,0,119416,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Positive Bacterial Infections|Streptococcal Infections|Pneumococcal Infections|""]"
+POLIO,Poliomyelitis,D011051,0,0,null
+RUBELLA,Rubella,D012409,0,119712,"[""|Diseases|Virus Diseases|RNA Virus Infections|Togaviridae Infections|Rubivirus Infections|Rubella|""]"
+TETANUS,Tetanus,D013742,0,119834,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Positive Bacterial Infections|Clostridium Infections|Tetanus|""]"
+TUBERCULOSIS,Tuberculosis,D014376,0,0,null
+WHOOPING COUGH (PERTUSSIS),Whooping couch,D014917,0,0,null
+ZOONOSES,Zoonoses,D015047,0,0,null
+ANTHRAX,Anthrax,D000881,0,120177,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Positive Bacterial Infections|Bacillaceae Infections|Anthrax|""]"
+LEPTOSPIROSIS,Leptospirosis,D007922,0,119341,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Negative Bacterial Infections|Leptospirosis|"",""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Spirochaetales Infections|Leptospirosis|""]"
+RABIES,Rabies,D011818,0,119682,"[""|Diseases|Virus Diseases|RNA Virus Infections|Mononegavirales Infections|Rhabdoviridae Infections|Rabies|""]"
+TICK-BORNE DISEASES,Tick-Borne Diseases,D017282,0,118874,"[""|Diseases|Virus Diseases|Arbovirus Infections|Tick-Borne Diseases|"",""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Negative Bacterial Infections|Tick-Borne Diseases|"",""|Diseases|Parasitic Diseases|Protozoan Infections|Tick-Borne Diseases|""]"
+LYME DISEASE,Lyme Disease,D008193,0,119372,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Negative Bacterial Infections|Borrelia Infections|Lyme Disease|"",""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Spirochaetales Infections|Borrelia Infections|Lyme Disease|"",""|Diseases|Virus Diseases|Arbovirus Infections|Tick-Borne Diseases|Lyme Disease|"",""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Negative Bacterial Infections|Tick-Borne Diseases|Lyme Disease|"",""|Diseases|Parasitic Diseases|Protozoan Infections|Tick-Borne Diseases|Lyme Disease|""]"
+TICK-BORNE ENCEPHALITIS,"Encephalitis, Tick-Borne",D004675,0,118972,"[""|Diseases|Virus Diseases|Arbovirus Infections|Encephalitis, Arbovirus|Encephalitis, Tick-Borne|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Encephalitis|Encephalitis, Viral|Encephalitis, Arbovirus|Encephalitis, Tick-Borne|"",""|Diseases|Bacterial Infections and Mycoses|Central Nervous System Infections|Encephalitis|Encephalitis, Viral|Encephalitis, Arbovirus|Encephalitis, Tick-Borne|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Central Nervous System Infections|Encephalitis|Encephalitis, Viral|Encephalitis, Arbovirus|Encephalitis, Tick-Borne|"",""|Diseases|Bacterial Infections and Mycoses|Central Nervous System Infections|Central Nervous System Viral Diseases|Encephalitis|Encephalitis, Viral|Encephalitis, Arbovirus|Encephalitis, Tick-Borne|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Central Nervous System Infections|Central Nervous System Viral Diseases|Encephalitis|Encephalitis, Viral|Encephalitis, Arbovirus|Encephalitis, Tick-Borne|"",""|Diseases|Virus Diseases|Central Nervous System Viral Diseases|Encephalitis|Encephalitis, Viral|Encephalitis, Arbovirus|Encephalitis, Tick-Borne|"",""|Diseases|Virus Diseases|Encephalitis, Viral|Encephalitis, Arbovirus|Encephalitis, Tick-Borne|"",""|Diseases|Virus Diseases|RNA Virus Infections|Encephalitis, Arbovirus|Encephalitis, Tick-Borne|"",""|Diseases|Virus Diseases|RNA Virus Infections|Flaviviridae Infections|Flavivirus Infections|Encephalitis, Tick-Borne|"",""|Diseases|Virus Diseases|Arbovirus Infections|Tick-Borne Diseases|Encephalitis, Tick-Borne|"",""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Negative Bacterial Infections|Tick-Borne Diseases|Encephalitis, Tick-Borne|"",""|Diseases|Parasitic Diseases|Protozoan Infections|Tick-Borne Diseases|Encephalitis, Tick-Borne|""]"
+WEST NILE FEVER,West Nile Fever,D014901,0,119931,"[""|Diseases|Virus Diseases|Arbovirus Infections|Encephalitis, Arbovirus|West Nile Fever|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Encephalitis|Encephalitis, Viral|Encephalitis, Arbovirus|West Nile Fever|"",""|Diseases|Bacterial Infections and Mycoses|Central Nervous System Infections|Encephalitis|Encephalitis, Viral|Encephalitis, Arbovirus|West Nile Fever|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Central Nervous System Infections|Encephalitis|Encephalitis, Viral|Encephalitis, Arbovirus|West Nile Fever|"",""|Diseases|Bacterial Infections and Mycoses|Central Nervous System Infections|Central Nervous System Viral Diseases|Encephalitis|Encephalitis, Viral|Encephalitis, Arbovirus|West Nile Fever|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Central Nervous System Infections|Central Nervous System Viral Diseases|Encephalitis|Encephalitis, Viral|Encephalitis, Arbovirus|West Nile Fever|"",""|Diseases|Virus Diseases|Central Nervous System Viral Diseases|Encephalitis|Encephalitis, Viral|Encephalitis, Arbovirus|West Nile Fever|"",""|Diseases|Virus Diseases|Encephalitis, Viral|Encephalitis, Arbovirus|West Nile Fever|"",""|Diseases|Virus Diseases|RNA Virus Infections|Encephalitis, Arbovirus|West Nile Fever|"",""|Diseases|Virus Diseases|RNA Virus Infections|Flaviviridae Infections|Flavivirus Infections|West Nile Fever|""]"
+MICROORGANISM,Microorganism,,0,0,null
+BACTERIA,Bacteria,D001419,0,0,null
+ACINETOBACTER BAUMANII,Acinetobacter,D000150,0,0,null
+BACILLUS,Bacillus,D001407,0,0,null
+CAMPYLOBACTER,Campylobacter,D002167,0,0,null
+CHLAMYDIA,Chlamydia,D002690,0,0,null
+CLOSTRIDIUM,Clostridium,D003013,0,0,null
+CLOSTRIDIUM BOTULINUM,Clostridium botulinum,D003014,0,0,null
+CLOSTRIDIUM DIFFICILE,Clostridium difficile,D016360,0,0,null
+CLOSTRIDIUM PERFRINGENS,Clostridium perfringens,D003016,0,0,null
+ENTEROCOCCUS,Enterococcus,D016983,0,0,null
+VANCOMYCIN RESISTANT ENTEROCOCCUS,Enterococcus,D016983,0,0,null
+VANCOMYCIN RESISTANT ENTEROCOCCUS,Vancomycin,D014640,0,0,null
+E. COLI,E. coli,D004926,0,0,null
+E. COLI O157,E. coli o157,D019453,0,0,null
+HAEMOPHILUS,Haemophilus,D006190,0,0,null
+HAEMOPHILUS INFLUENZAE,Haemophilus influenzae,D006193,0,0,null
+HAEMOPHILUS DUCREYI,Haemophilus ducreyi,D006191,0,0,null
+HELICOBACTER PYLORI,Helicobacter pylori,D016480,0,0,null
+KLEBSIELLA PNEUMONIAE,Klebsiella pneumoniae,D007711,0,0,null
+LEGIONELLA PNEUMOPHILA,Legionella pneumophila,D016952,0,0,null
+LISTERIA MONOCYTOGENES,Listeria monocytogenes,D008089,0,0,null
+MYCOBACTERIUM,Mycobacterium,D009161,0,0,null
+MYCOBACTERIUM LEPRAE,Mycobacterium leprae,D009166,0,0,null
+MYCOBACTERIUM TUBERCULOSIS,Mycobacterium tuberculosis,D009169,0,0,null
+NEISSERIA,Neisseria,D009343,0,0,null
+NEISSERIA GONORRHOEA,Neisseria gonorrhoeae,D009344,0,0,null
+NEISSERIA MENINGITIDIS,Neisseria meningitidis,D009345,0,0,null
+PSEUDOMONAS AERUGINOSA,Pseudomonas aeruginosa,D011550,0,0,null
+SALMONELLA,Salmonella,D012475,0,0,null
+SHIGELLA,Shigella,D012760,0,0,null
+STAPHYLOCOCCUS,Staphylococcus,D013210,0,0,null
+STAPHYLOCOCCUS AUREUS,Staphylococcus aureus,D013211,0,0,null
+METHICILLIN RESISTANT STAPHYLOCOCCUS AUREUS,,D055624,0,0,null
+STREPTOCOCCUS,Streptococcus,D013291,0,0,null
+STREPTOCOCCUS PNEMONIAE,Streptococcus pnemoniae,D013296,0,0,null
+TREPONEMA PALLIDUM,Treponema pallidum,D014210,0,0,null
+VIRUSES,Viruses,D014780,0,118125,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|""]"
+ADENOVIRUS,Adenoviridae,D000256,0,118101,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|DNA Viruses|Adenoviridae|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|DNA Viruses|Adenoviridae|""]"
+COXSACKIEVIRUS,Coxsackievirus Infections,D003384,0,120574,"[""|Diseases|Virus Diseases|RNA Virus Infections|Picornaviridae Infections|Enterovirus Infections|Coxsackievirus Infections|""]"
+CYTOMEGALOVIRUS (CMV),Cytomegalovirus (CMV),D003587,0,0,null
+ENTEROVIRUS,Enterovirus,D004770,0,118210,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|RNA Viruses|Picornaviridae|Enterovirus|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|RNA Viruses|Picornaviridae|Enterovirus|""]"
+EPSTEIN-BARR VIRUS (EBV),"Herpesvirus 4, Human",D004854,0,118212,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|DNA Viruses|DNA Tumor Viruses|Gammaherpesvirinae|Lymphocryptovirus|Herpesvirus 4, Human|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|DNA Viruses|DNA Tumor Viruses|Gammaherpesvirinae|Lymphocryptovirus|Herpesvirus 4, Human|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|Oncogenic Viruses|DNA Tumor Viruses|Gammaherpesvirinae|Lymphocryptovirus|Herpesvirus 4, Human|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|DNA Viruses|Herpesviridae|Gammaherpesvirinae|Lymphocryptovirus|Herpesvirus 4, Human|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|DNA Viruses|Herpesviridae|Gammaherpesvirinae|Lymphocryptovirus|Herpesvirus 4, Human|""]"
+HEPATITIS VIRUS,"Hepatitis, Viral, Human",D006525,0,120663,"[""|Diseases|Digestive System Diseases|Liver Diseases|Hepatitis|Hepatitis, Viral, Human|"",""|Diseases|Virus Diseases|Hepatitis, Viral, Human|""]"
+HEPATITIS A VIRUS,Hepatitis A Virus,D006506,0,0,null
+HEPATITIS B VIRUS,Hepatitis B Virus,D006509,0,0,null
+HEPATITIS C VIRUS,Hepatitis C Virus,D006526,0,0,null
+HERPES SIMPLEX VIRUS (HSV),Simplexvirus,D018139,0,118156,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|DNA Viruses|Herpesviridae|Alphaherpesvirinae|Simplexvirus|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|DNA Viruses|Herpesviridae|Alphaherpesvirinae|Simplexvirus|""]"
+HUMAN IMMUNODEFICIENCY VIRUS (HIV),HIV,D006678,0,118233,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|Oncogenic Viruses|Retroviridae|Lentivirus|Lentiviruses, Primate|HIV|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|RNA Viruses|Retroviridae|Lentivirus|Lentiviruses, Primate|HIV|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|RNA Viruses|Retroviridae|Lentivirus|Lentiviruses, Primate|HIV|""]"
+HUMAN PAPILLOMAVIRUS (HPV),Gammapapillomavirus,D052689,0,118076,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|DNA Viruses|DNA Tumor Viruses|Papillomaviridae|Gammapapillomavirus|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|DNA Viruses|DNA Tumor Viruses|Papillomaviridae|Gammapapillomavirus|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|Oncogenic Viruses|DNA Tumor Viruses|Papillomaviridae|Gammapapillomavirus|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|DNA Viruses|Papillomaviridae|Gammapapillomavirus|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|DNA Viruses|Papillomaviridae|Gammapapillomavirus|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|Papillomaviridae|Gammapapillomavirus|""]"
+HUMAN PAPILLOMAVIRUS (HPV),Papillomavirus Infections,D030361,0,121897,"[""|Diseases|Cancers|Tumor Virus Infections|Papillomavirus Infections|"",""|Diseases|Cancers|Cancers, Experimental|Tumor Virus Infections|Papillomavirus Infections|""]"
+CONDYLOMATA ACUMINATA,Condylomata Acuminata,D003218,0,118611,"[""|Diseases|Cancers|Tumor Virus Infections|Papillomavirus Infections|Warts|Condylomata Acuminata|"",""|Diseases|Cancers|Cancers, Experimental|Tumor Virus Infections|Papillomavirus Infections|Warts|Condylomata Acuminata|"",""|Diseases|Cancers|Tumor Virus Infections|Warts|Condylomata Acuminata|"",""|Diseases|Cancers|Cancers, Experimental|Tumor Virus Infections|Warts|Condylomata Acuminata|""]"
+INFLUENZA VIRUS,Orthomyxoviridae,D009975,0,118293,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|RNA Viruses|Orthomyxoviridae|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|RNA Viruses|Orthomyxoviridae|""]"
+INFLUENZA VIRUS,"Influenza, Human",D007251,0,118399,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Influenza, Human|""]"
+INFLUENZA VIRUS,Influenza A virus,D009980,0,118294,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|RNA Viruses|Orthomyxoviridae|Influenzavirus A|Influenza A virus|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|RNA Viruses|Orthomyxoviridae|Influenzavirus A|Influenza A virus|""]"
+MEASLES VIRUS,Measles virus,D008457,0,118263,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|RNA Viruses|Mononegavirales|Paramyxoviridae|Paramyxovirinae|Morbillivirus|Measles virus|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|RNA Viruses|Mononegavirales|Paramyxoviridae|Paramyxovirinae|Morbillivirus|Measles virus|""]"
+MEASLES VIRUS,Morbillivirus,D018103,0,118187,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|RNA Viruses|Mononegavirales|Paramyxoviridae|Paramyxovirinae|Morbillivirus|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|RNA Viruses|Mononegavirales|Paramyxoviridae|Paramyxovirinae|Morbillivirus|""]"
+MUMPS VIRUS,Mumps virus,D009107,0,118274,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|RNA Viruses|Mononegavirales|Paramyxoviridae|Paramyxovirinae|Rubulavirus|Mumps virus|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|RNA Viruses|Mononegavirales|Paramyxoviridae|Paramyxovirinae|Rubulavirus|Mumps virus|""]"
+MUMPS VIRUS,Rubulavirus,D019213,0,118275,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|RNA Viruses|Mononegavirales|Paramyxoviridae|Paramyxovirinae|Rubulavirus|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|RNA Viruses|Mononegavirales|Paramyxoviridae|Paramyxovirinae|Rubulavirus|""]"
+NOROVIRUS,Norovirus,D029322,0,118290,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|RNA Viruses|Caliciviridae|Norovirus|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|RNA Viruses|Caliciviridae|Norovirus|""]"
+ROTAVIRUS,Rotavirus,D012401,0,117847,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|RNA Viruses|Reoviridae|Rotavirus|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|RNA Viruses|Reoviridae|Rotavirus|""]"
+RHINOVIRUS,Rhinovirus,D012229,0,118319,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|RNA Viruses|Picornaviridae|Rhinovirus|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|RNA Viruses|Picornaviridae|Rhinovirus|""]"
+RUBELLA VIRUS,Rubella virus,D012409,0,117848,"[""|Natural Science, Anatomy and Organisms|Organisms|Viruses|Vertebrate Viruses|RNA Viruses|Togaviridae|Rubivirus|Rubella virus|"",""|Natural Science, Anatomy and Organisms|Organisms|Viruses|RNA Viruses|Togaviridae|Rubivirus|Rubella virus|""]"
+SARS CORONA VIRUS,SARS Corona Virus,D045473,0,0,null
+VARICELLA ZOSTER VIRUS,Varicella Zoster Virus,D002644,0,0,null
+FUNGI,Dermatomycoses,D003881,0,0,null
+CANDIDA ALBICANS,Candida albicans,D002176,0,0,null
+DERMATOPHYTES,Arthrodermataceae,D003883,0,0,null
+PARASITES,Parasites,D010271,0,0,null
+LICE,Pediculus,D010374,0,0,null
+LICE ,Lice Infestations,D010373,0,121375,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Infectious|Skin Diseases, Parasitic|Ectoparasitic Infestations|Lice Infestations|"",""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Infectious|Skin Diseases, Parasitic|Lice Infestations|""]"
+HEAD LICE,Pediculus,D010374,0,0,null
+PUBIC LICE,Pediculus,D010374,0,0,null
+FLEAS,Fleas,D005423,0,0,null
+MITE (SARCOPTES SCABIEI),Sarcoptes scabiei,D012520,0,0,null
+MOSQUITO,Mosquitoes,D009033,0,0,null
+PLASMODIUM,Plasmodium,D010961,0,0,null
+ROUNDWORM (NEMATODES),Nematode infections,D009349,0,0,null
+ROUNDWORM (NEMATODES),Ascaris,D001200,0,0,null
+THREADWORM,Enterobius,D004757,0,0,null
+TICKS,Ticks,D013987,0,0,null
+PRIONS,Prions,D011328,0,0,null
+BOVINE SPONGIFORM ENCEPHELOPATHY,"Encephelopathy, Bovine Spongiform",D016643,0,0,null
+POPULATION GROUPS,Population,D011153,0,112641,"[""|Health Care|Population Characteristics|Population|""]"
+POPULATION GROUPS,Demography,D003710,0,107877,"[""|Public Health Methods, Theory And Research|Health Research|Research Method|Demography|"",""|Public Health Methods, Theory And Research|Method|Research Method|Demography|""]"
+ADULTS,Adult,D000328,0,107577,"[""|People And Populations|Group|Age Group|Adult|""]"
+HEALTHCARE WORKERS,Health Personnel,D006282,0,112241,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Personnel|""]"
+IMMIGRANTS,Emigrants and Immigrants,D054242,0,0,null
+IMMUNOCOMPROMISED,Immunocompromised host,D016867,0,0,null
+INJECTING DRUG USERS (IDUS),Drug Users,D055030,0,0,null
+OLDER PEOPLE,Aged,D000368,0,0,null
+PREGNANT WOMEN,Pregnant Women,D037841,0,0,null
+STUDENTS,Students,D013334,0,0,null
+TRAVELLERS,Travellers,,0,0,null
+ADOLESCENTS,Adolescent,D000293,0,0,null
+CHILDREN,Child,D002648,0,107590,"[""|People And Populations|Group|Age Group|Child|""]"
+DIAGNOSIS,Diagnosis,Q000175,0,107878,"[""|Public Health Methods, Theory And Research|Method|Diagnosis|""]"
+PREVENTION AND CONTROL,Prevention and Control,Q000517,0,0,null
+PREVENTION,Prevention and Control,Q000517,0,0,null
+INFECTION CONTROL,Prevention and Control,Q000517,0,0,null
+PROPHYLAXIS,Prevention and Control,Q000517,0,0,null
+SURGICAL PROPHYLAXIS,Prevention and Control,Q000517,0,0,null
+POST-EXPOSURE PROPHYLAXIS,Prevention and Control,Q000517,0,0,null
+MALARIA PROPHYLAXIS,Antimalarials,D000962,0,0,null
+VACCINES / IMMUNISATION,Vaccines,D014612,0,0,null
+ANTHRAX VACCINE,Anthrax vaccines,D022122,0,0,null
+CHICKENPOX VACCINE,Chickenpox Vaccine,D019433,0,0,null
+CHILDHOOD VACCINES,Vaccines,D014612,0,0,null
+BCG,BCG Vaccine,D001500,0,0,null
+"CERVICAL CANCER VACCINE (HPV 16,18)",Papilloma Vaccines,D053918,0,0,null
+"DIPHTHERIA, TETANUS, PERTUSSIS (DTP)",Diptheria-tetanus-pertussis Vaccines,D015721,0,0,null
+HAEMOPHILUS INFLUENZAE TYPE B VACCINE (HIB),Haemophilus Vaccines,D018073,0,0,null
+"MEASLES, MUMPS, RUBELLA VACCINE (MMR)",Measles-Mumps-Rubella Vaccines,D022542,0,0,null
+MENINGOCOCCAL VACCINE (MENC),Meningococcal Vaccines,D022401,0,0,null
+POLIO VACCINE (IPV),Poliovirus Vaccines,D023321,0,0,null
+PNEUMOCOCCAL VACCINE (PCV),Pneumococcal Vaccines,D022242,0,0,null
+ROTAVIRUS VACCINE,Rotavirus vaccines,D022243,0,0,null
+INFLUENZA VACCINE,Influenza Vaccines,D007252,0,0,null
+SWINE FLU VACCINE,Influenza Vaccines,D007252,0,0,null
+SMALLPOX VACCINE,Smallpox vaccines,D012900,0,0,null
+TRAVEL VACCINES,Travel vaccines,,0,0,null
+CHOLERA VACCINE,Chloera Vaccines,D022121,0,0,null
+HEPATITIS A VACCINE,Hepatitis A vaccines,D022362,0,0,null
+HEPATITIS B VACCINE,Hepatitis B vaccines,D017325,0,0,null
+JAPANESE ENCEPHALITIS,Japanese encephalitis vaccines,D022321,0,0,null
+MENINGOCOCCAL MENINGITIS (TYPE A),Meningococcal Vaccines,D022401,0,0,null
+RABIES VACCINE,Rabies vaccines,D011819,0,0,null
+TETANUS VACCINE,Tetanus Vaccine,D013745,0,0,null
+TETANUS VACCINE,Tetanus Vaccine,D013743,0,0,null
+TICK-BORNE ENCEPHALITIS,"Encephalitis, Tick-Borne",D004675,0,118972,"[""|Diseases|Virus Diseases|Arbovirus Infections|Encephalitis, Arbovirus|Encephalitis, Tick-Borne|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Encephalitis|Encephalitis, Viral|Encephalitis, Arbovirus|Encephalitis, Tick-Borne|"",""|Diseases|Bacterial Infections and Mycoses|Central Nervous System Infections|Encephalitis|Encephalitis, Viral|Encephalitis, Arbovirus|Encephalitis, Tick-Borne|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Central Nervous System Infections|Encephalitis|Encephalitis, Viral|Encephalitis, Arbovirus|Encephalitis, Tick-Borne|"",""|Diseases|Bacterial Infections and Mycoses|Central Nervous System Infections|Central Nervous System Viral Diseases|Encephalitis|Encephalitis, Viral|Encephalitis, Arbovirus|Encephalitis, Tick-Borne|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Central Nervous System Infections|Central Nervous System Viral Diseases|Encephalitis|Encephalitis, Viral|Encephalitis, Arbovirus|Encephalitis, Tick-Borne|"",""|Diseases|Virus Diseases|Central Nervous System Viral Diseases|Encephalitis|Encephalitis, Viral|Encephalitis, Arbovirus|Encephalitis, Tick-Borne|"",""|Diseases|Virus Diseases|Encephalitis, Viral|Encephalitis, Arbovirus|Encephalitis, Tick-Borne|"",""|Diseases|Virus Diseases|RNA Virus Infections|Encephalitis, Arbovirus|Encephalitis, Tick-Borne|"",""|Diseases|Virus Diseases|RNA Virus Infections|Flaviviridae Infections|Flavivirus Infections|Encephalitis, Tick-Borne|"",""|Diseases|Virus Diseases|Arbovirus Infections|Tick-Borne Diseases|Encephalitis, Tick-Borne|"",""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Negative Bacterial Infections|Tick-Borne Diseases|Encephalitis, Tick-Borne|"",""|Diseases|Parasitic Diseases|Protozoan Infections|Tick-Borne Diseases|Encephalitis, Tick-Borne|""]"
+TYPHOID VACCINE,Typhoid-Paratyphoid Vaccines,D014436,0,0,null
+YELLOW FEVER VACCINE,Yellow Fever vaccine,D022341,0,0,null
+TREATMENT,Therapeutics,D013812,0,113253,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|""]"
+ANTIMICROBIALS,Anti-Infective Agents,D000890,0,0,null
+ANTIBIOTICS,Anti-Bacterial Agents,D000900,0,0,null
+ANTIFUNGALS,Antifungal Agents,D000935,0,0,null
+ANTIPARASITICS,Antiparasitic Agents,D000977,0,0,null
+ANTIVIRALS,Antiviral Agents,D000998,0,0,null
+OTHER TREATMENT METHODS,Therapeutics,D013812,0,113253,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|""]"

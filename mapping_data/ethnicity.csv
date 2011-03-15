@@ -1,0 +1,53 @@
+DISEASES AND CONDITIONS,Disease,D004194,0,120693,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Disease|""]"
+BLOOD DISORDERS,Haematologic Diseases,,0,0,null
+CANCER,Cancer,D009369,0,0,null
+CARDIOVASCULAR DISEASES,Cardiovascular Diseases,D002318,0,120437,"[""|Diseases|Cardiovascular Diseases|""]"
+CLINICAL GENETICS,Genetics,D005823,0,108176,"[""|Determinants Of Health|Biological Composition|Genetics|""]"
+DIABETES,Diabetes Mellitus,D003920,0,120719,"[""|Diseases|Endocrine System Diseases|Diabetes Mellitus|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Glucose Metabolism Disorders|Diabetes Mellitus|""]"
+EYES AND VISION,Eyes and vision,,0,0,null
+GASTROENTEROLOGY,Gastroenterology,D005762,0,122673,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Internal Medicine|Gastroenterology|""]"
+INFECTIOUS DISEASES,Communicable Diseases,D003141,0,120569,"[""|Diseases|Bacterial Infections and Mycoses|Infection|Communicable Diseases|""]"
+KIDNEY DISEASES,Kidney Diseases,D007674,0,120182,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Kidney Diseases|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Kidney Diseases|""]"
+MENTAL HEALTH,Mental Health,D008603,0,110126,"[""|Health, Public Health, Health Promotion|Health|Mental Health|""]"
+MUSCULOSKELETAL,Musculoskeletal Diseases,D009140,0,120364,"[""|Diseases|Musculoskeletal Diseases|""]"
+NEUROLOGICAL DISORDERS,Nervous System Diseases,D009422,0,120279,"[""|Diseases|Nervous System Diseases|""]"
+ORAL HEALTH,Oral Health,D009909,0,110132,"[""|Health, Public Health, Health Promotion|Health|Oral Health|""]"
+REPRODUCTIVE HEALTH,Reproductive Medicine,D018456,0,122599,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Reproductive Medicine|""]"
+RESPIRATORY DISORDERS,Respiratory Tract Diseases,D012140,0,121067,"[""|Diseases|Respiratory Tract Diseases|""]"
+SKIN DISEASES,Skin Diseases,D012871,0,121408,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|""]"
+ETHNICITY LINKED DISORDERS,Ethnicity Linked Disorders,,0,0,null
+OTHER,Disease,D004194,0,120693,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Disease|""]"
+SERVICE DELIVERY,Service Delivery,,0,0,null
+CLIENT GROUPS,Client Groups,,0,0,null
+CHILDREN AND YOUNG PEOPLE,Child,D002648 ,0,107590,"[""|People And Populations|Group|Age Group|Child|""]"
+CHILDREN AND YOUNG PEOPLE,Adolescent ,D000293,0,0,null
+OLDER PEOPLE,Elderly,D000368,0,0,null
+PEOPLE WITH DISABILITIES,Disabled Persons,D006233,0,0,null
+PEOPLE WITH LONG TERM & CHRONIC CONDITIONS,Chronic Disease,D002908,0,120536,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Disease Attributes|Chronic Disease|""]"
+WOMEN,Women,D014930,0,0,null
+GYPSIES AND TRAVELLERS,Gypsies,D006178,0,0,null
+REFUGEES AND ASYLUM SEEKERS,Refugees,D012036,0,0,null
+SERVICE SECTORS,Service Sectors,,0,0,null
+PRIMARY CARE,Primary Health Care ,D011320,0,112359,"[""|Health Care|Health Services Administration|Patient Care Management|Comprehensive Health Care|Primary Health Care|""]"
+SECONDARY / HOSPITAL CARE,Hospitals,D006761,0,112509,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Facilities|Hospitals|""]"
+ACCIDENT & EMERGENCY,Emergency Care,D004632,0,0,null
+HEALTH PROMOTION AND PREVENTIVE SERVICES,Health Promotion,D006293,0,110116,"[""|Health, Public Health, Health Promotion|Health Promotion|""]"
+VOLUNTARY AND COMMUNITY SECTOR,Voluntary and Community Sector,,0,0,null
+CLINICAL PROFESSIONS,Health Personnel,D006282,0,112241,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Personnel|""]"
+DOCTORS,Doctors,,0,0,null
+NURSES,Nurses,D009726,0,107650,"[""|People And Populations|Group|Occupational Group|Health Professional|Nurses|""]"
+CULTURAL COMPETENCE,Cultural Competency ,D054521,0,0,null
+DIET,Diet,D004032,0,108134,"[""|Determinants Of Health|Individual Behaviour|Eating Habit|Diet|""]"
+LANGUAGE AND COMMUNICATION,Language,D007802 ,0,106495,"[""|Communication And Knowledge|Communication|Language|""]"
+LANGUAGE AND COMMUNICATION,Communication,D003142,0,106514,"[""|Communication And Knowledge|Communication|""]"
+LIFE EVENTS,Life Change Events,D008016,0,106767,"[""|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Psychology, Social|Life Style|Life Change Events|"",""|Psychiatry and Pscychology|Behavioral Disciplines and Activities|Behavioral Sciences|Psychology|Psychology, Social|Life Style|Life Change Events|""]"
+BIRTH,Birth,D038801,0,0,null
+DEATH,Death,D003643,0,120257,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Death|""]"
+RELIGION,Religion,D012067,0,107693,"[""|People And Populations|Belief|Religion|"",""|People And Populations|Cultural Identity|Religion|""]"
+TRADITIONAL MEDICINE AND TREATMENTS,Traditional Medicine,D008519,0,0,null
+MANAGEMENT AND POLICY,Management and Policy,,0,0,null
+RACE EQUALITY,Race Equality,,0,0,null
+HUMAN RESOURCES,Human Resources,,0,0,null
+ETHNIC RECORD KEEPING,Ethnic Monitoring,,0,0,null
+RESEARCH AND DEVELOPMENT,Research,D012106,0,122530,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Science|Research|""]"
+STATISTICS,Statistics,D020500,0,0,null

@@ -1,0 +1,102 @@
+CANCER,Cancer,D009369,0,0,null
+HEAD AND NECK,Head and Neck Cancer,D006258,0,0,null
+EAR,Ear Cancer,D004428,0,0,null
+NASAL CAVITY,Nasal Cavity Cancer,,0,0,null
+PARANASAL SINUSES,Paranasal sinuses cancer,,0,0,null
+SINUSES,Paranasal sinuses cancer,,0,0,null
+LARYNX,Larynx Cancer,D007822,0,0,null
+PHARYNX,Pharyngeal Cancer,D010610,0,0,null
+ORAL CAVITY AND LIP,Oral cavity cancer,,0,0,null
+ORAL CAVITY AND LIP,Lip Cancer, D008048,0,0,null
+SALIVARY GLANDS,Salivary glands cancer,,0,0,null
+CENTRAL NERVOUS SYSTEM,Central nervous system cancer,,0,0,null
+BRAIN,Brain Cancer,D001932,0,0,null
+LUNG,Lung Cancer,D008175,0,118778,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Lung Cancer|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Cancers|Lung Cancer|""]"
+BRONCHI,Bronchial cancer,,0,0,null
+PLEURA,Pleural cancer,,0,0,null
+BREAST,Breast Cancer,D001943,0,118547,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Breast Diseases|Breast Cancer|""]"
+UPPER GASTROINTESTINAL,Upper Gastrointestinal Tract cancer,,0,0,null
+OESOPHAGUS,Oesophagus cancer,,0,0,null
+STOMACH,Stomach Cancer,D013274,0,0,null
+GASTROINTESTINAL STROMAL TUMOURS,Gastrointestinal Stromal Tumours,,0,0,null
+LIVER,Liver Cancer,D008113,0,0,null
+BILE DUCT,Bile Duct Cancer,D001650,0,0,null
+PANCREAS,Pancreatic Cancer,D010190,0,0,null
+GALL BLADDER,Gall Bladder Cancer,D005706,0,0,null
+LOWER GASTROINTESTINAL,Lower Gastrointestinal Cancer,,0,0,null
+SMALL BOWEL,Small bowel cancer,,0,0,null
+COLON,Colonic Cancer,D003110,0,0,null
+RECTUM,Rectal Cancer,D012004,0,0,null
+ANUS,Anal Cancer,D001005,0,0,null
+GYNAECOLOGICAL,Gynaecological cancer,,0,0,null
+OVARY,Ovarian Cancer,D010051,0,0,null
+CERVIX,Cervix Cancer,D002583,0,0,null
+UTERINE BODY,Uterine body cancer,,0,0,null
+VAGINA,Vaginal Cancer,D014625,0,0,null
+VULVA,Vulvar Cancer,D014846,0,0,null
+FALLOPIAN TUBE,Fallopian Tube Cancer,D005185,0,0,null
+GESTATIONAL TROPHOBLASTIC TUMOURS,Gestational trophoblastic tumours,,0,0,null
+UROLOGICAL,Urological Cancer,D014571,0,0,null
+KIDNEY,Kidney Cancer,D007680,0,0,null
+BLADDER,Bladder Cancer,D001749,0,0,null
+URETER AND RENAL PELVIS,Ureteral Cancer,D014516,0,0,null
+URETER AND RENAL PELVIS,Renal pelvis cancer,,0,0,null
+PROSTATE,Prostate Cancer,D011471,0,0,null
+PENIS,Penis Cancer,D010412,0,0,null
+TESTIS,Testicular Cancer,D013736,0,0,null
+URETHRA,Urethral Cancer,D014523,0,0,null
+ENDOCRINE,Endocrine Cancer,D004701,0,0,null
+THYROID,Thyroid Cancer,D013964,0,0,null
+PARATHYROID,Parathyroid Cancer,D010282,0,0,null
+PITUITARY,Pituitary Cancer,D010911,0,0,null
+ADRENALS,Adrenal Cancer,D000310,0,0,null
+HAEMATOLOGICAL,Haematological cancer,,0,0,null
+CHRONIC LEUKAEMIA,Chronic leukaemia,,0,0,null
+ACUTE LEUKAEMIA,Acute leukaemia,,0,0,null
+MYELOMA,Multiple Myeloma,D009101,0,121631,"[""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Plasma Cell|Multiple Myeloma|""]"
+NON-HODGKINS LYMPHOMA,Non-Hodgkin's Lymphoma,D008228,0,0,null
+HODGKINS DISEASE,Hodgkin Disease,D006689,0,122325,"[""|Diseases|Cancers|Cancers by Histologic Type|Lymphomas|Hodgkin Disease|""]"
+SKIN,Skin Cancer,D012878,0,0,null
+MALIGNANT MELANOMA,Malignant Melanoma,D008545,0,0,null
+BASAL CELL CARCINOMA,Basal cell carcinoma,,0,0,null
+SQUAMOUS CARCINOMA,Squamous Cell Carcinoma,D002294,0,0,null
+KAPOSI SARCOMA,Kaposi Sarcoma,D012514,0,0,null
+MUSCULOSKELETAL,Musculoskeletal System,D009141,0,110361,"[""|Natural Science, Anatomy and Organisms|Anatomy|Musculoskeletal System|""]"
+BONE,Bone Cancer,D001859,0,0,null
+SOFT TISSUE SARCOMA,"Sarcoma, Soft Tissue",D012509,0,0,null
+PAEDIATRIC/ADOLESCENT ONCOLOGY,Paediatric and Adolescent Oncology,,0,0,null
+SYMPTOM MANAGEMENT,Symptom management,,0,0,null
+ANAEMIA,Anemia,D000740,0,120121,"[""|Diseases|Hemic and Lymphatic Diseases|Hematologic Diseases|Anemia|""]"
+BOWEL OBSTRUCTION,Bowel obstruction,,0,0,null
+CACHEXIA/WEIGHT LOSS,Cachexia ,D002100 ,0,113611,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Physical Examination|Body Constitution|Body Weights and Measures|Body Size|Body Weight|Body Weight Changes|Weight Loss|Emaciation|Cachexia|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Body Weights and Measures|Body Size|Body Weight|Body Weight Changes|Weight Loss|Emaciation|Cachexia|""]"
+CACHEXIA/WEIGHT LOSS,Weight loss,D015431,0,0,null
+COUGH,Cough,D003371,0,118742,"[""|Diseases|Respiratory Tract Diseases|Respiration Disorders|Cough|""]"
+DEPRESSION/DISTRESS,Depression,D003863,0,107127,"[""|Psychiatry and Pscychology|Mental Disorders|Mood Disorders|Depression|""]"
+DIARRHOEA,Diarrhoea,,0,0,null
+DYSPNOEA,Dyspnoea,,0,0,null
+EMESIS,Vomiting,D014839,0,0,null
+EMESIS,Emesis,D014839,0,0,null
+FATIGUE,Fatigue,D005221,0,120261,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Fatigue|""]"
+MALIGNANT ASCITES,Malignant Ascites,,0,0,null
+PAIN,Pain,D010146,0,113452,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Sensation|Pain|""]"
+SPINAL CORD COMPRESSION,Spinal Cord Compression,D013117,0,119768,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Spinal Cord Diseases|Spinal Cord Compression|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Spinal Cord Diseases|Spinal Cord Injuries|Spinal Cord Compression|"",""|Diseases|Nervous System Diseases|Trauma, Nervous System|Spinal Cord Injuries|Spinal Cord Compression|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Trauma, Nervous System|Spinal Cord Injuries|Spinal Cord Compression|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Spinal Cord Injuries|Spinal Cord Compression|""]"
+SIDE EFFECTS OF TREATMENT,Side Effects of Treatment,,0,0,null
+ANORECTAL INJURY,Anorectal Injury,,0,0,null
+ANAEMIA,Anaemia,,0,0,null
+CANDIDIASIS,Candidiasis,D002177,0,120420,"[""|Diseases|Bacterial Infections and Mycoses|Mycoses|Candidiasis|""]"
+CARDIOTOXICITY,Cardiotoxicity,,0,0,null
+DIARRHOEA,Diarrhoea,,0,0,null
+EMESIS,Vomiting,D014839,0,0,null
+EMESIS,Emesis,D014839,0,0,null
+FATIGUE,Fatigue,D005221,0,120261,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Fatigue|""]"
+INFERTILITY,Infertility,D007246,0,120819,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Genital Diseases, Female|Infertility|"",""|Diseases|Male Urogenital Diseases|Genital Diseases, Male|Infertility|""]"
+MUCOSITIS,Mucositis,D052016,0,0,null
+NEPHROTOXICITY,Nephrotoxicity,,0,0,null
+NEUROTOXICITY,Neurotoxicity,,0,0,null
+NEUTROPENIA,Neutropenia,D009503,0,119563,"[""|Diseases|Hemic and Lymphatic Diseases|Hematologic Diseases|Leukocyte Disorders|Leukopenia|Agranulocytosis|Neutropenia|""]"
+SEXUAL DYSFUNCTION,Sexual Dysfunction,,0,0,null
+SKIN REACTIONS,Skin,D012867,0,0,null
+VENOUS THROMBOSIS,Venous Thrombosis,D020246,0,119090,"[""|Diseases|Cardiovascular Diseases|Vascular Diseases|Embolism and Thrombosis|Thrombosis|Venous Thrombosis|""]"
+WEIGHT LOSS/WASTING,Weight loss/Wasting,,0,0,null
+XEROSTOMIA,Xerostomia,D014987,0,119721,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Xerostomia|""]"
+NATIONAL SERVICE FRAMEWORK (NSF),National Service Framework ,,0,109644,"[""|Health Services And Their Management|Management And Policy|Government Policy|National Service Framework|"",""|Health Services And Their Management|Management And Policy|National Service Framework|""]"

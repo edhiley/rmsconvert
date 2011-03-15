@@ -1,0 +1,59 @@
+CANCER,Cancer,D009369,0,0,null
+CONJUNCTIVA,Conjunctiva,D003228,0,110497,"[""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Head|Face|Eye|Anterior Eye Segment|Conjunctiva|"",""|Natural Science, Anatomy and Organisms|Anatomy|Sense Organs|Eye|Anterior Eye Segment|Conjunctiva|"",""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Head|Face|Eye|Eyelids|Conjunctiva|"",""|Natural Science, Anatomy and Organisms|Anatomy|Sense Organs|Eye|Eyelids|Conjunctiva|""]"
+CONJUNCTIVITIS,Conjunctivitis,D003231,0,121526,"[""|Diseases|Eye Diseases|Conjunctival Diseases|Conjunctivitis|""]"
+CORNEA,Cornea,D003315,0,110501,"[""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Head|Face|Eye|Anterior Eye Segment|Cornea|"",""|Natural Science, Anatomy and Organisms|Anatomy|Sense Organs|Eye|Anterior Eye Segment|Cornea|""]"
+CORNEAL ABRASION,Corneal abrasion,,0,0,null
+KERATITIS,Keratitis,D007634,0,121538,"[""|Diseases|Eye Diseases|Corneal Diseases|Keratitis|""]"
+GLAUCOMA,Glaucoma,D005901,0,121593,"[""|Diseases|Eye Diseases|Ocular Hypertension|Glaucoma|""]"
+LACRIMAL,Lacrimal Apparatus,D007765,0,110777,"[""|Natural Science, Anatomy and Organisms|Anatomy|Tissues|Exocrine Glands|Lacrimal Apparatus|"",""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Head|Face|Eye|Lacrimal Apparatus|"",""|Natural Science, Anatomy and Organisms|Anatomy|Sense Organs|Eye|Lacrimal Apparatus|""]"
+DRY EYE,Dry Eye Syndromes,D015352,0,121788,"[""|Diseases|Eye Diseases|Lacrimal Apparatus Diseases|Dry Eye Syndromes|""]"
+LENS,"Lens, Crystalline",D007908,0,110787,"[""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Head|Face|Eye|Anterior Eye Segment|Lens, Crystalline|"",""|Natural Science, Anatomy and Organisms|Anatomy|Sense Organs|Eye|Anterior Eye Segment|Lens, Crystalline|""]"
+CATARACT,Cataract,D002386,0,0,null
+LID,Eyelids,D005143,0,110498,"[""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Head|Face|Eye|Eyelids|"",""|Natural Science, Anatomy and Organisms|Anatomy|Sense Organs|Eye|Eyelids|""]"
+BLEPHARITIS,Blepharitis,D001762,0,121841,"[""|Diseases|Eye Diseases|Eyelid Diseases|Blepharitis|""]"
+ECTROPION,Ectropion,D004483,0,121764,"[""|Diseases|Eye Diseases|Eyelid Diseases|Ectropion|""]"
+CHALAZION,Chalazion,D017043,0,121664,"[""|Diseases|Eye Diseases|Eyelid Diseases|Chalazion|""]"
+ENTROPION,Entropion,D004774,0,121778,"[""|Diseases|Eye Diseases|Eyelid Diseases|Entropion|""]"
+LOW VISION,"Vision, Low",D015354,0,121846,"[""|Diseases|Eye Diseases|Vision Disorders|Vision, Low|""]"
+LIVING WITH VISUAL IMPAIRMENT,Living with visual impairment,,0,0,null
+LOW VISION SERVICES,Low vision services,,0,0,null
+IN LATER LIFE,Aged,D000368,0,0,null
+IN LATER LIFE,Living with visual impairment,,0,0,null
+IN CHILDHOOD,Child,D002648,0,107590,"[""|People And Populations|Group|Age Group|Child|""]"
+IN CHILDHOOD,Living with visual impairment,,0,0,null
+EMPLOYMENT,Employment,D004651,0,108160,"[""|Determinants Of Health|Education, Employment And Skills|Employment|""]"
+EMPLOYMENT,Living with visual impairment,,0,0,null
+DRIVING,Automobile Driving,D001334,0,117345,"[""|Education, Sociology and Social Phenomena|Human Activities|Automobile Driving|""]"
+DRIVING,Living with visual impairment,,0,0,null
+BENEFITS AND CONCESSIONS,Benefits and Concessions,,0,0,null
+BENEFITS AND CONCESSIONS,Living with visual impairment,,0,0,null
+"VISUAL IMPAIRMENT, LOW VISION AND BLINDNESS",Vision Disorders,D014786,0,121805,"[""|Diseases|Eye Diseases|Vision Disorders|""]"
+COLOUR VISION,Color Vision,D055253,0,0,null
+OCULAR MOTILITY,Ocular Motility Disorders,D015835,0,121557,"[""|Diseases|Eye Diseases|Ocular Motility Disorders|""]"
+AMBLYOPIA,Amblyopia,D000550,0,121804,"[""|Diseases|Eye Diseases|Vision Disorders|Amblyopia|""]"
+NYSTAGMUS,"Nystagmus, Pathologic",D009759,0,121566,"[""|Diseases|Eye Diseases|Ocular Motility Disorders|Nystagmus, Pathologic|""]"
+STRABISMUS,Strabismus,D013285,0,121560,"[""|Diseases|Eye Diseases|Ocular Motility Disorders|Strabismus|""]"
+OPTIC NERVE AND VISUAL PATHWAYS,Optic nerve,D009900,0,0,null
+REFRACTIVE ERROR,Refractive errors,D012030,0,0,null
+ASTIGMATISM,Astigmatism,D001251,0,121832,"[""|Diseases|Eye Diseases|Refractive Errors|Astigmatism|""]"
+LONG SIGHT (HYPERMETROPIA),Hyperopia,D006956,0,121758,"[""|Diseases|Eye Diseases|Refractive Errors|Hyperopia|""]"
+PRESBYOPIA,Presbyopia,D011305,0,121840,"[""|Diseases|Eye Diseases|Refractive Errors|Presbyopia|""]"
+SHORT SIGHT (MYOPIA),Myopia,D009216,0,121829,"[""|Diseases|Eye Diseases|Refractive Errors|Myopia|""]"
+ORBIT,Orbit,D009915,0,110956,"[""|Natural Science, Anatomy and Organisms|Anatomy|Tissues|Connective Tissue|Bone and Bones|Skull|Facial Bones|Orbit|"",""|Natural Science, Anatomy and Organisms|Anatomy|Musculoskeletal System|Skeleton|Bone and Bones|Skull|Facial Bones|Orbit|""]"
+RETINA,Retina,D012160,0,110219,"[""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Head|Face|Eye|Retina|"",""|Natural Science, Anatomy and Organisms|Anatomy|Sense Organs|Eye|Retina|""]"
+AGE RELATED MACULAR DEGENERATION,Macular degeneration,D008268,0,0,null
+RETINOPATHY,Retinal Diseases,D012164,0,121817,"[""|Diseases|Eye Diseases|Retinal Diseases|""]"
+DIABETIC RETINOPATHY,Diabetic retinopathy,D003930,0,0,null
+RETINOPATHY OF PREMATURITY,Retinopathy of prematurity,D012178,0,0,null
+RETINAL TEARS AND DETACHMENT,Retinal Perforations,D012167,0,121498,"[""|Diseases|Eye Diseases|Retinal Diseases|Retinal Perforations|""]"
+RETINAL TEARS AND DETACHMENT,Retinal Detachment,D012163,0,121495,"[""|Diseases|Eye Diseases|Retinal Diseases|Retinal Detachment|""]"
+RETINAL VASCULAR OCCLUSION,Retinal Vein Occlusion,D012170,0,121499,"[""|Diseases|Eye Diseases|Retinal Diseases|Retinal Vein Occlusion|""]"
+RETINITIS,Retinitis,D012173,0,121507,"[""|Diseases|Eye Diseases|Retinal Diseases|Retinitis|""]"
+UVEAL TRACT,Uvea,D014602,0,110427,"[""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Head|Face|Eye|Uvea|"",""|Natural Science, Anatomy and Organisms|Anatomy|Sense Organs|Eye|Uvea|""]"
+UVEITIS,Uveitis,D014605,0,121547,"[""|Diseases|Eye Diseases|Uveal Diseases|Uveitis|""]"
+VITREOUS BODY,Vitreous body,D014822,0,0,null
+ENDOPHTHALMITIS,Endophthalmitis,D009877,0,121849,"[""|Diseases|Eye Diseases|Eye Infections|Eye Infections, Bacterial|Uveitis, Suppurative|Endophthalmitis|"",""|Diseases|Eye Diseases|Eye Infections|Eye Infections, Fungal|Uveitis, Suppurative|Endophthalmitis|"",""|Diseases|Eye Diseases|Uveal Diseases|Uveitis|Uveitis, Suppurative|Endophthalmitis|""]"
+CERTIFICATION OF VISUAL IMPAIRMENT,Certification of visual impairment,,0,0,null
+GUIDANCE AND POLICIES FOR THE NHS,Guidance and policies for the NHS,,0,0,null
+NATIONAL SERVICE FRAMEWORKS (NSFS) AND EYE HEALTH,National Service Frameworks,,0,0,null
+DEPARTMENT OF HEALTH (DH) GUIDANCE AND POLICIES,Guidance and policies for the NHS,,0,0,null

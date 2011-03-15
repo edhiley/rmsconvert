@@ -1,0 +1,83 @@
+ASTHMA,Asthma,D001249,0,118403,"[""|Diseases|Respiratory Tract Diseases|Bronchial Diseases|Asthma|"",""|Diseases|Respiratory Tract Diseases|Lung Diseases|Lung Diseases, Obstructive|Asthma|"",""|Diseases|Respiratory Tract Diseases|Respiratory Hypersensitivity|Asthma|""]"
+CHRONIC OBSTRUCTIVE PULMONARY DISEASE,Chronic Obstructive Pulmonary Disease,D029424,0,118384,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Lung Diseases, Obstructive|Chronic Obstructive Pulmonary Disease|""]"
+CHRONIC SUPPURATIVE DISEASES,Chronic Suppurative Diseases,,0,0,null
+BRONCHIECTASIS,Bronchiectasis,D001987,0,118754,"[""|Diseases|Respiratory Tract Diseases|Bronchial Diseases|Bronchiectasis|""]"
+CYSTIC FIBROSIS,Cystic Fibrosis,D003550,0,118738,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Cystic Fibrosis|""]"
+DIAGNOSIS AND MONITORING,Respiratory Function Tests,D012129,0,113308,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Respiratory System|Respiratory Function Tests|""]"
+EXERCISE TESTING,Exercise Test,D005080,0,113996,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Ergometry|Exercise Test|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Cardiovascular|Heart Function Tests|Exercise Test|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Respiratory System|Respiratory Function Tests|Exercise Test|""]"
+FITNESS TO FLY,Fitness to Fly,,0,0,null
+IMAGING,Diagnostic Imaging,D003952,0,113959,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|""]"
+LUNG FUNCTION TESTING,Spirometry,D013147,0,113605,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Respiratory System|Respiratory Function Tests|Spirometry|""]"
+SPUTUM EXAMINATION,Sputum,D013183,0,111061,"[""|Natural Science, Anatomy and Organisms|Anatomy|Fluids and Secretions|Bodily Secretions|Sputum|""]"
+ICU,Intensive Care,D017055,0,113793,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Patient Care|Critical Care|Intensive Care|""]"
+ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS),Acute Respiratory Distress Syndrome,D012128,0,0,null
+ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS),"Respiratory Distress Syndrome, Newborn",D012127,0,118736,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Respiratory Distress Syndrome, Newborn|"",""|Diseases|Respiratory Tract Diseases|Respiration Disorders|Respiratory Distress Syndrome, Newborn|""]"
+RESPIRATORY FAILURE - ACUTE,Respiratory Failure,D012131,0,0,null
+RESPIRATORY FAILURE - CHRONIC,Respiratory Failure,D012131,0,0,null
+IMMUNOLOGICALLY BASED DISORDERS,Allergy and Immunology,D000486,0,123649,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Allergy and Immunology|""]"
+ALLERGY,Allergy,D006967,0,0,null
+ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS,Allergic Bronchopulmonary Aspergillosis,D001229,0,0,null
+ALVEOLAR PROTEINOSIS,Pulmonary Alveolar Proteinosis,D011649,0,118383,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Pulmonary Alveolar Proteinosis|""]"
+BRONCHIOLITIS OBLITERANS,Bronchiolitis Obliterans,D001989,0,118757,"[""|Diseases|Respiratory Tract Diseases|Bronchial Diseases|Bronchitis|Bronchiolitis|Bronchiolitis Obliterans|"",""|Diseases|Respiratory Tract Diseases|Lung Diseases|Lung Diseases, Obstructive|Bronchitis|Bronchiolitis|Bronchiolitis Obliterans|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Bronchitis|Bronchiolitis|Bronchiolitis Obliterans|"",""|Diseases|Respiratory Tract Diseases|Lung Diseases|Interstitial Pulmonary Disease|Bronchiolitis Obliterans|""]"
+DIFFUSE PARENCHYMAL LUNG DISEASE,Diffuse Parenchymal Lung Diseases,D017563,0,0,null
+HAEMOSIDEROSIS,Haemosiderosis,D006486,0,0,null
+IMMUNODEFICIENCIES AND THE LUNG,Immunodeficiencies and the Lung,,0,0,null
+SARCOIDOSIS,Sarcoidosis,D012507,0,119725,"[""|Diseases|Immune System Diseases|Immunoproliferative Disorders|Lymphoproliferative Disorders|Sarcoidosis|"",""|Diseases|Hemic and Lymphatic Diseases|Lymphatic Diseases|Lymphoproliferative Disorders|Sarcoidosis|""]"
+INFECTIONS,Infection,D007239,0,120152,"[""|Diseases|Bacterial Infections and Mycoses|Infection|""]"
+BACTERIAL,Bacterial Infections,D001424,0,120283,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|""]"
+BRONCHIOLITIS – ACUTE VIRAL,"Bronchiolitis, Viral",D001990,0,118758,"[""|Diseases|Respiratory Tract Diseases|Bronchial Diseases|Bronchitis|Bronchiolitis|Bronchiolitis, Viral|"",""|Diseases|Respiratory Tract Diseases|Lung Diseases|Lung Diseases, Obstructive|Bronchitis|Bronchiolitis|Bronchiolitis, Viral|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Bronchitis|Bronchiolitis|Bronchiolitis, Viral|""]"
+BRONCHITIS - ACUTE,Bronchitis,D001991,0,118756,"[""|Diseases|Respiratory Tract Diseases|Bronchial Diseases|Bronchitis|"",""|Diseases|Respiratory Tract Diseases|Lung Diseases|Lung Diseases, Obstructive|Bronchitis|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Bronchitis|""]"
+FUNGAL,"Lung Diseases, Fungal",D008172,0,118398,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Lung Diseases, Fungal|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Lung Diseases, Fungal|""]"
+OPPORTUNISTIC,Opportunistic Infections,D009894,0,119583,"[""|Diseases|Bacterial Infections and Mycoses|Infection|Opportunistic Infections|"",""|Diseases|Parasitic Diseases|Opportunistic Infections|"",""|Diseases|Virus Diseases|Opportunistic Infections|""]"
+PERTUSSIS,Pertussis,D014917,0,0,null
+PNEUMONIA - COMMUNITY ACQUIRED,Pneumonia,D011014,0,118761,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Pneumonia|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Pneumonia|""]"
+PNEUMONIA – IMMUNOSUPPRESSED PATIENT,Pneumonia,D011014,0,118761,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Pneumonia|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Pneumonia|""]"
+SEVERE ACUTE RESPIRATORY SYNDROME (SARS),Severe Acute Respiratory Syndrome,D045169,0,118734,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Severe Acute Respiratory Syndrome|""]"
+SINUSITIS,Sinusitis,D012852,0,118722,"[""|Diseases|Respiratory Tract Diseases|Nose Diseases|Paranasal Sinus Diseases|Sinusitis|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Sinusitis|""]"
+VIRAL,Respiratory Tract Infections,D012141,0,118759,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|""]"
+MALIGNANT DISEASE,Malignant Disease,,0,0,null
+LUNG CANCER,Lung Cancer,D008175,0,118778,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Lung Cancer|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Cancers|Lung Cancer|""]"
+LUNG CANCER,"Carcinoma, Bronchogenic",D002283,0,122205,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Lung Cancer|Carcinoma, Bronchogenic|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Cancers|Lung Cancer|Carcinoma, Bronchogenic|""]"
+MESOTHELIOMA,Mesothelioma,D008654,0,121676,"[""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Glandular and Epithelial|Adenoma|Mesothelioma|"",""|Diseases|Cancers|Cancers by Histologic Type|Cancers, Glandular and Epithelial|Cancers, Mesothelial|Mesothelioma|""]"
+MISCELLANEOUS,Respiratory Tract Diseases,D012140,0,121067,"[""|Diseases|Respiratory Tract Diseases|""]"
+ALTITUDE MEDICINE,Altitude Medicine,,0,0,null
+ASPIRATION AND INHALATION INJURY,Respiratory Aspiration,D053120,0,118367,"[""|Diseases|Respiratory Tract Diseases|Respiration Disorders|Respiratory Aspiration|""]"
+ASPIRATION AND INHALATION INJURY,Smoke Inhalation Injury,D015208,0,119127,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Burns|Burns, Inhalation|Smoke Inhalation Injury|""]"
+ATELECTASIS,Pulmonary Atelectasis,D001261,0,0,null
+DIVING,Diving,D004242,0,0,null
+DRUG INDUCED ILLNESS,Drug Induced Illness,,0,0,null
+DRUG INDUCED PULMONARY DISEASE,Drug Induced Pulmonary Disease,,0,0,null
+HICCUPS,Hiccup,D006606,0,0,null
+PULMONARY HYPERTENSION,Pulmonary Hypertension,D006976,0,0,null
+RESPIRATORY MUSCLE WEAKNESS,Respiratory Muscles,D012132,0,110560,"[""|Natural Science, Anatomy and Organisms|Anatomy|Musculoskeletal System|Muscles|Muscle, Striated|Muscle, Skeletal|Respiratory Muscles|"",""|Natural Science, Anatomy and Organisms|Anatomy|Tissues|Muscles|Muscle, Striated|Muscle, Skeletal|Respiratory Muscles|"",""|Natural Science, Anatomy and Organisms|Anatomy|Musculoskeletal System|Muscles|Muscle, Skeletal|Respiratory Muscles|"",""|Natural Science, Anatomy and Organisms|Anatomy|Tissues|Muscles|Muscle, Skeletal|Respiratory Muscles|""]"
+NEONATAL AND CONGENITAL,"Congenital, Hereditary, and Neonatal Diseases and Abnormalities",D009358,0,118891,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|""]"
+CHRONIC LUNG DISEASE AND PREMATURITY,Prematurity,D007234,0,0,null
+CHRONIC LUNG DISEASE AND PREMATURITY,Chronic lung disease,,0,0,null
+IDIOPATHIC RESPIRATORY DISTRESS SYNDROME,"Respiratory Distress Syndrome, Adult",D012128,0,118423,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Respiratory Distress Syndrome, Adult|"",""|Diseases|Respiratory Tract Diseases|Respiration Disorders|Respiratory Distress Syndrome, Adult|""]"
+OCCUPATIONAL LUNG DISEASE,Occupational Diseases,D009784,0,118907,"[""|Diseases|Disorders of Environmental Origin|Occupational Diseases|""]"
+ASBESTOSIS,Asbestosis,D001195,0,118390,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Interstitial Pulmonary Disease|Pneumoconiosis|Asbestosis|""]"
+PLEURAL DISEASES,Pleural Diseases,D010995,0,118414,"[""|Diseases|Respiratory Tract Diseases|Pleural Diseases|""]"
+PNEUMOTHORAX,Pneumothorax,D011030,0,120997,"[""|Diseases|Respiratory Tract Diseases|Pleural Diseases|Pneumothorax|""]"
+PULMONARY VASCULAR DISEASE,Vascular Diseases,D014652,0,120149,"[""|Diseases|Cardiovascular Diseases|Vascular Diseases|""]"
+PULMONARY VASCULAR DISEASE,Pulmonary Veno-Occlusive Disease,D011668,0,118416,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Pulmonary Veno-Occlusive Disease|""]"
+PULMONARY EMBOLISM,Pulmonary Embolism,D011655,0,118396,"[""|Diseases|Respiratory Tract Diseases|Lung Diseases|Pulmonary Embolism|""]"
+SLEEP DISORDERED BREATHING,Sleep Apnoea Syndromes,D012891,0,0,null
+APNOEA AND ACUTE LIFE THREATENING EVENTS,Apnoea,D001049,0,0,null
+NON-INVASIVE VENTILATION,Positive-Pressure Respiration,D011175,0,114308,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Respiratory Therapy|Respiration, Artificial|Positive-Pressure Respiration|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Emergency Treatment|Resuscitation|Respiration, Artificial|Positive-Pressure Respiration|""]"
+OBSTRUCTIVE SLEEP APNOEA,Obstructive Sleep Apnoea,D020181,0,0,null
+SUDDEN INFANT DEATH SYNDROME,Sudden Infant Death,D013398,0,120627,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Death|Death, Sudden|Sudden Infant Death|""]"
+SMOKING,Smoking,D012907,0,108344,"[""|Determinants Of Health|Environmental Determinant|Causes Of Harm|Smoking|"",""|Determinants Of Health|Individual Behaviour|Smoking|""]"
+SYMPTOMS,Symptoms of respiratory disease,,0,0,null
+COUGH,Cough,D003371,0,118742,"[""|Diseases|Respiratory Tract Diseases|Respiration Disorders|Cough|""]"
+STRIDOR – ACUTE,Respiratory Sounds,D012135,0,114671,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Respiratory System|Respiratory Sounds|""]"
+STRIDOR – CHRONIC,Respiratory Sounds,D012135,0,114671,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Respiratory System|Respiratory Sounds|""]"
+WHEEZE,Respiratory Sounds,D012135,0,114671,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Respiratory System|Respiratory Sounds|""]"
+THERAPEUTIC INTERVENTION,Crisis Intervention,D003419,0,106661,"[""|Psychiatry and Pscychology|Behavioral Disciplines and Activities|Psychotherapy|Crisis Intervention|""]"
+AEROSOL THERAPY,"Administration, Inhalation",D000280,0,113265,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Drug Administration Routes|Administration, Inhalation|""]"
+BIOPSY,Biopsy,D001706,0,113487,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Laboratory Techniques and Procedures|Cytodiagnosis|Biopsy|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Surgical|Biopsy|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Laboratory Techniques and Procedures|Specimen Handling|Biopsy|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Biopsy|""]"
+BRONCHOSCOPY,Bronchoscopy,D001999,0,111459,"[""|Natural Science, Anatomy and Organisms|Anatomy|Respiratory System|Bronchoscopy|""]"
+CHEST DRAIN,"Drainage, Postural",D015916,0,114458,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Drainage|Drainage, Postural|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Drainage|Drainage, Postural|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Exercise Movement Techniques|Drainage, Postural|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Respiratory Therapy|Drainage, Postural|""]"
+PULMONARY REHABILITATION,Rehabilitation,D012046,0,109829,"[""|Health Services And Their Management|Healthcare And Health Services|Health Care|Rehabilitation|"",""|Health Services And Their Management|Services|Secondary And Tertiary Services|Rehabilitation|""]"
+TRANSPLANTATION,Transplantation,D014180,0,109654,"[""|Health Services And Their Management|Healthcare And Health Services|Medical Treatment|Transplantation|""]"
+LUNG TRANSPLANTATION,Lung Transplantation,D016040,0,115116,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Transplantation|Organ Transplantation|Lung Transplantation|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Thoracic Surgical Procedures|Pulmonary Surgical Procedures|Lung Transplantation|""]"
+TUBERCULOSIS,Tuberculosis,D014376,0,0,null

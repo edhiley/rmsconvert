@@ -1,0 +1,85 @@
+Musculoskeletal,Musculoskeletal Diseases,D009140,0,120364,"[""|Diseases|Musculoskeletal Diseases|""]"
+Musculoskeletal,Rheumatology,D012219,0,123023,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Internal Medicine|Rheumatology|""]"
+Conditions,Musculoskeletal Diseases,D009140,0,120364,"[""|Diseases|Musculoskeletal Diseases|""]"
+Bone Disorders,"Bone Diseases, Metabolic",D001851,0,120367,"[""|Diseases|Musculoskeletal Diseases|Bone Diseases|Bone Diseases, Metabolic|""]"
+Osteomalacia,Osteomalacia,D010018,0,119601,"[""|Diseases|Musculoskeletal Diseases|Bone Diseases|Bone Diseases, Metabolic|Osteomalacia|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Calcium Metabolism Disorders|Osteomalacia|"",""|Diseases|Nutritional and Metabolic Diseases|Nutrition Disorders|Malnutrition|Deficiency Diseases|Avitaminosis|Vitamin D Deficiency|Osteomalacia|""]"
+Osteoporosis,Osteoporosis,D010024,0,0,null
+Paget's Disease,Paget's Disease of Bone,D010001,0,0,null
+Major Inflammatory,Rheumatic Diseases,D012216,0,121299,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Rheumatic Diseases|""]"
+Connective Tissue Diseases,Connective Tissue Diseases,D003240,0,121282,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|""]"
+Crystal Related,Gout,D006073,0,121294,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Rheumatic Diseases|Gout|""]"
+Crystal Related,Rheumatic Diseases,D012216,0,121299,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Rheumatic Diseases|""]"
+Infective,"Arthritis, Infectious",D001170,0,120240,"[""|Diseases|Musculoskeletal Diseases|Joint Diseases|Arthritis|Arthritis, Infectious|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Arthritis, Infectious|""]"
+Infective,"Arthritis, Septic",D001170,0,0,null
+Infective,Lyme Disease, D008193,0,119372,"[""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Negative Bacterial Infections|Borrelia Infections|Lyme Disease|"",""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Spirochaetales Infections|Borrelia Infections|Lyme Disease|"",""|Diseases|Virus Diseases|Arbovirus Infections|Tick-Borne Diseases|Lyme Disease|"",""|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Negative Bacterial Infections|Tick-Borne Diseases|Lyme Disease|"",""|Diseases|Parasitic Diseases|Protozoan Infections|Tick-Borne Diseases|Lyme Disease|""]"
+Infective,Osteomyelitis,D010019,0,119603,"[""|Diseases|Musculoskeletal Diseases|Bone Diseases|Bone Diseases, Infectious|Osteomyelitis|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Bone Diseases, Infectious|Osteomyelitis|""]"
+Juvenile Idiopathic Arthritis,"Arthritis, Juvenile Rheumatoid",D001171,0,121458,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Rheumatic Diseases|Rheumatoid Arthritis|Arthritis, Juvenile Rheumatoid|""]"
+Polymyalgia Rheumatica,Polymyalgia Rheumatica,D011111,0,121313,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Rheumatic Diseases|Polymyalgia Rheumatica|""]"
+Polymyalgia Rheumatica,Rheumatic Diseases,D012216,0,121299,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Rheumatic Diseases|""]"
+Psoriatic Arthritis,"Arthritis, Psoriatic",D015535,0,121419,"[""|Arthritis, Psoriatic|""]"
+Rheumatoid Arthritis,"Arthritis, Rheumatoid",D001172,0,0,null
+Seronegative Spondylarthropathies,Spondylarthropathies,D025242,0,119778,"[""|Diseases|Musculoskeletal Diseases|Joint Diseases|Arthritis|Spondylarthritis|Spondylarthropathies|"",""|Diseases|Musculoskeletal Diseases|Bone Diseases|Spinal Diseases|Spondylarthritis|Spondylarthropathies|""]"
+Vasculitis,Vasculitis,D014657,0,120205,"[""|Diseases|Cardiovascular Diseases|Vascular Diseases|Vasculitis|""]"
+Major non-inflammatory,Musculoskeletal Diseases,D009140,0,120364,"[""|Diseases|Musculoskeletal Diseases|""]"
+Osteoarthritis,Osteoarthritis,D010003,0,121441,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Rheumatic Diseases|Osteoarthritis|""]"
+Osteonecrosis,Osteonecrosis,D010020,0,120818,"[""|Diseases|Musculoskeletal Diseases|Bone Diseases|Osteonecrosis|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Necrosis|Osteonecrosis|""]"
+Spinal Problems,Spinal diseases,D013122,0,0,null
+Spinal Problems,BackPain,D001416,0,0,null
+Spinal Problems,Low Back Pain,D017116,0,0,null
+Spinal Problems,Sciatica,D012585,0,0,null
+Malignancy,Bone Cancer,D001859,0,0,null
+Non-metastatic manifestations,Non-metastatic manifestations,,0,0,null
+Primary Tumours,Bone Cancer,D001859,0,0,null
+Secondary Deposits,"Neoplasms, Second Primary",D016609,0,0,null
+Miscellaneous,Musculoskeletal Diseases,D009140,0,120364,"[""|Diseases|Musculoskeletal Diseases|""]"
+Endocrine Disorders,"Bone Diseases, Endocrine",D001849,0,118896,"[""|Diseases|Musculoskeletal Diseases|Bone Diseases|Bone Diseases, Endocrine|""]"
+Inherited Musculoskeletal Disorders,Inherited Musculoskeletal Disorders,,0,0,null
+Others,Musculoskeletal Diseases,D009140,0,120364,"[""|Diseases|Musculoskeletal Diseases|""]"
+Pain Syndromes,Complex Regional Pain Syndromes,D020918,0,0,null
+Synovial Disorders,Synovial Disorders,,0,0,null
+Stress Fracture,"Fractures, Stress",D015775,0,120072,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Fractures, Bone|Fractures, Stress|""]"
+Soft Tissue Rheumatism,Soft Tissue Rheumatism,,0,0,null
+Bursitis,Bursitis,D002062,0,120407,"[""|Diseases|Musculoskeletal Diseases|Joint Diseases|Bursitis|""]"
+Enthesopathy,Rheumatic Diseases,D012216,0,121299,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Rheumatic Diseases|""]"
+Entrapment Neuropathies,Nerve Compression Syndromes,D009408,0,0,null
+Entrapment Neuropathies,Carpal Tunnel Syndrome,D002349,0,0,null
+Fibromyalgia/chronic pain/fatigue syndrome,Fibromyalgia,D005356,0,121431,"[""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Rheumatic Diseases|Fibromyalgia|""]"
+Fibromyalgia/chronic pain/fatigue syndrome,"Fatigue Syndrome, Chronic",D015673,0,119004,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Encephalomyelitis|Fatigue Syndrome, Chronic|"",""|Diseases|Bacterial Infections and Mycoses|Central Nervous System Infections|Encephalomyelitis|Fatigue Syndrome, Chronic|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Central Nervous System Infections|Encephalomyelitis|Fatigue Syndrome, Chronic|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Encephalitis|Encephalomyelitis|Fatigue Syndrome, Chronic|"",""|Diseases|Bacterial Infections and Mycoses|Central Nervous System Infections|Encephalitis|Encephalomyelitis|Fatigue Syndrome, Chronic|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Central Nervous System Infections|Encephalitis|Encephalomyelitis|Fatigue Syndrome, Chronic|"",""|Diseases|Bacterial Infections and Mycoses|Central Nervous System Infections|Central Nervous System Viral Diseases|Encephalitis|Encephalomyelitis|Fatigue Syndrome, Chronic|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Central Nervous System Infections|Central Nervous System Viral Diseases|Encephalitis|Encephalomyelitis|Fatigue Syndrome, Chronic|"",""|Diseases|Virus Diseases|Central Nervous System Viral Diseases|Encephalitis|Encephalomyelitis|Fatigue Syndrome, Chronic|"",""|Diseases|Musculoskeletal Diseases|Muscular Diseases|Fatigue Syndrome, Chronic|"",""|Diseases|Nervous System Diseases|Neuromuscular Diseases|Muscular Diseases|Fatigue Syndrome, Chronic|"",""|Diseases|Nervous System Diseases|Neuromuscular Diseases|Fatigue Syndrome, Chronic|"",""|Diseases|Virus Diseases|Fatigue Syndrome, Chronic|""]"
+Hypermobility Syndrome,Hypermobility Syndrome,,0,0,null
+Knee Disorders,Knee,D007717,0,110771,"[""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Extremities|Lower Extremity|Knee|""]"
+Knee Disorders,Musculoskeletal Diseases,D009140,0,120364,"[""|Diseases|Musculoskeletal Diseases|""]"
+Localised fibroses,Localised fibroses,,0,0,null
+Occupational Disorders,Occupational Disorders,,0,0,null
+Shoulder Disorders,Shoulder,D012782,0,111046,"[""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Extremities|Upper Extremity|Shoulder|""]"
+Shoulder Disorders,Musculoskeletal Diseases,D009140,0,120364,"[""|Diseases|Musculoskeletal Diseases|""]"
+Tendon Disorders,Disease Management,D019468,0,112818,"[""|Health Care|Health Services Administration|Patient Care Management|Disease Management|""]"
+Tendon Disorders,Tendinopathy,D052256,0,119832,"[""|Diseases|Musculoskeletal Diseases|Muscular Diseases|Tendinopathy|"",""|Diseases|Nervous System Diseases|Neuromuscular Diseases|Muscular Diseases|Tendinopathy|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Tendon Injuries|Tendinopathy|""]"
+Disease Management,Disease Management,D019468,0,112818,"[""|Health Care|Health Services Administration|Patient Care Management|Disease Management|""]"
+Disease Management,Musculoskeletal Diseases,D009140,0,120364,"[""|Diseases|Musculoskeletal Diseases|""]"
+Complementary/Alternative Medicine,Complementary Therapies,D000529,0,113311,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|""]"
+Dietary,Diet Therapy,D004035,0,113954,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Nutrition Therapy|Diet Therapy|""]"
+Drugs and prescribing,Drug therapy,D004358,0,0,null
+Nursing,Nursing,D009729,0,109648,"[""|Health Services And Their Management|Healthcare And Health Services|Nursing|""]"
+Occupational Therapy,Occupational Therapy,D009788,0,114561,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Rehabilitation|Occupational Therapy|""]"
+Orthopaedic Surgery,Orthopedics,D009985,0,122946,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Surgical|Orthopedics|""]"
+Orthopaedic Surgery,Surgery,D013502,0,109857,"[""|Health Services And Their Management|Healthcare And Health Services|Medical Treatment|Surgery|""]"
+Orthotics/Aids and Equipment,Orthotic Devices,D009989,0,113582,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Surgical Equipment|Orthopedic Equipment|Orthotic Devices|""]"
+"Disease Management, Other",Disease Management,D019468,0,112818,"[""|Health Care|Health Services Administration|Patient Care Management|Disease Management|""]"
+Pain Management,Pain Clinics,D018710,0,112876,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Facilities|Ambulatory Care Facilities|Pain Clinics|"",""|Health Care|Health Care Facilities, Manpower, and Services|Health Facilities|Ambulatory Care Facilities|Outpatient Clinics, Hospital|Pain Clinics|"",""|Health Care|Health Care Facilities, Manpower, and Services|Health Facilities|Hospital Administration|Hospital Departments|Outpatient Clinics, Hospital|Pain Clinics|"",""|Health Care|Health Services Administration|Organization and Administration|Hospital Administration|Hospital Departments|Outpatient Clinics, Hospital|Pain Clinics|""]"
+Patient Education,Patient Education Handout ,D029282,0,0,null
+Physiotherapy,Physical Therapy (Specialty),D026761,0,123394,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Allied Health Occupations|Physical Therapy (Specialty)|""]"
+Podiatry,Podiatry,D011032,0,122834,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Podiatry|""]"
+Psychological,Psychology,D011584,0,106553,"[""|Psychiatry and Pscychology|Behavioral Disciplines and Activities|Behavioral Sciences|Psychology|""]"
+Psychological,Cognitive Therapy,D015928,0,106911,"[""|Psychiatry and Pscychology|Behavioral Disciplines and Activities|Psychotherapy|Behavior Therapy|Cognitive Therapy|""]"
+Sports Medicine,Sports Medicine,D013178,0,109854,"[""|Health Services And Their Management|Healthcare And Health Services|Medicine|Sports Medicine|""]"
+Disability Management,Rehabilitation,D012046,0,109829,"[""|Health Services And Their Management|Healthcare And Health Services|Health Care|Rehabilitation|"",""|Health Services And Their Management|Services|Secondary And Tertiary Services|Rehabilitation|""]"
+Disability Management,Aftercare,D000359,0,109596,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Aftercare|""]"
+Education and CPD,"Education, Continuing",D004496,0,117445,"[""|Education, Sociology and Social Phenomena|Education|Education, Professional|Education, Continuing|""]"
+Basic Science,"Education, Continuing",D004496,0,117445,"[""|Education, Sociology and Social Phenomena|Education|Education, Professional|Education, Continuing|""]"
+Education Sites,"Education, Continuing",D004496,0,117445,"[""|Education, Sociology and Social Phenomena|Education|Education, Professional|Education, Continuing|""]"
+Teaching/Learning Resources,"Education, Continuing",D004496,0,117445,"[""|Education, Sociology and Social Phenomena|Education|Education, Professional|Education, Continuing|""]"
+Patient Support,Patient Support,,0,0,null
+Patient Information,No MESH,Patient Education Handout ,0,0,null
+Research,Research,D012106,0,122530,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Science|Research|""]"
+Current Research,Research,D012106,0,122530,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Science|Research|""]"
+Ethics,Ethics,D004989,0,107989,"[""|Determinants Of Health|Social Determinant|Socioeconomic Factor|Social Factor|Ethics|""]"

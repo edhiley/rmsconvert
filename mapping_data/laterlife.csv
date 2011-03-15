@@ -1,0 +1,97 @@
+AGEISM,Ageism,D011287,0,0,null
+WHAT IS AGEISM?,Ageism,D011287,0,0,null
+HOW DOES AGEISM OCCUR?,Ageism,D011287,0,0,null
+"THE WHY, HOW AND SO WHAT? OF AGEISM",Ageism,D011287,0,0,null
+DEMENTIA,Dementia,D003704,0,0,null
+DEFINITION AND TYPES,Dementia,D003704,0,0,null
+CAUSES AND PREVENTION,Dementia,D003704,0,0,null
+PATHOLOGY,Pathology,D010336,0,122969,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Pathology|""]"
+PATHOLOGY,Dementia,D003704,0,0,null
+TREATMENT AND CARE,Therapeutics,D013812,0,113253,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|""]"
+TREATMENT AND CARE,Dementia,D003704,0,0,null
+DIAGNOSIS,Diagnosis,D003933,0,107878,"[""|Public Health Methods, Theory And Research|Method|Diagnosis|""]"
+DIAGNOSIS,Dementia,D003704,0,0,null
+FALLS,Accidental Falls,D000058,0,112213,"[""|Health Care|Population Characteristics|Health|Public Health|Accidents|Accidental Falls|""]"
+ASSESSING RISK,Risk,D012306,0,114684,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Epidemiologic Methods|Statistics as Topic|Probability|Risk|""]"
+ASSESSING RISK,Accidental Falls,D000058,0,112213,"[""|Health Care|Population Characteristics|Health|Public Health|Accidents|Accidental Falls|""]"
+PREVENTION,Prevention of falls,,0,0,null
+REHABILITATION,Rehabilitation,D012046,0,109829,"[""|Health Services And Their Management|Healthcare And Health Services|Health Care|Rehabilitation|"",""|Health Services And Their Management|Services|Secondary And Tertiary Services|Rehabilitation|""]"
+REHABILITATION,Accidental Falls,D000058,0,112213,"[""|Health Care|Population Characteristics|Health|Public Health|Accidents|Accidental Falls|""]"
+HEALTH & WELLBEING,Health,D006262,0,110115,"[""|Health, Public Health, Health Promotion|Health|""]"
+HEALTH & WELLBEING,Elderly,D000368,0,0,null
+PARKINSON'S DISEASE,Parkinson's Disease,D010300,0,119630,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Basal Ganglia Diseases|Parkinson's Disease|"",""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Movement Disorders|Parkinson's Disease|""]"
+SCREENING AND SURVEILLANCE,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+SCREENING,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+CANCER,Cancer,D009369,0,0,null
+CANCER,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+OVARY,Ovarian Cancer,D010051,0,0,null
+OVARY,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+BREAST,Breast Cancer,D001943,0,118547,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Breast Diseases|Breast Cancer|""]"
+BREAST,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+CERVIX,Cervix Cancer,D002583,0,0,null
+CERVIX,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+PROSTATE,Prostate Cancer,D011471,0,0,null
+PROSTATE,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+COLORECTAL,Colorectal Cancer,D015179,0,122248,"[""|Diseases|Cancers|Cancers by Site|Digestive System Cancers|Gastrointestinal Cancers|Intestinal Cancers|Colorectal Cancer|""]"
+COLORECTAL,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+SKIN,Skin Cancer,D012878,0,0,null
+SKIN,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+MOUTH,Oral cavity cancer,,0,0,null
+MOUTH,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+HEART DISEASE,Heart Diseases,D006331,0,120227,"[""|Diseases|Cardiovascular Diseases|Heart Diseases|""]"
+HEART DISEASE,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+CORONARY HEART DISEASE,Coronary Disease,D003327,0,0,null
+CORONARY HEART DISEASE,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+HEART FAILURE,Heart Failure,D006333,0,120637,"[""|Diseases|Cardiovascular Diseases|Heart Diseases|Heart Failure|""]"
+HEART FAILURE,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+CARDIOVASCULAR RISK,Cardiovascular Diseases/Risk,D002318/D012306,0,0,null
+CARDIOVASCULAR RISK,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+HYPERTENSION,Hypertension,D006973,0,0,null
+HYPERTENSION,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+ATRIAL FIBRILLATION,Atrial Fibrillation,D001281,0,120271,"[""|Diseases|Cardiovascular Diseases|Heart Diseases|Arrhythmias, Cardiac|Atrial Fibrillation|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Arrhythmias, Cardiac|Atrial Fibrillation|""]"
+ATRIAL FIBRILLATION,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+AORTIC ANEURYSM,Aortic Aneurysm,D001014,0,120188,"[""|Diseases|Cardiovascular Diseases|Vascular Diseases|Aneurysm|Aortic Aneurysm|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Aortic Diseases|Aortic Aneurysm|""]"
+AORTIC ANEURYSM,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+BLOOD LIPIDS,Blood,D001769,0,110318,"[""|Natural Science, Anatomy and Organisms|Anatomy|Fluids and Secretions|Body Fluids|Blood|"",""|Natural Science, Anatomy and Organisms|Anatomy|Hemic and Immune Systems|Blood|""]"
+BLOOD LIPIDS,Lipids,D008055,0,0,null
+BLOOD LIPIDS,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+DIABETES,Diabetes Mellitus,D003920,0,120719,"[""|Diseases|Endocrine System Diseases|Diabetes Mellitus|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Glucose Metabolism Disorders|Diabetes Mellitus|""]"
+DIABETES,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+THYROID DISEASE,Thyroid Diseases,D013959,0,120779,"[""|Diseases|Endocrine System Diseases|Thyroid Diseases|""]"
+THYROID DISEASE,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+HEARING,Hearing,D006309,0,113436,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Complementary Therapies|Mind-Body and Relaxation Techniques|Psychophysiology|Sensation|Hearing|""]"
+HEARING,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+EYESIGHT,"Vision, Ocular",D014785,0,0,null
+EYESIGHT,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+GLAUCOMA,Glaucoma,D005901,0,121593,"[""|Diseases|Eye Diseases|Ocular Hypertension|Glaucoma|""]"
+GLAUCOMA,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+CATARACT,Cataract,D002386,0,0,null
+CATARACT,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+RISK OF FALLS,Accidental Falls ,D000058,0,112213,"[""|Health Care|Population Characteristics|Health|Public Health|Accidents|Accidental Falls|""]"
+RISK OF FALLS,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+MENTAL HEALTH,Mental Health,D008603,0,110126,"[""|Health, Public Health, Health Promotion|Health|Mental Health|""]"
+MENTAL HEALTH,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+DEPRESSION,Depression ,D003863,0,107127,"[""|Psychiatry and Pscychology|Mental Disorders|Mood Disorders|Depression|""]"
+DEPRESSION,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+DEMENTIA,Dementia,D003704,0,0,null
+DEMENTIA,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+OSTEOPOROSIS,Osteoporosis,D010024,0,0,null
+OSTEOPOROSIS,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+SURVEILLANCE,surveillance,Q000453,0,0,null
+PRIMARY CARE,Primary Health Care,D011320,0,112359,"[""|Health Care|Health Services Administration|Patient Care Management|Comprehensive Health Care|Primary Health Care|""]"
+PRIMARY CARE,surveillance,Q000453,0,0,null
+SECONDARY CARE,Health Services for the Aged,D006299,0,112230,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Health Services for the Aged|""]"
+SECONDARY CARE,surveillance,Q000453,0,0,null
+STROKE,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+BACKGROUND,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+CAUSES AND PRIMARY PREVENTION,Primary Prevention,D011322,0,112554,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Community Health Services|Preventive Health Services|Primary Prevention|"",""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Preventive Health Services|Primary Prevention|"",""|Health Care|Population Characteristics|Health|Public Health|Public Health Practice|Primary Prevention|""]"
+CAUSES AND PRIMARY PREVENTION,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+SERVICE ORGANISATION,Service organisation,,0,0,null
+SERVICE ORGANISATION,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+ACUTE MANAGEMENT,Acute management,,0,0,null
+ACUTE MANAGEMENT,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+REHABILITATION,Rehabilitation,D012046,0,109829,"[""|Health Services And Their Management|Healthcare And Health Services|Health Care|Rehabilitation|"",""|Health Services And Their Management|Services|Secondary And Tertiary Services|Rehabilitation|""]"
+REHABILITATION,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+SECONDARY PREVENTION,Secondary Prevention,D055502,0,0,null
+SECONDARY PREVENTION,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+NSF FOR OLDER PEOPLE,National Service Framework,,0,109644,"[""|Health Services And Their Management|Management And Policy|Government Policy|National Service Framework|"",""|Health Services And Their Management|Management And Policy|National Service Framework|""]"

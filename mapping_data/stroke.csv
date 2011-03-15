@@ -1,0 +1,143 @@
+CAUSES / RISK FACTORS,Risk Factors,D012307,0,114685,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Epidemiologic Methods|Statistics as Topic|Probability|Risk|Risk Factors|""]"
+DIAGNOSIS,diagnosis,D003933,0,0,null
+DISEASE MANAGEMENT,Disease Management,D019468,0,112818,"[""|Health Care|Health Services Administration|Patient Care Management|Disease Management|""]"
+REHABILITATION,Rehabilitation,D012046,0,109829,"[""|Health Services And Their Management|Healthcare And Health Services|Health Care|Rehabilitation|"",""|Health Services And Their Management|Services|Secondary And Tertiary Services|Rehabilitation|""]"
+PREVENTION,Primary prevention,D011322,0,0,null
+PATIENT INFORMATION,Patient Education Handout ,D029282,0,0,null
+STROKE,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+ISCHAEMIC STROKE,"Ischemic Attack, Transient",D002546,0,0,null
+HAEMORRHAGIC STROKE,Haemorrhagic Stroke,,0,0,null
+SUBARACHNOID HAEMORRHAGE,Subarachnoid Haemorrhage,D013345,0,0,null
+INTRACEREBRAL HAEMORRHAGE,Intracranial Haemorrhages,D020300,0,0,null
+TRANSIENT ISCHAEMIC ATTACK,"Ischemic Attack, Transient",D002546,0,0,null
+UNUSUAL / COMPLEX CASES OF STROKE,Complex cases of stroke,,0,0,null
+COMMON SEQUELAE OF STROKE,Common sequelae of stroke,,0,0,null
+APHASIA,Aphasia,D001037,0,107030,"[""|Psychiatry and Pscychology|Mental Disorders|Mental Disorders Diagnosed in Childhood|Communication Disorders|Language Disorders|Speech Disorders|Aphasia|""]"
+APRAXIA, Apraxias,D001072,0,120214,"[""|Diseases|Nervous System Diseases|Neurologic Manifestations|Neurobehavioral Manifestations|Apraxias|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Neurobehavioral Manifestations|Apraxias|"",""|Diseases|Nervous System Diseases|Neurologic Manifestations|Neurobehavioral Manifestations|Psychomotor Disorders|Apraxias|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Neurobehavioral Manifestations|Psychomotor Disorders|Apraxias|""]"
+EMOTIONAL SEQUELAE,Emotional sequelae,,0,0,null
+LOCKED IN SYNDROME,Quadriplegia,D011782,0,119681,"[""|Diseases|Nervous System Diseases|Neurologic Manifestations|Paralysis|Quadriplegia|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Paralysis|Quadriplegia|""]"
+VISUOSPATIAL DISTURBANCE,Agnosia,D000377,0,118900,"[""|Diseases|Nervous System Diseases|Neurologic Manifestations|Neurobehavioral Manifestations|Perceptual Disorders|Agnosia|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Neurobehavioral Manifestations|Perceptual Disorders|Agnosia|""]"
+GENERAL,Risk Factors,D012308,0,114685,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Epidemiologic Methods|Statistics as Topic|Probability|Risk|Risk Factors|""]"
+ALCOHOL DRINKING,Alcohol Drinking,D000428,0,106565,"[""|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Behavior|Drinking Behavior|Alcohol Drinking|""]"
+ALCOHOL DRINKING,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+ARTERIOSCLEROSIS,Arteriosclerosis,D001161,0,120233,"[""|Diseases|Cardiovascular Diseases|Vascular Diseases|Arterial Occlusive Diseases|Arteriosclerosis|""]"
+ARTERIOSCLEROSIS,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+CARDIAC CAUSES,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+DIABETES MELLITUS,Diabetes Mellitus,D003920,0,120719,"[""|Diseases|Endocrine System Diseases|Diabetes Mellitus|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Glucose Metabolism Disorders|Diabetes Mellitus|""]"
+DIABETES MELLITUS,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+DIET,Diet,D004032,0,108134,"[""|Determinants Of Health|Individual Behaviour|Eating Habit|Diet|""]"
+DIET,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+GENETICS,"Genetic Diseases, Inborn",D030342,0,118855,"[""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Genetic Diseases, Inborn|""]"
+GENETICS,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+HYPERLIPIDEMIA,Hyperlipidemias,D006949,0,0,null
+HYPERLIPIDEMIA,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+HYPERTENSION,Hypertension,D006973,0,0,null
+HYPERTENSION,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+SMOKING,Smoking,D012907,0,108344,"[""|Determinants Of Health|Environmental Determinant|Causes Of Harm|Smoking|"",""|Determinants Of Health|Individual Behaviour|Smoking|""]"
+SMOKING,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+THROMBOSIS,Thrombosis,D013927,0,120585,"[""|Diseases|Cardiovascular Diseases|Vascular Diseases|Embolism and Thrombosis|Thrombosis|""]"
+THROMBOSIS,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+VESSEL DISSECTION,Vessel dissection,,0,0,null
+VESSEL DISSECTION,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+DIAGNOSIS,"Diagnostic Techniques, Cardiovascular ",D003933,0,113366,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Cardiovascular|""]"
+"DIAGNOSIS, GENERAL","Diagnostic Techniques, Cardiovascular ",D003933,0,113366,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Cardiovascular|""]"
+ANGIOGRAPHY,Angiography,D000792,0,113364,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Cardiovascular|Angiography|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Radiography|Angiography|""]"
+BLOOD TESTS,Hematologic Tests,D006403,0,113511,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Laboratory Techniques and Procedures|Hematologic Tests|""]"
+CHEST X-RAY,"Radiography, Thoracic",D013902,0,113600,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Radiography|Radiography, Thoracic|""]"
+CT SCAN,"Tomography, X-Ray Computed",D014057,0,114783,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnosis, Computer-Assisted|Image Interpretation, Computer-Assisted|Tomography, X-Ray Computed|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Image Interpretation, Computer-Assisted|Tomography, X-Ray Computed|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Photography|Image Enhancement|Radiographic Image Enhancement|Tomography, X-Ray Computed|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Photography|Image Enhancement|Radiographic Image Enhancement|Tomography, X-Ray Computed|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Radiography|Radiographic Image Enhancement|Tomography, X-Ray Computed|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Radiography|Tomography, X-Ray|Tomography, X-Ray Computed|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Tomography|Tomography, X-Ray|Tomography, X-Ray Computed|""]"
+ECHOCARDIOGRAPHY,Echocardiography,D004452,0,113980,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Cardiovascular|Heart Function Tests|Echocardiography|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Ultrasonography|Echocardiography|""]"
+ELECTROCARDIOGRAM,Electrocardiography,D004562,0,114055,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Electrodiagnosis|Electrocardiography|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Cardiovascular|Heart Function Tests|Electrocardiography|""]"
+MRI SCAN,Magnetic Resonance Imaging,D008279,0,114388,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Magnetic Resonance Imaging|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Tomography|Magnetic Resonance Imaging|""]"
+MRA,Magnetic Resonance Angiography,D018810,0,114921,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Cardiovascular|Angiography|Magnetic Resonance Angiography|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Radiography|Angiography|Magnetic Resonance Angiography|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Magnetic Resonance Imaging|Magnetic Resonance Angiography|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Tomography|Magnetic Resonance Imaging|Magnetic Resonance Angiography|""]"
+PHYSICAL EXAMINATION,Physical Examination,D010808,0,113377,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Physical Examination|""]"
+ULTRASOUND SCAN,Ultrasonography,D014463,0,113845,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Ultrasonography|""]"
+VASCULAR IMAGING,Vascular Imaging,,0,0,null
+TRANSCRANIAL DOPPLER,"Ultrasonography, Doppler, Transcranial",D017585,0,114969,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Neurological|Neuroradiography|Echoencephalography|Ultrasonography, Doppler, Transcranial|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Radiography|Neuroradiography|Echoencephalography|Ultrasonography, Doppler, Transcranial|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Ultrasonography|Echoencephalography|Ultrasonography, Doppler, Transcranial|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|Ultrasonography|Ultrasonography, Doppler|Ultrasonography, Doppler, Transcranial|""]"
+DISEASE MANAGEMENT,Disease Management,D019468,0,112818,"[""|Health Care|Health Services Administration|Patient Care Management|Disease Management|""]"
+EMERGENCY CARE,Emergency Medical Services,D004632,0,112441,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Emergency Medical Services|""]"
+PRE-HOSPITAL,Emergency Medical Services,D004632,0,112441,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Emergency Medical Services|""]"
+TOOLS TO IDENTIFY STROKE,Emergency Medical Services,D004632,0,112441,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Emergency Medical Services|""]"
+EMERGENCY DEPARTMENT PROGRAMMES,Emergency Medical Services,D004632,0,112441,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Emergency Medical Services|""]"
+EMERGENCY BRAIN IMAGING,Brain Mapping,D001931,0,113587,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Brain Mapping|""]"
+THROMBOLYSIS,Thrombolytic Therapy,D015912,0,115070,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Drug Therapy|Thrombolytic Therapy|""]"
+ACUTE STROKE CARE,Acute Stroke Care,,0,0,null
+CORPOREAL COOLING,Corporeal cooling,,0,0,null
+OXYGEN THERAPY,Oxygen Inhalation Therapy,D010102,0,114304,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Respiratory Therapy|Oxygen Inhalation Therapy|""]"
+OXYGEN THERAPY,Hyperbaric Oxygenation,D006931,0,113426,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Respiratory Therapy|Oxygen Inhalation Therapy|Hyperbaric Oxygenation|""]"
+MANAGEMENT OF EARLY DYSPHAGIA,Deglutition Disorders,D003680,0,120634,"[""|Diseases|Digestive System Diseases|Gastrointestinal Diseases|Esophageal Diseases|Deglutition Disorders|"",""|Diseases|Otorhinolaryngologic Diseases|Pharyngeal Diseases|Deglutition Disorders|"",""|Diseases|Stomatognathic Diseases|Pharyngeal Diseases|Deglutition Disorders|""]"
+EARLY THERAPY INTERVENTIONS,Early therapy interventions,,0,0,null
+CEREBRAL MONITORING,Cerebral monitoring,,0,0,null
+EARLY CAROTID ENDARTERECTOMY,Endarterectomy,D004691,0,113407,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Cardiovascular Surgical Procedures|Vascular Surgical Procedures|Endarterectomy|""]"
+ANTI-PLATELET DRUGS,Platelet Aggregation Inhibitors,D010975,0,0,null
+ASPIRIN,Aspirin,D001241,0,109781,"[""|Health Services And Their Management|Healthcare And Health Services|Medicinal Product|Drug|Analgesic|Aspirin|""]"
+CLOPIDOGREL,Clopidogrel,C055162,0,0,null
+DIPYRIDAMOLE,Dipyridamole,D004176,0,0,null
+GLYCOPROTEIN LLB/LLA INHIBITORS,Glycoproteins,D006023,0,0,null
+THROMBOLYTICS,Fibrinolytic Agents,D005343,0,0,null
+NEUROPROTECTIVE AGENTS,Neuroprotective Agents,D018696,0,0,null
+SECONDARY PREVENTION,Secondary Prevention,D055502,0,0,null
+ANTI-PLATELET DRUGS,Platelet Aggregation Inhibitors,D010975,0,0,null
+ASPIRIN,Aspirin,D001241,0,109781,"[""|Health Services And Their Management|Healthcare And Health Services|Medicinal Product|Drug|Analgesic|Aspirin|""]"
+DIPYRIDAMOLE,Dipyridamole,D004176,0,0,null
+CLOPIDOGREL,Clopidogrel,C055162,0,0,null
+ANTI-HYPERTENSIVE DRUGS,Antihypertensive Agents,D000959,0,0,null
+ACE INHIBITORS,Angiotensin-Converting Enzyme Inhibitors,D000806,0,0,null
+BETA-BLOCKERS,Adrenergic beta-Antagonists,D000319,0,0,null
+CALCIUM CHANNEL BLOCKERS,Calcium Channel Blockers,D002121,0,0,null
+LIPID REGULATING DRUGS,Lipid Regulating drugs,,0,0,null
+FIBRATES,Clofibric Acid,D002995,0,0,null
+STATINS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,D019161,0,0,null
+ANTICOAGULANTS,Anticoagulants,D000925,0,0,null
+ACENOCOUMAROL,Acenocoumarol,D000074,0,0,null
+WARFARIN,Warfarin,D014859,0,0,null
+PHENINDIONE,Phenindione,D010630,0,0,null
+SURGICAL INTERVENTIONS,"Surgical Procedures, Operative",D013514,0,113321,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|""]"
+NEUROSURGERY,Neurosurgery,D009493,0,122850,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Surgical|Neurosurgery|""]"
+VASCULAR SURGERY,Vascular Surgical Procedures,D014656,0,113411,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|Cardiovascular Surgical Procedures|Vascular Surgical Procedures|""]"
+REHABILITATION,Rehabilitation,D012046,0,109829,"[""|Health Services And Their Management|Healthcare And Health Services|Health Care|Rehabilitation|"",""|Health Services And Their Management|Services|Secondary And Tertiary Services|Rehabilitation|""]"
+ASSISTIVE TECHNOLOGIES,Self-Help Devices,D012656,0,113758,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Self-Help Devices|""]"
+CARERS,Caregivers,D017028,0,112878,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Personnel|Caregivers|""]"
+COMMUNITY CARE,Community Health Services,D003153,0,112319,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Community Health Services|""]"
+DYSPHAGIA MANAGEMENT,Deglutition Disorders,D003680,0,120634,"[""|Diseases|Digestive System Diseases|Gastrointestinal Diseases|Esophageal Diseases|Deglutition Disorders|"",""|Diseases|Otorhinolaryngologic Diseases|Pharyngeal Diseases|Deglutition Disorders|"",""|Diseases|Stomatognathic Diseases|Pharyngeal Diseases|Deglutition Disorders|""]"
+DIETETICS,Dietetics,D004046,0,122457,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Nutritional Sciences|Dietetics|""]"
+ENTERAL NUTRITION,Enteral Nutrition,D004750,0,114097,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Feeding Methods|Enteral Nutrition|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Nutrition Therapy|Nutritional Support|Enteral Nutrition|""]"
+NURSING HOME CARE,Residential Facilities,D012112,0,112458,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Facilities|Residential Facilities|""]"
+OCCUPATIONAL THERAPY,Occupational Therapy,D009788,0,114561,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Rehabilitation|Occupational Therapy|""]"
+PALLIATIVE CARE,Palliative Care,D010166,0,109777,"[""|Health Services And Their Management|Healthcare And Health Services|Health Care|Palliative Care|""]"
+PHYSIOTHERAPY,Physical Therapy Modalities,D026741,0,113456,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Physical Therapy Modalities|""]"
+PHYSIOTHERAPY,Physical Therapy (Specialty),D026761,0,123394,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Allied Health Occupations|Physical Therapy (Specialty)|""]"
+PSYCHOTHERAPY,Psychotherapy,D011613,0,109818,"[""|Health Services And Their Management|Healthcare And Health Services|Medical Treatment|Psychiatric Care|Psychotherapy|"",""|Health Services And Their Management|Healthcare And Health Services|Therapy|Psychotherapy|""]"
+ORTHOPTICS AND VISUAL THERAPY,Orthoptics,D009988,0,114572,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Orthoptics|""]"
+SPEECH THERAPY,Speech Therapy,D013070,0,114727,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Rehabilitation|Rehabilitation of Speech and Language Disorders|Speech Therapy|""]"
+"REHABILITATION, GENERAL/OTHER",Rehabilitation,D012046,0,109829,"[""|Health Services And Their Management|Healthcare And Health Services|Health Care|Rehabilitation|"",""|Health Services And Their Management|Services|Secondary And Tertiary Services|Rehabilitation|""]"
+PREVENTION,Primary prevention,D011322,0,0,null
+DIET,Diet,D004032,0,108134,"[""|Determinants Of Health|Individual Behaviour|Eating Habit|Diet|""]"
+ETHNIC GROUPS,Ethnic Groups,D005006,0,0,null
+HEALTH INEQUALITIES,Health Inequalities,,0,0,null
+HYPERTENSION MANAGEMENT,Antihypertensive Agents,D000959,0,0,null
+LIPIDS MANAGEMENT,Lipids Management,,0,0,null
+OVERWEIGHT AND OBESITY,Overweight,DO50177,0,114551,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Physical Examination|Body Constitution|Body Weights and Measures|Body Size|Body Weight|Overweight|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Body Weights and Measures|Body Size|Body Weight|Overweight|""]"
+PHYSICAL ACTIVITY,Motor Activity,D009043,0,122817,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Musculoskeletal, Neural, and Ocular Physiology|Musculoskeletal Physiology|Musculoskeletal Physiologic Processes|Movement|Motor Activity|""]"
+PRIMARY PREVENTION,Primary Prevention,D011322,0,112554,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Community Health Services|Preventive Health Services|Primary Prevention|"",""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Preventive Health Services|Primary Prevention|"",""|Health Care|Population Characteristics|Health|Public Health|Public Health Practice|Primary Prevention|""]"
+PUBLIC AWARENESS,"Health Knowledge, Attitudes, Practice",D007722,0,112575,"[""|Health Care|Health Care Quality, Access, and Evaluation|Delivery of Health Care|Attitude to Health|Health Knowledge, Attitudes, Practice|"",""|Health Care|Health Services Administration|Patient Care Management|Delivery of Health Care|Attitude to Health|Health Knowledge, Attitudes, Practice|""]"
+SMOKING CESSATION,Smoking Cessation,DO16540,0,108345,"[""|Determinants Of Health|Environmental Determinant|Causes Of Harm|Smoking|Smoking Cessation|"",""|Determinants Of Health|Individual Behaviour|Smoking|Smoking Cessation|""]"
+"PREVENTION, GENERAL / OTHER",Primary prevention,D011322,0,0,null
+KEY POLICIES AND RELATED PUBLICATIONS,Key policies,,0,0,null
+KEY POLICIES AND RELATED PUBLICATIONS,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+MANAGEMENT ISSUES,Management Issues,,0,0,null
+MANAGEMENT ISSUES,Stroke,D020521,0,121235,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Cerebrovascular Disorders|Stroke|"",""|Diseases|Cardiovascular Diseases|Vascular Diseases|Cerebrovascular Disorders|Stroke|""]"
+CLINICAL AUDIT AND GOVERNANCE,Clinical Audit,D054869,0,109678,"[""|Health Services And Their Management|Management And Policy|Management|Performance Monitoring|Clinical Audit|""]"
+ECONOMIC EVALUATIONS,Health Care Economics and Organizations,D004472,0,112410,"[""|Health Care|Health Care Economics and Organizations|""]"
+NATIONAL AUDIT OFFICE REPORTS,Key policies,,0,0,null
+NATIONAL STROKE STRATEGY,Key policies,,0,0,null
+NETWORKS,Community Networks,D019058,0,117395,"[""|Education, Sociology and Social Phenomena|Social Sciences|Sociology|Social Environment|Community Networks|""]"
+NHS HEALTH IMPROVEMENT PROGRAMMES,Key policies,,0,0,null
+PATIENT CHOICE,Patient Choice,,0,108274,"[""|Determinants Of Health|Social Determinant|Socioeconomic Factor|Social Factor|Empowerment|Patient Choice|""]"
+PERFORMANCE INDICATORS,Performance Indicators,,0,0,null
+PRESCRIBING,Prescribing,,0,109802,"[""|Health Services And Their Management|Healthcare And Health Services|Medicines Management|Prescribing|""]"
+RISK ASSESSMENT,Risk Assessment,DO18570,0,109833,"[""|Health Services And Their Management|Management And Policy|Management|Risk Assessment|""]"
+SERVICE MODELS,Service Models,,0,0,null
+SPECIALIST STROKE UNITS,Hospital Units,D006757,0,112374,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Facilities|Hospital Units|""]"
+STATISTICS,Statistics,D020500,0,0,null
+PROFESSIONAL BODIES,Organizations,D009938,0,112217,"[""|Health Care|Health Care Economics and Organizations|Organizations|""]"
+SUPPORT GROUPS,Self-Help Groups,D012657,0,112239,"[""|Health Care|Health Care Economics and Organizations|Organizations|Self-Help Groups|""]"

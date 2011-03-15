@@ -1,0 +1,88 @@
+ORAL HEALTH,Oral Health,D009909,0,110132,"[""|Health, Public Health, Health Promotion|Health|Oral Health|""]"
+ORAL DISORDERS,Oral disorders,,0,0,null
+DENTAL ANXIETY,Dental anxiety,D016854,0,0,null
+DENTAL CARIES,Dental caries,D003731,0,0,null
+CAUSES & PREVENTION,Dental caries,D003731,0,0,null
+DIAGNOSIS,Dental caries,D003731,0,0,null
+TREATMENT & MANAGEMENT,Dental caries,D003731,0,0,null
+DENTO-FACIAL ANOMALIES,Dento-facial Anomalies,,0,0,null
+OSTEONECROSIS OF THE JAW,Osteonecrosis,D010020,0,120818,"[""|Diseases|Musculoskeletal Diseases|Bone Diseases|Osteonecrosis|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Necrosis|Osteonecrosis|""]"
+OSTEONECROSIS OF THE JAW,Jaw,D007568,0,110199,"[""|Natural Science, Anatomy and Organisms|Anatomy|Tissues|Connective Tissue|Bone and Bones|Skull|Facial Bones|Jaw|"",""|Natural Science, Anatomy and Organisms|Anatomy|Musculoskeletal System|Skeleton|Bone and Bones|Skull|Facial Bones|Jaw|"",""|Natural Science, Anatomy and Organisms|Anatomy|Stomatognathic System|Jaw|""]"
+DENTAL INJURIES,Mandibular injuries,D008338,0,0,null
+DENTAL INJURIES,Maxillofacial Injuries,D008446,0,0,null
+DENTAL INJURIES,Tooth Injuries            ,D018677,0,119860,"[""|Diseases|Stomatognathic Diseases|Tooth Diseases|Tooth Injuries|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Tooth Injuries|""]"
+IMPACTED THIRD MOLARS,Impacted Third Molars,,0,0,null
+PROPHYLACTIC REMOVAL,Prophylactic removal,,0,0,null
+LINGUAL NERVE PROTECTION,Lingual nerve,D008036,0,0,null
+POSTOPERATIVE PAIN RELIEF,"Pain, postoperative",D010149,0,0,null
+SEDATION,Conscious sedation,D016292,0,0,null
+SEDATION,"Anesthesia, Dental",D000766,0,113354,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Anesthesia and Analgesia|Anaesthetics|Anesthesia, Dental|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Anesthesia, Dental|""]"
+ORAL CANCER,Oral cavity cancer,,0,0,null
+RISK FACTORS,Risk factors,D012307,0,0,null
+RISK FACTORS,Oral cavity cancer,,0,0,null
+ALCOHOL,Alcohol Drinking,D000428,0,106565,"[""|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Behavior|Drinking Behavior|Alcohol Drinking|""]"
+ALCOHOL,Oral cavity cancer,,0,0,null
+HAIR DYE,Hair dyes,D006202,0,0,null
+HAIR DYE,Oral cavity cancer,,0,0,null
+HUMAN PAPILLOMAVIRUS,Papillomavirus infections,D030361,0,0,null
+HUMAN PAPILLOMAVIRUS,Oral cavity cancer,,0,0,null
+TOBACCO,Tobacco,D014026,0,108381,"[""|Determinants Of Health|Environmental Determinant|Causes Of Harm|Tobacco|""]"
+TOBACCO,Oral cavity cancer,,0,0,null
+OCCUPATIONAL,Occupational exposure,D016273,0,0,null
+OCCUPATIONAL,Oral cavity cancer,,0,0,null
+"ORAL CANCER, PREVENTION",Primary Prevention,D011322,0,112554,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Community Health Services|Preventive Health Services|Primary Prevention|"",""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Preventive Health Services|Primary Prevention|"",""|Health Care|Population Characteristics|Health|Public Health|Public Health Practice|Primary Prevention|""]"
+"ORAL CANCER, PREVENTION",Oral cavity cancer,,0,0,null
+PRECANCEROUS LESIONS,Precancerous conditions,D011230,0,0,null
+SCREENING,Screening,D008403,0,109837,"[""|Health Services And Their Management|Healthcare And Health Services|Health Services|Screening|"",""|Health Services And Their Management|Services|Population Based And Preventive Services|Screening|""]"
+SCREENING,Oral cavity cancer,,0,0,null
+NUTRITION,Nutrition,,0,108250,"[""|Determinants Of Health|Diet And Nutrition|Nutrition|""]"
+NUTRITION,Oral cavity cancer,,0,0,null
+"ORAL CANCER, DIAGNOSIS & REFERRAL",Oral cavity cancer,D009062,0,0,null
+"ORAL CANCER, DIAGNOSIS & REFERRAL",Diagnosis,D003933,0,107878,"[""|Public Health Methods, Theory And Research|Method|Diagnosis|""]"
+"ORAL CANCER, TREATMENT & MANAGEMENT",Disease Management,D019468,0,112818,"[""|Health Care|Health Services Administration|Patient Care Management|Disease Management|""]"
+"ORAL CANCER, TREATMENT & MANAGEMENT",Oral cavity cancer,,0,0,null
+CHEMOTHERAPY,Chemotherapy,D004358,0,109673,"[""|Health Services And Their Management|Healthcare And Health Services|Medical Treatment|Chemotherapy|""]"
+CHEMOTHERAPY,Oral cavity cancer,,0,0,null
+RADIOTHERAPY,Radiotherapy,D011878,0,113584,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Radiotherapy|""]"
+RADIOTHERAPY,Oral cavity cancer,,0,0,null
+PALLIATIVE CARE,Palliative Care,D010166,0,109777,"[""|Health Services And Their Management|Healthcare And Health Services|Health Care|Palliative Care|""]"
+PALLIATIVE CARE,Oral cavity cancer,,0,0,null
+ADJUNCTIVE THERAPY,Oral cavity cancer,,0,0,null
+SURGERY,"Surgery, Oral",D013515,0,114453,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Surgery, Oral|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Specialties, Dental|Surgery, Oral|""]"
+SURGERY,Oral cavity cancer,,0,0,null
+ORAL CARE FOR CANCER PATIENTS,Dental Care for Chronically Ill,D017742,0,113878,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Dental Care|Dental Care for Chronically Ill|""]"
+PROGNOSIS,Prognosis,D011379,0,114532,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Prognosis|""]"
+PROGNOSIS,Oral cavity cancer,,0,0,null
+ORO-FACIAL PAIN,Facial pain,D005157,0,0,null
+ORAL CYSTS,Odontogenic cysts,D009807,0,0,null
+ORAL INFECTIONS,Oral disorders,,0,0,null
+PERIODONTAL DISEASE,Periodontal Disease,D010510,0,0,null
+"PERIODONTAL DISEASE, PREVENTION",Primary Prevention,D011322,0,112554,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Community Health Services|Preventive Health Services|Primary Prevention|"",""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Preventive Health Services|Primary Prevention|"",""|Health Care|Population Characteristics|Health|Public Health|Public Health Practice|Primary Prevention|""]"
+"PERIODONTAL DISEASE, PREVENTION",Periodontal Disease,D010510,0,0,null
+"PERIODONTAL DISEASE, DIAGNOSIS",Periodontal Diseases,D010510,0,119239,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Periodontal Diseases|""]"
+"PERIODONTAL DISEASE, DIAGNOSIS",Diagnosis,D003933,0,107878,"[""|Public Health Methods, Theory And Research|Method|Diagnosis|""]"
+"PERIODONTAL DISEASE, TREATMENT & MANAGEMENT",Periodontal Diseases,D010510,0,119239,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Periodontal Diseases|""]"
+"PERIODONTAL DISEASE, TREATMENT & MANAGEMENT",Disease Management,D019468,0,112818,"[""|Health Care|Health Services Administration|Patient Care Management|Disease Management|""]"
+SPECIALIST DENTISTRY,Specialist Dentistry,,0,0,null
+AESTHETICS,"Aesthetics, Dental",D004955,0,0,null
+DENTAL PUBLIC HEALTH,Public Health Dentistry,D011636,0,113762,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Specialties, Dental|Public Health Dentistry|""]"
+ENDODONTICS,Endodontics,D004708,0,113396,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Endodontics|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Specialties, Dental|Endodontics|""]"
+ORAL MEDICINE,Oral Medicine,D019242,0,113911,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Oral Medicine|""]"
+ORAL PATHOLOGY,Oral Pathology,D010339,0,0,null
+ORAL SURGERY,"Surgery, Oral",D013515,0,114453,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Surgery, Oral|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Specialties, Dental|Surgery, Oral|""]"
+ORTHODONTICS,Orthodontics,D009970,0,114579,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Orthodontics|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Specialties, Dental|Orthodontics|""]"
+PERIODONTOLOGY,Periodontics,D010517,0,113860,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Periodontics|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Specialties, Dental|Periodontics|""]"
+PAEDIATRIC DENTISTRY,Pediatric Dentistry,D010377,0,114628,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Pediatric Dentistry|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Specialties, Dental|Pediatric Dentistry|""]"
+RESTORATIVE DENTISTRY,"Dental Restoration, Permanent",D003793,0,113804,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Prostheses and Implants|Dental Prosthesis|Dental Restoration, Permanent|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Prosthodontics|Dental Prosthesis|Dental Restoration, Permanent|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Specialties, Dental|Prosthodontics|Dental Prosthesis|Dental Restoration, Permanent|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Dentistry, Operative|Dental Restoration, Permanent|""]"
+SPECIAL CARE DENTISTRY,Special Care Dentistry,D016321,0,0,null
+BLEEDING DISORDERS,Blood coagulation disorders ,D001778,0,0,null
+CANCER PATIENTS,Oral cavity cancer,,0,0,null
+CANCER PATIENTS,Dental Care for Chronically Ill,D017742,0,113878,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Dental Care|Dental Care for Chronically Ill|""]"
+IMMUNOCOMPROMISED PATIENTS,Immunocompromised Host,D016867,0,122714,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Biological Phenomena, Cell Phenomena, and Immunity|Immunity|Immunocompromised Host|""]"
+LEARNING DISABILITIES,Dental Care for Disabled ,D003730,0,113877,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Dental Care|Dental Care for Disabled|""]"
+MENTAL ILLNESS,Dental Care for Disabled ,D003730,0,113877,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Dental Care|Dental Care for Disabled|""]"
+OLDER PEOPLE,Dental Care for Aged,D016321,0,114181,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Dental Care|Dental Care for Aged|""]"
+PHYSICAL DISABILITIES,Dental Care for Disabled ,D003730,0,113877,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Dental Care|Dental Care for Disabled|""]"
+PRISON POPULATIONS,Prisoners,D011329,0,0,null
+PRISON POPULATIONS,Dental Care,D003729,0,113852,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Dental Care|""]"
+SERVICE ORGANISATION AND DELIVERY OF CARE,Delivery of health care,D003695,0,0,null

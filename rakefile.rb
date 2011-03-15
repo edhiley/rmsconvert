@@ -12,6 +12,7 @@ require 'uri'
 
 require 'lib/specialities'
 require 'lib/classify'
+require 'lib/subjectareas'
 
 require 'curb'
 
@@ -20,6 +21,8 @@ require 'curb'
 # output will look like:
 # article url, mapped terms, autocat terms (relevancy...)
 
+# knowlege management is junk
+
 @mappings
 @csv_paths
 @specialism_mapping
@@ -27,6 +30,7 @@ require 'curb'
 @mapping_data_folder = "mapping_data"
 @controlled_fields_folder = "controlled_fields"
 @publication_types
+
  
 task :generate_csv_paths do
   
@@ -56,7 +60,7 @@ task :find_ontology_ids => [:generate_csv_paths] do
         term = row[1].to_s.strip
 
         if @known_paths[term].nil?
-          url = "http://80.71.2.9/ses?TBDB=disp_taxonomy&TEMPLATE=service.json&SERVICE=term&TERM=#{URI.escape(term)}"
+          url = "http://80.71.2.12/ses?TBDB=disp_taxonomy&TEMPLATE=service.json&SERVICE=term&TERM=#{URI.escape(term)}"
           puts "retrieving #{url} ..."
 
           begin
@@ -76,7 +80,8 @@ task :find_ontology_ids => [:generate_csv_paths] do
             
             puts "no term mapping found for #{URI.escape(term)}"
           else
-            raise "More than one term returned for #{term}, there should only be one" if data["terms"].count > 1
+            # changed from raise error (raise with Kenny)
+            puts "More than one term returned for #{term}, there should only be one" if data["terms"].count > 1
           
             @known_paths[term] = process_term(data)  
           end
@@ -201,7 +206,7 @@ task :default => [:generate_mappings] do
         puts data['document'].count
      
         documents = Array.new
-        data['document'].each{ |doc| 
+        data['document'][1..100].each{ |doc| 
           documents << create_document(doc, file)
         }
         File.open(File.join(output_folder, "all.json"), 'w') { |f|

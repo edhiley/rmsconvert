@@ -159,10 +159,10 @@ task :generate_mappings => [:generate_csv_paths, :generate_publication_types] do
       
       # is not the head row and is not exluded from processing
       if row[0] != "TOPIC" and row[3] != "1"
-        term_path = JSON.parse(row[5]) if row[5] != "null"
-        specialism.add(row[0], row[1], row[2], row[4], term_path)
+		term_path = JSON.parse(row[5]) if row[5] != "null"
+		specialism.add(row[0], row[1], row[2], row[4], term_path)
       end
-      
+	  
     end
     
     puts "processed #{specialism_name}, #{specialism.length} mapped topics"
@@ -174,8 +174,7 @@ task :generate_mappings => [:generate_csv_paths, :generate_publication_types] do
   
 end
 
-task :default => [:generate_mappings] do
-  
+task :default => [:generate_mappings] do  
   Find.find(ENV["folder"]) do |path|
     
       if !FileTest.directory?(path) && path.include?("ok_httpUrl")
@@ -217,29 +216,28 @@ end
 def create_document (doc, area_of_interest)
     document = Hash.new
 
-    keywords = Sanitize.clean(doc['topics'].to_s.strip_cdata, Sanitize::Config::RELAXED)
-
+    keywords = Sanitize.clean(doc['topics'][0].to_s.strip_cdata, Sanitize::Config::RELAXED)
     # legacy RMS fields
-    document['RMSId'] = doc['id'].to_s
-    document['RMSName'] = doc['name'].to_s.strip_cdata.strip
-    document['RMSRootDirectory'] = doc['rootDirectory'].to_s.strip_cdata
+    document['RMSId'] = doc['id'][0].to_s
+    document['RMSName'] = doc['name'][0].to_s.strip_cdata.strip
+    document['RMSRootDirectory'] = doc['rootDirectory'][0].to_s.strip_cdata
     #document['RMSLastReviewDate'] = doc['lastReviewDate'].to_s.to_date
     document['RMSKeywords'] = keywords
 
     document['RelatedUrls'] = [] # seek origin
     document['TargetCountry'] = []
     
-    document['Title'] = doc['title'].to_s
-    document['Description'] = Sanitize.clean(doc['body'].to_s.strip_cdata, Sanitize::Config::RELAXED)
-    document['Url'] = doc['url'].to_s.strip_cdata
+    document['Title'] = doc['title'][0].to_s
+    document['Description'] = Sanitize.clean(doc['body'][0].to_s.strip_cdata, Sanitize::Config::RELAXED)
+    document['Url'] = doc['url'][0].to_s.strip_cdata
     document['Attachment'] = ""
     
     # these will now need mapping according to mapping_data/controlled_fields
-    document['PublicationType'] = map_publication_type(doc['publicationType'].to_s)
+    document['PublicationType'] = map_publication_type(doc['publicationType'][0].to_s)
     
     # the source and publisher are now to be mapped - there will be a file for this...
-    document['Source'] = [area_of_interest]
-    document['Publisher'] = doc['publisher'].to_s
+    document['Source'] = area_of_interest
+    document['Publisher'] = [doc['publisher'][0].to_s]
     
     
     audience = document['Description'].scan(@intended_audience)[0]

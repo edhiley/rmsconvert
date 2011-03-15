@@ -13,7 +13,7 @@ require 'uri'
 require 'lib/specialities'
 require 'lib/classify'
 
-#require 'curb'
+require 'curb'
 
 ## TODO
 # need to try catorgorise the urls...
@@ -201,7 +201,7 @@ task :default => [:generate_mappings] do
         puts data['document'].count
      
         documents = Array.new
-        data['document'][1..100].each{ |doc| 
+        data['document'].each{ |doc| 
           documents << create_document(doc, file)
         }
         File.open(File.join(output_folder, "all.json"), 'w') { |f|
@@ -237,7 +237,7 @@ def create_document (doc, area_of_interest)
     
     # the source and publisher are now to be mapped - there will be a file for this...
     document['Source'] = area_of_interest
-    document['Publisher'] = doc['publisher']
+    document['Publisher'] = [doc['publisher'][0].to_s]
     
     
     audience = document['Description'].scan(@intended_audience)[0]

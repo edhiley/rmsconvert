@@ -18,6 +18,11 @@ class TermMapping
   attr_accessor :term, :mesh_id, :term_id, :path
   
   def initialize(term, mesh_id, term_id, path)
+    
+    term = term.strip if !term.nil?
+    mesh_id = mesh_id.strip if !mesh_id.nil?
+    term_id = term_id.strip if !term_id.nil?
+    
     @term = term
     @mesh_id = mesh_id
     @path = path

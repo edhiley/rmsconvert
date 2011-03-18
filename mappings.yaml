@@ -128,7 +128,7 @@ womenshealth: !map:Speciality
     - "|Diseases|Male Urogenital Diseases|Genital Diseases, Male|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Chlamydia Infections|Lymphogranuloma Venereum|"
     - "|Diseases|Bacterial Infections and Mycoses|Infection|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Chlamydia Infections|Lymphogranuloma Venereum|"
     - "|Diseases|Virus Diseases|Sexually Transmitted Diseases|Sexually Transmitted Diseases, Bacterial|Chlamydia Infections|Lymphogranuloma Venereum|"
-    term: "Lymphogranuloma Venereum "
+    term: Lymphogranuloma Venereum
     term_id: "119379"
   LICHEN SCLEROSUS: 
   - !ruby/object:TermMapping 
@@ -762,7 +762,7 @@ stroke: !map:Speciality
     mesh_id: D003933
     path: 
     - "|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Cardiovascular|"
-    term: "Diagnostic Techniques, Cardiovascular "
+    term: Diagnostic Techniques, Cardiovascular
     term_id: "113366"
   DISEASE MANAGEMENT: 
   - !ruby/object:TermMapping 
@@ -807,7 +807,7 @@ stroke: !map:Speciality
   - !ruby/object:TermMapping 
     mesh_id: D029282
     path: 
-    term: "Patient Education Handout "
+    term: Patient Education Handout
     term_id: "0"
   STROKE: 
   - !ruby/object:TermMapping 
@@ -874,7 +874,7 @@ stroke: !map:Speciality
     - "|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Neurobehavioral Manifestations|Apraxias|"
     - "|Diseases|Nervous System Diseases|Neurologic Manifestations|Neurobehavioral Manifestations|Psychomotor Disorders|Apraxias|"
     - "|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Neurobehavioral Manifestations|Psychomotor Disorders|Apraxias|"
-    term: " Apraxias"
+    term: Apraxias
     term_id: "120214"
   EMOTIONAL SEQUELAE: 
   - !ruby/object:TermMapping 
@@ -1063,7 +1063,7 @@ stroke: !map:Speciality
     mesh_id: D003933
     path: 
     - "|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Cardiovascular|"
-    term: "Diagnostic Techniques, Cardiovascular "
+    term: Diagnostic Techniques, Cardiovascular
     term_id: "113366"
   ANGIOGRAPHY: 
   - !ruby/object:TermMapping 
@@ -2107,7 +2107,7 @@ skin: !map:Speciality
     path: 
     - "|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Eczematous|Dermatitis, Atopic|"
     - "|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Genetic|Dermatitis, Atopic|"
-    term: "Dermatitis, Atopic "
+    term: Dermatitis, Atopic
     term_id: "118641"
   ECZEMA IN INFANTS: 
   - !ruby/object:TermMapping 
@@ -2629,7 +2629,7 @@ skin: !map:Speciality
   - !ruby/object:TermMapping 
     mesh_id: D007169
     path: 
-    term: "Impetigo "
+    term: Impetigo
     term_id: "0"
   BACTERIAL FOLLICULITIS: 
   - !ruby/object:TermMapping 
@@ -2708,7 +2708,7 @@ skin: !map:Speciality
     mesh_id: D013591
     path: 
     - "|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Skin Diseases, Infectious|Skin Diseases, Bacterial|Syphilis, Cutaneous|"
-    term: " Syphilis, Cutaneous"
+    term: Syphilis, Cutaneous
     term_id: "118623"
   - !ruby/object:TermMapping 
     mesh_id: 
@@ -3166,7 +3166,7 @@ skin: !map:Speciality
     path: 
     - "|Determinants Of Health|Environmental Determinant|Causes Of Harm|Sunburn|"
     - "|Determinants Of Health|Environmental Determinant|Environment|Natural Environment|Sun|Sunburn|"
-    term: "Sunburn "
+    term: Sunburn
     term_id: "108373"
   SUNTAN: 
   - !ruby/object:TermMapping 
@@ -3832,7 +3832,7 @@ skin: !map:Speciality
     mesh_id: D013543
     path: 
     - "|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Sweat Gland Diseases|"
-    term: "Sweat Gland Diseases "
+    term: Sweat Gland Diseases
     term_id: "118459"
   BODY ODOUR: 
   - !ruby/object:TermMapping 
@@ -3957,7 +3957,7 @@ skin: !map:Speciality
     mesh_id: D014657
     path: 
     - "|Diseases|Cardiovascular Diseases|Vascular Diseases|Vasculitis|"
-    term: "Vasculitis "
+    term: Vasculitis
     term_id: "120205"
   ERYTHEMA NODOSUM & RELATED: 
   - !ruby/object:TermMapping 
@@ -5442,7 +5442,7 @@ oralhealth: !map:Speciality
     path: 
     - "|Diseases|Stomatognathic Diseases|Tooth Diseases|Tooth Injuries|"
     - "|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Tooth Injuries|"
-    term: "Tooth Injuries            "
+    term: Tooth Injuries
     term_id: "119860"
   IMPACTED THIRD MOLARS: 
   - !ruby/object:TermMapping 
@@ -5854,7 +5854,7 @@ oralhealth: !map:Speciality
   - !ruby/object:TermMapping 
     mesh_id: D001778
     path: 
-    term: "Blood coagulation disorders "
+    term: Blood coagulation disorders
     term_id: "0"
   CANCER PATIENTS: 
   - !ruby/object:TermMapping 
@@ -5880,14 +5880,14 @@ oralhealth: !map:Speciality
     mesh_id: D003730
     path: 
     - "|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Dental Care|Dental Care for Disabled|"
-    term: "Dental Care for Disabled "
+    term: Dental Care for Disabled
     term_id: "113877"
   MENTAL ILLNESS: 
   - !ruby/object:TermMapping 
     mesh_id: D003730
     path: 
     - "|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Dental Care|Dental Care for Disabled|"
-    term: "Dental Care for Disabled "
+    term: Dental Care for Disabled
     term_id: "113877"
   OLDER PEOPLE: 
   - !ruby/object:TermMapping 
@@ -5901,7 +5901,7 @@ oralhealth: !map:Speciality
     mesh_id: D003730
     path: 
     - "|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Dental Care|Dental Care for Disabled|"
-    term: "Dental Care for Disabled "
+    term: Dental Care for Disabled
     term_id: "113877"
   PRISON POPULATIONS: 
   - !ruby/object:TermMapping 
@@ -6891,7 +6891,7 @@ musculoskeletal: !map:Speciality
     term: Arthritis, Septic
     term_id: "0"
   - !ruby/object:TermMapping 
-    mesh_id: " D008193"
+    mesh_id: D008193
     path: 
     - "|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Gram-Negative Bacterial Infections|Borrelia Infections|Lyme Disease|"
     - "|Diseases|Bacterial Infections and Mycoses|Bacterial Infections|Spirochaetales Infections|Borrelia Infections|Lyme Disease|"
@@ -7271,7 +7271,7 @@ musculoskeletal: !map:Speciality
   - !ruby/object:TermMapping 
     mesh_id: D029282
     path: 
-    term: "Patient Education Handout "
+    term: Patient Education Handout
     term_id: "0"
   Physiotherapy: 
   - !ruby/object:TermMapping 
@@ -7357,7 +7357,7 @@ musculoskeletal: !map:Speciality
     term_id: "0"
   Patient Information: 
   - !ruby/object:TermMapping 
-    mesh_id: "Patient Education Handout "
+    mesh_id: Patient Education Handout
     path: 
     term: No MESH
     term_id: "0"
@@ -8029,7 +8029,7 @@ learningdisabilities: !map:Speciality
     mesh_id: D003863
     path: 
     - "|Psychiatry and Pscychology|Mental Disorders|Mood Disorders|Depression|"
-    term: "Depression "
+    term: Depression
     term_id: "107127"
   - !ruby/object:TermMapping 
     mesh_id: 
@@ -8604,7 +8604,7 @@ laterlife: !map:Speciality
     mesh_id: D000058
     path: 
     - "|Health Care|Population Characteristics|Health|Public Health|Accidents|Accidental Falls|"
-    term: "Accidental Falls "
+    term: Accidental Falls
     term_id: "112213"
   - !ruby/object:TermMapping 
     mesh_id: D008403
@@ -8632,7 +8632,7 @@ laterlife: !map:Speciality
     mesh_id: D003863
     path: 
     - "|Psychiatry and Pscychology|Mental Disorders|Mood Disorders|Depression|"
-    term: "Depression "
+    term: Depression
     term_id: "107127"
   - !ruby/object:TermMapping 
     mesh_id: D008403
@@ -9089,7 +9089,7 @@ kidney: !map:Speciality
   - !ruby/object:TermMapping 
     mesh_id: 
     path: 
-    term: "Acute kidney injury "
+    term: Acute kidney injury
     term_id: "0"
   CAUSES AND RISK FACTORS: 
   - !ruby/object:TermMapping 
@@ -9101,7 +9101,7 @@ kidney: !map:Speciality
   - !ruby/object:TermMapping 
     mesh_id: 
     path: 
-    term: "Acute kidney injury "
+    term: Acute kidney injury
     term_id: "0"
   MANAGEMENT: 
   - !ruby/object:TermMapping 
@@ -9113,7 +9113,7 @@ kidney: !map:Speciality
   - !ruby/object:TermMapping 
     mesh_id: 
     path: 
-    term: "Acute kidney injury "
+    term: Acute kidney injury
     term_id: "0"
   INHERITED KIDNEY DISEASE: 
   - !ruby/object:TermMapping 
@@ -12225,7 +12225,7 @@ healthmanagement: !map:Speciality
     path: 
     - "|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Psychology, Social|Interpersonal Relations|Interprofessional Relations|"
     - "|Psychiatry and Pscychology|Behavioral Disciplines and Activities|Behavioral Sciences|Psychology|Psychology, Social|Interpersonal Relations|Interprofessional Relations|"
-    term: "Interprofessional Relations "
+    term: Interprofessional Relations
     term_id: "106755"
   Education / CPD: 
   - !ruby/object:TermMapping 
@@ -15813,7 +15813,7 @@ ethnicity: !map:Speciality
     term_id: "0"
   CHILDREN AND YOUNG PEOPLE: 
   - !ruby/object:TermMapping 
-    mesh_id: "D002648 "
+    mesh_id: D002648
     path: 
     - "|People And Populations|Group|Age Group|Child|"
     term: Child
@@ -15821,7 +15821,7 @@ ethnicity: !map:Speciality
   - !ruby/object:TermMapping 
     mesh_id: D000293
     path: 
-    term: "Adolescent "
+    term: Adolescent
     term_id: "0"
   OLDER PEOPLE: 
   - !ruby/object:TermMapping 
@@ -15871,7 +15871,7 @@ ethnicity: !map:Speciality
     mesh_id: D011320
     path: 
     - "|Health Care|Health Services Administration|Patient Care Management|Comprehensive Health Care|Primary Health Care|"
-    term: "Primary Health Care "
+    term: Primary Health Care
     term_id: "112359"
   SECONDARY / HOSPITAL CARE: 
   - !ruby/object:TermMapping 
@@ -15923,7 +15923,7 @@ ethnicity: !map:Speciality
   - !ruby/object:TermMapping 
     mesh_id: D054521
     path: 
-    term: "Cultural Competency "
+    term: Cultural Competency
     term_id: "0"
   DIET: 
   - !ruby/object:TermMapping 
@@ -15934,7 +15934,7 @@ ethnicity: !map:Speciality
     term_id: "108134"
   LANGUAGE AND COMMUNICATION: 
   - !ruby/object:TermMapping 
-    mesh_id: "D007802 "
+    mesh_id: D007802
     path: 
     - "|Communication And Knowledge|Communication|Language|"
     term: Language
@@ -16423,7 +16423,7 @@ ent: !map:Speciality
     term_id: "120312"
   LARYNGITIS: 
   - !ruby/object:TermMapping 
-    mesh_id: "D007827 "
+    mesh_id: D007827
     path: 
     - "|Diseases|Respiratory Tract Diseases|Laryngeal Diseases|Laryngitis|"
     - "|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Laryngitis|"
@@ -17356,10 +17356,10 @@ emergency: !map:Speciality
     term: Emergency Medicine
     term_id: "122549"
   - !ruby/object:TermMapping 
-    mesh_id: "Q000941 "
+    mesh_id: Q000941
     path: 
     - "|Determinants Of Health|Social Determinant|Socioeconomic Factor|Social Factor|Ethics|"
-    term: "Ethics  "
+    term: Ethics
     term_id: "107989"
   - !ruby/object:TermMapping 
     mesh_id: Q000592
@@ -17368,13 +17368,13 @@ emergency: !map:Speciality
     term_id: "0"
   PROFESSIONAL STANDARDS: 
   - !ruby/object:TermMapping 
-    mesh_id: "D004635 "
+    mesh_id: D004635
     path: 
     - "|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Emergency Medicine|"
-    term: "Emergency Medicine "
+    term: Emergency Medicine
     term_id: "122549"
   - !ruby/object:TermMapping 
-    mesh_id: "Q000592 "
+    mesh_id: Q000592
     path: 
     term: Standards
     term_id: "0"
@@ -17494,10 +17494,10 @@ emergency: !map:Speciality
     term_id: "109798"
   TISSUE DONATION: 
   - !ruby/object:TermMapping 
-    mesh_id: "D009927 "
+    mesh_id: D009927
     path: 
     - "|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Tissue and Organ Procurement|"
-    term: "Tissue and Organ Procurement "
+    term: Tissue and Organ Procurement
     term_id: "112691"
   - !ruby/object:TermMapping 
     mesh_id: D014019
@@ -17576,7 +17576,7 @@ emergency: !map:Speciality
     term: Alcoholic Intoxication
     term_id: "106996"
   - !ruby/object:TermMapping 
-    mesh_id: "D000431 "
+    mesh_id: D000431
     path: 
     term: Ethanol
     term_id: "0"
@@ -17645,7 +17645,7 @@ emergency: !map:Speciality
   - !ruby/object:TermMapping 
     mesh_id: D014195
     path: 
-    term: "Travel "
+    term: Travel
     term_id: "0"
   AIRWAY: 
   - !ruby/object:TermMapping 
@@ -17708,7 +17708,7 @@ emergency: !map:Speciality
     term_id: "118363"
   CHEST PAIN (ISCHAEMIC): 
   - !ruby/object:TermMapping 
-    mesh_id: "D002637 "
+    mesh_id: D002637
     path: 
     term: Chest Pain
     term_id: "0"
@@ -17747,7 +17747,7 @@ emergency: !map:Speciality
     mesh_id: D012135
     path: 
     - "|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Respiratory System|Respiratory Sounds|"
-    term: "Respiratory Sounds "
+    term: Respiratory Sounds
     term_id: "114671"
   HYPERVENTILATION: 
   - !ruby/object:TermMapping 
@@ -17773,7 +17773,7 @@ emergency: !map:Speciality
     mesh_id: D009333
     path: 
     - "|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Neck|"
-    term: "Neck "
+    term: Neck
     term_id: "110891"
   - !ruby/object:TermMapping 
     mesh_id: D013131
@@ -17820,7 +17820,7 @@ emergency: !map:Speciality
     term: Confusion
     term_id: "120572"
   - !ruby/object:TermMapping 
-    mesh_id: "D014474 "
+    mesh_id: D014474
     path: 
     - "|Psychiatry and Pscychology|Mental Disorders|Delirium, Dementia, Amnestic, Cognitive Disorders|Consciousness Disorders|Unconsciousness|"
     term: Unconsciousness
@@ -17893,7 +17893,7 @@ emergency: !map:Speciality
     term: Nose
     term_id: "111461"
   - !ruby/object:TermMapping 
-    mesh_id: "D010614 "
+    mesh_id: D010614
     path: 
     - "|Natural Science, Anatomy and Organisms|Anatomy|Respiratory System|Pharynx|"
     term: Pharynx
@@ -17977,7 +17977,7 @@ emergency: !map:Speciality
     term_id: "114046"
   NAUSEA AND VOMITING: 
   - !ruby/object:TermMapping 
-    mesh_id: "D009325 "
+    mesh_id: D009325
     path: 
     term: Nausea
     term_id: "0"
@@ -18054,7 +18054,7 @@ emergency: !map:Speciality
     - "|Natural Science, Anatomy and Organisms|Anatomy|Urogenital System|Genitalia|Gonads|Testis|"
     - "|Natural Science, Anatomy and Organisms|Anatomy|Urogenital System|Gonads|Testis|"
     - "|Natural Science, Anatomy and Organisms|Anatomy|Urogenital System|Testis|"
-    term: "Testis "
+    term: Testis
     term_id: "111597"
   - !ruby/object:TermMapping 
     mesh_id: D010146
@@ -20175,7 +20175,7 @@ emergency: !map:Speciality
     term_id: "122530"
   TECHNIQUE: 
   - !ruby/object:TermMapping 
-    mesh_id: "D003952 "
+    mesh_id: D003952
     path: 
     - "|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Imaging|"
     term: Diagnostic Imaging
@@ -20232,7 +20232,7 @@ emergency: !map:Speciality
     term_id: "110230"
   PAEDIATRIC: 
   - !ruby/object:TermMapping 
-    mesh_id: "D010372 "
+    mesh_id: D010372
     path: 
     - "|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Pediatrics|"
     term: Pediatrics
@@ -20501,7 +20501,7 @@ commissioning: !map:Speciality
     path: 
     - "|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Psychology, Social|Interpersonal Relations|Interprofessional Relations|"
     - "|Psychiatry and Pscychology|Behavioral Disciplines and Activities|Behavioral Sciences|Psychology|Psychology, Social|Interpersonal Relations|Interprofessional Relations|"
-    term: "Interprofessional Relations "
+    term: Interprofessional Relations
     term_id: "106755"
   - !ruby/object:TermMapping 
     mesh_id: D003299
@@ -20624,7 +20624,7 @@ commissioning: !map:Speciality
     term_id: "112359"
   Social care: 
   - !ruby/object:TermMapping 
-    mesh_id: "D012947 "
+    mesh_id: D012947
     path: 
     - "|Health Services And Their Management|Government And Law|Government|Local Government|Social Services|Social Work|"
     term: Social Work
@@ -20774,7 +20774,7 @@ commissioning: !map:Speciality
     term_id: "0"
   Genito urinary system disorders: 
   - !ruby/object:TermMapping 
-    mesh_id: "D052776 "
+    mesh_id: D052776
     path: 
     - "|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|"
     term: Female Urogenital Diseases
@@ -20783,7 +20783,7 @@ commissioning: !map:Speciality
     mesh_id: D052801
     path: 
     - "|Diseases|Male Urogenital Diseases|"
-    term: "Male Urogenital Diseases "
+    term: Male Urogenital Diseases
     term_id: "119216"
   Healthy individuals: 
   - !ruby/object:TermMapping 
@@ -21205,7 +21205,7 @@ childhealth: !map:Speciality
   - !ruby/object:TermMapping 
     mesh_id: D000293
     path: 
-    term: "Adolescence                      "
+    term: Adolescence
     term_id: "0"
   MANAGEMENT OF ILL HEALTH IN ADOLESCENCE: 
   - !ruby/object:TermMapping 
@@ -21324,10 +21324,10 @@ childhealth: !map:Speciality
     term_id: "0"
   SEDATION: 
   - !ruby/object:TermMapping 
-    mesh_id: "D016292                            "
+    mesh_id: D016292
     path: 
     - "|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Anesthesia and Analgesia|Conscious Sedation|"
-    term: "Conscious Sedation                                                                                               "
+    term: Conscious Sedation
     term_id: "114862"
   CARDIOLOGY: 
   - !ruby/object:TermMapping 
@@ -21454,7 +21454,7 @@ childhealth: !map:Speciality
     term_id: "0"
   FUNGAL INFECTIONS: 
   - !ruby/object:TermMapping 
-    mesh_id: "D009181                      "
+    mesh_id: D009181
     path: 
     term: Fungus Diseases
     term_id: "0"
@@ -21517,13 +21517,13 @@ childhealth: !map:Speciality
     term_id: "119868"
   TRAVEL AND TROPICAL: 
   - !ruby/object:TermMapping 
-    mesh_id: "D014330                                     "
+    mesh_id: D014330
     path: 
     - "|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Tropical Medicine|"
-    term: "Tropical Medicine                                                                "
+    term: Tropical Medicine
     term_id: "123105"
   - !ruby/object:TermMapping 
-    mesh_id: "D057236 "
+    mesh_id: D057236
     path: 
     term: Travel medicine
     term_id: "0"
@@ -21614,9 +21614,9 @@ childhealth: !map:Speciality
     term_id: "107151"
   FAMILIES AND PARENTING: 
   - !ruby/object:TermMapping 
-    mesh_id: "D016487                            "
+    mesh_id: D016487
     path: 
-    term: "Parenting                                                                                  "
+    term: Parenting
     term_id: "0"
   - !ruby/object:TermMapping 
     mesh_id: D002668
@@ -22334,10 +22334,10 @@ childhealth: !map:Speciality
     term_id: "106960"
   ADOLESCENT PSYCHIATRIC SYNDROMES: 
   - !ruby/object:TermMapping 
-    mesh_id: "D001523                        "
+    mesh_id: D001523
     path: 
     - "|Psychiatry and Pscychology|Mental Disorders|"
-    term: "Mental Disorders                                                      "
+    term: Mental Disorders
     term_id: "106960"
   - !ruby/object:TermMapping 
     mesh_id: D000293
@@ -22373,10 +22373,10 @@ childhealth: !map:Speciality
     term_id: "107025"
   PSYCHIATRIC DISORDERS IN ADOLESCENCE: 
   - !ruby/object:TermMapping 
-    mesh_id: "D001523                        "
+    mesh_id: D001523
     path: 
     - "|Psychiatry and Pscychology|Mental Disorders|"
-    term: "Mental Disorders                                                      "
+    term: Mental Disorders
     term_id: "106960"
   - !ruby/object:TermMapping 
     mesh_id: D000293
@@ -23055,7 +23055,7 @@ childhealth: !map:Speciality
   - !ruby/object:TermMapping 
     mesh_id: D004827
     path: 
-    term: "Epilepsy                                                                              "
+    term: Epilepsy
     term_id: "0"
   SPINAL MUSCULAR ATROPHY: 
   - !ruby/object:TermMapping 
@@ -23786,7 +23786,7 @@ cardiovascular: !map:Speciality
     mesh_id: D003935
     path: 
     - "|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Cardiovascular|"
-    term: "Diagnostic Techniques, Cardiovascular "
+    term: Diagnostic Techniques, Cardiovascular
     term_id: "113366"
   DISEASE MANAGEMENT: 
   - !ruby/object:TermMapping 
@@ -23828,7 +23828,7 @@ cardiovascular: !map:Speciality
   - !ruby/object:TermMapping 
     mesh_id: D029282
     path: 
-    term: "Patient Education Handout "
+    term: Patient Education Handout
     term_id: "0"
   ~: 
   - !ruby/object:TermMapping 
@@ -24094,7 +24094,7 @@ cardiovascular: !map:Speciality
     path: 
     - "|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Cardiovascular|Blood Pressure Determination|"
     - "|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Physical Examination|Blood Pressure Determination|"
-    term: "Blood Pressure Determination "
+    term: Blood Pressure Determination
     term_id: "113536"
   CARDIAC MARKERS: 
   - !ruby/object:TermMapping 
@@ -24123,7 +24123,7 @@ cardiovascular: !map:Speciality
     - "|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Catheterization|Heart Catheterization|"
     - "|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Catheterization|Heart Catheterization|"
     - "|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Cardiovascular|Heart Function Tests|Heart Catheterization|"
-    term: "Heart Catheterization "
+    term: Heart Catheterization
     term_id: "113654"
   - !ruby/object:TermMapping 
     mesh_id: D017023
@@ -24139,7 +24139,7 @@ cardiovascular: !map:Speciality
     - "|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Catheterization|Heart Catheterization|"
     - "|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|Catheterization|Heart Catheterization|"
     - "|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Cardiovascular|Heart Function Tests|Heart Catheterization|"
-    term: "Heart Catheterization "
+    term: Heart Catheterization
     term_id: "113654"
   ECHOCARDIOGRAM: 
   - !ruby/object:TermMapping 
@@ -24340,7 +24340,7 @@ cardiovascular: !map:Speciality
     mesh_id: D013514
     path: 
     - "|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Surgical Procedures, Operative|"
-    term: "Surgical Procedures, Operative "
+    term: Surgical Procedures, Operative
     term_id: "113321"
   CORONARY ARTERY BYPASS GRAFTS: 
   - !ruby/object:TermMapping 
@@ -24460,7 +24460,7 @@ cardiovascular: !map:Speciality
     path: 
     - "|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Physical Examination|Body Constitution|Body Weights and Measures|Body Size|Body Weight|Overweight|Obesity|"
     - "|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Body Weights and Measures|Body Size|Body Weight|Overweight|Obesity|"
-    term: "Obesity "
+    term: Obesity
     term_id: "113401"
   - !ruby/object:TermMapping 
     mesh_id: D011322
@@ -24544,7 +24544,7 @@ cardiovascular: !map:Speciality
     mesh_id: D054976
     path: 
     - "|Health Services And Their Management|Management And Policy|Management|Clinical Governance|"
-    term: "Clinical Governance "
+    term: Clinical Governance
     term_id: "109679"
   CARDIAC REHABILITATION CENTRES: 
   - !ruby/object:TermMapping 
@@ -24719,7 +24719,7 @@ cancer: !map:Speciality
     term: Oral cavity cancer
     term_id: "0"
   - !ruby/object:TermMapping 
-    mesh_id: " D008048"
+    mesh_id: D008048
     path: 
     term: Lip Cancer
     term_id: "0"
@@ -25096,11 +25096,11 @@ cancer: !map:Speciality
     term_id: "0"
   CACHEXIA/WEIGHT LOSS: 
   - !ruby/object:TermMapping 
-    mesh_id: "D002100 "
+    mesh_id: D002100
     path: 
     - "|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Physical Examination|Body Constitution|Body Weights and Measures|Body Size|Body Weight|Body Weight Changes|Weight Loss|Emaciation|Cachexia|"
     - "|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Body Weights and Measures|Body Size|Body Weight|Body Weight Changes|Weight Loss|Emaciation|Cachexia|"
-    term: "Cachexia "
+    term: Cachexia
     term_id: "113611"
   - !ruby/object:TermMapping 
     mesh_id: D015431
@@ -25292,7 +25292,7 @@ cancer: !map:Speciality
     path: 
     - "|Health Services And Their Management|Management And Policy|Government Policy|National Service Framework|"
     - "|Health Services And Their Management|Management And Policy|National Service Framework|"
-    term: "National Service Framework "
+    term: National Service Framework
     term_id: "109644"
 cam: !map:Speciality 
   COMPLEMENTARY AND ALTERNATIVE MEDICINE: 
@@ -25321,7 +25321,7 @@ cam: !map:Speciality
     mesh_id: D033161
     path: 
     - "|Education, Sociology and Social Phenomena|Social Sciences|Sociology|Social Control, Formal|Government Regulation|"
-    term: "Government Regulation "
+    term: Government Regulation
     term_id: "117593"
   RESEARCH: 
   - !ruby/object:TermMapping 
@@ -25687,7 +25687,7 @@ cam: !map:Speciality
   - !ruby/object:TermMapping 
     mesh_id: D000975
     path: 
-    term: "Antioxidants "
+    term: Antioxidants
     term_id: "0"
   FOLIC ACID: 
   - !ruby/object:TermMapping 
@@ -25734,11 +25734,11 @@ cam: !map:Speciality
   - !ruby/object:TermMapping 
     mesh_id: D000975
     path: 
-    term: "Antioxidants "
+    term: Antioxidants
     term_id: "0"
   VITAMIN D: 
   - !ruby/object:TermMapping 
-    mesh_id: " D014807 "
+    mesh_id: D014807
     path: 
     term: Vitamin D
     term_id: "0"
@@ -25751,7 +25751,7 @@ cam: !map:Speciality
   - !ruby/object:TermMapping 
     mesh_id: D000975
     path: 
-    term: "Antioxidants "
+    term: Antioxidants
     term_id: "0"
   VITAMIN K: 
   - !ruby/object:TermMapping 
@@ -25780,7 +25780,7 @@ cam: !map:Speciality
   - !ruby/object:TermMapping 
     mesh_id: D000975
     path: 
-    term: "Antioxidants "
+    term: Antioxidants
     term_id: "0"
   COENZYME Q: 
   - !ruby/object:TermMapping 
@@ -25809,7 +25809,7 @@ cam: !map:Speciality
   - !ruby/object:TermMapping 
     mesh_id: D000975
     path: 
-    term: "Antioxidants "
+    term: Antioxidants
     term_id: "0"
   SAME (S-ADENOSYL-L-METHIONINE): 
   - !ruby/object:TermMapping 
@@ -26245,7 +26245,7 @@ cam: !map:Speciality
     term_id: "114406"
   KAVA (PIPER METHYSTICUM): 
   - !ruby/object:TermMapping 
-    mesh_id: " D020901 "
+    mesh_id: D020901
     path: 
     term: Kava
     term_id: "0"

@@ -15,7 +15,7 @@ require 'lib/classify'
 require 'lib/subjectareas'
 require 'lib/workstream'
 
-require 'curb'
+#require 'curb'
 
 ## TODO
 # need to try catorgorise the urls...
@@ -115,9 +115,7 @@ end
 
 task :generate_subject_area_mappings do
   import_subject_area_mapping("gastroliver", "Gastrointestinal disorders")
-  
-  
-do
+
 
 def import_subject_area_mapping(name, default_mapping)
   
@@ -137,8 +135,8 @@ def import_subject_area_mapping(name, default_mapping)
      
     end
     
-    ... when the subject area changes, when blank assumed to be previous record mapping...
-    ... no need to import default taxonomy mapping
+    #... when the subject area changes, when blank assumed to be previous record mapping...
+    #... no need to import default taxonomy mapping
     
     #@publication_types[row[0].to_s.downcase] = row[1]
     #@publication_types[row[0].to_s.downcase] = row[0] if row[1].nil?
@@ -148,6 +146,7 @@ def import_subject_area_mapping(name, default_mapping)
   
 end
 
+end
 
 task :generate_publication_types do
   @publication_types = Hash.new
@@ -380,7 +379,8 @@ def map_subject_area(name, keywords)
   
   mapping = @subject_area_mapping[name]
   
-  raise "no subject area mapping for #{name}" if mapping.nil?
+  #raise "no subject area mapping for #{name}" if mapping.nil?
+  if !mapping.nil?
   
   if mapping.is_a?(Array)
     mapping
@@ -395,6 +395,7 @@ def map_subject_area(name, keywords)
     subject_area << mapping["DEFAULT"] if subject_area.empty?
       
     subject_area.flatten.uniq
+  end
   end
   
 end
@@ -471,5 +472,5 @@ class String
   end
   def capitalize_each
     self.split(" ").each{|word| word.capitalize!}.join(" ")
-  end
-end
+  end 
+end 

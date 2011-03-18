@@ -13,15 +13,16 @@ require 'uri'
 require 'lib/specialities'
 require 'lib/classify'
 require 'lib/subjectareas'
+require 'lib/workstream'
 
-#require 'curb'
+require 'curb'
 
 ## TODO
 # need to try catorgorise the urls...
 # output will look like:
 # article url, mapped terms, autocat terms (relevancy...)
 
-# knowlege management is junk
+# knowlege management mapping file is junk
 
 @mappings
 @csv_paths
@@ -112,6 +113,42 @@ task :find_ontology_ids => [:generate_csv_paths] do
   
 end
 
+task :generate_subject_area_mappings do
+  import_subject_area_mapping("gastroliver", "Gastrointestinal disorders")
+  
+  
+do
+
+def import_subject_area_mapping(name, default_mapping)
+  
+  taxonomy_term = ""
+  subject_area = []
+  
+  mappings = Hash.new
+  
+  flt_taxonomy_term = 0
+  fld_subject_area_1 = 1
+  fld_subject_area_2 = 2
+  
+  CSV.foreach("#{@controlled_fields_folder}/subjectarea-#{name}.csv") do |row|
+    next if row[0].to_s.eql("TAXONOMY_TERM")
+    
+    if row[flt_taxonomy_term].to_s != taxonomy_term
+     
+    end
+    
+    ... when the subject area changes, when blank assumed to be previous record mapping...
+    ... no need to import default taxonomy mapping
+    
+    #@publication_types[row[0].to_s.downcase] = row[1]
+    #@publication_types[row[0].to_s.downcase] = row[0] if row[1].nil?
+  end
+  
+  @subject_area_mapping[name] = mappings
+  
+end
+
+
 task :generate_publication_types do
   @publication_types = Hash.new
   
@@ -125,14 +162,16 @@ end
 task :generate_publisher_source do
   # CURRENT_PUBLISHER,PUBLISHER,SOURCE,IGNORE
 
+  puts "generating publisher and source mappings..."
+
   @publisher = Hash.new
   @source = Hash.new
 
    CSV.foreach("#{@controlled_fields_folder}/publisherandsource.csv") do |row|
      
     next if row[0].to_s == "CURRENT_PUBLISHER"
-    next if row[3].to_s == "IGNORE"
-   
+    next if row[3].to_s == "1"
+    
     key = row[0].to_s.downcase
 
     if !row[1].nil? # map to new publisher
@@ -144,11 +183,11 @@ task :generate_publisher_source do
     end
   end
   
-  p @source
+  puts "#{@source.count} source mappings found."
+  puts "#{@publisher.count} publisher mappings found."
 end
 
-
-task :generate_mappings => [:generate_csv_paths, :generate_publication_types] do
+task :generate_mappings => [:generate_csv_paths, :generate_publication_types, :generate_publisher_source] do
   
   puts "generating mappings..."
   
@@ -164,8 +203,8 @@ task :generate_mappings => [:generate_csv_paths, :generate_publication_types] do
       
       # is not the head row and is not exluded from processing
       if row[0] != "TOPIC" and row[3] != "1"
-		term_path = JSON.parse(row[5]) if row[5] != "null"
-		specialism.add(row[0], row[1], row[2], row[4], term_path)
+	    	term_path = JSON.parse(row[5]) if row[5] != "null"
+    		specialism.add(row[0], row[1], row[2], row[4], term_path)
       end
 	  
     end
@@ -177,6 +216,12 @@ task :generate_mappings => [:generate_csv_paths, :generate_publication_types] do
   File.open("mappings.yaml", "w") { |file| YAML.dump(@mappings, file) }
   puts "processed mappings written to mappings.yaml"
   
+end
+
+task :map_subjects do
+  name = ENV["name"]
+  keywords = ENV["keywords"]
+  map_subject_area(name, keywords)
 end
 
 task :default => [:generate_mappings] do  
@@ -206,8 +251,11 @@ task :default => [:generate_mappings] do
         puts data['document'].count
      
         documents = Array.new
-        data['document'][1..100].each{ |doc| 
-          documents << create_document(doc, file)
+        data['document'].each{ |doc| 
+          
+          document = create_document(doc, file)
+          
+          documents << document if include?(document)
         }
         File.open(File.join(output_folder, "all.json"), 'w') { |f|
           f.write(JSON.pretty_generate(documents))
@@ -218,15 +266,26 @@ task :default => [:generate_mappings] do
 
 end
 
+def include?(document)
+  publication_type = document["PublicationType"]
+  title = document["Title"]
+    
+  if publication_type.eql?("Evidence updates") or publication_type.eql?("Narrative reviews") or title.downcase.include?(" annual evidence update on ")
+    false
+  else
+    true
+  end
+end
+
+
 def create_document (doc, area_of_interest)
     document = Hash.new
 
-    keywords = Sanitize.clean(doc['topics'][0].to_s.strip_cdata, Sanitize::Config::RELAXED)
+    keywords = Sanitize.clean(doc['topics'][0].to_s.strip_cdata.strip, Sanitize::Config::RELAXED)
     # legacy RMS fields
     document['RMSId'] = doc['id'][0].to_s
     document['RMSName'] = doc['name'][0].to_s.strip_cdata.strip
     document['RMSRootDirectory'] = doc['rootDirectory'][0].to_s.strip_cdata
-    #document['RMSLastReviewDate'] = doc['lastReviewDate'].to_s.to_date
     document['RMSKeywords'] = keywords
 
     document['RelatedUrls'] = [] # seek origin
@@ -235,19 +294,17 @@ def create_document (doc, area_of_interest)
     document['Title'] = doc['title'][0].to_s
     document['Description'] = Sanitize.clean(doc['body'][0].to_s.strip_cdata, Sanitize::Config::RELAXED)
     document['Url'] = doc['url'][0].to_s.strip_cdata
-    document['Attachment'] = ""
+    document['Attachment'] = "" # not doing anything with attached files?
     
-    # these will now need mapping according to mapping_data/controlled_fields
     document['PublicationType'] = map_publication_type(doc['publicationType'][0].to_s)
+        
+    publisher = doc['publisher'][0].to_s.strip
     
-    # the source and publisher are now to be mapped - there will be a file for this...
-    document['Source'] = area_of_interest
-    document['Publisher'] = [doc['publisher'][0].to_s]
-    
+    document['Source'] = map_source(publisher, doc['creator'].to_s.split(", "))
+    document['Publisher'] = map_publisher(publisher)
     
     audience = document['Description'].scan(@intended_audience)[0]
     document['Audience'] = audience[0].to_audiences rescue []
-    
     
     document['PublicationDate'] = doc['publicationDate'].to_s.to_date
     document['ReviewDate'] = doc['expiryDate'].to_s.to_date
@@ -260,18 +317,91 @@ def create_document (doc, area_of_interest)
     
     document['Contributor'] = doc['creator'].to_s.split(", ")
     
-    # needs to be "Mental Health"...
-    document['ImportProcessCreator'] = area_of_interest
-        
+    document['SubjectArea'] = map_subject_area(area_of_interest, keywords)
+    
+    # these are used primarily in the import process... and yes, the last edited by is the same as the process creator - as advised by Fran W
+    document['ImportProcesCreator'] = doc['name'].to_s.strip_cdata
+    document['ImportLastEditedBy'] = document['ImportProcesCreator']
+    
+    if area_of_interest.eql?("qipp")
+      document["QIPPWorkstreams"] = map_qipp_workstreams(keywords)       
+      document["Category"] = map_category(keywords)
+    end
+    
     document
+end
+
+def map_qipp_workstreams(keywords)
+  # array based on mappings in @workstream  
+  qipp_workstreams = []
+  keywords.split(",").each{|k|
+    qipp_workstreams << @workstream[k] if !@workstream[k].nil?
+  }
+  
+  qipp_workstreams.uniq
+end
+
+def map_category(keywords)
+  
+  if keywords.split(",").include?("QUALITY AND PRODUCTIVITY COCHRANE TOPICS")
+    "Cochrane QIPP"
+  else
+    "QIPP Case Studies"
+  end
+  
+end
+
+task :test_publisher => [:generate_publisher_source] do
+  map_publisher(ENV['publisher'])
+end
+
+def map_publisher(publisher)
+  
+  publisher_key = publisher.downcase  
+  if !@publisher[publisher_key].nil?
+    @publisher[publisher_key]
+  else
+    publisher
+  end
+end
+
+def map_source(publisher, creator)
+  source = ""
+  publisher_key = publisher.downcase
+  if !@source[publisher_key].nil?
+    source = @source[publisher_key]
+  elsif !creator.nil?
+    source = creator
+  end
+  source
+end
+
+def map_subject_area(name, keywords)
+  
+  mapping = @subject_area_mapping[name]
+  
+  raise "no subject area mapping for #{name}" if mapping.nil?
+  
+  if mapping.is_a?(Array)
+    mapping
+  elsif mapping.is_a?(Object)
+    
+    subject_area = []
+    
+    keywords.split(",").each{|keyword|
+      subject_area << mapping[keyword] if !mapping[keyword].nil?
+    }
+    
+    subject_area << mapping["DEFAULT"] if subject_area.empty?
+      
+    subject_area.flatten.uniq
+  end
+  
 end
 
 def map_publication_type(in_type)
   mapped_type = @publication_types[in_type.downcase]
-  
-  #puts "#{in_type.downcase}..."
-  #puts "#{@publication_types[in_type.downcase]}"
-  
+   
   if mapped_type.nil?
     [in_type.capitalize_each]
   else

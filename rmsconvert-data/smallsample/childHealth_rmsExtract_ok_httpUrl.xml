@@ -15,7 +15,6 @@
     <body>&lt;![CDATA[ &lt;P&gt;The first report of the National Working Group on Child Protection and Disability. The report discusses what is known about the abuse of disabled children, highlights those areas felt to be inadequate in current policy and practice, and makes recommendations to both government and local agencies. The papers that make up the report highlight important areas of concern and set out the evidence on which the recommendations are based.&lt;/P&gt;
 &lt;P&gt;This review was part of the evidence base that informed the Children's NSF.&lt;/P&gt;]]&gt;</body>
     <expiryDate>01/04/2011 00:00:00</expiryDate>
-    <creator>Ed, Lee</creator>
   </document>
   <document>
     <id>279879</id>
@@ -52,7 +51,7 @@
     <publicationDate>2004-11-01T00:00:00</publicationDate>
     <publisher>Royal College of Paediatricians and Child Health</publisher>
     <publicationType>SERVICE GUIDANCE</publicationType>
-    <topics>&lt;![CDATA[ FETAL MEDICINE,CHILD HEALTH,SPECIALTIES,PUBLICATIONS,ETHICS AND LAW,REPORTS]]&gt;</topics>
+    <topics>&lt;![CDATA[ CHILD HEALTH,SPECIALTIES,PUBLICATIONS,ETHICS AND LAW,REPORTS]]&gt;</topics>
     <resourceType>CARDEX</resourceType>
     <description></description>
     <body>&lt;![CDATA[ &lt;P&gt;This document published by the Royal College of Paediatricians and Child Health descibes the standards fo paediatric posts in the UK.&lt;/P&gt;]]&gt;</body>
@@ -321,65 +320,6 @@
     <lastReviewDate>27/01/2009 14:26:21</lastReviewDate>
     <expiryDate>27/02/2010 00:00:00</expiryDate>
   </document>
-  
-  <document>
-    <id>66631</id>
-    <name>&lt;![CDATA[ ENT and Audiology]]&gt;</name>
-    <rootDirectory>/ent</rootDirectory>
-    <url>&lt;![CDATA[http://pediatrics.aappublications.org/cgi/content/full/113/5/1451]]&gt;</url>
-    <title>Diagnosis and management of acute otitis media</title>
-    <publicationDate>2004-11-07T00:00:00</publicationDate>
-    <publisher>American Academy of Pediatrics, American Academy of Family Physicians</publisher>
-    <publicationType>CARE GUIDELINE</publicationType>
-    <topics>&lt;![CDATA[ ENT AND AUDIOLOGY,EAR &amp; AUDITORY SYSTEM DISORDERS,MIDDLE EAR,OTITIS MEDIA,CONDITIONS,THERAPEUTIC INTERVENTIONS,DRUG TREATMENTS,ANTI-BACTERIAL AGENTS]]&gt;</topics>
-    <resourceType>CARDEX</resourceType>
-    <description></description>
-    <body>&lt;![CDATA[ &lt;P&gt;This guideline provides recommendations based on best available evidence and consensus opinion. The quality and applicability of this guideline has not been formally assessed.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Summary&lt;/STRONG&gt; &lt;/P&gt;
-&lt;P&gt;1. Recommendation: To diagnose AOM the clinician should confirm a history of acute onset, identify signs of MEE, and evaluate for the presence of signs and symptoms of middle-ear inflammation. &lt;/P&gt;
-&lt;P&gt;2. Strong recommendation: The management of AOM should include an assessment of pain. If pain is present, the clinician should recommend treatment to reduce pain. &lt;/P&gt;
-&lt;P&gt;3A. Option: Observation without use of antibacterial agents in a child with uncomplicated AOM is an option for selected children based on diagnostic certainty, age, illness severity, and assurance of follow-up. &lt;/P&gt;
-&lt;P&gt;3B. Recommendation: If a decision is made to treat with an antibacterial agent, the clinician should prescribe amoxicillin for most children. Option: When amoxicillin is used, the dose should be 80 to 90 mg/kg per day. &lt;/P&gt;
-&lt;P&gt;4. Recommendation: If the patient fails to respond to the initial management option within 48 to 72 hours, the clinician must reassess the patient to confirm AOM and exclude other causes of illness. If AOM is confirmed in the patient initially managed with observation, the clinician should begin antibacterial therapy. If the patient was initially managed with an antibacterial agent, the clinician should change the antibacterial agent. &lt;/P&gt;
-&lt;P&gt;5. Recommendation: Clinicians should encourage the prevention of AOM through reduction of risk factors. &lt;/P&gt;
-&lt;P&gt;6. No recommendation: There is insufficient evidence to make a recommendation regarding the use of CAM for AOM. &lt;/P&gt;
-&lt;P&gt;&amp;nbsp; &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Citation:&lt;/STRONG&gt; American Academy of Pediatrics. Diagnosis and management of acute otitis media. Pediatrics 2004;113(5):1451-1465.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Specialist&amp;nbsp;Collection Quality Assessment:&lt;/STRONG&gt;&lt;/STRONG&gt; The quality and applicability of this guideline has not been assessed. 
-&lt;P&gt;&lt;/P&gt;]]&gt;</body>
-    <expiryDate>01/07/2011 00:00:00</expiryDate>
-  </document>
-  
-  
-   <document>
-      <id>373869</id>
-      <name>&lt;![CDATA[ Oral Health]]&gt;</name>
-      <rootDirectory>/oralhealth</rootDirectory>
-      <url>&lt;![CDATA[http://linkinghub.elsevier.com/retrieve/pii/S0889540609004119]]&gt;</url>
-      <title>Assessment of characteristic features and dental anomalies accompanying tooth transposition: a meta-analysis</title>
-      <publicationDate>2009-09-01T00:00:00</publicationDate>
-      <publisher>American Journal of Orthodontics and Dentofacial Orthopedics</publisher>
-      <publicationType>SYSTEMATIC REVIEW</publicationType>
-      <topics>&lt;![CDATA[ ORAL HEALTH,ORAL DISORDERS,DENTO-FACIAL ANOMALIES]]&gt;</topics>
-      <resourceType>CARDEX</resourceType>
-      <description></description>
-      <body>&lt;![CDATA[ &lt;P&gt;&lt;STRONG&gt;&lt;STRONG&gt;This record is a critical summary produced by NHS Evidence - oral health. For further details see our &lt;/STRONG&gt;&lt;A href="http://www.library.nhs.uk/oralhealth/Page.aspx?pagename=QUALITYPOL" target="_blank"&gt;&lt;STRONG&gt;Quality Policy&lt;/STRONG&gt;&lt;/A&gt;&lt;STRONG&gt;. &lt;/STRONG&gt;&lt;/P&gt;
-  &lt;P&gt;
-  &lt;HR&gt;
-
-  &lt;P&gt;&lt;/STRONG&gt;&amp;nbsp;&lt;/P&gt;
-  &lt;P&gt;&lt;STRONG&gt;Authors’ conclusions:&lt;/STRONG&gt; Tooth transposition is an isolated phenomenon rather than a syndrome. It occasionally can be accompanied by other characteristic features and dental anomalies, but without distinct associations. The heterogeneity of the original samples and the few studies that remained for evaluation after application of the exclusion criteria do not allow more definitive conclusions to be drawn. More high-quality studies on tooth transposition are needed to produce strong evidence based conclusions.&lt;/P&gt;
-  &lt;P&gt;&lt;STRONG&gt;Methods:&lt;/STRONG&gt;&amp;nbsp;A meta-analysis to investigate possible characteristic features and dental anomalies that accompany tooth transposition. Five studies were eligible for inclusion. Meta-analysis was performed by determining the marginal mean proportions and the 95% confidence intervals estimated by the random-effect model. Literature search to October 2008. &lt;/P&gt;
-  &lt;P&gt;&lt;STRONG&gt;Quality of review:&lt;/STRONG&gt;&amp;nbsp; The results of the review should be viewed with caution given the poor quality of evidence available.&amp;nbsp; The authors made a good attempt to identify relevant published and unpublished studies; searching a broad range of bibliographic databases, research registers and websites, supplemented by hand searching and contacting experts. &lt;/P&gt;
-  &lt;P&gt;There is some ambiguity about the inclusion criteria. Studies were to be excluded if they had a small sample size, but an adequate sample size is not defined. Although the authors state they did not impose language restrictions, papers had to have an abstract in English and four papers were excluded because they were “undetermined language”. The flow diagram indicates that 10 papers were excluded on the basis of “syndromic patients”, though the reasoning for this is unclear. This is potentially important as the authors’ concluded that tooth transposition is an isolated phenomenon rather than a syndrome. &lt;BR&gt;&lt;/P&gt;
-  &lt;P&gt;&lt;STRONG&gt;Results:&lt;/STRONG&gt; The lack of high-validity studies of the characteristic features and dental anomalies of tooth transposition was noted. The analysis of the data of the studies showed that tooth transposition seems to occur more often unilaterally than bilaterally, with maxillary prevalence and no sex preference, and it is significantly unrelated to dental anomalies, such as congenitally missing teeth, peg-shaped or hypoplastic teeth, or impacted teeth. There might be an association with overretained deciduous teeth. &lt;/P&gt;
-  &lt;P&gt;&lt;STRONG&gt;Citation:&lt;/STRONG&gt; Papadopoulos MA, Chatzoudi M, Karagiannis V. Assessment of characteristic features and dental anomalies accompanying tooth transposition: a meta-analysis. &lt;EM&gt;American Journal of&amp;nbsp; Orthodontics and Dentofacial Orthopedics&lt;/EM&gt; 2009 ;136(3):308.e1-10&lt;/P&gt;
-  &lt;P&gt;&lt;STRONG&gt;Access:&lt;/STRONG&gt; Full-text online access of this article requires subscription to the journal. NHS staff please contact your local NHS library for further assistance. &lt;A href="http://www.library.nhs.uk/mylibrary/default.aspx" target="_blank"&gt;You can find your local library via the My Library home page&lt;/A&gt;.&lt;/P&gt;
-  &lt;P&gt;BDA members can request a copy of this paper by submitting a BDA Library &lt;A href="http://tinyurl.com/2durzoq" target="_blank"&gt;photocopy request form&lt;/A&gt;. &lt;BR&gt;&lt;/P&gt;
-  &lt;P&gt;&lt;/P&gt;]]&gt;</body>
-      <expiryDate>01/10/2011 00:00:00</expiryDate>
-    </document>
-  
   <document>
     <id>201771</id>
     <name>&lt;![CDATA[ Child Health]]&gt;</name>
@@ -1368,7 +1308,7 @@
     <publicationDate>2009-07-15T00:00:00</publicationDate>
     <publisher>Royal College of Nursing (RCN)</publisher>
     <publicationType>BRIEFING</publicationType>
-    <topics>&lt;![CDATA[ CHILD HEALTH,NURSING,SPECIALTIES,PUBLICATIONS,SURGERY,STAFFING AND RECRUITMENT,CRITICAL CARE MANAGEMENT,CLINICAL TOPICS,PAEDIATRIC,CRITICAL CARE]]&gt;</topics>
+    <topics>&lt;![CDATA[ CHILD HEALTH,NURSING,SPECIALTIES,PUBLICATIONS,SURGERY,CRITICAL CARE,CLINICAL TOPICS,PAEDIATRIC,CRITICAL CARE MANAGEMENT,STAFFING AND RECRUITMENT]]&gt;</topics>
     <resourceType>CARDEX</resourceType>
     <description></description>
     <body>&lt;![CDATA[ Position statement from the RCN on looking after children in adult hospitals and units during a pandemic flu, aimed at nurses and organisation.]]&gt;</body>
@@ -2368,6 +2308,33 @@
     <expiryDate>03/03/2010 00:00:00</expiryDate>
   </document>
   <document>
+    <id>406982</id>
+    <name>&lt;![CDATA[ Child Health]]&gt;</name>
+    <rootDirectory>/childHealth</rootDirectory>
+    <url>&lt;![CDATA[http://www.specialisedservices.nhs.uk/safe_sustainable/childrens-congenital-cardiac-services]]&gt;</url>
+    <title>Children's Congenital Cardiac Services : Safe and Sustainable review</title>
+    <publicationDate>2011-02-16T00:00:00</publicationDate>
+    <publisher>NHS Specialised Services</publisher>
+    <publicationType>REPORT</publicationType>
+    <topics>&lt;![CDATA[ CHILD HEALTH,CARDIOLOGY,SURGICAL,CONGENITAL HEART DISEASE,SPECIALTIES,SURGERY,SURGERY,THEATRE MANAGEMENT,PATIENT SAFETY,HEART]]&gt;</topics>
+    <resourceType>CARDEX</resourceType>
+    <description></description>
+    <body>&lt;![CDATA[ &lt;P&gt;The NHS is reviewing how it delivers congenital heart services to children in England and Wales. This is at the request of national parent groups, NHS clinicians and their professional associations.&lt;/P&gt;
+&lt;P&gt;The aim of the Safe and Sustainable review is to develop a national service that has:&lt;/P&gt;
+&lt;UL&gt;
+&lt;LI&gt;Better results in surgical centres with fewer deaths and complications following surgery 
+&lt;LI&gt;Better, more accessible assessment services and follow up treatment delivered within regional and local networks 
+&lt;LI&gt;Reduced waiting times and fewer cancelled operations 
+&lt;LI&gt;Improved communication between parents and all of the services in the network that see their child 
+&lt;LI&gt;Better training for surgeons and their teams to ensure the service is sustainable for the future 
+&lt;LI&gt;A trained workforce of experts in the care and treatment of children and young people with congenital heart disease 
+&lt;LI&gt;Surgical centres at the forefront of modern working practices and new technologies that are leaders in research and development 
+&lt;LI&gt;A network of specialist centres collaborating in research and clinical development, encouraging the sharing of knowledge across the network&amp;nbsp; &lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;The review has proposed four options to reduce the number of hospitals providing children’s heart surgery from 11 to six or seven. New quality standards are also proposed to ensure better care and survival rates for children. Whilst specialist surgical care would be centralised, the NHS would like more expert assessment and ongoing care services closer to families’ homes. &lt;/P&gt;
+&lt;P&gt;A four month public consultation launches on 28 February 2011,&amp;nbsp;closing on 1 July. The public will be invited to give their views on the recommendations. A final decision will be made later this year.&lt;/P&gt;]]&gt;</body>
+    <expiryDate>22/02/2012 00:00:00</expiryDate>
+  </document>
+  <document>
     <id>275669</id>
     <name>&lt;![CDATA[ Child Health]]&gt;</name>
     <rootDirectory>/childHealth</rootDirectory>
@@ -2484,7 +2451,7 @@
     <publicationDate>2006-10-31T00:00:00</publicationDate>
     <publisher>Health Technology Assessment (HTA) Programme</publisher>
     <publicationType>SYSTEMATIC REVIEW</publicationType>
-    <topics>&lt;![CDATA[ PROGRAMME,INFECTIOUS DISEASES,STAFF USE,HTA,URINARY TRACT INFECTIONS,SPECIALTIES,NEPHROLOGY,CHILD HEALTH,INFECTIONS,CHILDREN,JAN 09,POPULATION GROUPS,URINARY TRACT INFECTION]]&gt;</topics>
+    <topics>&lt;![CDATA[ STAFF USE,HTA,URINARY TRACT INFECTIONS,SPECIALTIES,NEPHROLOGY,CHILD HEALTH,PROGRAMME,INFECTIONS,INFECTIOUS DISEASES,CHILDREN,POPULATION GROUPS,URINARY TRACT INFECTION,JAN 09,ADDED 2009]]&gt;</topics>
     <resourceType>CARDEX</resourceType>
     <description>The HTA Programme conducts research into the costs, effectiveness and impact of health technologies.</description>
     <body>&lt;![CDATA[ &lt;P&gt;Health Technology Assessment 2008; Vol. 10 (36): 
@@ -2960,7 +2927,7 @@
     <publicationDate></publicationDate>
     <publisher>NHS National Knowledge Service and National Institute for Health Research</publisher>
     <publicationType>REFERENCE MATERIAL</publicationType>
-    <topics>&lt;![CDATA[ RESPIRATORY,RESEARCH INFORMATION,CHILD HEALTH,ORGANISATIONS,SURGERY,ETHICS AND PROFESSIONAL STANDARDS,ACADEMIC / RESEARCH BODIES,TRAINING]]&gt;</topics>
+    <topics>&lt;![CDATA[ RESPIRATORY,RESEARCH INFORMATION,ORGANISATIONS,CHILD HEALTH,ETHICS AND PROFESSIONAL STANDARDS,SURGERY,ACADEMIC / RESEARCH BODIES,TRAINING]]&gt;</topics>
     <resourceType>CARDEX</resourceType>
     <description></description>
     <body>&lt;![CDATA[ The EQUATOR Network is a quality improvement&amp;nbsp;initiative that seeks to&amp;nbsp;enhance reliability of&amp;nbsp;medical&amp;nbsp;research&amp;nbsp;literature&amp;nbsp;by promoting transparent and accurate reporting of health research. 
@@ -3707,15 +3674,16 @@
     <id>31116</id>
     <name>&lt;![CDATA[ Child Health]]&gt;</name>
     <rootDirectory>/childHealth</rootDirectory>
-    <url>&lt;![CDATA[http://www.dh.gov.uk/PublicationsAndStatistics/Publications/PublicationsPolicyAndGuidance/PublicationsPolicyAndGuidanceArticle/fs/en?CONTENT_ID=4005526&amp;chk=iNOtqW]]&gt;</url>
+    <url>&lt;![CDATA[http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_121497]]&gt;</url>
     <title>Guidance on the Microbiological Safety of Human Organs, Tissues and Cells used in Transplantation</title>
-    <publicationDate>2000-08-01T00:00:00</publicationDate>
+    <publicationDate>2011-02-21T00:00:00</publicationDate>
     <publisher>Department of Health</publisher>
     <publicationType>SERVICE GUIDANCE</publicationType>
-    <topics>&lt;![CDATA[ CHILD HEALTH,NEPHROLOGY,GUIDELINES/EBM,TRANSPLANTATION,SPECIALTIES,STAFF USE]]&gt;</topics>
+    <topics>&lt;![CDATA[ CHILD HEALTH,GUIDELINES/EBM,NEPHROLOGY,HEALTH MANAGEMENT,TRANSPLANTATION,SPECIALTIES,SERVICE SECTORS,ACUTE SERVICES,STAFF USE]]&gt;</topics>
     <resourceType>CARDEX</resourceType>
     <description></description>
-    <body>&lt;![CDATA[ &lt;P&gt;This guidance covers the management of risk of infection in the transplantation of organs, tissues and cells. Kidneys are one of the organs considered here. 
+    <body>&lt;![CDATA[ &lt;P&gt;This guidance updates and replaces the guidance issued in 2000 by the Advisory Committee on the Microbiological Safety of Blood Tissues and Organs for Transplantation (MSBTO). The role of MSBTO has now been replaced by the Advisory Committee on the Safety of Blood Tissues and Organs (SaBTO), whose role is to advise on reducing to a minimum the avoidable risk of transmission of infection through transplantation. The guidance has been written by a working group after extensive consultation.&lt;BR&gt;
+&lt;P&gt;This guidance covers the management of risk of infection in the transplantation of organs, tissues and cells. Kidneys are one of the organs considered here. 
 &lt;P&gt;Contents of the guidance include: 
 &lt;UL&gt;
 &lt;LI&gt;steps in the transplantation process 
@@ -3725,7 +3693,7 @@
 &lt;LI&gt;testing of organs, tissues and cells 
 &lt;LI&gt;review&lt;/LI&gt;&lt;/UL&gt;
 &lt;P&gt;&lt;BR&gt;Please note, this guidance is available here as a Portable Document Format (PDF) file. &lt;/P&gt;]]&gt;</body>
-    <expiryDate>31/01/2010 00:00:00</expiryDate>
+    <expiryDate>21/03/2013 00:00:00</expiryDate>
   </document>
   <document>
     <id>87955</id>
@@ -4230,7 +4198,8 @@
 &lt;P&gt;ISSN: 0165-5876&lt;BR&gt;Published 15 times a year 
 &lt;P&gt;Online access to full text is available to subscribers from September 1997 (Volume 41, 3) onwards though the journal homepage.&lt;BR&gt;Information about the journal, tables of contents and abstracts can be freely accessed by non-subscribers.&lt;/P&gt;]]&gt;</body>
     <expiryDate>12/03/2010 00:00:00</expiryDate>
-    <relatedLinks><a href="http://www.journals.elsevierhealth.com/periodicals/PEDOT" title="http://www.journals.elsevierhealth.com/periodicals/PEDOT"/><a href="http://www.bapo.org.uk/" title="British Association for Paediatric Otorhinolaryngology"/></relatedLinks>
+    <relatedLinks>&lt;a href="http://www.journals.elsevierhealth.com/periodicals/PEDOT" title="http://www.journals.elsevierhealth.com/periodicals/PEDOT"/&gt;&lt;a href="http://www.bapo.org.uk/" title="British Association for Paediatric Otorhinolaryngology"/&gt;</relatedLinks>
+    <creator />
   </document>
   <document>
     <id>5458</id>
@@ -4493,7 +4462,8 @@
 &lt;P&gt;Abstracts and PDFs are available&amp;nbsp; from March&amp;nbsp;1997 onwards.&lt;/P&gt;
 &lt;P&gt;Information about the journal, tables of contents and abstracts can be freely accessed by non-subscribers.&lt;/P&gt;]]&gt;</body>
     <expiryDate>16/04/2010 00:00:00</expiryDate>
-    <relatedLinks><a href="http://chc.sagepub.com/" title="http://chc.sagepub.com/"/><a href="http://www.abpn.org.uk/" title="Association of British Paediatric Nurses"/></relatedLinks>
+    <relatedLinks>&lt;a href="http://chc.sagepub.com/" title="http://chc.sagepub.com/"/&gt;&lt;a href="http://www.abpn.org.uk/" title="Association of British Paediatric Nurses"/&gt;</relatedLinks>
+    <creator />
   </document>
   <document>
     <id>82921</id>
@@ -4529,7 +4499,8 @@
 &lt;P&gt;ISSN: 1469-7610&lt;BR&gt;Published 8 times a year. 
 &lt;P&gt;Online access to full text from January 1998 (Volume 39, 1) is via subscription, with free access for non subscribers to tables of contents, some abstracts and full text articles plus additional features.&lt;BR&gt;&lt;/P&gt;]]&gt;</body>
     <expiryDate>13/03/2010 00:00:00</expiryDate>
-    <relatedLinks><a href="http://www.blackwellpublishing.com/journal.asp?ref=0021-9630" title="http://www.blackwellpublishing.com/journal.asp?ref=0021-9630"/><a href="http://www.acpp.org.uk/" title="Association of Child Psychology and Psychiatry"/></relatedLinks>
+    <relatedLinks>&lt;a href="http://www.blackwellpublishing.com/journal.asp?ref=0021-9630" title="http://www.blackwellpublishing.com/journal.asp?ref=0021-9630"/&gt;&lt;a href="http://www.acpp.org.uk/" title="Association of Child Psychology and Psychiatry"/&gt;</relatedLinks>
+    <creator />
   </document>
   <document>
     <id>82925</id>
@@ -6508,7 +6479,8 @@
 &lt;P&gt;Published 12 times a year&lt;BR&gt;ISSN:&amp;nbsp; 0031-3998 
 &lt;P&gt;&lt;STRONG&gt;Access to this journal:&lt;BR&gt;&lt;/STRONG&gt;Access to full text is via subscription through the above link, with free access for non subscribers to abstracts plus additional features. &lt;/P&gt;]]&gt;</body>
     <expiryDate>20/03/2010 00:00:00</expiryDate>
-    <relatedLinks><a href="http://www.pedresearch.org/" title="http://www.pedresearch.org/"/><a href="http://www.aps-spr.org/" title="The American Pediatric Society"/></relatedLinks>
+    <relatedLinks>&lt;a href="http://www.pedresearch.org/" title="http://www.pedresearch.org/"/&gt;&lt;a href="http://www.aps-spr.org/" title="The American Pediatric Society"/&gt;</relatedLinks>
+    <creator />
   </document>
   <document>
     <id>284292</id>
@@ -6545,7 +6517,8 @@
 &lt;P&gt;Print ISSN: 1397-3142&lt;BR&gt;Online ISSN: 1399-3046&lt;BR&gt;Published 6 times a year 
 &lt;P&gt;&lt;STRONG&gt;Access to this journal:&lt;BR&gt;&lt;/STRONG&gt;Access to full text is via subscription through the above link, with free access for non subscribers to abstracts plus additional features. &lt;/P&gt;]]&gt;</body>
     <expiryDate>20/03/2010 00:00:00</expiryDate>
-    <relatedLinks><a href="http://www.blackwellpublishing.com/journal.asp?ref=1397-3142" title="http://www.blackwellpublishing.com/journal.asp?ref=1397-3142"/><a href="http://www.iptaonline.org/" title="International Pediatric Transplant Association"/></relatedLinks>
+    <relatedLinks>&lt;a href="http://www.blackwellpublishing.com/journal.asp?ref=1397-3142" title="http://www.blackwellpublishing.com/journal.asp?ref=1397-3142"/&gt;&lt;a href="http://www.iptaonline.org/" title="International Pediatric Transplant Association"/&gt;</relatedLinks>
+    <creator />
   </document>
   <document>
     <id>5679</id>
@@ -6564,7 +6537,8 @@
 &lt;P&gt;&lt;STRONG&gt;Access to the full text of this journal:&lt;BR&gt;&lt;/STRONG&gt;NHS staff can access full text articles from&amp;nbsp;2003 -&amp;nbsp;2005, through&amp;nbsp;EBSCO as part of the NHS Core Content Collection. 
 &lt;P&gt;&lt;STRONG&gt;Athens access:&lt;BR&gt;&lt;/STRONG&gt;NHS staff wishing to access licensed resources need a (free) Athens username and password which can be arranged at any local NHS Library or online at: &lt;A href="https://register.athensams.net/nhs/" target="_blank"&gt;https://register.athensams.net/nhs/&lt;/A&gt;&lt;/P&gt;]]&gt;</body>
     <expiryDate>30/12/2009 00:00:00</expiryDate>
-    <relatedLinks><a href="http://search.ebscohost.com/direct.asp?db=c8h&jid=PDT&scope=site&authtype=athens" title="If you have an Athens username and password, click this link to access the journal"/><a href="http://www.aap.org/" title="American Academy of Pediatrics"/></relatedLinks>
+    <relatedLinks>&lt;a href="http://search.ebscohost.com/direct.asp?db=c8h&amp;jid=PDT&amp;scope=site&amp;authtype=athens" title="If you have an Athens username and password, click this link to access the journal"/&gt;&lt;a href="http://www.aap.org/" title="American Academy of Pediatrics"/&gt;</relatedLinks>
+    <creator>American Academy of Pediatrics</creator>
   </document>
   <document>
     <id>5682</id>
@@ -6912,7 +6886,7 @@
     <publicationDate>2009-05-06T00:00:00</publicationDate>
     <publisher>Royal College of Paediatricians and Child Health (RCPCH)</publisher>
     <publicationType>CONSENSUS STATEMENT</publicationType>
-    <topics>&lt;![CDATA[ INFLUENZA,INFECTIOUS DISEASES,COMMUNICABLE DISEASES,CHILD HEALTH,RESPIRATORY,SPECIALTIES,MEDICINES,VIRAL,VIRAL INFECTIONS,INFECTIONS,INFECTIONS,ANTIMICROBIALS,ANTIVIRALS,RESPIRATORY INFECTIONS,PANDEMIC INFLUENZA,POPULATION GROUPS,TREATMENT,CHILDREN,INFLUENZA VIRUS,VIRUSES,MICROORGANISM,AUGUST 09]]&gt;</topics>
+    <topics>&lt;![CDATA[ COMMUNICABLE DISEASES,CHILD HEALTH,RESPIRATORY,SPECIALTIES,MEDICINES,VIRAL,INFECTIONS,VIRAL INFECTIONS,INFECTIONS,ANTIMICROBIALS,ANTIVIRALS,INFLUENZA VIRUS,VIRUSES,MICROORGANISM,INFLUENZA,INFECTIOUS DISEASES,RESPIRATORY INFECTIONS,PANDEMIC INFLUENZA,CHILDREN,POPULATION GROUPS,TREATMENT,ADDED 2009,AUGUST 09]]&gt;</topics>
     <resourceType>CARDEX</resourceType>
     <description></description>
     <body>&lt;![CDATA[ A statement prepared by the Science and Research Department of the UK Royal College of Paediatrics &amp;amp; Child Health using expert opinion and information available as of May 2009. It is an interim consensus statement and represents a reasonable extrapolation from available data. It will be reviewed and updated in line with the national plan and as further information becomes available. 
@@ -7486,7 +7460,7 @@
     <publicationDate></publicationDate>
     <publisher>Department of Health</publisher>
     <publicationType>SERVICE GUIDANCE</publicationType>
-    <topics>&lt;![CDATA[ CHILD HEALTH,CONSENT,ETHICS AND LAW,SURGERY,SPECIALIST ANAESTHESIA,ETHICS AND PROFESSIONAL STANDARDS,ANAESTHESIA,PERIOPERATIVE MANAGEMENT,PAEDIATRIC ANAESTHESIA,INFORMED CONSENT,CONSENT AND ASSENT]]&gt;</topics>
+    <topics>&lt;![CDATA[ CHILD HEALTH,ETHICS AND LAW,CONSENT,SPECIALIST ANAESTHESIA,PERIOPERATIVE MANAGEMENT,ETHICS AND PROFESSIONAL STANDARDS,INFORMED CONSENT,PAEDIATRIC ANAESTHESIA,SURGERY,ANAESTHESIA,CONSENT AND ASSENT]]&gt;</topics>
     <resourceType>CARDEX</resourceType>
     <description></description>
     <body>&lt;![CDATA[ &lt;P&gt;Guidance for those whose work involves the healthcare of children outlining what they need to know about obtaining consent before providing care. Topics covered include: 
@@ -8367,7 +8341,7 @@
     <publicationDate>2006-11-01T00:00:00</publicationDate>
     <publisher>National Prescribing Centre (NPC)</publisher>
     <publicationType>REVIEW</publicationType>
-    <topics>&lt;![CDATA[ INFECTIOUS DISEASES,CHILD HEALTH,EAR,RESPIRATORY,NEPHROLOGY,SPECIALTIES,URINARY TRACT INFECTIONS,VIRAL,OTITIS MEDIA,INFECTIONS,INFECTIONS,POPULATION GROUPS,JAN 09,CHILDREN]]&gt;</topics>
+    <topics>&lt;![CDATA[ CHILD HEALTH,EAR,NEPHROLOGY,RESPIRATORY,VIRAL,URINARY TRACT INFECTIONS,OTITIS MEDIA,SPECIALTIES,INFECTIONS,INFECTIONS,INFECTIOUS DISEASES,POPULATION GROUPS,CHILDREN,ADDED 2009,JAN 09]]&gt;</topics>
     <resourceType>CARDEX</resourceType>
     <description>Volume 17, Number 3. November 2006.</description>
     <body>&lt;![CDATA[ &lt;P&gt;This is one of a series of bulletins published by the National Prescribing Centre. The bulletin was published in&amp;nbsp; November 2006 and focuses on the management of common infections in primay care.&lt;/P&gt;
@@ -8491,7 +8465,8 @@
 &lt;P&gt;ISSN: 0891-3668 &lt;BR&gt;Published 12 times a year 
 &lt;P&gt;&lt;STRONG&gt;Access to this journal:&lt;BR&gt;&lt;/STRONG&gt;Access to full text is via subscription through the above link, with free access for non subscribers to abstracts plus additional features. &lt;/P&gt;]]&gt;</body>
     <expiryDate>27/03/2010 00:00:00</expiryDate>
-    <relatedLinks><a href="http://www.pidj.com/" title="http://www.pidj.com/"/><a href="http://www.pids.org/" title="Pediatric Infectious Diseases Society"/><a href="http://www.espid.org/" title="European Society for Paediatric Infectious Diseases"/></relatedLinks>
+    <relatedLinks>&lt;a href="http://www.pidj.com/" title="http://www.pidj.com/"/&gt;&lt;a href="http://www.pids.org/" title="Pediatric Infectious Diseases Society"/&gt;&lt;a href="http://www.espid.org/" title="European Society for Paediatric Infectious Diseases"/&gt;</relatedLinks>
+    <creator />
   </document>
   <document>
     <id>316156</id>

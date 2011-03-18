@@ -4,25 +4,25 @@ require 'sanitize'
 require 'json'
 require 'find'
 require 'csv'
-require 'prettyprint'
+require 'pp'
 require 'yaml'
 
 require 'open-uri'
 require 'uri'
 
-require 'lib/specialities'
-require 'lib/classify'
-require 'lib/subjectareas'
-require 'lib/workstream'
+require Dir.pwd + '/lib/specialities'
+require Dir.pwd + '/lib/classify'
+require Dir.pwd + '/lib/subjectareas'
+require Dir.pwd + '/lib/workstream'
 
-#require 'curb'
+# require 'curb'  #  https://github.com/taf2/curb.git
 
 ## TODO
-# need to try catorgorise the urls...
+# need to try catorgorize the urls...
 # output will look like:
 # article url, mapped terms, autocat terms (relevancy...)
 
-# knowlege management mapping file is junk
+# knowledge management mapping file is junk
 
 @mappings
 @csv_paths
@@ -115,38 +115,41 @@ end
 
 task :generate_subject_area_mappings do
   import_subject_area_mapping("gastroliver", "Gastrointestinal disorders")
-
+end
 
 def import_subject_area_mapping(name, default_mapping)
-  
+
   taxonomy_term = ""
   subject_area = []
-  
+
+
+
   mappings = Hash.new
-  
-  flt_taxonomy_term = 0
+
+  mappings["DEFAULT"] = default_mapping
+
+  fld_taxonomy_term = 0
   fld_subject_area_1 = 1
   fld_subject_area_2 = 2
   
-  CSV.foreach("#{@controlled_fields_folder}/subjectarea-#{name}.csv") do |row|
-    next if row[0].to_s.eql("TAXONOMY_TERM")
-    
-    if row[flt_taxonomy_term].to_s != taxonomy_term
-     
+  CSV.foreach( Dir.pwd + "/#{@controlled_fields_folder}/subjectarea-#{name}.csv") do |row|
+    next if row[0].to_s.eql?("TAXONOMY_TERM")
+    next if row[fld_subject_area_1].to_s.empty? and subject_area[0].nil?
+
+    if !row[fld_subject_area_1].to_s.empty?
+      subject_area = []
+      subject_area[0] = row[fld_subject_area_1].to_s if !row[fld_subject_area_1].to_s.empty?
+      subject_area[1] = row[fld_subject_area_2].to_s if !row[fld_subject_area_2].to_s.empty?
     end
-    
-    #... when the subject area changes, when blank assumed to be previous record mapping...
-    #... no need to import default taxonomy mapping
-    
-    #@publication_types[row[0].to_s.downcase] = row[1]
-    #@publication_types[row[0].to_s.downcase] = row[0] if row[1].nil?
+
+    mappings[row[fld_taxonomy_term].to_s] = subject_area
+
   end
   
   @subject_area_mapping[name] = mappings
-  
-end
 
 end
+
 
 task :generate_publication_types do
   @publication_types = Hash.new
@@ -379,8 +382,7 @@ def map_subject_area(name, keywords)
   
   mapping = @subject_area_mapping[name]
   
-  #raise "no subject area mapping for #{name}" if mapping.nil?
-  if !mapping.nil?
+  raise "no subject area mapping for #{name}" if mapping.nil?
   
   if mapping.is_a?(Array)
     mapping
@@ -395,7 +397,6 @@ def map_subject_area(name, keywords)
     subject_area << mapping["DEFAULT"] if subject_area.empty?
       
     subject_area.flatten.uniq
-  end
   end
   
 end
@@ -472,5 +473,5 @@ class String
   end
   def capitalize_each
     self.split(" ").each{|word| word.capitalize!}.join(" ")
-  end 
-end 
+  end
+end

@@ -113,6 +113,42 @@ task :find_ontology_ids => [:generate_csv_paths] do
   
 end
 
+task :generate_subject_area_mappings do
+  import_subject_area_mapping("gastroliver", "Gastrointestinal disorders")
+  
+  
+do
+
+def import_subject_area_mapping(name, default_mapping)
+  
+  taxonomy_term = ""
+  subject_area = []
+  
+  mappings = Hash.new
+  
+  flt_taxonomy_term = 0
+  fld_subject_area_1 = 1
+  fld_subject_area_2 = 2
+  
+  CSV.foreach("#{@controlled_fields_folder}/subjectarea-#{name}.csv") do |row|
+    next if row[0].to_s.eql("TAXONOMY_TERM")
+    
+    if row[flt_taxonomy_term].to_s != taxonomy_term
+     
+    end
+    
+    ... when the subject area changes, when blank assumed to be previous record mapping...
+    ... no need to import default taxonomy mapping
+    
+    #@publication_types[row[0].to_s.downcase] = row[1]
+    #@publication_types[row[0].to_s.downcase] = row[0] if row[1].nil?
+  end
+  
+  @subject_area_mapping[name] = mappings
+  
+end
+
+
 task :generate_publication_types do
   @publication_types = Hash.new
   
@@ -215,8 +251,11 @@ task :default => [:generate_mappings] do
         puts data['document'].count
      
         documents = Array.new
-        data['document'][1..100].each{ |doc| 
-          documents << create_document(doc, file)
+        data['document'].each{ |doc| 
+          
+          document = create_document(doc, file)
+          
+          documents << document if include?(document)
         }
         File.open(File.join(output_folder, "all.json"), 'w') { |f|
           f.write(JSON.pretty_generate(documents))
@@ -226,6 +265,18 @@ task :default => [:generate_mappings] do
    end
 
 end
+
+def include?(document)
+  publication_type = document["PublicationType"]
+  title = document["Title"]
+    
+  if publication_type.eql?("Evidence updates") or publication_type.eql?("Narrative reviews") or title.downcase.include?(" annual evidence update on ")
+    false
+  else
+    true
+  end
+end
+
 
 def create_document (doc, area_of_interest)
     document = Hash.new
@@ -248,7 +299,8 @@ def create_document (doc, area_of_interest)
     document['PublicationType'] = map_publication_type(doc['publicationType'][0].to_s)
         
     publisher = doc['publisher'][0].to_s.strip
-    document['Source'] = map_source(publisher, area_of_interest)
+    
+    document['Source'] = map_source(publisher, doc['creator'].to_s.split(", "))
     document['Publisher'] = map_publisher(publisher)
     
     audience = document['Description'].scan(@intended_audience)[0]
@@ -267,9 +319,9 @@ def create_document (doc, area_of_interest)
     
     document['SubjectArea'] = map_subject_area(area_of_interest, keywords)
     
-    # needs to be "Mental Health"...  last person who edited the record...   "mental health"
-    document['ImportProcesCreator'] = area_of_interest
-    document['ImportLastEditedBy'] = "last_edited_by"
+    # these are used primarily in the import process... and yes, the last edited by is the same as the process creator - as advised by Fran W
+    document['ImportProcesCreator'] = doc['name'].to_s.strip_cdata
+    document['ImportLastEditedBy'] = document['ImportProcesCreator']
     
     if area_of_interest.eql?("qipp")
       document["QIPPWorkstreams"] = map_qipp_workstreams(keywords)       
@@ -313,15 +365,15 @@ def map_publisher(publisher)
   end
 end
 
-def map_source(publisher, area_of_interest)
-  
+def map_source(publisher, creator)
+  source = ""
   publisher_key = publisher.downcase
-  if !@source[publisher].nil?
-    publisher = @source[publisher]
-  else
-    publisher = area_of_interest
+  if !@source[publisher_key].nil?
+    source = @source[publisher_key]
+  elsif !creator.nil?
+    source = creator
   end
-  publisher
+  source
 end
 
 def map_subject_area(name, keywords)

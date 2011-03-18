@@ -450,6 +450,7 @@ child_health = {
 }
 
 
+
 @subject_area_mapping = {
   "cancer" => ["Cancers"],
   "cardiovascular" =>	["Cardiovascular system disorders"],	
@@ -479,7 +480,7 @@ child_health = {
   "stroke" =>	["Cardiovascular system disorders"],			
   "palliative" =>	["Palliative and End of Life Care", "Supportive care"],
   "childhealth" => child_health,
-  "ent" => {},
+  "ent" => ["Ear, nose and throat"],
   "gastroliver" => {},
   "guidelinesfinder" => {}, # ?
   "theatres" => {}, # Surgery, anaesthesia, perioperative and critical care

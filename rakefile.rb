@@ -14,7 +14,7 @@ require 'lib/specialities'
 require 'lib/classify'
 require 'lib/subjectareas'
 
-require 'curb'
+#require 'curb'
 
 ## TODO
 # need to try catorgorise the urls...
@@ -261,7 +261,7 @@ def create_document (doc, area_of_interest)
     document['Contributor'] = doc['creator'].to_s.split(", ")
     
     # needs to be "Mental Health"...
-    document['ImportProcesCreator'] = area_of_interest
+    document['ImportProcessCreator'] = area_of_interest
         
     document
 end

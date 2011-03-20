@@ -302,7 +302,7 @@ def create_document (doc, area_of_interest)
         
     publisher = doc['publisher'][0].to_s.strip
     
-    document['Source'] = map_source(publisher, doc['creator'].to_s.split(", "))
+    document['Source'] = map_source(publisher, doc['creator'].to_s.split(", "))[0].to_s
     document['Publisher'] = map_publisher(publisher)
     
     audience = document['Description'].scan(@intended_audience)[0]
@@ -322,7 +322,7 @@ def create_document (doc, area_of_interest)
     document['SubjectArea'] = map_subject_area(area_of_interest, keywords)
     
     # these are used primarily in the import process... and yes, the last edited by is the same as the process creator - as advised by Fran W
-    document['ImportProcesCreator'] = doc['name'].to_s.strip_cdata
+    document['ImportProcesCreator'] = doc['name'][0].to_s.strip_cdata
     document['ImportLastEditedBy'] = document['ImportProcesCreator']
     
     if area_of_interest.eql?("qipp")
@@ -361,9 +361,9 @@ def map_publisher(publisher)
   
   publisher_key = publisher.downcase  
   if !@publisher[publisher_key].nil?
-    @publisher[publisher_key]
+    [@publisher[publisher_key]]
   else
-    publisher
+    [publisher]
   end
 end
 

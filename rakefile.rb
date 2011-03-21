@@ -464,8 +464,6 @@ def map_subject_area(name, keywords)
   
   mapping = @subject_area_mapping[name]
   
-  
-
   if mapping.is_a?(Array)
     mapping
   elsif mapping.is_a?(Object)
@@ -480,7 +478,7 @@ def map_subject_area(name, keywords)
       
     subject_area.flatten.uniq
   end
-  end
+
 end
 
 def map_publication_type(in_type)
@@ -531,7 +529,7 @@ def process_term(data)
     mapped_paths << "|" + paths["path"].collect{|path| path["field"]["name"] }.join('|') + "|"
   }
   
-  term_info = {
+  {
     :paths => mapped_paths,
     :ontology_id => term_data["id"]
   }

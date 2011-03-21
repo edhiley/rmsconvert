@@ -443,9 +443,9 @@ def map_publisher(publisher)
   
   publisher_key = publisher.downcase  
   if !@publisher[publisher_key].nil?
-    @publisher[publisher_key]
+    [@publisher[publisher_key]]
   else
-    publisher
+    [publisher]
   end
 end
 
@@ -455,7 +455,7 @@ def map_source(publisher, creator)
   if !@source[publisher_key].nil?
     source = @source[publisher_key]
   elsif !creator.nil?
-    source = creator
+    source = creator.first
   end
   source
 end
@@ -464,8 +464,8 @@ def map_subject_area(name, keywords)
   
   mapping = @subject_area_mapping[name]
   
-  raise "no subject area mapping for #{name}" if mapping.nil?
   
+
   if mapping.is_a?(Array)
     mapping
   elsif mapping.is_a?(Object)
@@ -480,7 +480,7 @@ def map_subject_area(name, keywords)
       
     subject_area.flatten.uniq
   end
-  
+  end
 end
 
 def map_publication_type(in_type)

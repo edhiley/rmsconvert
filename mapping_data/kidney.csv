@@ -117,14 +117,14 @@ ACUTE URINARY RETENTION,Urinary Retention,D016055,0,120078,"[""|Diseases|Female 
 CHRONIC URINARY RETENTION,Urinary Retention,D016055,0,120078,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Urination Disorders|Urinary Retention|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Urination Disorders|Urinary Retention|""]"
 BLADDER EXSTROPHY,Bladder Exstrophy,D001746,0,120338,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Urinary Bladder Diseases|Bladder Exstrophy|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Urinary Bladder Diseases|Bladder Exstrophy|"",""|Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Congenital Abnormalities|Urogenital Abnormalities|Bladder Exstrophy|"",""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urogenital Abnormalities|Bladder Exstrophy|"",""|Diseases|Male Urogenital Diseases|Urogenital Abnormalities|Bladder Exstrophy|""]"
 BLADDER CANCER,Bladder Cancer,D001749,0,0,null
-PROSTATE DISORDERS,Prostatic Diseases  ,D011469,0,0,null
+PROSTATE DISORDERS,Prostatic Diseases,D011469,0,0,null
 BENIGN PROSTATE ENLARGEMENT,Benign Prostatic Hyperplasia,D011470,0,0,null
 PROSTATITIS,Prostatitis,D011472,0,0,null
 ACUTE PROSTATITIS,Prostatitis,D011472,0,0,null
 CHRONIC PROSTATITIS,Prostatitis,D011472,0,0,null
 NON-BACTERIAL PROSTATITIS,Prostatitis,D011472,0,0,null
 PROSTATE CANCER,Prostate Cancer,D011471,0,0,null
-PENILE DISORDERS,Penile Diseases  ,D010409,0,0,null
+PENILE DISORDERS,Penile Diseases,D010409,0,0,null
 PENILE DISORDERS,"Sexual Dysfunction, Physiological",D012735,0,120692,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Genital Diseases, Female|Sexual Dysfunction, Physiological|"",""|Diseases|Male Urogenital Diseases|Genital Diseases, Male|Sexual Dysfunction, Physiological|""]"
 ERECTILE DYSFUNCTION,Erectile Dysfunction,D007172,0,107080,"[""|Psychiatry and Pscychology|Mental Disorders|Sexual and Gender Disorders|Sexual Dysfunctions, Psychological|Erectile Dysfunction|""]"
 PREMATURE EJACULATION,Premature ejaculation,,0,0,null

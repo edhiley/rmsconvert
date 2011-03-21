@@ -15,7 +15,7 @@ require Dir.pwd + '/lib/classify'
 require Dir.pwd + '/lib/subjectareas'
 require Dir.pwd + '/lib/workstream'
 
-# require 'curb'  #  https://github.com/taf2/curb.git
+require 'curb'  #  https://github.com/taf2/curb.git
 
 ## TODO
 # need to try catorgorize the urls...
@@ -215,7 +215,7 @@ task :generate_mappings => [:generate_csv_paths, :generate_publication_types, :g
     
   }
    
-  File.open("mappings.yaml", "w") { |file| YAML.dump(@mappings, file) }
+  # File.open("mappings.yaml", "w") { |file| YAML.dump(@mappings, file) }
   puts "processed mappings written to mappings.yaml"
   
 end
@@ -247,10 +247,11 @@ task :default => [:generate_mappings] do
         
         
         FileUtils.mkdir_p output_folder
+        FileUtils.mkdir_p output_folder + "_assets"
         
         data = XmlSimple.xml_in(path)
      
-        puts data['document'].count
+        puts "#{data['document'].count} documents (unfiltered)"
      
         documents = Array.new
         data['document'].each{ |doc| 
@@ -259,9 +260,41 @@ task :default => [:generate_mappings] do
           
           documents << document if include?(document)
         }
-        File.open(File.join(output_folder, "all.json"), 'w') { |f|
-          f.write(JSON.pretty_generate(documents))
+
+        # debugging code for json conversion failures
+        failed_docs = []
+        documents.each do |d|
+          begin
+            json = JSON.pretty_generate(d)
+          rescue StandardError => kaboom
+            puts "document #{d["RMSId"]} failed to be converted to json"
+            failed_docs << d
+          end
+        end
+
+        failed_docs.each{|d|
+          d.keys.each{|k|
+            begin
+              json = JSON.pretty_generate(d[k])
+            rescue StandardError => beep
+              puts d[k].to_s + beep.to_s
+              end
+            }
         }
+
+
+        File.open(File.join(output_folder, "all.json"), 'w') { |f|
+          begin
+            f.write(JSON.pretty_generate(documents))
+          rescue StandardError => bang
+            puts "ERROR: could not generate json in #{output_folder},  #{bang}"
+            File.open(File.join(output_folder, "all.json.fail"), 'w') { |f|
+               f.write(bang)
+               f.write(documents.to_s)
+             }
+          end
+        }
+
       
       end
    end
@@ -284,9 +317,11 @@ def create_document (doc, area_of_interest)
     document = Hash.new
 
     keywords = Sanitize.clean(doc['topics'][0].to_s.strip_cdata.strip, Sanitize::Config::RELAXED)
+    specialist_collection_name = doc['name'][0].to_s.strip_cdata.strip
+
     # legacy RMS fields
     document['RMSId'] = doc['id'][0].to_s
-    document['RMSName'] = doc['name'][0].to_s.strip_cdata.strip
+    document['RMSName'] = specialist_collection_name
     document['RMSRootDirectory'] = doc['rootDirectory'][0].to_s.strip_cdata
     document['RMSKeywords'] = keywords
 
@@ -296,8 +331,7 @@ def create_document (doc, area_of_interest)
     document['Title'] = doc['title'][0].to_s
     document['Description'] = Sanitize.clean(doc['body'][0].to_s.strip_cdata, Sanitize::Config::RELAXED)
     document['Url'] = doc['url'][0].to_s.strip_cdata
-    document['Attachment'] = "" # not doing anything with attached files?
-    
+
     document['PublicationType'] = map_publication_type(doc['publicationType'][0].to_s)
         
     publisher = doc['publisher'][0].to_s.strip
@@ -322,15 +356,63 @@ def create_document (doc, area_of_interest)
     document['SubjectArea'] = map_subject_area(area_of_interest, keywords)
     
     # these are used primarily in the import process... and yes, the last edited by is the same as the process creator - as advised by Fran W
-    document['ImportProcesCreator'] = doc['name'].to_s.strip_cdata
-    document['ImportLastEditedBy'] = document['ImportProcesCreator']
+    document['ImportProcessCreator'] = specialist_collection_name
+    document['ImportLastEditedBy'] = specialist_collection_name
     
     if area_of_interest.eql?("qipp")
       document["QIPPWorkstreams"] = map_qipp_workstreams(keywords)       
       document["Category"] = map_category(keywords)
+
+      document["AttachedFile"] = download_linked_file(document['RMSId'], area_of_interest)
     end
     
     document
+end
+
+def file_name_from_response(response)
+  content = response["content-disposition"].split(";")
+  file_name = content.find{|c| c.start_with?("filename=") }.gsub("filename=", "")
+  file_name.force_encoding("UTF-8")
+end
+
+def file_path_for_response(collection, file_name)
+  Dir.pwd + "/processed/#{collection}_assets/#{file_name}"
+end
+
+def download_linked_file(id, collection, attempts = 0)
+  file_name = ""
+  Net::HTTP.start("www.library.nhs.uk") {|http|
+
+    get_url = "/SpecialistLibrarySearch/Download.aspx?resID=#{id}"
+    response = http.head(get_url)
+
+    puts "head request to " + get_url + "..."
+
+    return if !response.code.eql?("200")
+    # return if !response['content-type'].eql?("application/pdf")
+
+    file_name = file_name_from_response(response)
+    file_path = file_path_for_response(collection, file_name)
+
+    puts file_path + " already downloaded." if File.exists?(file_path)
+
+    return file_name if File.exists?(file_path)
+
+    response = http.get(get_url)
+
+    File.open(file_path, "wb")   {|f|
+      f.write(response.body)
+    }
+  }
+
+  file_name
+
+rescue
+  if attempts < 3
+    download_linked_file(id, collection, attempts+1)
+  else
+    puts "document with id #{id} failed to download"
+  end
 end
 
 def map_qipp_workstreams(keywords)

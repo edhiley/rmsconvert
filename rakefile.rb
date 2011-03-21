@@ -36,7 +36,7 @@ require 'curb'  #  https://github.com/taf2/curb.git
 task :generate_csv_paths do
   
   @csv_paths = []
-  
+
   Find.find(@mapping_data_folder) do |path|
     next if FileTest.directory?(path) or path.eql?("#{@mapping_data_folder}/.DS_Store")
     @csv_paths << path if !path.start_with?(".")
@@ -189,7 +189,7 @@ task :generate_publisher_source do
   puts "#{@publisher.count} publisher mappings found."
 end
 
-task :generate_mappings => [:generate_csv_paths, :generate_publication_types, :generate_publisher_source] do
+task :generate_mappings => [:generate_csv_paths, :generate_publication_types, :generate_publisher_source, :generate_subject_area_mappings] do
   
   puts "generating mappings..."
   

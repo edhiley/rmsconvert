@@ -19,9 +19,9 @@ class TermMapping
   
   def initialize(term, mesh_id, term_id, path)
     
-    term = term.force_encoding("UTF-8").strip if !term.nil?
-    mesh_id = mesh_id.force_encoding("UTF-8").strip if !mesh_id.nil?
-    term_id = term_id.force_encoding("UTF-8").strip if !term_id.nil?
+    term = term.to_s.force_encoding("UTF-8").strip if !term.nil?
+    mesh_id = mesh_id.to_s.force_encoding("UTF-8").strip if !mesh_id.nil?
+    term_id = term_id.to_s.force_encoding("UTF-8").strip if !term_id.nil?
     
     @term = term
     @mesh_id = mesh_id

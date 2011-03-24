@@ -310,6 +310,7 @@ def include?(document)
   else
     true
   end
+  
 end
 
 
@@ -336,7 +337,7 @@ def create_document (doc, area_of_interest)
         
     publisher = doc['publisher'][0].to_s.strip
     
-    document['Source'] = map_source(publisher, doc['creator'].to_s.split(", "))
+    document['Source'] = map_source(publisher)
     document['Publisher'] = map_publisher(publisher)
     
     audience = document['Description'].scan(@intended_audience)[0]
@@ -443,26 +444,26 @@ def map_publisher(publisher)
   
   publisher_key = publisher.downcase  
   if !@publisher[publisher_key].nil?
-    [@publisher[publisher_key]]
+    [@publisher[publisher_key].strip]
   else
-    [publisher]
+    [publisher.strip]
   end
 end
 
-def map_source(publisher, creator)
-  source = ""
+def map_source(publisher)
   publisher_key = publisher.downcase
   if !@source[publisher_key].nil?
-    source = @source[publisher_key]
-  elsif !creator.nil?
-    source = creator.first
+    @source[publisher_key].strip
+  else
+    ""
   end
-  source
 end
 
 def map_subject_area(name, keywords)
   
   mapping = @subject_area_mapping[name]
+  
+  return if mapping.nil?
   
   if mapping.is_a?(Array)
     mapping

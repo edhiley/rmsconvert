@@ -352,7 +352,7 @@ def create_document (doc, area_of_interest)
     document['AreaOfInterest'] = [area_of_interest]
     document['CreatedDate'] = Time.now.to_s.to_date
     
-    document['Contributor'] = doc['creator'].to_s.split(", ")
+    document['Contributor'] = doc['creator'][0].to_s.split(", ")
     
     document['SubjectArea'] = map_subject_area(area_of_interest, keywords)
     

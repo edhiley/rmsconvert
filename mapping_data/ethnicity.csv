@@ -1,29 +1,29 @@
-DISEASES AND CONDITIONS,Disease,D004194,0,120693,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Disease|""]"
+DISEASES AND CONDITIONS,Disease,D004194,0,295121,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Disease|""]"
 BLOOD DISORDERS,Haematologic Diseases,,0,0,null
 CANCER,Cancer,D009369,0,0,null
-CARDIOVASCULAR DISEASES,Cardiovascular Diseases,D002318,0,120437,"[""|Diseases|Cardiovascular Diseases|""]"
+CARDIOVASCULAR DISEASES,Cardiovascular Diseases,D002318,0,294270,"[""|Diseases|Cardiovascular Diseases|""]"
 CLINICAL GENETICS,Genetics,D005823,0,108176,"[""|Determinants Of Health|Biological Composition|Genetics|""]"
-DIABETES,Diabetes Mellitus,D003920,0,120719,"[""|Diseases|Endocrine System Diseases|Diabetes Mellitus|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Glucose Metabolism Disorders|Diabetes Mellitus|""]"
+DIABETES,Diabetes Mellitus,D003920,0,295074,"[""|Diseases|Endocrine System Diseases|Diabetes|Diabetes Mellitus|"",""|Diseases|Endocrine System Diseases|Diabetes Mellitus|"",""|Diseases|Nutritional and Metabolic Diseases|Metabolic Diseases|Glucose Metabolism Disorders|Diabetes Mellitus|""]"
 EYES AND VISION,Eyes and vision,,0,0,null
 GASTROENTEROLOGY,Gastroenterology,D005762,0,122673,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Internal Medicine|Gastroenterology|""]"
-INFECTIOUS DISEASES,Communicable Diseases,D003141,0,120569,"[""|Diseases|Bacterial Infections and Mycoses|Infection|Communicable Diseases|""]"
-KIDNEY DISEASES,Kidney Diseases,D007674,0,120182,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|Urologic Diseases|Kidney Diseases|"",""|Diseases|Male Urogenital Diseases|Urologic Diseases|Kidney Diseases|""]"
+INFECTIOUS DISEASES,Communicable Diseases,D003141,0,294463,"[""|Diseases|Bacterial Infections and Mycoses|Infection|Communicable Diseases|""]"
+KIDNEY DISEASES,Kidney Diseases,D007674,0,0,null
 MENTAL HEALTH,Mental Health,D008603,0,110126,"[""|Health, Public Health, Health Promotion|Health|Mental Health|""]"
-MUSCULOSKELETAL,Musculoskeletal Diseases,D009140,0,120364,"[""|Diseases|Musculoskeletal Diseases|""]"
-NEUROLOGICAL DISORDERS,Nervous System Diseases,D009422,0,120279,"[""|Diseases|Nervous System Diseases|""]"
-ORAL HEALTH,Oral Health,D009909,0,110132,"[""|Health, Public Health, Health Promotion|Health|Oral Health|""]"
+MUSCULOSKELETAL,Musculoskeletal Diseases,D009140,0,294140,"[""|Diseases|Musculoskeletal Diseases|""]"
+NEUROLOGICAL DISORDERS,Nervous System Diseases,D009422,0,294010,"[""|Diseases|Nervous System Diseases|""]"
+ORAL HEALTH,Oral Health,D009909,0,358915,"[""|Health, Public Health, Health Promotion|Health|Oral And Dental Health|Oral Health|""]"
 REPRODUCTIVE HEALTH,Reproductive Medicine,D018456,0,122599,"[""|Natural Science, Anatomy and Organisms|Natural Sciences|Biological Sciences|Health Occupations|Medicine|Specialties, Medical|Reproductive Medicine|""]"
-RESPIRATORY DISORDERS,Respiratory Tract Diseases,D012140,0,121067,"[""|Diseases|Respiratory Tract Diseases|""]"
-SKIN DISEASES,Skin Diseases,D012871,0,121408,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|""]"
+RESPIRATORY DISORDERS,Respiratory Tract Diseases,D012140,0,294191,"[""|Diseases|Respiratory Tract Diseases|""]"
+SKIN DISEASES,Skin Diseases,D012871,0,293837,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|""]"
 ETHNICITY LINKED DISORDERS,Ethnicity Linked Disorders,,0,0,null
-OTHER,Disease,D004194,0,120693,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Disease|""]"
+OTHER,Disease,D004194,0,295121,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Disease|""]"
 SERVICE DELIVERY,Service Delivery,,0,0,null
 CLIENT GROUPS,Client Groups,,0,0,null
 CHILDREN AND YOUNG PEOPLE,Child,D002648 ,0,107590,"[""|People And Populations|Group|Age Group|Child|""]"
 CHILDREN AND YOUNG PEOPLE,Adolescent ,D000293,0,0,null
 OLDER PEOPLE,Elderly,D000368,0,0,null
 PEOPLE WITH DISABILITIES,Disabled Persons,D006233,0,0,null
-PEOPLE WITH LONG TERM & CHRONIC CONDITIONS,Chronic Disease,D002908,0,120536,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Disease Attributes|Chronic Disease|""]"
+PEOPLE WITH LONG TERM & CHRONIC CONDITIONS,Chronic Disease,D002908,0,294413,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Disease Attributes|Chronic Disease|""]"
 WOMEN,Women,D014930,0,0,null
 GYPSIES AND TRAVELLERS,Gypsies,D006178,0,0,null
 REFUGEES AND ASYLUM SEEKERS,Refugees,D012036,0,0,null
@@ -42,7 +42,7 @@ LANGUAGE AND COMMUNICATION,Language,D007802 ,0,106495,"[""|Communication And Kno
 LANGUAGE AND COMMUNICATION,Communication,D003142,0,106514,"[""|Communication And Knowledge|Communication|""]"
 LIFE EVENTS,Life Change Events,D008016,0,106767,"[""|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Psychology, Social|Life Style|Life Change Events|"",""|Psychiatry and Pscychology|Behavioral Disciplines and Activities|Behavioral Sciences|Psychology|Psychology, Social|Life Style|Life Change Events|""]"
 BIRTH,Birth,D038801,0,0,null
-DEATH,Death,D003643,0,120257,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Death|""]"
+DEATH,Death,D003643,0,293975,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Death|""]"
 RELIGION,Religion,D012067,0,107693,"[""|People And Populations|Belief|Religion|"",""|People And Populations|Cultural Identity|Religion|""]"
 TRADITIONAL MEDICINE AND TREATMENTS,Traditional Medicine,D008519,0,0,null
 MANAGEMENT AND POLICY,Management and Policy,,0,0,null

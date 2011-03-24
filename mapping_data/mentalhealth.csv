@@ -11,8 +11,8 @@ Chronic mixed anxiety and depression,Depressive Disorder,D003866,0,0,null
 Chronic (persistent) psychotic disorders,Psychotic disorders,D011618,0,0,null
 Chronic (persistent) psychotic disorders,Schizophrenia,D012559,0,107091,"[""|Psychiatry and Pscychology|Mental Disorders|Schizophrenia and Disorders with Psychotic Features|Schizophrenia|""]"
 Chronic (persistent) psychotic disorders,Delusions,D003702,0,106669,"[""|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Behavior|Behavioral Symptoms|Delusions|""]"
-Delirium,Delirium,D003693,0,107124,"[""|Psychiatry and Pscychology|Mental Disorders|Delirium, Dementia, Amnestic, Cognitive Disorders|Delirium|""]"
-Dementia,Dementia,D003704,0,0,null
+Delirium,Delirium,D003693,0,295025,"[""|Diseases|Nervous System Diseases|Neurologic Manifestations|Neurobehavioral Manifestations|Confusion|Delirium|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Neurobehavioral Manifestations|Confusion|Delirium|""]"
+Dementia,Dementia,D003704,0,293735,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Dementia|""]"
 Depression,Depression,D003863,0,107127,"[""|Psychiatry and Pscychology|Mental Disorders|Mood Disorders|Depression|""]"
 Depression,Depressive Disorder,D003866,0,0,null
 Depression,"Depressive Disorder, Major",D003865,0,107126,"[""|Psychiatry and Pscychology|Mental Disorders|Mood Disorders|Depression|Depressive Disorder, Major|""]"
@@ -21,7 +21,7 @@ Domestic violence or partner abuse,Domestic Violence,D017579,0,108140,"[""|Deter
 Domestic violence or partner abuse,Spouse Abuse,D013179,0,0,null
 Drug use disorders,Substance-Related Disorders,D019966,0,107072,"[""|Psychiatry and Pscychology|Mental Disorders|Substance-Related Disorders|""]"
 Drug use disorders,Smoking Cessation,D016540,0,108345,"[""|Determinants Of Health|Environmental Determinant|Causes Of Harm|Smoking|Smoking Cessation|"",""|Determinants Of Health|Individual Behaviour|Smoking|Smoking Cessation|""]"
-Drug use disorders,Substance Abuse Detection,D015813,0,115063,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Substance Abuse Detection|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Mass Screening|Substance Abuse Detection|""]"
+Drug use disorders,Substance Abuse Detection,D015813,0,115063,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Investigative Techniques|Substance Abuse Detection|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Mass Screening|Substance Abuse Detection|"",""|Public Health Methods, Theory And Research|Method|Diagnosis|Diagnostic Techniques and Procedures|Mass Screening|Substance Abuse Detection|""]"
 Eating disorders,Eating disorders,D001068,0,0,null
 Generalized anxiety,Anxiety,D001007,0,106983,"[""|Psychiatry and Pscychology|Mental Disorders|Anxiety|""]"
 Generalized anxiety,Anxiety Disorders,D001008,0,0,null
@@ -36,7 +36,7 @@ Self-harm,Self-Injurious Behavior,D016728,0,106864,"[""|Psychiatry and Pscycholo
 Sexual disorders,"Sexual Dysfunctions, Psychological",D020018,0,107142,"[""|Psychiatry and Pscychology|Mental Disorders|Sexual and Gender Disorders|Sexual Dysfunctions, Psychological|""]"
 Sleep problems,Sleep Disorders,D012893,0,107106,"[""|Psychiatry and Pscychology|Mental Disorders|Sleep Disorders|""]"
 Unexplained somatic complaints,Psychiatric Somatic Therapies,D013000,0,106650,"[""|Psychiatry and Pscychology|Behavioral Disciplines and Activities|Psychiatric Somatic Therapies|""]"
-Unexplained somatic complaints,Psychophysiologic Disorders,D011602,0,119664,"[""|Diseases|Nervous System Diseases|Neurologic Manifestations|Psychophysiologic Disorders|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Psychophysiologic Disorders|""]"
+Unexplained somatic complaints,Psychophysiologic Disorders,D011602,0,295721,"[""|Diseases|Nervous System Diseases|Neurologic Manifestations|Psychophysiologic Disorders|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Psychophysiologic Disorders|""]"
 Attention-deficit / hyperactivity disorder,Attention Deficit Disorder with Hyperactivity,D001289,0,0,null
 Bereavement and loss,Bereavement,D001601,0,106610,"[""|Psychiatry and Pscychology|Behavior and Behavior Mechanisms|Emotions|Bereavement|""]"
 Bullying,Bullying,,0,0,null

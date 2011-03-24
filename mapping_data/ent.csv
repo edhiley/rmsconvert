@@ -1,122 +1,122 @@
-EAR & AUDITORY SYSTEM DISORDERS,Ear Diseases,D004427,0,120756,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|""]"
+EAR & AUDITORY SYSTEM DISORDERS,Ear Diseases,D004427,0,295191,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|""]"
 EXTERNAL EAR,External Ear,D004431,0,0,null
 CERUMEN,Cerumen,D002571,0,110407,"[""|Natural Science, Anatomy and Organisms|Anatomy|Fluids and Secretions|Bodily Secretions|Cerumen|""]"
-EAR DEFORMITIES,"Ear Deformities, Acquired",D004426,0,120755,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Ear Deformities, Acquired|""]"
-OTITIS EXTERNA,Otitis Externa,D010032,0,119607,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Otitis|Otitis Externa|""]"
+EAR DEFORMITIES,"Ear Deformities, Acquired",D004426,0,295190,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Ear Deformities, Acquired|""]"
+OTITIS EXTERNA,Otitis Externa,D010032,0,295610,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Otitis|Otitis Externa|""]"
 MIDDLE EAR,Middle Ear,D004432,0,0,null
-CHOLESTEATOMA,Cholesteatoma,D002781,0,0,null
+CHOLESTEATOMA,Cholesteatoma,D002781,0,294377,"[""|Diseases|Skin and Connective Tissue Diseases|Skin Diseases|Keratosis|Cholesteatoma|""]"
 EARDRUM PERFORATION/ RETRACTION,Eardrum Perforation,D018058,0,0,null
-MASTOIDITIS,Mastoiditis,D008417,0,0,null
-OTITIS MEDIA,Otitis Media,D010033,0,0,null
-CHRONIC SUPPURATIVE OTITIS MEDIA,"Otitis Media, Suppurative",D010035,0,0,null
-OTITIS MEDIA WITH EFFUSION,Otitis Media with Effusion,D010034,0,0,null
-OTOSCLEROSIS,Otosclerosis,D010040,0,119608,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Otosclerosis|""]"
+MASTOIDITIS,Mastoiditis,D008417,0,293767,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Otitis|Otitis Media|Mastoiditis|""]"
+OTITIS MEDIA,Otitis Media,D010033,0,293149,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Otitis|Otitis Media|""]"
+CHRONIC SUPPURATIVE OTITIS MEDIA,"Otitis Media, Suppurative",D010035,0,295612,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Otitis|Otitis Media|Otitis Media, Suppurative|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Suppuration|Otitis Media, Suppurative|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Inflammation|Suppuration|Otitis Media, Suppurative|""]"
+OTITIS MEDIA WITH EFFUSION,Otitis Media with Effusion,D010034,0,295611,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Otitis|Otitis Media|Otitis Media with Effusion|""]"
+OTOSCLEROSIS,Otosclerosis,D010040,0,295613,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Otosclerosis|""]"
 INNER EAR,Inner Ear,D007758,0,0,null
 ACOUSTIC NEUROMA,Acoustic Neuroma,D009464,0,0,null
 BENIGN PAROXYSMAL POSITIONAL VERTIGO,Benign Paroxysmal Positional Vertigo,,0,0,null
-HEARING LOSS - SUDDEN,"Hearing Loss, Sudden",D003639,0,0,null
-LABYRINTHITIS,Labyrinthitis,D007762,0,119324,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Labyrinth Diseases|Labyrinthitis|"",""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Otitis|Labyrinthitis|""]"
+HEARING LOSS - SUDDEN,"Hearing Loss, Sudden",D003639,0,295010,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Hearing Disorders|Hearing Loss|Hearing Loss, Sudden|"",""|Diseases|Nervous System Diseases|Neurologic Manifestations|Sensation Disorders|Hearing Disorders|Hearing Loss|Hearing Loss, Sudden|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Sensation Disorders|Hearing Disorders|Hearing Loss|Hearing Loss, Sudden|""]"
+LABYRINTHITIS,Labyrinthitis,D007762,0,293072,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Labyrinth Diseases|Labyrinthitis|"",""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Otitis|Labyrinthitis|""]"
 MENIERE'S DISEASE,Meniere's Disease,D008575,0,0,null
-MIGRAINE-RELATED VERTIGO,Vertigo,D014717,0,120701,"[""|Diseases|Nervous System Diseases|Neurologic Manifestations|Vertigo|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Vertigo|"",""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Labyrinth Diseases|Vestibular Diseases|Vertigo|""]"
-MOTION SICKNESS,Motion Sickness,D009041,0,119457,"[""|Diseases|Disorders of Environmental Origin|Motion Sickness|""]"
-VESTIBULAR NEURONITIS,Vestibular Neuronitis,D020338,0,119511,"[""|Diseases|Nervous System Diseases|Cranial Nerve Diseases|Vestibulocochlear Nerve Diseases|Vestibular Neuronitis|"",""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Retrocochlear Diseases|Vestibulocochlear Nerve Diseases|Vestibular Neuronitis|""]"
-GENERAL VESTIBULAR,Vestibular Diseases,D015837,0,119916,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Labyrinth Diseases|Vestibular Diseases|""]"
+MIGRAINE-RELATED VERTIGO,Vertigo,D014717,0,296692,"[""|Diseases|Nervous System Diseases|Neurologic Manifestations|Vertigo|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Vertigo|"",""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Labyrinth Diseases|Vestibular Diseases|Vertigo|""]"
+MOTION SICKNESS,Motion Sickness,D009041,0,293233,"[""|Diseases|Disorders of Environmental Origin|Motion Sickness|""]"
+VESTIBULAR NEURONITIS,Vestibular Neuronitis,D020338,0,293296,"[""|Diseases|Nervous System Diseases|Cranial Nerve Diseases|Vestibulocochlear Nerve Diseases|Vestibular Neuronitis|"",""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Retrocochlear Diseases|Vestibulocochlear Nerve Diseases|Vestibular Neuronitis|""]"
+GENERAL VESTIBULAR,Vestibular Diseases,D015837,0,296134,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Labyrinth Diseases|Vestibular Diseases|""]"
 GENERAL EAR & AUDITORY,Auditory Pathways,D001306,0,110274,"[""|Natural Science, Anatomy and Organisms|Anatomy|Nervous System|Neural Pathways|Afferent Pathways|Auditory Pathways|""]"
 CENTRAL AUDITORY DISORDERS,Central Auditory Diseases,D001304,0,0,null
 AUDITORY PROCESSING DISORDER,Auditory processing disorder,,0,0,null
-HEARING DISORDERS/ DEAFNESS,Hearing Disorders,D006311,0,0,null
+HEARING DISORDERS/ DEAFNESS,Hearing Disorders,D006311,0,294749,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Hearing Disorders|"",""|Diseases|Nervous System Diseases|Neurologic Manifestations|Sensation Disorders|Hearing Disorders|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Sensation Disorders|Hearing Disorders|""]"
 HEARING DISORDERS/ DEAFNESS,Hearing  Loss,D034381,0,0,null
-HEARING DISORDERS/ DEAFNESS,Deafness,D003638,0,0,null
-HERPES ZOSTER OTICUS,Herpes Zoster Oticus,D016697,0,120790,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Herpes Zoster Oticus|"",""|Diseases|Nervous System Diseases|Cranial Nerve Diseases|Facial Nerve Diseases|Herpes Zoster Oticus|"",""|Diseases|Virus Diseases|DNA Virus Infections|Herpesviridae Infections|Herpes Zoster|Herpes Zoster Oticus|""]"
-INJURIES/FOREIGN BODIES,Foreign Bodies,D005547,0,120312,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Foreign Bodies|""]"
+HEARING DISORDERS/ DEAFNESS,Deafness,D003638,0,295009,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Hearing Disorders|Hearing Loss|Deafness|"",""|Diseases|Nervous System Diseases|Neurologic Manifestations|Sensation Disorders|Hearing Disorders|Hearing Loss|Deafness|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Sensation Disorders|Hearing Disorders|Hearing Loss|Deafness|""]"
+HERPES ZOSTER OTICUS,Herpes Zoster Oticus,D016697,0,295269,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Herpes Zoster Oticus|"",""|Diseases|Nervous System Diseases|Cranial Nerve Diseases|Facial Nerve Diseases|Herpes Zoster Oticus|"",""|Diseases|Virus Diseases|DNA Virus Infections|Herpesviridae Infections|Herpes Zoster|Herpes Zoster Oticus|""]"
+INJURIES/FOREIGN BODIES,Foreign Bodies,D005547,0,294067,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Foreign Bodies|""]"
 OTALGIA,Otalgia,D004433,0,0,null
-OTORRHOEA,"Otitis Media, Suppurative",D010035,0,0,null
-TINNITUS,Tinnitus,D014012,0,0,null
-NOSE & SINUS DISORDERS,Nose Diseases,D009668,0,118428,"[""|Diseases|Respiratory Tract Diseases|Nose Diseases|""]"
-EPISTAXIS,Epistaxis,D004844,0,120979,"[""|Diseases|Respiratory Tract Diseases|Nose Diseases|Epistaxis|""]"
-INJURIES/FOREIGN BODIES,Foreign Bodies,D005547,0,120312,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Foreign Bodies|""]"
-CSF LEAK,Cerebrospinal Fluid Otorrhea,D002558,0,0,null
-NASAL DEFORMITIES,"Nose Deformities, Acquired",D009667,0,118725,"[""|Diseases|Respiratory Tract Diseases|Nose Diseases|Nose Deformities, Acquired|""]"
-NASAL OBSTRUCTION/TURBINATE HYPERTROPHY,Nasal Obstruction,D015508,0,118727,"[""|Diseases|Respiratory Tract Diseases|Respiration Disorders|Respiratory Insufficiency|Airway Obstruction|Nasal Obstruction|"",""|Diseases|Respiratory Tract Diseases|Nose Diseases|Nasal Obstruction|""]"
+OTORRHOEA,"Otitis Media, Suppurative",D010035,0,295612,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Otitis|Otitis Media|Otitis Media, Suppurative|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Suppuration|Otitis Media, Suppurative|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Inflammation|Suppuration|Otitis Media, Suppurative|""]"
+TINNITUS,Tinnitus,D014012,0,296034,"[""|Diseases|Otorhinolaryngologic Diseases|Ear Diseases|Hearing Disorders|Tinnitus|"",""|Diseases|Nervous System Diseases|Neurologic Manifestations|Sensation Disorders|Hearing Disorders|Tinnitus|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Sensation Disorders|Hearing Disorders|Tinnitus|""]"
+NOSE & SINUS DISORDERS,Nose Diseases,D009668,0,294367,"[""|Diseases|Otorhinolaryngologic Diseases|Nose Diseases|"",""|Diseases|Respiratory Tract Diseases|Nose Diseases|""]"
+EPISTAXIS,Epistaxis,D004844,0,294689,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Hemorrhage|Epistaxis|"",""|Diseases|Otorhinolaryngologic Diseases|Nose Diseases|Epistaxis|"",""|Diseases|Respiratory Tract Diseases|Nose Diseases|Epistaxis|""]"
+INJURIES/FOREIGN BODIES,Foreign Bodies,D005547,0,294067,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Foreign Bodies|""]"
+CSF LEAK,Cerebrospinal Fluid Otorrhea,D002558,0,294325,"[""|Diseases|Nervous System Diseases|Trauma, Nervous System|Craniocerebral Trauma|Cerebrospinal Fluid Otorrhea|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Trauma, Nervous System|Craniocerebral Trauma|Cerebrospinal Fluid Otorrhea|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Craniocerebral Trauma|Cerebrospinal Fluid Otorrhea|"",""|Diseases|Nervous System Diseases|Neurologic Manifestations|Cerebrospinal Fluid Otorrhea|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Cerebrospinal Fluid Otorrhea|""]"
+NASAL DEFORMITIES,"Nose Deformities, Acquired",D009667,0,295549,"[""|Diseases|Otorhinolaryngologic Diseases|Nose Diseases|Nose Deformities, Acquired|"",""|Diseases|Respiratory Tract Diseases|Nose Diseases|Nose Deformities, Acquired|""]"
+NASAL OBSTRUCTION/TURBINATE HYPERTROPHY,Nasal Obstruction,D015508,0,296254,"[""|Diseases|Respiratory Tract Diseases|Respiration Disorders|Respiratory Insufficiency|Airway Obstruction|Nasal Obstruction|"",""|Diseases|Otorhinolaryngologic Diseases|Nose Diseases|Nasal Obstruction|"",""|Diseases|Respiratory Tract Diseases|Nose Diseases|Nasal Obstruction|""]"
 NASAL OBSTRUCTION/TURBINATE HYPERTROPHY,Turbinates,D014420,0,111470,"[""|Natural Science, Anatomy and Organisms|Anatomy|Respiratory System|Nose|Turbinates|""]"
-NASAL OBSTRUCTION/TURBINATE HYPERTROPHY,Hypertrophy,D006984,0,119035,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathological Conditions, Anatomical|Hypertrophy|""]"
+NASAL OBSTRUCTION/TURBINATE HYPERTROPHY,Hypertrophy,D006984,0,294758,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathological Conditions, Anatomical|Hypertrophy|""]"
 "NOSE & SINUS DISORDERS, NEOPLASMS",Nose Cancer,D009669,0,0,null
 "NOSE & SINUS DISORDERS, NEOPLASMS, BENIGN",Nose Cancer,D009670,0,0,null
 "NOSE & SINUS DISORDERS, NEOPLASMS, MALIGNANT",Nose Cancer,D009671,0,0,null
-OLFACTORY DISORDER,Olfaction Disorders,D000857,0,120166,"[""|Diseases|Nervous System Diseases|Neurologic Manifestations|Sensation Disorders|Olfaction Disorders|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Sensation Disorders|Olfaction Disorders|""]"
-RHINOSINUSITIS,Sinusitis,D012852,0,118722,"[""|Diseases|Respiratory Tract Diseases|Nose Diseases|Paranasal Sinus Diseases|Sinusitis|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Sinusitis|""]"
-RHINOSINUSITIS,Rhinitis,D012220,0,118451,"[""|Diseases|Respiratory Tract Diseases|Nose Diseases|Rhinitis|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Rhinitis|""]"
-NASAL POLYPS,Nasal Polyps,D009298,0,118394,"[""|Diseases|Respiratory Tract Diseases|Nose Diseases|Nasal Polyps|""]"
-RHINITIS,Rhinitis,D012220,0,118451,"[""|Diseases|Respiratory Tract Diseases|Nose Diseases|Rhinitis|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Rhinitis|""]"
+OLFACTORY DISORDER,Olfaction Disorders,D000857,0,293848,"[""|Diseases|Nervous System Diseases|Neurologic Manifestations|Sensation Disorders|Olfaction Disorders|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Sensation Disorders|Olfaction Disorders|""]"
+RHINOSINUSITIS,Sinusitis,D012852,0,295897,"[""|Diseases|Otorhinolaryngologic Diseases|Nose Diseases|Paranasal Sinus Diseases|Sinusitis|"",""|Diseases|Respiratory Tract Diseases|Nose Diseases|Paranasal Sinus Diseases|Sinusitis|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Respiratory Tract Infections|Sinusitis|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Sinusitis|""]"
+RHINOSINUSITIS,Rhinitis,D012220,0,294742,"[""|Diseases|Otorhinolaryngologic Diseases|Nose Diseases|Rhinitis|"",""|Diseases|Respiratory Tract Diseases|Nose Diseases|Rhinitis|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Respiratory Tract Infections|Rhinitis|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Rhinitis|""]"
+NASAL POLYPS,Nasal Polyps,D009298,0,293265,"[""|Diseases|Otorhinolaryngologic Diseases|Nose Diseases|Nasal Polyps|"",""|Diseases|Respiratory Tract Diseases|Nose Diseases|Nasal Polyps|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathological Conditions, Anatomical|Polyps|Nasal Polyps|""]"
+RHINITIS,Rhinitis,D012220,0,294742,"[""|Diseases|Otorhinolaryngologic Diseases|Nose Diseases|Rhinitis|"",""|Diseases|Respiratory Tract Diseases|Nose Diseases|Rhinitis|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Respiratory Tract Infections|Rhinitis|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Rhinitis|""]"
 HAYFEVER,Hayfever,D006255,0,0,null
-PERENNIAL ALLERGIC RHINITIS,"Rhinitis, Allergic, Perennial",D012221,0,118764,"[""|Diseases|Respiratory Tract Diseases|Respiratory Hypersensitivity|Rhinitis, Allergic, Perennial|"",""|Diseases|Respiratory Tract Diseases|Nose Diseases|Rhinitis|Rhinitis, Allergic, Perennial|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Rhinitis|Rhinitis, Allergic, Perennial|""]"
+PERENNIAL ALLERGIC RHINITIS,"Rhinitis, Allergic, Perennial",D012221,0,295801,"[""|Diseases|Immune System Diseases|Allergies|Hypersensitivity, Immediate|Respiratory Hypersensitivity|Rhinitis, Allergic, Perennial|"",""|Diseases|Respiratory Tract Diseases|Respiratory Hypersensitivity|Rhinitis, Allergic, Perennial|"",""|Diseases|Otorhinolaryngologic Diseases|Nose Diseases|Rhinitis|Rhinitis, Allergic, Perennial|"",""|Diseases|Respiratory Tract Diseases|Nose Diseases|Rhinitis|Rhinitis, Allergic, Perennial|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Respiratory Tract Infections|Rhinitis|Rhinitis, Allergic, Perennial|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Rhinitis|Rhinitis, Allergic, Perennial|""]"
 NON-ALLERGIC RHINITIS,Non-Allergic Rhinitis,,0,0,null
-SINUSITIS,Sinusitis,D012852,0,118722,"[""|Diseases|Respiratory Tract Diseases|Nose Diseases|Paranasal Sinus Diseases|Sinusitis|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Sinusitis|""]"
-LARYNX & PHARYNX DISORDERS,Laryngeal Diseases,D007818,0,118387,"[""|Diseases|Respiratory Tract Diseases|Laryngeal Diseases|""]"
-LARYNX & PHARYNX DISORDERS,Pharyngeal Diseases,D010608,0,118828,"[""|Diseases|Otorhinolaryngologic Diseases|Pharyngeal Diseases|"",""|Diseases|Stomatognathic Diseases|Pharyngeal Diseases|""]"
-ADENOIDAL HYPERTROPHY,Hypertrophy,D006984,0,119035,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathological Conditions, Anatomical|Hypertrophy|""]"
+SINUSITIS,Sinusitis,D012852,0,295897,"[""|Diseases|Otorhinolaryngologic Diseases|Nose Diseases|Paranasal Sinus Diseases|Sinusitis|"",""|Diseases|Respiratory Tract Diseases|Nose Diseases|Paranasal Sinus Diseases|Sinusitis|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Respiratory Tract Infections|Sinusitis|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Sinusitis|""]"
+LARYNX & PHARYNX DISORDERS,Laryngeal Diseases,D007818,0,294579,"[""|Diseases|Otorhinolaryngologic Diseases|Laryngeal Diseases|"",""|Diseases|Respiratory Tract Diseases|Laryngeal Diseases|""]"
+LARYNX & PHARYNX DISORDERS,Pharyngeal Diseases,D010608,0,293409,"[""|Diseases|Otorhinolaryngologic Diseases|Pharyngeal Diseases|"",""|Diseases|Stomatognathic Diseases|Pharyngeal Diseases|""]"
+ADENOIDAL HYPERTROPHY,Hypertrophy,D006984,0,294758,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathological Conditions, Anatomical|Hypertrophy|""]"
 ADENOIDAL HYPERTROPHY,Adenoids,D000234,0,110169,"[""|Natural Science, Anatomy and Organisms|Anatomy|Hemic and Immune Systems|Immune System|Lymphatic System|Lymphoid Tissue|Adenoids|"",""|Natural Science, Anatomy and Organisms|Anatomy|Tissues|Lymphoid Tissue|Adenoids|""]"
-DEGLUTITION DISORDERS,Deglutition Disorders,D003680,0,120634,"[""|Diseases|Digestive System Diseases|Gastrointestinal Diseases|Esophageal Diseases|Deglutition Disorders|"",""|Diseases|Otorhinolaryngologic Diseases|Pharyngeal Diseases|Deglutition Disorders|"",""|Diseases|Stomatognathic Diseases|Pharyngeal Diseases|Deglutition Disorders|""]"
-INJURIES/ FOREIGN BODIES,Foreign Bodies,D005547,0,120312,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Foreign Bodies|""]"
-LARYNGITIS,Laryngitis,D007827 ,0,118456,"[""|Diseases|Respiratory Tract Diseases|Laryngeal Diseases|Laryngitis|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Laryngitis|""]"
-NASOPHARYNGITIS,Nasopharyngitis,D009304,0,119501,"[""|Diseases|Otorhinolaryngologic Diseases|Pharyngeal Diseases|Nasopharyngeal Diseases|Nasopharyngitis|"",""|Diseases|Stomatognathic Diseases|Pharyngeal Diseases|Nasopharyngeal Diseases|Nasopharyngitis|""]"
+DEGLUTITION DISORDERS,Deglutition Disorders,D003680,0,295023,"[""|Diseases|Digestive System Diseases|Gastrointestinal Diseases|Esophageal Diseases|Deglutition Disorders|"",""|Diseases|Otorhinolaryngologic Diseases|Pharyngeal Diseases|Deglutition Disorders|"",""|Diseases|Stomatognathic Diseases|Pharyngeal Diseases|Deglutition Disorders|""]"
+INJURIES/ FOREIGN BODIES,Foreign Bodies,D005547,0,294067,"[""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Foreign Bodies|""]"
+LARYNGITIS,Laryngitis,D007827 ,0,294539,"[""|Diseases|Otorhinolaryngologic Diseases|Laryngeal Diseases|Laryngitis|"",""|Diseases|Respiratory Tract Diseases|Laryngeal Diseases|Laryngitis|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Respiratory Tract Infections|Laryngitis|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Laryngitis|""]"
+NASOPHARYNGITIS,Nasopharyngitis,D009304,0,293268,"[""|Diseases|Otorhinolaryngologic Diseases|Pharyngeal Diseases|Nasopharyngeal Diseases|Nasopharyngitis|"",""|Diseases|Stomatognathic Diseases|Pharyngeal Diseases|Nasopharyngeal Diseases|Nasopharyngitis|""]"
 "LARYNX & PHARYNX DISORDERS, NEOPLASMS",Larynx Cancer,D007822,0,0,null
 "LARYNX & PHARYNX DISORDERS, NEOPLASMS, BENIGN",Larynx Cancer,D007822,0,0,null
 "LARYNX & PHARYNX DISORDERS, NEOPLASMS, MALIGNANT",Larynx Cancer,D007822,0,0,null
 PHARYNGEAL POUCH,Pharyngeal Pouch,,0,0,null
-SORE THROAT,Sore Throat,D010612,0,0,null
-TONSILLITIS,Tonsillitis,D014070,0,118382,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Tonsillitis|""]"
-PERITONSILLAR ABSCESS,Peritonsillar Abscess,D000039,0,118381,"[""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Tonsillitis|Peritonsillar Abscess|""]"
+SORE THROAT,Sore Throat,D010612,0,358973,"[""|Diseases|Otorhinolaryngologic Diseases|Pharyngeal Diseases|Pharyngitis|Sore Throat|"",""|Diseases|Stomatognathic Diseases|Pharyngeal Diseases|Pharyngitis|Sore Throat|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Respiratory Tract Infections|Pharyngitis|Sore Throat|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Pharyngitis|Sore Throat|""]"
+TONSILLITIS,Tonsillitis,D014070,0,293410,"[""|Diseases|Otorhinolaryngologic Diseases|Pharyngeal Diseases|Tonsillitis|"",""|Diseases|Stomatognathic Diseases|Pharyngeal Diseases|Tonsillitis|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Respiratory Tract Infections|Tonsillitis|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Tonsillitis|""]"
+PERITONSILLAR ABSCESS,Peritonsillar Abscess,D000039,0,293739,"[""|Diseases|Bacterial Infections and Mycoses|Infection|Suppuration|Abscess|Peritonsillar Abscess|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Inflammation|Suppuration|Abscess|Peritonsillar Abscess|"",""|Diseases|Otorhinolaryngologic Diseases|Pharyngeal Diseases|Peritonsillar Abscess|"",""|Diseases|Stomatognathic Diseases|Pharyngeal Diseases|Peritonsillar Abscess|"",""|Diseases|Otorhinolaryngologic Diseases|Pharyngeal Diseases|Tonsillitis|Peritonsillar Abscess|"",""|Diseases|Stomatognathic Diseases|Pharyngeal Diseases|Tonsillitis|Peritonsillar Abscess|"",""|Diseases|Bacterial Infections and Mycoses|Infection|Respiratory Tract Infections|Tonsillitis|Peritonsillar Abscess|"",""|Diseases|Respiratory Tract Diseases|Respiratory Tract Infections|Tonsillitis|Peritonsillar Abscess|""]"
 SPEECH DISORDERS,Speech Disorders,D013064,0,107031,"[""|Psychiatry and Pscychology|Mental Disorders|Mental Disorders Diagnosed in Childhood|Communication Disorders|Language Disorders|Speech Disorders|""]"
-VOICE DISORDERS,Voice Disorders,D014832,0,118783,"[""|Diseases|Respiratory Tract Diseases|Laryngeal Diseases|Voice Disorders|""]"
+VOICE DISORDERS,Voice Disorders,D014832,0,293905,"[""|Diseases|Otorhinolaryngologic Diseases|Laryngeal Diseases|Voice Disorders|"",""|Diseases|Respiratory Tract Diseases|Laryngeal Diseases|Voice Disorders|"",""|Diseases|Nervous System Diseases|Neurologic Manifestations|Voice Disorders|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Voice Disorders|""]"
 DYSPHONIA,Dysphonia,D055154,0,0,null
-APHONIA,Aphonia,D001044,0,118782,"[""|Diseases|Respiratory Tract Diseases|Laryngeal Diseases|Voice Disorders|Aphonia|""]"
-VOCAL CORD PARALYSIS,Vocal Cord Paralysis,D014826,0,121098,"[""|Diseases|Respiratory Tract Diseases|Laryngeal Diseases|Vocal Cord Paralysis|""]"
+APHONIA,Aphonia,D001044,0,293904,"[""|Diseases|Otorhinolaryngologic Diseases|Laryngeal Diseases|Voice Disorders|Aphonia|"",""|Diseases|Respiratory Tract Diseases|Laryngeal Diseases|Voice Disorders|Aphonia|"",""|Diseases|Nervous System Diseases|Neurologic Manifestations|Voice Disorders|Aphonia|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Voice Disorders|Aphonia|""]"
+VOCAL CORD PARALYSIS,Vocal Cord Paralysis,D014826,0,296148,"[""|Diseases|Otorhinolaryngologic Diseases|Laryngeal Diseases|Vocal Cord Paralysis|"",""|Diseases|Respiratory Tract Diseases|Laryngeal Diseases|Vocal Cord Paralysis|"",""|Diseases|Nervous System Diseases|Neurologic Manifestations|Paralysis|Vocal Cord Paralysis|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Paralysis|Vocal Cord Paralysis|"",""|Diseases|Nervous System Diseases|Cranial Nerve Diseases|Vagus Nerve Diseases|Vocal Cord Paralysis|""]"
 LANGUAGE DISORDERS,Language Disorders,D007806,0,106985,"[""|Psychiatry and Pscychology|Mental Disorders|Mental Disorders Diagnosed in Childhood|Communication Disorders|Language Disorders|""]"
 SLEEP APNOEA,Sleep apnoea,,0,0,null
-SNORING,Snoring,D012913,0,114715,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Respiratory System|Respiratory Sounds|Snoring|""]"
-SALIVARY GLAND DISORDERS,Salivary Gland Diseases,D012466,0,119445,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|""]"
+SNORING,Snoring,D012913,0,295906,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Signs and Symptoms, Respiratory|Respiratory Sounds|Snoring|""]"
+SALIVARY GLAND DISORDERS,Salivary Gland Diseases,D012466,0,293218,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|""]"
 "SALIVARY GLAND DISORDERS, NEOPLASMS",Salivary Gland Cancer,D012468,0,0,null
 "SALIVARY GLAND DISORDERS, NEOPLASMS, BENIGN",Salivary Gland Cancer,D012468,0,0,null
 "SALIVARY GLAND DISORDERS, NEOPLASMS, MALIGNANT",Salivary Gland Cancer,D012468,0,0,null
-PAROTID GLANDS,Parotid Diseases,D010305,0,119634,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Parotid Diseases|""]"
-PAROTITIS,Parotitis,D010309,0,119469,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Parotid Diseases|Parotitis|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Sialadenitis|Parotitis|""]"
+PAROTID GLANDS,Parotid Diseases,D010305,0,295663,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Parotid Diseases|""]"
+PAROTITIS,Parotitis,D010309,0,293254,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Parotid Diseases|Parotitis|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Sialadenitis|Parotitis|""]"
 "PAROTID GLANDS, NEOPLASMS",Parotid Cancer,D010307,0,0,null
 "PAROTID GLANDS, NEOPLASMS, BENIGN",Parotid Cancer,D010307,0,0,null
 "PAROTID GLANDS, NEOPLASMS, MALIGNANT",Parotid Cancer,D010307,0,0,null
-SALIVARY DUCT CALCULI,Salivary Duct Calculi,D012465,0,119717,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathological Conditions, Anatomical|Calculi|Salivary Calculi|Salivary Duct Calculi|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Salivary Calculi|Salivary Duct Calculi|""]"
-SALIVARY GLAND CALCULI,Salivary Gland Calculi,D015494,0,120064,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathological Conditions, Anatomical|Calculi|Salivary Calculi|Salivary Gland Calculi|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Salivary Calculi|Salivary Gland Calculi|""]"
-SALIVARY GLAND FISTULA,Salivary Gland Fistula,D012467,0,119719,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathological Conditions, Anatomical|Fistula|Oral Fistula|Salivary Gland Fistula|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Oral Fistula|Salivary Gland Fistula|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Salivary Gland Fistula|""]"
-SIALADENITIS,Sialadenitis,D012793,0,119635,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Sialadenitis|""]"
-PAROTITIS,Parotitis,D010309,0,119469,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Parotid Diseases|Parotitis|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Sialadenitis|Parotitis|""]"
+SALIVARY DUCT CALCULI,Salivary Duct Calculi,D012465,0,295825,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathological Conditions, Anatomical|Calculi|Salivary Calculi|Salivary Duct Calculi|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Salivary Calculi|Salivary Duct Calculi|""]"
+SALIVARY GLAND CALCULI,Salivary Gland Calculi,D015494,0,296252,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathological Conditions, Anatomical|Calculi|Salivary Calculi|Salivary Gland Calculi|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Salivary Calculi|Salivary Gland Calculi|""]"
+SALIVARY GLAND FISTULA,Salivary Gland Fistula,D012467,0,295827,"[""|Diseases|Pathological Conditions, Signs and Symptoms|Pathological Conditions, Anatomical|Fistula|Oral Fistula|Salivary Gland Fistula|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Oral Fistula|Salivary Gland Fistula|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Salivary Gland Fistula|""]"
+SIALADENITIS,Sialadenitis,D012793,0,295669,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Sialadenitis|""]"
+PAROTITIS,Parotitis,D010309,0,293254,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Parotid Diseases|Parotitis|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Sialadenitis|Parotitis|""]"
 SIALOMETAPLASIA,Sialometaplasia,,0,0,null
 SIALORRHOEA,Sialhorrhoea,,0,0,null
-XEROSTOMIA,Xerostomia,D014987,0,119721,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Xerostomia|""]"
-SJOGREN'S SYNDROME,Sjogren's Syndrome,D012859,0,121463,"[""|Diseases|Eye Diseases|Lacrimal Apparatus Diseases|Dry Eye Syndromes|Sjogren's Syndrome|""]"
+XEROSTOMIA,Xerostomia,D014987,0,295829,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Xerostomia|""]"
+SJOGREN'S SYNDROME,Sjogren's Syndrome,D012859,0,295898,"[""|Diseases|Eye Diseases|Lacrimal Apparatus Diseases|Dry Eye Syndromes|Sjogren's Syndrome|"",""|Diseases|Musculoskeletal Diseases|Joint Diseases|Arthritis|Rheumatoid Arthritis|Sjogren's Syndrome|"",""|Diseases|Immune System Diseases|Autoimmune Diseases|Rheumatoid Arthritis|Sjogren's Syndrome|"",""|Diseases|Skin and Connective Tissue Diseases|Connective Tissue Diseases|Rheumatic Diseases|Rheumatoid Arthritis|Sjogren's Syndrome|"",""|Diseases|Musculoskeletal Diseases|Rheumatic Diseases|Rheumatoid Arthritis|Sjogren's Syndrome|"",""|Diseases|Stomatognathic Diseases|Mouth Diseases|Salivary Gland Diseases|Xerostomia|Sjogren's Syndrome|""]"
 SKULL BASE DISORDERS,Skull Base Disorders,,0,0,null
 GLOMUS TUMOUR,Glomus tumour,,0,0,null
 NECK DISORDERS,Neck Disorders,,0,0,null
 BRANCHIAL CYST,Branchial Cyst,D001935,0,0,null
-CERVICAL LYMPHADENOPATHY,Lymphatic Diseases,D008206,0,119373,"[""|Diseases|Hemic and Lymphatic Diseases|Lymphatic Diseases|""]"
+CERVICAL LYMPHADENOPATHY,Lymphatic Diseases,D008206,0,293575,"[""|Diseases|Hemic and Lymphatic Diseases|Lymphatic Diseases|""]"
 NECK ABSCESS,Neck,D009333,0,110891,"[""|Natural Science, Anatomy and Organisms|Anatomy|Body Regions|Neck|""]"
-NECK ABSCESS,Abscess,D000038,0,118825,"[""|Diseases|Bacterial Infections and Mycoses|Infection|Suppuration|Abscess|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Inflammation|Suppuration|Abscess|""]"
-THYROGLOSSAL CYST,Thyroglossal Cyst,D013955,0,121737,"[""|Diseases|Cancers|Cysts|Thyroglossal Cyst|""]"
+NECK ABSCESS,Abscess,D000038,0,293445,"[""|Diseases|Bacterial Infections and Mycoses|Infection|Suppuration|Abscess|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Inflammation|Suppuration|Abscess|""]"
+THYROGLOSSAL CYST,Thyroglossal Cyst,D013955,0,296018,"[""|Diseases|Cancers|Cysts|Thyroglossal Cyst|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathological Conditions, Anatomical|Cysts|Thyroglossal Cyst|""]"
 NEOPLASMS,Head and Neck Cancer,D006258,0,0,null
-THYROID & PARATHYROID DISORDERS,Thyroid Diseases,D013959,0,120779,"[""|Diseases|Endocrine System Diseases|Thyroid Diseases|""]"
-THYROID & PARATHYROID DISORDERS,Parathyroid Diseases,D010279,0,119153,"[""|Diseases|Endocrine System Diseases|Parathyroid Diseases|""]"
+THYROID & PARATHYROID DISORDERS,Thyroid Diseases,D013959,0,296534,"[""|Diseases|Endocrine System Diseases|Thyroid Diseases|"",""|Diseases|Endocrine System Diseases|Thyroid and Parathyroid Disease|Thyroid Diseases|""]"
+THYROID & PARATHYROID DISORDERS,Parathyroid Diseases,D010279,0,292970,"[""|Diseases|Endocrine System Diseases|Parathyroid Diseases|"",""|Diseases|Endocrine System Diseases|Thyroid and Parathyroid Disease|Parathyroid Diseases|""]"
 GOITRE,Goitre,,0,0,null
-HYPERPARATHYROIDISM,Hyperparathyroidism,D006961,0,119152,"[""|Diseases|Endocrine System Diseases|Parathyroid Diseases|Hyperparathyroidism|""]"
-HYPOPARATHYROIDISM,Hypoparathyroidism,D007011,0,120661,"[""|Diseases|Endocrine System Diseases|Parathyroid Diseases|Hypoparathyroidism|""]"
-HYPERTHYROIDISM,Hyperthyroidism,D006980,0,118941,"[""|Diseases|Endocrine System Diseases|Thyroid Diseases|Hyperthyroidism|""]"
+HYPERPARATHYROIDISM,Hyperparathyroidism,D006961,0,292969,"[""|Diseases|Endocrine System Diseases|Parathyroid Diseases|Hyperparathyroidism|"",""|Diseases|Endocrine System Diseases|Thyroid and Parathyroid Disease|Parathyroid Diseases|Hyperparathyroidism|""]"
+HYPOPARATHYROIDISM,Hypoparathyroidism,D007011,0,295111,"[""|Diseases|Endocrine System Diseases|Parathyroid Diseases|Hypoparathyroidism|"",""|Diseases|Endocrine System Diseases|Thyroid and Parathyroid Disease|Parathyroid Diseases|Hypoparathyroidism|""]"
+HYPERTHYROIDISM,Hyperthyroidism,D006980,0,294585,"[""|Diseases|Endocrine System Diseases|Thyroid Diseases|Hyperthyroidism|"",""|Diseases|Endocrine System Diseases|Thyroid and Parathyroid Disease|Thyroid Diseases|Hyperthyroidism|""]"
 GRAVES' DISEASE,Graves' Disease,D006111,0,0,null
-THYROTOXICOSIS,Thyrotoxicosis,D013971,0,119845,"[""|Diseases|Endocrine System Diseases|Thyroid Diseases|Hyperthyroidism|Thyrotoxicosis|"",""|Diseases|Endocrine System Diseases|Thyroid Diseases|Thyrotoxicosis|""]"
-HYPOTHYROIDISM,Hypothyroidism,D007037,0,120597,"[""|Diseases|Endocrine System Diseases|Thyroid Diseases|Hypothyroidism|""]"
+THYROTOXICOSIS,Thyrotoxicosis,D013971,0,296020,"[""|Diseases|Endocrine System Diseases|Thyroid Diseases|Hyperthyroidism|Thyrotoxicosis|"",""|Diseases|Endocrine System Diseases|Thyroid and Parathyroid Disease|Thyroid Diseases|Hyperthyroidism|Thyrotoxicosis|"",""|Diseases|Endocrine System Diseases|Thyroid Diseases|Thyrotoxicosis|"",""|Diseases|Endocrine System Diseases|Thyroid and Parathyroid Disease|Thyroid Diseases|Thyrotoxicosis|""]"
+HYPOTHYROIDISM,Hypothyroidism,D007037,0,294530,"[""|Diseases|Endocrine System Diseases|Thyroid Diseases|Hypothyroidism|"",""|Diseases|Endocrine System Diseases|Thyroid and Parathyroid Disease|Thyroid Diseases|Hypothyroidism|""]"
 "THYROID & PARATHYROID DISORDERS, NEOPLASMS",Thyroid Cancer,D013964,0,0,null
 "THYROID & PARATHYROID DISORDERS, NEOPLASMS, BENIGN",Thyroid Cancer,D013964,0,0,null
 "THYROID & PARATHYROID DISORDERS, NEOPLASMS, MALIGNANT",Thyroid Cancer,D013964,0,0,null
-THYROID NODULE,Thyroid Nodule,D016606,0,121935,"[""|Diseases|Cancers|Cancers by Site|Endocrine Gland Cancers|Thyroid Cancers|Thyroid Nodule|"",""|Diseases|Cancers|Cancers by Site|Head and Neck Cancers|Thyroid Cancers|Thyroid Nodule|""]"
-THYROIDITIS,Thyroiditis,D013966,0,119846,"[""|Diseases|Endocrine System Diseases|Thyroid Diseases|Thyroiditis|""]"
-FACIAL NERVE DISORDERS,Facial Nerve Diseases,D005155,0,120643,"[""|Diseases|Nervous System Diseases|Cranial Nerve Diseases|Facial Nerve Diseases|""]"
+THYROID NODULE,Thyroid Nodule,D016606,0,296635,"[""|Diseases|Cancers|Cancers by Site|Endocrine Gland Cancers|Thyroid Cancers|Thyroid Nodule|"",""|Diseases|Endocrine System Diseases|Endocrine Gland Cancers|Thyroid Cancers|Thyroid Nodule|"",""|Diseases|Cancers|Cancers by Site|Head and Neck Cancers|Thyroid Cancers|Thyroid Nodule|"",""|Diseases|Endocrine System Diseases|Thyroid Diseases|Thyroid Cancers|Thyroid Nodule|"",""|Diseases|Endocrine System Diseases|Thyroid and Parathyroid Disease|Thyroid Diseases|Thyroid Cancers|Thyroid Nodule|""]"
+THYROIDITIS,Thyroiditis,D013966,0,295667,"[""|Diseases|Endocrine System Diseases|Thyroid Diseases|Thyroiditis|"",""|Diseases|Endocrine System Diseases|Thyroid and Parathyroid Disease|Thyroid Diseases|Thyroiditis|""]"
+FACIAL NERVE DISORDERS,Facial Nerve Diseases,D005155,0,295263,"[""|Diseases|Nervous System Diseases|Cranial Nerve Diseases|Facial Nerve Diseases|""]"
 BELL'S PALSY,Bell's Palsy,D020330,0,0,null
 HEAD & NECK CANCER,Head and Neck Cancer,D006258,0,0,null
 THERAPEUTIC INTERVENTIONS,Therapeutics,D013812,0,113253,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Therapeutics|""]"
@@ -183,9 +183,9 @@ AMPLIFICATION,Amplification,,0,0,null
 HEARING AIDS,Hearing Aids,D006310,0,113735,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Sensory Aids|Hearing Aids|""]"
 IMPLANTABLE DEVICES,Auditory Brain Stem Implants,D038262,0,115339,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Electrodes|Electrodes, Implanted|Auditory Brain Stem Implants|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Sensory Aids|Hearing Aids|Auditory Brain Stem Implants|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Prostheses and Implants|Auditory Brain Stem Implants|""]"
 IMPLANTABLE DEVICES,Cochlear Implants,D003054,0,113733,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Electrodes|Electrodes, Implanted|Cochlear Implants|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Sensory Aids|Hearing Aids|Cochlear Implants|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Equipment and Supplies|Prostheses and Implants|Cochlear Implants|""]"
-ASSESSMENT AND TESTING,Hearing Tests,D006320,0,113299,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Otological|Hearing Tests|""]"
+ASSESSMENT AND TESTING,Hearing Tests,D006320,0,113299,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Otological|Hearing Tests|"",""|Public Health Methods, Theory And Research|Method|Diagnosis|Diagnostic Techniques and Procedures|Diagnostic Techniques, Otological|Hearing Tests|""]"
 EDUCATIONAL AUDIOLOGY,Educational Audiology,D004496,0,0,null
-NEONATAL SCREENING,Neonatal Screening,D015997,0,115086,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Laboratory Techniques and Procedures|Neonatal Screening|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Mass Screening|Neonatal Screening|""]"
+NEONATAL SCREENING,Neonatal Screening,D015997,0,115086,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Laboratory Techniques and Procedures|Neonatal Screening|"",""|Public Health Methods, Theory And Research|Method|Diagnosis|Laboratory Techniques and Procedures|Neonatal Screening|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Diagnostic Techniques and Procedures|Mass Screening|Neonatal Screening|"",""|Public Health Methods, Theory And Research|Method|Diagnosis|Diagnostic Techniques and Procedures|Mass Screening|Neonatal Screening|""]"
 SPEECH AND LANGUAGE THERAPY,Speech and Language Therapy,,0,0,null
 HEARING THERAPY,Hearing therapy,,0,0,null
 SERVICE DELIVERY,Delivery of Health Care,D003695,0,112273,"[""|Health Care|Health Care Quality, Access, and Evaluation|Delivery of Health Care|"",""|Health Care|Health Services Administration|Patient Care Management|Delivery of Health Care|""]"

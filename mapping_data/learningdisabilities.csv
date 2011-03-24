@@ -27,9 +27,9 @@ Coronary Heart Disease,Coronary Disease,D003327,0,0,null
 Coronary Heart Disease,Learning disabilities,,0,0,null
 Epilepsy,Epilepsy,D004827,0,0,null
 Epilepsy,Learning disabilities,,0,0,null
-Respiratory illness,Asthma,D001249,0,118403,"[""|Diseases|Respiratory Tract Diseases|Bronchial Diseases|Asthma|"",""|Diseases|Respiratory Tract Diseases|Lung Diseases|Lung Diseases, Obstructive|Asthma|"",""|Diseases|Respiratory Tract Diseases|Respiratory Hypersensitivity|Asthma|""]"
+Respiratory illness,Asthma,D001249,0,293983,"[""|Diseases|Respiratory Tract Diseases|Bronchial Diseases|Asthma|"",""|Diseases|Respiratory Tract Diseases|Lung Diseases|Lung Diseases, Obstructive|Asthma|"",""|Diseases|Immune System Diseases|Allergies|Hypersensitivity, Immediate|Respiratory Hypersensitivity|Asthma|"",""|Diseases|Respiratory Tract Diseases|Respiratory Hypersensitivity|Asthma|""]"
 Respiratory illness,Learning disabilities,,0,0,null
-Sensory impairment,Sensation Disorders,D012678,0,120167,"[""|Diseases|Nervous System Diseases|Neurologic Manifestations|Sensation Disorders|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Sensation Disorders|""]"
+Sensory impairment,Sensation Disorders,D012678,0,293849,"[""|Diseases|Nervous System Diseases|Neurologic Manifestations|Sensation Disorders|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Signs and Symptoms|Neurologic Manifestations|Sensation Disorders|""]"
 Sensory impairment,Learning disabilities,,0,0,null
 Healthy Lifestyles,Health promotion,D006293,0,0,null
 Healthy Lifestyles,Learning disabilities,,0,0,null
@@ -54,7 +54,7 @@ Depression,Depression ,D003863,0,107127,"[""|Psychiatry and Pscychology|Mental D
 Depression,Learning disabilities,,0,0,null
 Schizophrenia,Schizophrenia,D012559,0,107091,"[""|Psychiatry and Pscychology|Mental Disorders|Schizophrenia and Disorders with Psychotic Features|Schizophrenia|""]"
 Schizophrenia,Learning disabilities,,0,0,null
-Dementia,Dementia,D003704,0,0,null
+Dementia,Dementia,D003704,0,293735,"[""|Diseases|Nervous System Diseases|Central Nervous System Diseases|Brain Diseases|Dementia|""]"
 Dementia,Learning disabilities,,0,0,null
 ADHD,Attention Deficit Disorder with Hyperactivity,D001289,0,0,null
 ADHD,Learning disabilities,,0,0,null

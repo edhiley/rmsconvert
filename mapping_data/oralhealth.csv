@@ -1,4 +1,4 @@
-ORAL HEALTH,Oral Health,D009909,0,110132,"[""|Health, Public Health, Health Promotion|Health|Oral Health|""]"
+ORAL HEALTH,Oral Health,D009909,0,358915,"[""|Health, Public Health, Health Promotion|Health|Oral And Dental Health|Oral Health|""]"
 ORAL DISORDERS,Oral disorders,,0,0,null
 DENTAL ANXIETY,Dental anxiety,D016854,0,0,null
 DENTAL CARIES,Dental caries,D003731,0,0,null
@@ -6,11 +6,11 @@ CAUSES & PREVENTION,Dental caries,D003731,0,0,null
 DIAGNOSIS,Dental caries,D003731,0,0,null
 TREATMENT & MANAGEMENT,Dental caries,D003731,0,0,null
 DENTO-FACIAL ANOMALIES,Dento-facial Anomalies,,0,0,null
-OSTEONECROSIS OF THE JAW,Osteonecrosis,D010020,0,120818,"[""|Diseases|Musculoskeletal Diseases|Bone Diseases|Osteonecrosis|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Necrosis|Osteonecrosis|""]"
+OSTEONECROSIS OF THE JAW,Osteonecrosis,D010020,0,293734,"[""|Diseases|Musculoskeletal Diseases|Bone Diseases|Osteonecrosis|"",""|Diseases|Pathological Conditions, Signs and Symptoms|Pathologic Processes|Necrosis|Osteonecrosis|""]"
 OSTEONECROSIS OF THE JAW,Jaw,D007568,0,110199,"[""|Natural Science, Anatomy and Organisms|Anatomy|Tissues|Connective Tissue|Bone and Bones|Skull|Facial Bones|Jaw|"",""|Natural Science, Anatomy and Organisms|Anatomy|Musculoskeletal System|Skeleton|Bone and Bones|Skull|Facial Bones|Jaw|"",""|Natural Science, Anatomy and Organisms|Anatomy|Stomatognathic System|Jaw|""]"
 DENTAL INJURIES,Mandibular injuries,D008338,0,0,null
-DENTAL INJURIES,Maxillofacial Injuries,D008446,0,0,null
-DENTAL INJURIES,Tooth Injuries            ,D018677,0,119860,"[""|Diseases|Stomatognathic Diseases|Tooth Diseases|Tooth Injuries|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Tooth Injuries|""]"
+DENTAL INJURIES,Maxillofacial Injuries,D008446,0,293026,"[""|Diseases|Nervous System Diseases|Trauma, Nervous System|Craniocerebral Trauma|Facial Injuries|Maxillofacial Injuries|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Trauma, Nervous System|Craniocerebral Trauma|Facial Injuries|Maxillofacial Injuries|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Craniocerebral Trauma|Facial Injuries|Maxillofacial Injuries|""]"
+DENTAL INJURIES,Tooth Injuries            ,D018677,0,296045,"[""|Diseases|Stomatognathic Diseases|Tooth Diseases|Tooth Injuries|"",""|Diseases|Disorders of Environmental Origin|Wounds and Injuries|Tooth Injuries|""]"
 IMPACTED THIRD MOLARS,Impacted Third Molars,,0,0,null
 PROPHYLACTIC REMOVAL,Prophylactic removal,,0,0,null
 LINGUAL NERVE PROTECTION,Lingual nerve,D008036,0,0,null
@@ -38,7 +38,7 @@ SCREENING,Oral cavity cancer,,0,0,null
 NUTRITION,Nutrition,,0,108250,"[""|Determinants Of Health|Diet And Nutrition|Nutrition|""]"
 NUTRITION,Oral cavity cancer,,0,0,null
 "ORAL CANCER, DIAGNOSIS & REFERRAL",Oral cavity cancer,D009062,0,0,null
-"ORAL CANCER, DIAGNOSIS & REFERRAL",Diagnosis,D003933,0,107878,"[""|Public Health Methods, Theory And Research|Method|Diagnosis|""]"
+"ORAL CANCER, DIAGNOSIS & REFERRAL",Diagnosis,D003933,0,113944,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|"",""|Public Health Methods, Theory And Research|Method|Diagnosis|""]"
 "ORAL CANCER, TREATMENT & MANAGEMENT",Disease Management,D019468,0,112818,"[""|Health Care|Health Services Administration|Patient Care Management|Disease Management|""]"
 "ORAL CANCER, TREATMENT & MANAGEMENT",Oral cavity cancer,,0,0,null
 CHEMOTHERAPY,Chemotherapy,D004358,0,109673,"[""|Health Services And Their Management|Healthcare And Health Services|Medical Treatment|Chemotherapy|""]"
@@ -51,7 +51,7 @@ ADJUNCTIVE THERAPY,Oral cavity cancer,,0,0,null
 SURGERY,"Surgery, Oral",D013515,0,114453,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Surgery, Oral|"",""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Specialties, Dental|Surgery, Oral|""]"
 SURGERY,Oral cavity cancer,,0,0,null
 ORAL CARE FOR CANCER PATIENTS,Dental Care for Chronically Ill,D017742,0,113878,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Dentistry|Dental Care|Dental Care for Chronically Ill|""]"
-PROGNOSIS,Prognosis,D011379,0,114532,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Prognosis|""]"
+PROGNOSIS,Prognosis,D011379,0,114532,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|Prognosis|"",""|Public Health Methods, Theory And Research|Method|Diagnosis|Prognosis|""]"
 PROGNOSIS,Oral cavity cancer,,0,0,null
 ORO-FACIAL PAIN,Facial pain,D005157,0,0,null
 ORAL CYSTS,Odontogenic cysts,D009807,0,0,null
@@ -59,9 +59,9 @@ ORAL INFECTIONS,Oral disorders,,0,0,null
 PERIODONTAL DISEASE,Periodontal Disease,D010510,0,0,null
 "PERIODONTAL DISEASE, PREVENTION",Primary Prevention,D011322,0,112554,"[""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Community Health Services|Preventive Health Services|Primary Prevention|"",""|Health Care|Health Care Facilities, Manpower, and Services|Health Services|Preventive Health Services|Primary Prevention|"",""|Health Care|Population Characteristics|Health|Public Health|Public Health Practice|Primary Prevention|""]"
 "PERIODONTAL DISEASE, PREVENTION",Periodontal Disease,D010510,0,0,null
-"PERIODONTAL DISEASE, DIAGNOSIS",Periodontal Diseases,D010510,0,119239,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Periodontal Diseases|""]"
-"PERIODONTAL DISEASE, DIAGNOSIS",Diagnosis,D003933,0,107878,"[""|Public Health Methods, Theory And Research|Method|Diagnosis|""]"
-"PERIODONTAL DISEASE, TREATMENT & MANAGEMENT",Periodontal Diseases,D010510,0,119239,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Periodontal Diseases|""]"
+"PERIODONTAL DISEASE, DIAGNOSIS",Periodontal Diseases,D010510,0,295411,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Periodontal Diseases|""]"
+"PERIODONTAL DISEASE, DIAGNOSIS",Diagnosis,D003933,0,113944,"[""|Analytical, Diagnostic and Therapeutic Techniques and Equipment|Diagnosis|"",""|Public Health Methods, Theory And Research|Method|Diagnosis|""]"
+"PERIODONTAL DISEASE, TREATMENT & MANAGEMENT",Periodontal Diseases,D010510,0,295411,"[""|Diseases|Stomatognathic Diseases|Mouth Diseases|Periodontal Diseases|""]"
 "PERIODONTAL DISEASE, TREATMENT & MANAGEMENT",Disease Management,D019468,0,112818,"[""|Health Care|Health Services Administration|Patient Care Management|Disease Management|""]"
 SPECIALIST DENTISTRY,Specialist Dentistry,,0,0,null
 AESTHETICS,"Aesthetics, Dental",D004955,0,0,null

@@ -73,25 +73,25 @@ People with mental health problems,Mentally disabled persons,D019989,0,0,null
 Young people,Adolescent,D000293,0,0,null
 People with substance misuse problems,Drug users,D055030,0,0,null
 People with learning disabilities,Learning disabilities,,0,0,null
-Blood disorders,Hematologic Diseases,D006402,0,120122,"[""|Diseases|Hemic and Lymphatic Diseases|Hematologic Diseases|""]"
+Blood disorders,Hematologic Diseases,D006402,0,293790,"[""|Diseases|Hemic and Lymphatic Diseases|Hematologic Diseases|""]"
 Cancers and Tumours,Cancer,D009369,0,0,null
 Circulation problems,Blood circulation,D001775,0,0,null
 Dental problems,Tooth diseases,D014076,0,0,null
-"Endocrine, Nutritional and Metabolic problems",Endocrine System Diseases,D004700,0,118853,"[""|Diseases|Endocrine System Diseases|""]"
+"Endocrine, Nutritional and Metabolic problems",Endocrine System Diseases,D004700,0,293741,"[""|Diseases|Endocrine System Diseases|""]"
 Eye and Vision problems,Eye diseases,D005128,0,0,null
 Gastro intestinal system problems,Gastrointestinal diseases,D005767,0,0,null
-Genito urinary system disorders,Female Urogenital Diseases,D052776 ,0,119215,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|""]"
-Genito urinary system disorders,Male Urogenital Diseases ,D052801,0,119216,"[""|Diseases|Male Urogenital Diseases|""]"
+Genito urinary system disorders,Female Urogenital Diseases,D052776 ,0,295397,"[""|Diseases|Female Urogenital Diseases and Pregnancy Complications|Female Urogenital Diseases|""]"
+Genito urinary system disorders,Male Urogenital Diseases ,D052801,0,295398,"[""|Diseases|Male Urogenital Diseases|""]"
 Healthy individuals,Healthy individuals,,0,0,null
 Hearing problems,Ear diseases,D004427,0,0,null
 Infectious diseases,Communicable diseases,D003141,0,0,null
 Learning disability problems,Learning disabilities,,0,0,null
 Maternity and Reproductive health,Reproductive medicine,D018456,0,0,null
 Mental health problems,Mental disorders,D001523,0,0,null
-Musculo skeletal system problems,Musculoskeletal Diseases,D009140,0,120364,"[""|Diseases|Musculoskeletal Diseases|""]"
-Neonates,Neonate,D007231,0,107649,"[""|People And Populations|Group|Age Group|Neonate|""]"
+Musculo skeletal system problems,Musculoskeletal Diseases,D009140,0,294140,"[""|Diseases|Musculoskeletal Diseases|""]"
+Neonates,Neonate,D007231,0,0,null
 Neurological system problems,Nervous system diseases,D009422,0,0,null
-Poisoning,Poisoning,D011041,0,120223,"[""|Diseases|Disorders of Environmental Origin|Poisoning|""]"
+Poisoning,Poisoning,D011041,0,293744,"[""|Diseases|Disorders of Environmental Origin|Poisoning|""]"
 Respiratory problems,Respiratory tract diseases,D012140,0,0,null
 Skin problems,skin diseases,D012871,0,0,null
 Social care needs,Social care needs,,0,0,null

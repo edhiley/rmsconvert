@@ -62,7 +62,7 @@ task :find_ontology_ids => [:generate_csv_paths] do
 
         if @known_paths[term].nil?
           url = "http://80.71.2.12/ses?TBDB=disp_taxonomy&TEMPLATE=service.json&SERVICE=term&TERM=#{URI.escape(term)}"
-          puts "retrieving #{url} ..."
+          # puts "retrieving #{url} ..."
 
           begin
             f = open(url)
@@ -79,10 +79,10 @@ task :find_ontology_ids => [:generate_csv_paths] do
               :ontology_id => 0
             }
             
-            puts "no term mapping found for #{URI.escape(term)}"
+            STDOUT.puts "no term mapping found for #{URI.escape(term)}"
           else
             # changed from raise error (raise with Kenny)
-            puts "More than one term returned for #{term}, there should only be one" if data["terms"].count > 1
+            STDOUT.puts "More than one term returned for #{term}, there should only be one" if data["terms"].count > 1
           
             @known_paths[term] = process_term(data)  
           end
